@@ -1,0 +1,1 @@
+{"missionId": "352", "missionName": "Пожар на стадионе (Средний)", "requirements": [{"requirement": "пожарные машины", "qty": "8"}, {"requirement": "машины командира батальона", "qty": "2"}, {"requirement": "цистерны с водой", "qty": "3"}, {"requirement": "полицейские автомобили", "qty": "3"}, {"requirement": "макс. пациенты", "qty": "10"}], "credits": "7500"}
