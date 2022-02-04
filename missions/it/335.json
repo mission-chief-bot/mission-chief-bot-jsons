@@ -1,0 +1,1 @@
+{"missionId": "335", "missionName": "Decorazioni di san valentino in fiamme nel ristorante", "requirements": [{"requirement": "aps/abp", "qty": "5"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "max pazienti", "qty": "8"}], "credits": "2000"}
