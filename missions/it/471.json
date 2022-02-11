@@ -1,0 +1,1 @@
+{"missionId": "471", "missionName": "Annuncio delle nuove funzionalità del 112", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}], "credits": "4500"}
