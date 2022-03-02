@@ -55,6 +55,7 @@
  "fire boat docks": [24], 
  "fire investigation unit": [62, 63],
  "fire investigation units": [62, 63],
+ "fire investigator unit" : [62,63],
  "fire prevention unit": [63],
  "fire prevention units": [63],
  "firetruck": [0, 1, 33, 13, 18, 30],
