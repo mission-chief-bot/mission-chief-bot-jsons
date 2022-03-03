@@ -33,5 +33,14 @@
 	"v\u00e9hicule de secours routier" : [4, 12],
 	"véhicules de secours routier": [4, 12],
 	"vlhr": [24],
+	"vr": [39],
+	"vct": [40],
+	"ram": [41],
+	"vtp": [42],
+	"ele": [43],
+	"barres-ponts": [44],
+	"barre-pont": [44],
+	"rebp": [44],
+	"vat": [45],
 	"véhicule tout usage": [13]
 } 
