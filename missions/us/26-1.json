@@ -1,1 +1,1 @@
-{"missionId": "26-1", "missionName": "Garage fire", "requirements": [{"requirement": "firetrucks", "qty": "2"}], "credits": "1900"}
+{"missionId": "26-1", "missionName": "Garage fire", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "fire investigation unit", "qty": "1"}], "credits": "1900"}
