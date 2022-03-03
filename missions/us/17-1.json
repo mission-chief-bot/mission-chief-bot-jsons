@@ -1,1 +1,1 @@
-{"missionId": "17-1", "missionName": "Mailbox on fire", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "840"}
+{"missionId": "17-1", "missionName": "Mailbox on fire", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "fire investigation unit", "qty": "1"}], "credits": "840"}
