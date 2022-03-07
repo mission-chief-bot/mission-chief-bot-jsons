@@ -1,0 +1,1 @@
+{"missionId": "484", "missionName": "Canale fognario in piena", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "pattuglie", "qty": "2"}], "credits": "2000"}
