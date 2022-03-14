@@ -54,7 +54,8 @@
 		"Nødvendige",
 		"Nødvendig",
 		"Maks pasienter",
-		"maks pasienter"
+		"maks pasienter",
+		"nécessaire"
 	],
 	"exclude": [
 		"Station",
@@ -158,7 +159,6 @@
 		"Generert",
 		"Sannsynlighet",
 		"Vann",
-		"nécessaire",
 		"for skum",
 		"ambulansestasjoner",
 		"politistasjoner",
@@ -170,6 +170,7 @@
 		"\t",
 		"Required",
 		"requis",
+		"nécessaire",
 		"Wymagane",
 		"Wymagany",
 		"Требуемые",
