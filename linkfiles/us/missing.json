@@ -49,7 +49,7 @@
  "fbi mobile command centers": [44],
  "fbi surveillance drone": [46],
  "fbi surveillance drones": [46],
- "fbi investigation wagon or surveillance drone": [43],
+ "fbi investigation wagon or surveillance drone": [43, 46],
  "fbi unit": [42],
  "fbi units": [42],
  "fire boat dock": [24],

@@ -41,5 +41,13 @@
 	"tog personnel": [15,18],
 	"brush trucks": [19,28,29,30],
 	"brush truck": [19,28,29,30],
-	"airborne firefighting vehicles": [31,32,33]
+	"airborne firefighting vehicles": [31,32,33],
+	"riot police group vehicles": [35],
+	"riot police suvs": [34],
+	"riot police equipment vehicles": [36],
+	"senior sergeants": [37],
+	"riot police group vehicle": [35],
+	"riot police suv": [34],
+	"riot police equipment vehicle": [36],
+	"senior sergeant": [37]
 }
