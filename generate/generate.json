@@ -163,7 +163,8 @@
 		"ambulansestasjoner",
 		"politistasjoner",
 		"for vannredningsbygning",
-		"požadované výjezdové stanoviště zzs"
+		"požadované výjezdové stanoviště zzs",
+		"extensions"
 	],
 	"replace": [
 		"\n",
