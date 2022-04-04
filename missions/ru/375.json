@@ -1,0 +1,1 @@
+{"missionId": "375", "missionName": "Пожар в жилом доме", "requirements": [{"requirement": "пожарные машины", "qty": "6"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "платформы", "qty": "3"}, {"requirement": "полицейские автомобили", "qty": "4"}, {"requirement": "макс. пациенты", "qty": "25"}], "credits": "5000"}
