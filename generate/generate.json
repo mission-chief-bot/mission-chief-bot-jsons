@@ -164,7 +164,9 @@
 		"politistasjoner",
 		"for vannredningsbygning",
 		"požadované výjezdové stanoviště zzs",
-		"extensions"
+		"extensions",
+		"extensões",
+		"postos"
 	],
 	"replace": [
 		"\n",
