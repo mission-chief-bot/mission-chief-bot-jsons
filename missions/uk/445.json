@@ -1,1 +1,1 @@
-{"missionId": "445", "missionName": "Bar Fight", "requirements": [{"requirement": "personnel available", "qty": "5x Police Sergeant"}, {"requirement": "police cars", "qty": "6"}, {"requirement": "personnel", "qty": "1x Police Sergeant"}, {"requirement": "max. patients", "qty": "8"}], "credits": "3250"}
+{"missionId": "445", "missionName": "Bar Fight", "requirements": [{"requirement": "police cars", "qty": "6"}, {"requirement": "max. patients", "qty": "8"}], "credits": "3250"}
