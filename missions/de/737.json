@@ -1,1 +1,1 @@
-{"missionId": "737", "missionName": "Ostereiersuche im Wasser", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "s personal mit ausbildung", "qty": "4x GW-Wasserrettung"}], "credits": "1670"}
+{"missionId": "737", "missionName": "Ostereiersuche im Wasser", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "boote", "qty": "2"}], "credits": "1670"}
