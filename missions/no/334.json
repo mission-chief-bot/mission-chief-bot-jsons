@@ -1,1 +1,1 @@
-{"missionId": "334", "missionName": "502 Bad Gateway", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{"missionId": "334", "missionName": "Forurenset isbil", "requirements": [{"requirement": "ambulance", "qty": 1}, {"requirement": "politibiler", "qty": 1}], "credits": "100"}
