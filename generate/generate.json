@@ -59,6 +59,7 @@
 	],
 	"exclude": [
 		"Station",
+		"Offices",
 		"výjezdové stanoviště",
 		"oddělení",
 		"stanice",
