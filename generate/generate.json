@@ -60,6 +60,7 @@
 	"exclude": [
 		"Station",
 		"Offices",
+		"Arrestantenvervoer",
 		"výjezdové stanoviště",
 		"oddělení",
 		"stanice",
