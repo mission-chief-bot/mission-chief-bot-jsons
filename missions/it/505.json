@@ -1,1 +1,1 @@
-{"missionId": "505", "missionName": "Surriscaldamento Freni Tir", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "schiuma", "qty": "100"}], "credits": "1000"}
+{"missionId": "505", "missionName": "Surriscaldamento Freni Tir", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}], "credits": "1000"}
