@@ -56,7 +56,9 @@
 		"Maks pasienter",
 		"maks pasienter",
 		"nécessaire",
-		"Необхідні"
+		"Необхідні",
+		"Vaaditut",
+		"Vaadittavat"
 
 	],
 	"exclude": [
@@ -171,7 +173,12 @@
 		"extensions",
 		"extensões",
 		"postos",
-		"станції"
+		"станції",
+		"resurssit",
+		"poliisiasemat",
+		"ambulanssiasemat",
+		"huoltolaajennukset",
+		"paloasemat"
 	],
 	"replace": [
 		"\n",
@@ -204,6 +211,8 @@
 		"påkrevd",
 		"Behov",
 		"Nødvendige",
-		"Необхідні"
+		"Необхідні",
+		"Vaaditut",
+		"Vaadittavat"
 	]
 }
