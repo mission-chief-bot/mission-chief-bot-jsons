@@ -55,7 +55,9 @@
 		"Nødvendig",
 		"Maks pasienter",
 		"maks pasienter",
-		"nécessaire"
+		"nécessaire",
+		"Необхідні"
+
 	],
 	"exclude": [
 		"Station",
@@ -168,7 +170,8 @@
 		"požadované výjezdové stanoviště zzs",
 		"extensions",
 		"extensões",
-		"postos"
+		"postos",
+		"станції"
 	],
 	"replace": [
 		"\n",
@@ -200,6 +203,7 @@
 		"が必要",
 		"påkrevd",
 		"Behov",
-		"Nødvendige"
+		"Nødvendige",
+		"Необхідні"
 	]
 }
