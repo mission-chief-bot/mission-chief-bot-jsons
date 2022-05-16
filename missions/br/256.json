@@ -1,0 +1,1 @@
+{"missionId": "256", "missionName": "Limpeza de solo contaminado", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}, {"requirement": "viaturas de produtos perigosos necessárias", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "1"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "25"}], "credits": "1500"}
