@@ -1,0 +1,1 @@
+{"missionId": "454", "missionName": "Vehicle driving towards traffic (fast road)", "requirements": [{"requirement": "police cars", "qty": "6"}, {"requirement": "traffic cars", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1300"}
