@@ -1,0 +1,1 @@
+{"missionId": "255", "missionName": "Ferimentos graves causados pelo vidro", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "1"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "25"}], "credits": "100"}

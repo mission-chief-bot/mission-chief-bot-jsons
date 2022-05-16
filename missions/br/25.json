@@ -1,0 +1,1 @@
+{"missionId": "25", "missionName": "Acidente em estrada", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "1"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "10"}], "credits": "1000"}
