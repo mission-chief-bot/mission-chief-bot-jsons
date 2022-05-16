@@ -58,7 +58,9 @@
 		"nécessaire",
 		"Необхідні",
 		"Vaaditut",
-		"Vaadittavat"
+		"Vaadittavat",
+		"Se necesitan",
+		"N.º máximo de presos"
 
 	],
 	"exclude": [
@@ -213,6 +215,8 @@
 		"Nødvendige",
 		"Необхідні",
 		"Vaaditut",
-		"Vaadittavat"
+		"Vaadittavat",
+		"Se necesitan",
+		"N.º máximo de presos"
 	]
 }
