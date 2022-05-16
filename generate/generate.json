@@ -181,7 +181,8 @@
 		"poliisiasemat",
 		"ambulanssiasemat",
 		"huoltolaajennukset",
-		"paloasemat"
+		"paloasemat",
+		"extensions"
 	],
 	"replace": [
 		"\n",
