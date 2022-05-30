@@ -1,1 +1,1 @@
-{"missionId": "557", "missionName": "Planowane zgromadzenie (małe)", "requirements": [{"requirement": "oddziały prewencji policji", "qty": "1"}, {"requirement": "posiadany personel", "qty": "12x Szkolenie Personalne OPP"}, {"requirement": "personel", "qty": "6x Szkolenie Personalne OPP"}], "credits": "3500"}
+{"missionId": "557", "missionName": "Planowane zgromadzenie (małe)", "requirements": [{"requirement": "radiowozy", "qty": "3"}], "credits": "3500"}
