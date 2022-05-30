@@ -1,1 +1,1 @@
-{"missionId": "558", "missionName": "Planowane zgromadzenie (średnie)", "requirements": [{"requirement": "oddziały prewencji policji", "qty": "1"}, {"requirement": "posiadany personel", "qty": "28x Szkolenie Personalne OPP"}, {"requirement": "jednostki k-9", "qty": "1"}, {"requirement": "personel", "qty": "14x Szkolenie Personalne OPP"}], "credits": "6500"}
+{"missionId": "558", "missionName": "Planowane zgromadzenie (średnie)", "requirements": [ {"requirement": "radiowozy", "qty": "5"}, {"requirement": "jednostki k-9", "qty": "1"}], "credits": "6500"}
