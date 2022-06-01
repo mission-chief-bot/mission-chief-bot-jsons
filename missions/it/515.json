@@ -1,1 +1,1 @@
-{"missionId": "515", "missionName": "Operazione Anti Bracconaggio", "requirements": [{"requirement": "pattuglie", "qty": "4"}], "credits": "800"}
+{"missionId": "515", "missionName": "Operazione Anti Bracconaggio", "requirements": [{"requirement": "pattuglie", "qty": "4"}, {"requirement": "pattuglia forestale", "qty": "4"}, {"requirement": "unità cinofila antidroga", "qty": "1"}, {"requirement": "suv uopi", "qty": "1"}, {"requirement": "elicottero della polizia", "qty": "1"}], "credits": "800"}
