@@ -14,8 +14,8 @@
 "breathing apparatus support units": [14, 39, 46, 49],
 "basu": [14, 39, 46, 49],
 "basus": [14, 39, 46, 49],
-"critical care": [10, 19, 21],
-"critical cares": [10, 19, 21],
+"critical care": [9, 10, 19, 21],
+"critical cares": [9, 10, 19, 21],
 "dog support unit": [12, 53],
 "dog support unit (dsu)": [12, 53],
 "dog support units (dsus)": [12, 53],
@@ -69,5 +69,12 @@
 "welfare vehicle": [29, 39, 45, 49],
 "Welfare Vehicle": [29, 39, 45, 49],
 "Welfare Vehicles": [29, 39, 45, 49],
-"welfare vehicles": [29, 39, 45, 49]
+"welfare vehicles": [29, 39, 45, 49],
+"police sergeant" : [54],
+"dog support units (dsus) educated personnel" : [12, 53],
+"police cars educated personnel" : [8, 11, 12, 13, 51, 52, 54, 56],
+"level 2 public order officer" : [51],
+"level 1 public order officer" : [51],
+"police medic" : [11],
+"police inspector" : [54]
 }
