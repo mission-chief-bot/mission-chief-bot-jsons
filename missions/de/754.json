@@ -1,1 +1,1 @@
-{"missionId": "754", "missionName": "Wespenangriff", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "4"}], "credits": "100"}
+{"missionId": "754", "missionName": "Wespenangriff", "requirements": [{"requirement": "rtw", "qty": "4"}, {"requirement": "nef", "qty": "3"}], "credits": "100"}
