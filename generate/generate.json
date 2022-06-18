@@ -61,8 +61,10 @@
 		"Vaadittavat",
 		"Potilaita enint.",
 		"Se necesitan",
-		"N.º máximo de presos"
-
+		"N.º máximo de presos",
+		"Необхідні",
+		"Потрібен",
+		"Макс. Пацієнти"
 	],
 	"exclude": [
 		"Station",
@@ -182,7 +184,8 @@
 		"ambulanssiasemat",
 		"huoltolaajennukset",
 		"paloasemat",
-		"extensions"
+		"extensions",
+		"станції"
 	],
 	"replace": [
 		"\n",
@@ -218,6 +221,8 @@
 		"Необхідні",
 		"Vaaditut",
 		"Vaadittavat",
-		"Se necesitan"
+		"Se necesitan",
+		"Необхідні",
+		"Потрібен"
 	]
 }
