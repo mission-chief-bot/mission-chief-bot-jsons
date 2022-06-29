@@ -166,7 +166,12 @@
 		"požadované výjezdové stanoviště zzs",
 		"extensions",
 		"extensões",
-		"postos"
+		"postos",
+		"helicopter hangars",
+		"personnel available",
+		"personnel",
+		"fire boat docks",
+		"plane hangars"
 	],
 	"replace": [
 		"\n",

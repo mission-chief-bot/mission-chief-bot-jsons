@@ -136,5 +136,12 @@
  "wildland fire vehicle missing": [30, 31, 32, 38, 39],
  "wildland fire vehicle": [30, 31, 32, 38, 39],
  "wildland fire vehicles": [30, 31, 32, 38, 39],
- "wildland fire": [30, 31, 32, 38, 39]
+ "wildland fire": [30, 31, 32, 38, 39],
+ "small coastal boats": [69],
+ "coastal helicopter": [71],
+ "large coastal boat": [70],
+ "lifeguard trucks": [66],
+ "coastal guard plane": [72],
+ "lifeguard supervisors": [68],
+ "lifeguard rescue": [67]
 }
