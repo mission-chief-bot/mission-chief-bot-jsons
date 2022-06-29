@@ -1,1 +1,1 @@
-{"missionId": "551", "missionName": "Średni protest", "requirements": [{"requirement": "oddziały prewencji policji", "qty": "1"}, {"requirement": "posiadany personel", "qty": "100x Szkolenie Personalne OPP"}, {"requirement": "radiowozy", "qty": "7"}, {"requirement": "personel", "qty": "48x Szkolenie Personalne OPP"}], "credits": "9800"}
+{"missionId": "551", "missionName": "Średni protest", "requirements": [ {"requirement": "radiowozy", "qty": "7"}], "credits": "9800"}

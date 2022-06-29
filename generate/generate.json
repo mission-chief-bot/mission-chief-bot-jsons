@@ -55,10 +55,20 @@
 		"Nødvendig",
 		"Maks pasienter",
 		"maks pasienter",
-		"nécessaire"
+		"nécessaire",
+		"Необхідні",
+		"Vaaditut",
+		"Vaadittavat",
+		"Potilaita enint.",
+		"Se necesitan",
+		"N.º máximo de presos",
+		"Потрібен",
+		"Макс. Пацієнти"
 	],
 	"exclude": [
 		"Station",
+		"Offices",
+		"Arrestantenvervoer",
 		"výjezdové stanoviště",
 		"oddělení",
 		"stanice",
@@ -172,6 +182,13 @@
 		"personnel",
 		"fire boat docks",
 		"plane hangars"
+		"станції",
+		"resurssit",
+		"poliisiasemat",
+		"ambulanssiasemat",
+		"huoltolaajennukset",
+		"paloasemat",
+		"станції"
 	],
 	"replace": [
 		"\n",
@@ -203,6 +220,11 @@
 		"が必要",
 		"påkrevd",
 		"Behov",
-		"Nødvendige"
+		"Nødvendige",
+		"Необхідні",
+		"Vaaditut",
+		"Vaadittavat",
+		"Se necesitan",
+		"Потрібен"
 	]
 }

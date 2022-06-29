@@ -103,6 +103,7 @@
 "schmutzwasserpumpe": [101, 102],
 "schmutzwasserpumpen": [101, 102],
 "schlauchwagen" : [11, 13, 14, 15, 16, 62, 101, 102],
+"schlauchwagen (GW-L2 Wasser, SW 1000, SW 2000 oder Ähnliches)" : [11, 13, 14, 15, 16, 62, 101, 102],  
 "sek-fahrzeug" : [79, 80],
 "sek-fahrzeuge" : [79, 80],
 "sek-mtf" : [80],
