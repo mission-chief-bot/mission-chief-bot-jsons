@@ -177,14 +177,17 @@
 		"extensions",
 		"extensões",
 		"postos",
+		"helicopter hangars",
+		"personnel available",
+		"personnel",
+		"fire boat docks",
+		"plane hangars",
 		"станції",
 		"resurssit",
 		"poliisiasemat",
 		"ambulanssiasemat",
 		"huoltolaajennukset",
-		"paloasemat",
-		"extensions",
-		"станції"
+		"paloasemat"
 	],
 	"replace": [
 		"\n",
