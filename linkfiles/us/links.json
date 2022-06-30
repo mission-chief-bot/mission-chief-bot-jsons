@@ -1,5 +1,5 @@
 {
- "air ambulance": [11],
+"air ambulance": [11],
 "airborne firefighting vehicle": [37, 35],
 "airborne firefighting vehicles": [37, 35],
 "ambulance": [5, 27, 48, 49, 50],
@@ -80,6 +80,8 @@
 "hazmats": [9, 50],
 "heavy rescue vehicle": [4, 18, 8],
 "heavy rescue vehicles": [4, 18, 8],
+"hems": [11],
+"HEMS": [11],
 "k- unit": [19],
 "k-9 unit": [19],
 "k-9 units": [19],
