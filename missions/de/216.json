@@ -1,1 +1,1 @@
-{"missionId": "216", "missionName": "502 Bad Gateway", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "500"}
+{"missionId": "216", "missionName": "Brennender Bollerwagen", "requirements": [{"requirement": "löschfahrzeuge", "qty": 1}], "credits": "500"}
