@@ -43,5 +43,6 @@
     "ambulances":[16],
     "verkenningseenheid": [11],
     "verkenningseenheden":[11],
-    "schuimblusvoertuig": [41, 42, 43, 68, 69, 70]
+    "schuimblusvoertuig": [41, 42, 43, 68, 69, 70],
+    "bereden brigade (paarden)": [73,74,75]
 }
