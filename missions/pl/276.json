@@ -1,1 +1,1 @@
-{"missionId": "276", "missionName": "Pijacka Bójka", "requirements": [{"requirement": "radiowozy", "qty": "2"}, {"requirement": "maks. pacjenci", "qty": "2"}], "credits": "1000"}
+{"missionId": "276", "missionName": "Pijacka Bójka", "requirements": [{"requirement": "wydziały ruchu drogowego", "qty": "2"}, {"requirement": "radiowozy", "qty": "2"}, {"requirement": "maks. pacjenci", "qty": "2"}], "credits": "1000"}
