@@ -1,182 +1,66 @@
 {
- "tankautospuiten": [
-  0,
-  1,
-  6,
-  7,
-  8,
-  9,
-  12,
-  14,
-  15,
-  17
- ],
- "hulpverleningsvoertuigen": [
-  4
- ],
- "officiers van dienst politie": [
-  35
- ],
- "Officier van Dienst - Politie": [
-  35
- ],
- "officieren van dienst - politie": [
-  35
- ],
- "redvoertuigen": [
-  2,
-  18
- ],
- "noodhulpeenheden": [
-  22
- ],
- "biketeams": [
-  60
- ],
- "biketeam": [
-  60
- ],
- "ovd-b's": [
-  3
- ],
- "officier van dienst - brandweer": [
-  3
- ],
- "officieren van dienst - brandweer": [
-  3
- ],
- "politie helikopters": [
-  28
- ],
- "slangenwagens": [
-  10,
-  34
- ],
- "ab": [
-  5
- ],
- "adembeschermingsvoertuigen": [
-  5
- ],
- "adviseurs gevaarlijke stoffen": [
-  24
- ],
- "waarschuwings- en verkenningsdienst voertuigen": [
-  11
- ],
- "hondengeleider": [
-  47
- ],
- "hovd's": [
-  19
- ],
- "commandowagen": [
-  31
- ],
- "me commandovoertuigen": [
-  39
- ],
- "me groepsvoertuig": [
-  40
- ],
- "me groepsvoertuigen": [
-  40
- ],
- "me flexbussen": [
-  40
- ],
- "meflexbussen": [
-  40
- ],
- "ME Flexbus": [
-  40
- ],
- "MEFlexbus": [
-  40
- ],
- "waterongevallenvoertuigen / oppervlaktereddingsteams": [
-  33,
-  49
- ],
-  "waterongevallenvoertuig / oppervlaktereddingsteam": [
-  33,
-  49
-],
- "waterongevallenaanhangers": [
-  36
- ],
- "woa": [
-  36
-],
- "crashtender": [
-  41,
-  42,
-  43
- ],
- "Crashtenders": [
-  41,
-  42,
-  43
- ],
- "afo/osc": [
-  44
- ],
- "ovd-geneeskunde": [
-  38
- ],
- "OvD-G": [
-  38
- ],
- "mmt-arts": [
-  23,
-  37
- ],
- "voorlichters": [
-  56
- ],
- "maximale patiënten aantal": [
-  16
- ],
- "at operators": [
-  54
- ],
- "at commandanten": [
-  53
- ],
- "at materiaalwagens": [
-  55
- ],
- "ambulance": [
-  16
- ],
- "verkenningseenheid": [
-  11
- ],
- "verkenningseenheden": [
-  11
- ],
- "schuimblusvoertuig": [
-  68
- ],
- "schuimblusvoertuigen": [
-  68
- ],
- "l svm": [
-  68
- ],
- "dienstbus arrestantenvervoer": [
-  58
- ],
- "db-av": [
-  58
- ],
- "bereden brigade (paarden)": [73,74,75],
- "gelijkwaardige haakarmbak": [
-  26,
-  27,
-  51,
-  29,
-  45,
-  32
- ]
+ "tankautospuiten": [0,1,6,7,8,9,12,14,15,17],
+ "redvoertuigen": [2,18],
+ "hulpverleningsvoertuigen": [4,51],
+ "ab": [5,27],
+ "adembeschermingsvoertuigen": [5,27],
+ "slangenwagens": [10,29,34,45,61],
+ "gelijkwaardige haakarmbak": [29,45,61],
+ "waterongevallenvoertuigen / oppervlaktereddingsteams": [33,49,50],
+ "waterongevallenvoertuig / oppervlaktereddingsteam": [33,49,50],
+ "woa": [36],
+ "waterongevallenaanhangers": [36,67],
+ "woa of ba-rb": [36,67],
+ "bootaanhanger (woa of ba-rb)": [36,67],
+ "schuimblusvoertuig": [41,42,43,68,69,70],
+ "schuimblusvoertuigen": [41,42,43,68,69,70],
+ "schuimblusvoertuig benodigd": [41,42,43,68,69,70],
+ "verkenningseenheid": [11],
+ "verkenningseenheden": [11],
+ "waarschuwings- en verkenningsdienst voertuigen": [11],
+ "adviseurs gevaarlijke stoffen": [24],
+ "crashtender": [41,42,43],
+ "crashtenders": [41,42,43],
+ "afo/osc": [44],
+ "voorlichters": [56],
+ "ovd-b's": [3],
+ "officier van dienst - brandweer": [3],
+ "officieren van dienst - brandweer": [3],
+ "hovd's": [19],
+ "commandowagen": [31,32],
+
+ "dat-rb of khv": [65,66],
+ "strandvoertuigen (dat-rb of khv)": [65,66],
+
+ "ambulance": [16],
+ "ambulances": [16],
+ "maximale patiënten aantal": [16],
+ "zorgambulance": [30],
+ "mmt-arts": [23,37],
+ "ovd-g": [38,57],
+ "ovd-geneeskunde": [38,57],
+
+ "noodhulpeenheden": [22,25,46,59],
+ "biketeam": [60],
+ "biketeams": [60],
+ "biketeams, indien beschikbaar": [60],
+ "hondengeleider": [47,48],
+ "politie helikopters": [28],
+ "db-av": [58],
+ "dienstbus arrestantenvervoer": [58],
+ "me commandovoertuigen": [39],
+ "me groepsvoertuig": [40],
+ "me groepsvoertuigen": [40],
+ "me flexbussen": [40],
+ "meflexbussen": [40],
+ "ME Flexbus": [40],
+ "MEFlexbus": [40],
+ "aanhoudingseenheden": [64],
+ "at operators": [54],
+ "at commandanten": [53],
+ "at materiaalwagens": [55],
+ "officiers van dienst politie": [35],
+ "Officier van Dienst - Politie": [35],
+ "officieren van dienst - politie": [35],
+ "bereden brigade (paarden)": [73,74]
 }
