@@ -1,1 +1,1 @@
-{"missionId": "118", "missionName": "Loupež na čerpací stanici", "requirements": [{"requirement": "policejní automobily", "qty": "4"}], "credits": "1250"}
+{"missionId": "118", "missionName": "Loupež na čerpací stanici", "requirements": [{"requirement": "policejní automobily", "qty": "4"}, {"requirement": "policejní vrtulníky", "qty": "1"}, {"requirement": "personál urny", "qty": "2"}], "credits": "1250"}

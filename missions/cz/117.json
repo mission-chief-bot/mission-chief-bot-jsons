@@ -1,1 +1,1 @@
-{"missionId": "117", "missionName": "Obchod s drogami", "requirements": [{"requirement": "policejní automobily", "qty": "4"}], "credits": "1500"}
+{"missionId": "117", "missionName": "Obchod s drogami", "requirements": [{"requirement": "policejní automobily", "qty": "4"}, {"requirement": "vozidla kynologů pčr", "qty": "1"}], "credits": "1500"}

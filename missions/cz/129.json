@@ -1,1 +1,1 @@
-{"missionId": "129", "missionName": "Nehoda se zvířetem", "requirements": [{"requirement": "policejní automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "1200"}
+{"missionId": "129", "missionName": "Nehoda se zvířetem", "requirements": [{"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "1200"}
