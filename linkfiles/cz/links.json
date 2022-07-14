@@ -1,44 +1,104 @@
 {
- "cas": [ 0, 1 ],
- "CAS 20" : [0, 1],
- "CAS 30" : [0, 1],
- "cisternová automobilová stříkačka": [ 0, 1 ],
- "cisternové automobilové stříkačky": [ 0, 1 ],
- "ap nebo az": [ 2, 10 ],
- "automobilové žebříky": [ 2, 10 ],
- "ambulance": [5],
- "ta": [ 4 ],
- "technický automobil": [ 4 ],
- "technické automobily": [ 4 ],
- "kha": [ 6 ],
- "kombinovaný hasící automobil": [ 6 ],
- "kombinované hasící automobily": [ 6 ],
- "protiplynový automobil": [ 16 ],
- "protiplynové automobily": [ 16 ],
- "vozidla pro práci s nebezpečnými látkami": [ 7 ],
- "vozidel pro práci s nebezpečnými látkami": [ 7 ],
- "Vozidel pro práci s nebezpečnými látkami": [ 7 ],
- "pro práci s nebezpečnými látkami": [ 7 ],
- "vea": [ 3 ],
- "velitelské automobily": [ 3 ],
- "mobilní operační středisko": [ 17 ],
- "mobilní operační střediska": [ 17 ],
- "rzp": [ 5 ],
- "maximum pacientů": [ 5 ],
- "ip": [ 26 ],
- "inspektor provozu": [ 26 ],
- "hlídkový vůz": [ 8 ],
- "hlídkové vozy": [ 8 ],
- "hlídkový vůz potřebná vozidla": [ 8 ],
- "policejní automobily": [ 8 ],
- "vozidlo vyšetřovatelů dn": [ 18 ],
- "vozidla vyšetřovatelů dn": [ 18 ],
- "Vozidlo vyšetřovatelů dn": [ 18 ],
- "Vozidla vyšetřovatelů DN": [ 18 ],
- "kynolog policie": [ 13 ],
- "vozidla Kynologů PČR": [ 13 ],
- "URNA": [ 12 ],
- "personál": [ 12 ],
- "urna personál": [ 12 ],
- "URNA personál": [ 12 ]
+	"CAS 20": [ 0 ],
+	"CAS 30": [ 1 ],
+	"cisternové automobilové stříkačky": [ 0, 1 ],
+	"CAS": [ 0, 1 ],
+	
+	"AZ": [ 2 ],
+	"AP": [ 10 ],
+	"automobilové žebříky": [ 2, 10 ],
+	"AP nebo AZ": [ 2, 10 ],
+	
+	"VEA": [ 3 ],
+	"velitelské automobily": [ 3 ],
+	
+	"TA": [ 4 ],
+	"ta": [ 4 ],
+	"technický automobil": [ 4 ],
+	
+	"RZP": [ 5 ],
+	"rzp": [ 5 ],
+	
+	"KHA": [ 6 ],
+	"kombinované hasící automobily": [ 6 ],
+	
+	"TACH": [ 7 ],
+	"vozidla pro práci s nebezpečnými látkami": [ 7 ],
+	"Vozidel pro práci s nebezpečnými látkami": [ 7 ],
+	
+	"Policejní automobil": [ 8 ],
+	"policejní automobily": [ 8 ],
+	"hlídkový vůz": [ 8 ],
+	
+	"Vrtulník LZS": [ 9 ],
+	"vrtulník lzs": [ 9 ],
+	
+	"Policejní vrtulník": [ 11 ],
+	"policejní vrtulníky": [ 11 ],
+	"Policejních vrtulníků": [ 11 ],
+	"policejní vrtulník": [ 11 ],
+	
+	"Obrněné vozidlo URNA": [ 12 ],
+	"personál urny": [ 12 ],
+	"URNA personál": [ 12 ],
+	"urna personál": [ 12 ],
+	
+	"Vozidlo Kynologů PČR": [ 13 ],
+	"vozidla kynologů pčr": [ 13 ],
+	"Kynolog Policie": [ 13 ],
+	
+	"Policejní motocykl": [ 14 ],
+	
+	"URNA SUV": [ 15 ],
+	
+	"PPLA": [ 16 ],
+	"protiplynové automobily": [ 16 ],
+	"Protiplynový automobil": [ 16 ],
+	
+	"MOS": [ 17 ],
+	"mobilní operační střediska": [ 17 ],
+	"Mobilní operační středisko": [ 17 ],
+	
+	"Vozidlo vyšetřovatelů DN": [ 18 ],
+	"vozidla vyšetřovatelů dn": [ 18 ],
+	"vozidlo vyšetřovatelů dn": [ 18 ],
+	
+	"Vozidlo pyrotechnika PČR": [ 19 ],
+	"vozidla pyrotechniků pčr": [ 19 ],
+	"Vozidlo pyrotechniků PČR": [ 19 ],
+	
+	"Přívěs se člunem": [ 20, 21 ],
+	"Přívěs se člunem VZS ČČK": [ 21 ],
+	"přívěs se člunem": [ 20, 21 ],
+	
+	"Potápěčský automobil": [ 22 ],
+	"potápěčský automobil": [ 22 ],
+	
+	"SUV VZS ČČK": [ 23 ],
+	
+	"Dodávka VZS ČČK": [ 24 ],
+	
+	"RV": [ 25 ],
+	
+	"IP": [ 26 ],
+	"inspektor provozu": [ 26 ],
+	"Inspektor provozu": [ 26 ],
+	
+	"RLP": [ 27 ],
+	
+	"VYA": [ 28 ],
+	"AJ": [ 29 ],
+	"vya nebo aj": [ 28, 29 ],
+	"VYA nebo AJ": [ 28, 29 ],
+	
+	"DA": [ 30 ],
+	"da": [ 30 ],
+	"Dopravní automobily": [ 30 ],
+	
+	"RZA": [ 31 ],
+	"rza": [ 31 ],
+	"rychlý zásahový automobil": [ 31 ],
+	"Rychlý zásahový automobil": [ 31 ],
+	
+	"maximum pacientů": [ 5, 27 ]
 }
