@@ -1,1 +1,1 @@
-{"missionId": "253", "missionName": "Neohlášená demonstrace", "requirements": [{"requirement": "policejní automobily", "qty": "10"}, {"requirement": "maximum pacientů", "qty": "10"}], "credits": "5500"}
+{"missionId": "253", "missionName": "Neohlášená demonstrace", "requirements": [{"requirement": "policejní automobily", "qty": "10"}, {"requirement": "policejní vrtulníky", "qty": "1"}, {"requirement": "vozidla kynologů pčr", "qty": "2"}, {"requirement": "personál urny", "qty": "3"}, {"requirement": "maximum pacientů", "qty": "10"}], "credits": "5500"}

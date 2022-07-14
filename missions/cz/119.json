@@ -1,1 +1,1 @@
-{"missionId": "119", "missionName": "Střelba na policistu", "requirements": [{"requirement": "policejní automobily", "qty": "8"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "4100"}
+{"missionId": "119", "missionName": "Střelba na policistu", "requirements": [{"requirement": "policejní automobily", "qty": "8"}, {"requirement": "policejní vrtulníky", "qty": "1"}, {"requirement": "vozidla kynologů pčr", "qty": "2"}, {"requirement": "personál urny", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "4100"}

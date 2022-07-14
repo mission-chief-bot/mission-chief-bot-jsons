@@ -1,1 +1,1 @@
-{"missionId": "121", "missionName": "Domácí invaze", "requirements": [{"requirement": "policejní automobily", "qty": "4"}], "credits": "1250"}
+{"missionId": "121", "missionName": "Domácí invaze", "requirements": [{"requirement": "policejní automobily", "qty": "4"}, {"requirement": "policejní vrtulníky", "qty": "1"}, {"requirement": "vozidla kynologů pčr", "qty": "1"}, {"requirement": "personál urny", "qty": "1"}], "credits": "1250"}
