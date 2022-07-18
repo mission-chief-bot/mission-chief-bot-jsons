@@ -1,0 +1,1 @@
+{"missionId": "288/a", "missionName": "Пожар в закрытом помещении", "requirements": [{"requirement": "расширения поддержки пожаротушения", "qty": "2"}, {"requirement": "пожарные машины", "qty": "4"}, {"requirement": "машины командира батальона", "qty": "2"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "3900"}

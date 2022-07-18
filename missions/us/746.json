@@ -1,0 +1,1 @@
+{"missionId": "746", "missionName": "Multi Vehicle Pile-up (Large)", "requirements": [ {"requirement": "firetrucks", "qty": "2"}, {"requirement": "heavy rescue vehicles", "qty": "2"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "max. patients", "qty": "15"}], "credits": "6000"}
