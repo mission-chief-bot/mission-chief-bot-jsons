@@ -1,1 +1,11 @@
-{}
+{
+"caminhões de bombeiro necessários": [0, 1],
+"caminhões de bombeiro": [0, 1],
+"caminhão plataforma": [2],
+"caminhões plataforma necessários": [2],
+"caminhão de bombeiro": [0, 1],
+"viaturas de batalhão necessárias": [3],
+"veículo de resgate pesado": [4],
+"veículos de resgate pesado necessários": [4],
+"1": [6]
+}

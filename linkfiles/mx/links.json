@@ -1,3 +1,11 @@
 {
-"camiones de bomberos": [0]
+ "camiones de bomberos": [0, 1],
+ "camión BUL": [1],
+ "camión de bomberos": [0, 1],
+ "camiones con plataforma": [2],
+ "camión con plataforma": [2],
+ "unidades de mando y comunicaciones": [3],
+ "unidad de mando y comunicaciones": [3],
+ "camiones cisterna": [6],
+"furgones de útiles varios": [4]
 }

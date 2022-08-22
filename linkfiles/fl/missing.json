@@ -1,1 +1,19 @@
-{}
+{
+"paloautot": [0, 13, 1],
+"paloauto": [0, 13, 1],
+"paloautoa": [0, 13, 1],
+"sammutusauto": [0],
+"säiliöauto": [6],
+"säiliöautot": [6],
+"säiliösammutusauto": [13],
+"vaahtoyksikkö": [25],
+"paineilmahuoltoauto": [10],
+"Kevyt sammutusauto": [1],
+"johtoauto": [3],
+"johtoautot": [3],
+"nostolava-autot": [2],
+"nostolava-auto": [2],
+"raskas pelastusauto": [4],
+"raskaat pelastusautot": [4],
+"miehistönkuljetusauto": [32]
+}
