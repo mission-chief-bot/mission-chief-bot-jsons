@@ -66,6 +66,8 @@
 		"Макс. Пацієнти"
 	],
 	"exclude": [
+		"Minimum",
+		"minimum",
 		"Station",
 		"Offices",
 		"Arrestantenvervoer",
