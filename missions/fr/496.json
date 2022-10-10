@@ -1,1 +1,1 @@
-{"missionId": "496", "missionName": "Navire braconnier", "requirements": [{"requirement": "compagnies de gendarmerie maritime es", "qty": "1"}, {"requirement": "personnel  disponible", "qty": "20x Gendarme Maritime"}, {"requirement": "vedette côtière de surveillance maritime e", "qty": "3"}, {"requirement": "formations e", "qty": "8x Gendarme Maritime"}], "credits": "8000"}
+{"missionId": "496", "missionName": "Navire braconnier", "requirements": [{"requirement": "vedette côtière de surveillance maritime e", "qty": "3"}], "credits": "8000"}
