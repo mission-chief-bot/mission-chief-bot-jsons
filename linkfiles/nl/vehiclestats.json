@@ -1,0 +1,583 @@
+[
+    {
+        "id": 0,
+        "caption": "SI-2",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 500
+    },
+    {
+        "id": 1,
+        "caption": "TS 8/9",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 2000
+    },
+    {
+        "id": 2,
+        "caption": "Autoladder",
+        "coins": 30,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 3,
+        "caption": "DA - Officier van Dienst",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 4,
+        "caption": "Hulpverleningsvoertuig",
+        "coins": 25,
+        "credits": 12180,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 5,
+        "caption": "Adembeschermingsvoertuig",
+        "coins": 25,
+        "credits": 11680,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 6,
+        "caption": "TST 8/9",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 3000
+    },
+    {
+        "id": 7,
+        "caption": "TST 6/7",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 7,
+        "water": 3000
+    },
+    {
+        "id": 8,
+        "caption": "TST 4/5",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 5,
+        "water": 2000
+    },
+    {
+        "id": 9,
+        "caption": "TS 4/5",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 5,
+        "water": 1500
+    },
+    {
+        "id": 10,
+        "caption": "Slangenwagen",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 9
+    },
+    {
+        "id": 11,
+        "caption": "Verkenningseenheid Brandweer",
+        "coins": 25,
+        "credits": 18300,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 12,
+        "caption": "TST-NB 8/9",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 4000
+    },
+    {
+        "id": 13,
+        "caption": "TST-NB 6/7",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 7,
+        "water": 4000
+    },
+    {
+        "id": 14,
+        "caption": "TST-NB 4/5",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 5,
+        "water": 4000
+    },
+    {
+        "id": 15,
+        "caption": "Ambulance",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 16,
+        "caption": "TS 6/7",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 7,
+        "water": 2000
+    },
+    {
+        "id": 17,
+        "caption": "Hoogwerker",
+        "coins": 30,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 18,
+        "caption": "DA - Hoofdofficier van Dienst",
+        "coins": 25,
+        "credits": 25500,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 19,
+        "caption": "DA",
+        "coins": 10,
+        "credits": 2000,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 20,
+        "caption": "DB Klein",
+        "coins": 12,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 9
+    },
+    {
+        "id": 21,
+        "caption": "DA Noodhulp",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 22,
+        "caption": "Lifeliner",
+        "coins": 30,
+        "credits": 500000,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 23,
+        "caption": "DA - Adviseur Gevaarlijke stoffen",
+        "coins": 25,
+        "credits": 19200,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 24,
+        "caption": "DB Noodhulp",
+        "coins": 25,
+        "credits": 6000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 25,
+        "caption": "Haakarmvoertuig",
+        "coins": 12,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 26,
+        "caption": "Adembeschermingshaakarmbak",
+        "coins": 12,
+        "credits": 6000
+    },
+    {
+        "id": 27,
+        "caption": "Politiehelikopter",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 28,
+        "caption": "Watertankhaakarmbak",
+        "coins": 12,
+        "credits": 6000,
+        "water": 10000
+    },
+    {
+        "id": 29,
+        "caption": "Zorgambulance",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 30,
+        "caption": "Commandovoertuig",
+        "coins": 25,
+        "credits": 27500,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 31,
+        "caption": "Commandohaakarmbak",
+        "coins": 12,
+        "credits": 6000
+    },
+    {
+        "id": 32,
+        "caption": "Waterongevallenvoertuig",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 4,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 33,
+        "caption": "Watertankwagen",
+        "coins": 25,
+        "credits": 17000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 15000
+    },
+    {
+        "id": 34,
+        "caption": "Officier van Dienst - Politie",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 35,
+        "caption": "Waterongevallenaanhanger",
+        "coins": 12,
+        "credits": 9000
+    },
+    {
+        "id": 36,
+        "caption": "MMT-Auto",
+        "coins": 12,
+        "credits": 30000,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 37,
+        "caption": "Officier van Dienst - Geneeskunde",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 38,
+        "caption": "ME Commandovoertuig",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 39,
+        "caption": "ME Flexbus",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 4,
+        "maxpersonnel": 8
+    },
+    {
+        "id": 40,
+        "caption": "Crashtender (8x8)",
+        "coins": 25,
+        "credits": 60000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3,
+        "water": 13300,
+        "foam": 1600
+    },
+    {
+        "id": 41,
+        "caption": "Crashtender (6x6)",
+        "coins": 25,
+        "credits": 40000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3,
+        "water": 10000,
+        "foam": 1300
+    },
+    {
+        "id": 42,
+        "caption": "Crashtender (4x4)",
+        "coins": 25,
+        "credits": 15000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3,
+        "water": 6000,
+        "foam": 500
+    },
+    {
+        "id": 43,
+        "caption": "Airport Fire Officer / On Scene Commander",
+        "coins": 25,
+        "credits": 12000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 44,
+        "caption": "Dompelpomphaakarmbak",
+        "coins": 12,
+        "credits": 6000
+    },
+    {
+        "id": 45,
+        "caption": "DM Noodhulp",
+        "coins": 18,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 46,
+        "caption": "DA Hondengeleider",
+        "coins": 25,
+        "credits": 8000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 47,
+        "caption": "DB Hondengeleider",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 48,
+        "caption": "PM-OR | Materieelvoertuig - Oppervlakteredding",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 4,
+        "maxpersonnel": 9
+    },
+    {
+        "id": 49,
+        "caption": "TS-OR | Tankautospuit - Oppervlakteredding",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 4,
+        "maxpersonnel": 9,
+        "water": 2000
+    },
+    {
+        "id": 50,
+        "caption": "HulpverleningsHaakarmbak",
+        "coins": 12,
+        "credits": 6000
+    },
+    {
+        "id": 51,
+        "caption": "Rapid Responder",
+        "coins": 18,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 52,
+        "caption": "AT-Commandant",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 53,
+        "caption": "AT-Operator",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 54,
+        "caption": "AT-Materiaalwagen",
+        "coins": 25,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 55,
+        "caption": "DA Voorlichter",
+        "coins": 25,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 56,
+        "caption": "DA Officier van Dienst - Geneeskundig / Rapid Responder",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 57,
+        "caption": "DB Arrestantenvervoer",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 58,
+        "caption": "Noodhulp - Onopvallend",
+        "coins": 25,
+        "credits": 6000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 59,
+        "caption": "DB Biketeam",
+        "coins": 25,
+        "credits": 8000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 60,
+        "caption": "Slangenhaakarmbak",
+        "coins": 12,
+        "credits": 6000
+    },
+    {
+        "id": 61,
+        "caption": "TS-HV | Tankautospuit-Hulpverlening",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 3,
+        "maxpersonnel": 7,
+        "water": 2000
+    },
+    {
+        "id": 62,
+        "caption": "DM - Rapid Responder",
+        "coins": 18,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 63,
+        "caption": "ME Aanhoudingseenheid",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 6,
+        "maxpersonnel": 8
+    },
+    {
+        "id": 64,
+        "caption": "DA Terreinwaardig - Reddingsbrigade",
+        "coins": 15,
+        "credits": 7500,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 65,
+        "caption": "Kusthulpverleningsvoertuig",
+        "coins": 15,
+        "credits": 8000,
+        "minpersonnel": 2,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 66,
+        "caption": "Bootaanhanger Reddingsbrigade",
+        "coins": 15,
+        "credits": 5000
+    },
+    {
+        "id": 67,
+        "caption": "SB",
+        "coins": 10,
+        "credits": 35000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3,
+        "water": 10000,
+        "foam": 1000
+    },
+    {
+        "id": 68,
+        "caption": "SBH",
+        "coins": 12,
+        "credits": 10000,
+        "water": 8000,
+        "foam": 1000
+    },
+    {
+        "id": 69,
+        "caption": "SBA",
+        "coins": 10,
+        "credits": 15000,
+        "foam": 500
+    },
+    {
+        "id": 70,
+        "caption": "MSA",
+        "coins": 10,
+        "credits": 10000
+    },
+    {
+        "id": 71,
+        "caption": "DPA",
+        "coins": 10,
+        "credits": 15000
+    },
+    {
+        "id": 72,
+        "caption": "Dompelpompaanhangwagen"
+    }
+]

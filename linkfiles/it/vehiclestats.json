@@ -1,0 +1,317 @@
+[
+    {
+        "id": 0,
+        "caption": "ABP",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 8000,
+        "foam": 250
+    },
+    {
+        "id": 1,
+        "caption": "AS",
+        "coins": 30,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 2,
+        "caption": "AV/FNZ",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 3,
+        "caption": "CA/POLI",
+        "coins": 25,
+        "credits": 12180,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 4,
+        "caption": "Ambulanza BLSD",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 5,
+        "caption": "KILO",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 18000
+    },
+    {
+        "id": 6,
+        "caption": "AF/NBCR",
+        "coins": 25,
+        "credits": 19200,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 7,
+        "caption": "Volante",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 8,
+        "caption": "Elisoccorso",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 9,
+        "caption": "APS",
+        "coins": 25,
+        "credits": 19000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 2500,
+        "foam": 400
+    },
+    {
+        "id": 10,
+        "caption": "AF/ARIA",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 11,
+        "caption": "UCL",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 12,
+        "caption": "AG",
+        "coins": 25,
+        "credits": 18000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 13,
+        "caption": "Elicottero della Polizia",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 14,
+        "caption": "Furgone antisommossa",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 6,
+        "maxpersonnel": 9
+    },
+    {
+        "id": 15,
+        "caption": "Unità cinofila antidroga",
+        "coins": 25,
+        "credits": 7000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 16,
+        "caption": "Moto della Polizia",
+        "coins": 18,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 17,
+        "caption": "UOPI SUV",
+        "coins": 23,
+        "credits": 7000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 18,
+        "caption": "VLV",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 19,
+        "caption": "MSA",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 2,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 20,
+        "caption": "Ambulanza ordinaria",
+        "coins": 20,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 21,
+        "caption": "Volante Finanza",
+        "coins": 10,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 22,
+        "caption": "Furgone artificieri",
+        "coins": 35,
+        "credits": 35000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 23,
+        "caption": "Camion NSSA",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 24,
+        "caption": "Pickup SAF",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 3,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 25,
+        "caption": "Barca",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 26,
+        "caption": "AF/BUS",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9
+    },
+    {
+        "id": 27,
+        "caption": "DTS",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 28,
+        "caption": "Pickup con Modulo Boschivo",
+        "coins": 5,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4,
+        "water": 400
+    },
+    {
+        "id": 29,
+        "caption": "Autocarro AIB - AF/BOSC",
+        "coins": 8,
+        "credits": 8000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4,
+        "water": 1000
+    },
+    {
+        "id": 30,
+        "caption": "Autobotte AIB",
+        "coins": 15,
+        "credits": 19000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 4000
+    },
+    {
+        "id": 31,
+        "caption": "Funzionario AIB - DOS",
+        "coins": 15,
+        "credits": 20000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 32,
+        "caption": "Camion con Rimorchio",
+        "coins": 10,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 33,
+        "caption": "Scavatore su Rimorchio",
+        "coins": 15,
+        "credits": 20000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 34,
+        "caption": "Elicottero Antincendio",
+        "coins": 25,
+        "credits": 300000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2,
+        "water": 2000
+    },
+    {
+        "id": 35,
+        "caption": "Canadair",
+        "coins": 25,
+        "credits": 600000,
+        "minpersonnel": 2,
+        "maxpersonnel": 5,
+        "water": 6000
+    },
+    {
+        "id": 36,
+        "caption": "P.M.A.",
+        "coins": 15,
+        "credits": 50000,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 37,
+        "caption": "ACT/SCHIUMA",
+        "coins": 15,
+        "credits": 35000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3,
+        "foam": 2000
+    }
+]

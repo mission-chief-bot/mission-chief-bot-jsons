@@ -1,0 +1,213 @@
+[
+    {
+        "id": 0,
+        "caption": "VFCI",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 4,
+        "maxpersonnel": 5,
+        "water": 4000
+    },
+    {
+        "id": 1,
+        "caption": "VLCI",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 4,
+        "maxpersonnel": 5,
+        "water": 1000
+    },
+    {
+        "id": 2,
+        "caption": "VE",
+        "coins": 30,
+        "credits": 10000,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 3,
+        "caption": "VCOT",
+        "coins": 25,
+        "credits": 10000,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 4,
+        "caption": "VSAT",
+        "coins": 25,
+        "credits": 12180,
+        "minpersonnel": 2,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 5,
+        "caption": "ABSC",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 6,
+        "caption": "VTTU",
+        "coins": 25,
+        "credits": 17300,
+        "maxpersonnel": 2,
+        "water": 10000
+    },
+    {
+        "id": 7,
+        "caption": "VPMA",
+        "coins": 25,
+        "credits": 19200,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 8,
+        "caption": "CP",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 9,
+        "caption": "Heli INEM"
+    },
+    {
+        "id": 10,
+        "caption": "VCOC",
+        "coins": 25,
+        "credits": 25500,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 11,
+        "caption": "VUCI",
+        "coins": 25,
+        "credits": 19000,
+        "minpersonnel": 4,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 12,
+        "caption": "UEP/UI - CIEXSS",
+        "coins": 20,
+        "credits": 15000,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 13,
+        "caption": "EPRI",
+        "coins": 18,
+        "credits": 2500,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 14,
+        "caption": "VP",
+        "coins": 25,
+        "credits": 25000,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 15,
+        "caption": "UAAR",
+        "coins": 25,
+        "credits": 19000,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 16,
+        "caption": "VSAE",
+        "coins": 25,
+        "credits": 25000,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 17,
+        "caption": "VMER",
+        "coins": 20,
+        "credits": 4000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 18,
+        "caption": "SIV",
+        "coins": 30,
+        "credits": 1000,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 19,
+        "caption": "Mota INEM",
+        "coins": 15,
+        "credits": 12000,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 20,
+        "caption": "VIC",
+        "minpersonnel": 5,
+        "maxpersonnel": 8
+    },
+    {
+        "id": 21,
+        "caption": "ERAS",
+        "coins": 15,
+        "credits": 20000,
+        "minpersonnel": 3,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 22,
+        "caption": "Semi-Reboque",
+        "coins": 10,
+        "credits": 5000,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 23,
+        "caption": "MR",
+        "coins": 15,
+        "credits": 20000,
+        "minpersonnel": 1
+    },
+    {
+        "id": 24,
+        "caption": "VTTF",
+        "coins": 25,
+        "credits": 19000,
+        "maxpersonnel": 3,
+        "water": 7700
+    },
+    {
+        "id": 25,
+        "caption": "HEBL"
+    },
+    {
+        "id": 26,
+        "caption": "AVBM"
+    },
+    {
+        "id": 27,
+        "caption": "AVBP"
+    },
+    {
+        "id": 28,
+        "caption": "VECI"
+    },
+    {
+        "id": 29,
+        "caption": "Moto Bomba"
+    },
+    {
+        "id": 30,
+        "caption": "VTTP",
+        "coins": 10,
+        "credits": 15000,
+        "minpersonnel": 4,
+        "maxpersonnel": 5
+    }
+]

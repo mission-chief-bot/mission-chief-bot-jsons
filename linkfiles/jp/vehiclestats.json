@@ -1,0 +1,153 @@
+[
+    {
+        "id": 0,
+        "caption": "救助ハシゴ",
+        "coins": "\r\nRescue ladder",
+        "credits": 25,
+        "minpersonnel": 5000,
+        "maxpersonnel": 4,
+        "water": 6,
+        "foam": 3000,
+        "undefined": 5000
+    },
+    {
+        "id": 1,
+        "caption": "戦術対応車両（TRV）",
+        "coins": "Tactical Vehicle (TRV)",
+        "credits": 25,
+        "minpersonnel": 5000,
+        "maxpersonnel": 4,
+        "water": 6,
+        "foam": 1500,
+        "undefined": 250
+    },
+    {
+        "id": 2,
+        "caption": "zターンテーブルはしご（TL）",
+        "coins": "Turntable ladder (TL)",
+        "credits": 30,
+        "minpersonnel": 10000,
+        "maxpersonnel": 0,
+        "water": 2
+    },
+    {
+        "id": 3,
+        "caption": "指令ユニット",
+        "coins": "Command unit",
+        "credits": 25,
+        "minpersonnel": 10000,
+        "maxpersonnel": 0,
+        "water": 1
+    },
+    {
+        "id": 4,
+        "caption": "大型救助ユニット（MRU）",
+        "coins": "Large rescue unit (MRU)",
+        "credits": 25,
+        "minpersonnel": 12180,
+        "maxpersonnel": 2,
+        "water": 3
+    },
+    {
+        "id": 5,
+        "caption": "救急車",
+        "coins": "ambulance",
+        "credits": 25,
+        "minpersonnel": 5000,
+        "maxpersonnel": 3,
+        "water": 3
+    },
+    {
+        "id": 6,
+        "caption": "水槽車",
+        "coins": "Water tank car",
+        "credits": 25,
+        "minpersonnel": 17300,
+        "maxpersonnel": 0,
+        "water": 2,
+        "foam": 6000
+    },
+    {
+        "id": 7,
+        "caption": "危険物取扱ユニッ",
+        "coins": "Hazardous materials handling unit",
+        "credits": 25,
+        "minpersonnel": 19200,
+        "maxpersonnel": 0,
+        "water": 4
+    },
+    {
+        "id": 8,
+        "caption": "事故対応車両（IRV)",
+        "coins": "Accident response vehicle (IRV)",
+        "credits": 25,
+        "minpersonnel": 5000,
+        "maxpersonnel": 2,
+        "water": 4
+    },
+    {
+        "id": 10,
+        "caption": "空気充填照明車",
+        "coins": "Air-filled lighting car",
+        "credits": 25,
+        "minpersonnel": 11680,
+        "maxpersonnel": 0,
+        "water": 3
+    },
+    {
+        "id": 11,
+        "caption": "指令車",
+        "coins": "Command car",
+        "credits": 25,
+        "minpersonnel": 25500,
+        "maxpersonnel": 0,
+        "water": 6
+    },
+    {
+        "id": 12,
+        "caption": "救助工作車",
+        "coins": "Rescue work vehicle",
+        "credits": 25,
+        "minpersonnel": 19000,
+        "maxpersonnel": 0,
+        "water": 9,
+        "foam": 3000,
+        "undefined": 500
+    },
+    {
+        "id": 13,
+        "caption": "ドクターカー",
+        "coins": "Doctor car",
+        "credits": 20,
+        "minpersonnel": 4000,
+        "maxpersonnel": 2,
+        "water": 2
+    },
+    {
+        "id": 14,
+        "caption": "救急車指揮官",
+        "coins": "Ambulance Commander",
+        "credits": 25,
+        "minpersonnel": 20000,
+        "maxpersonnel": 2,
+        "water": 3
+    },
+    {
+        "id": 16,
+        "caption": "救急バイク",
+        "coins": "Emergency bike",
+        "credits": 15,
+        "minpersonnel": 12000,
+        "maxpersonnel": 1,
+        "water": 1
+    },
+    {
+        "id": 17,
+        "caption": "一次救命処置車",
+        "coins": "Basic life support vehicle",
+        "credits": 12,
+        "minpersonnel": 5000,
+        "maxpersonnel": 2,
+        "water": 2
+    }
+]

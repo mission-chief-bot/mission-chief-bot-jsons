@@ -1,0 +1,151 @@
+[
+    {
+        "id": 0,
+        "caption": "Pompă de incendiu tip 1",
+        "coins": 13,
+        "credits": 5000,
+        "minpersonnel": 4,
+        "maxpersonnel": 6,
+        "water": 3000,
+        "foam": 500
+    },
+    {
+        "id": 1,
+        "caption": "Pompă de incendiu tip 2",
+        "coins": 13,
+        "credits": 5000,
+        "minpersonnel": 4,
+        "maxpersonnel": 6,
+        "water": 1500,
+        "foam": 250
+    },
+    {
+        "id": 2,
+        "caption": "Camion cu platformă",
+        "coins": 15,
+        "credits": 10000,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 3,
+        "caption": "Unitate șef batalion",
+        "coins": 13,
+        "credits": 10000,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 4,
+        "caption": "Vehicul greu de salvare",
+        "coins": 13,
+        "credits": 12180,
+        "minpersonnel": 2,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 5,
+        "caption": "Ambulanță ALS",
+        "coins": 13,
+        "credits": 5000,
+        "minpersonnel": 3,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 6,
+        "caption": "Cisternă de apă",
+        "coins": 13,
+        "credits": 17300,
+        "maxpersonnel": 2,
+        "water": 6000
+    },
+    {
+        "id": 7,
+        "caption": "Materiale periculoase",
+        "coins": 13,
+        "credits": 19200,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 8,
+        "caption": "Mașină de patrulare",
+        "coins": 13,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 9,
+        "caption": "Elicopter SMURD",
+        "coins": 15,
+        "credits": 300000,
+        "minpersonnel": 3,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 10,
+        "caption": "Mașină de suport logistic",
+        "coins": 13,
+        "credits": 11680,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 11,
+        "caption": "Mașină de comanda și control",
+        "coins": 13,
+        "credits": 25500,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 12,
+        "caption": "Mașină de intervenții accidente colective",
+        "coins": 13,
+        "credits": 9000,
+        "maxpersonnel": 9,
+        "water": 3000,
+        "foam": 500
+    },
+    {
+        "id": 13,
+        "caption": "Platforma Autoutilitara",
+        "coins": 13,
+        "credits": 15000,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 14,
+        "caption": "Vehicul EMS netransportant",
+        "coins": 10,
+        "credits": 4000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 15,
+        "caption": "Unitate transport Supervizor",
+        "coins": 13,
+        "credits": 20000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 16,
+        "caption": "Medic generalist",
+        "coins": 10,
+        "credits": 4000,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 17,
+        "caption": "Motocicletă-ambulanță",
+        "coins": 8,
+        "credits": 12000,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 18,
+        "caption": "Ambulanță tip B (BLS)",
+        "coins": 6,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2
+    }
+]

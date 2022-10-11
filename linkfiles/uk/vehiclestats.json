@@ -1,0 +1,457 @@
+[{
+		"id": 0,
+		"caption": "Water Ladder",
+		"coins": 25,
+		"credits": 5000,
+		"minpersonnel": 1,
+		"maxpersonnel": 9
+	},
+	{
+		"id": 1,
+		"caption": "Light 4X4 Pump (L4P)",
+		"coins": 25,
+		"credits": 5000,
+		"minpersonnel": 1,
+		"maxpersonnel": 5
+	},
+	{
+		"id": 2,
+		"caption": "Aerial Appliance",
+		"coins": 30,
+		"credits": 10000,
+		"minpersonnel": 1,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 3,
+		"caption": "Fire Officer",
+		"coins": 25,
+		"credits": 10000,
+		"minpersonnel": 1,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 4,
+		"caption": "Rescue Support Unit (RSU)",
+		"coins": 25,
+		"credits": 12180,
+		"minpersonnel": 1,
+		"maxpersonnel": 5
+	},
+	{
+		"id": 5,
+		"caption": "Ambulance",
+		"coins": 25,
+		"credits": 5000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 6,
+		"caption": "Water Carrier",
+		"coins": 25,
+		"credits": 17300,
+		"minpersonnel": 1,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 7,
+		"caption": "HazMat Unit",
+		"coins": 25,
+		"credits": 17300,
+		"minpersonnel": 1,
+		"maxpersonnel": 6
+	},
+	{
+		"id": 8,
+		"caption": "Incident response vehicle (IRV)",
+		"coins": 25,
+		"credits": 5000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 9,
+		"caption": "HEMS",
+		"coins": 30,
+		"credits": 300000,
+		"minpersonnel": 3,
+		"maxpersonnel": 5
+	},
+	{
+		"id": 10,
+		"caption": "Rapid Response Vehicle",
+		"coins": 20,
+		"credits": 4000,
+		"minpersonnel": 1,
+		"maxpersonnel": 1
+	},
+	{
+		"id": 11,
+		"caption": "Police Helicopter",
+		"coins": 30,
+		"credits": 300000,
+		"minpersonnel": 1,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 12,
+		"caption": "Dog Support Unit (DSU)",
+		"coins": 25,
+		"credits": 7000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 13,
+		"caption": "Armed Response Vehicle (ARV)",
+		"coins": 23,
+		"credits": 7000,
+		"minpersonnel": 1,
+		"maxpersonnel": 4
+	},
+	{
+		"id": 14,
+		"caption": "BASU",
+		"coins": 25,
+		"credits": 11680,
+		"minpersonnel": 1,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 15,
+		"caption": "ICCU",
+		"coins": 25,
+		"credits": 25500,
+		"minpersonnel": 1,
+		"maxpersonnel": 6
+	},
+	{
+		"id": 16,
+		"caption": "Rescue Pump",
+		"coins": 25,
+		"credits": 19000,
+		"minpersonnel": 1,
+		"maxpersonnel": 9
+	},
+	{
+		"id": 17,
+		"caption": "CARP",
+		"coins": 25,
+		"credits": 19000,
+		"minpersonnel": 1,
+		"maxpersonnel": 6
+	},
+	{
+		"id": 18,
+		"caption": "Co-Responder Vehicle",
+		"coins": 25,
+		"credits": 4000,
+		"minpersonnel": 1,
+		"maxpersonnel": 1
+	},
+	{
+		"id": 19,
+		"caption": "Joint Response Unit",
+		"coins": 30,
+		"credits": 6000,
+		"minpersonnel": 1,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 20,
+		"caption": "Operational Team Leader",
+		"coins": 25,
+		"credits": 20000,
+		"minpersonnel": 1,
+		"maxpersonnel": 1
+	},
+	{
+		"id": 21,
+		"caption": "General Practitioner",
+		"coins": 20,
+		"credits": 4000,
+		"minpersonnel": 1,
+		"maxpersonnel": 1
+	},
+	{
+		"id": 22,
+		"caption": "Community First Responder",
+		"coins": 12,
+		"credits": 2500,
+		"minpersonnel": 1,
+		"maxpersonnel": 1
+	},
+	{
+		"id": 23,
+		"caption": "Crew Carrier",
+		"coins": 10,
+		"credits": 8000,
+		"minpersonnel": 1,
+		"maxpersonnel": 12
+	},
+	{
+		"id": 24,
+		"caption": "Traffic Car",
+		"coins": 35,
+		"credits": 10000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 25,
+		"caption": "Armed Traffic Car",
+		"coins": 35,
+		"credits": 19000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 26,
+		"caption": "Heavy 4x4 Tanker",
+		"coins": 25,
+		"credits": 25000,
+		"minpersonnel": 1,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 27,
+		"caption": "PRV",
+		"coins": 20,
+		"credits": 12000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 28,
+		"caption": "SRV",
+		"coins": 20,
+		"credits": 12000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 29,
+		"caption": "Welfare Vehicle",
+		"coins": 25,
+		"credits": 15000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 30,
+		"caption": "ATV Carrier",
+		"coins": 20,
+		"credits": 12000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 31,
+		"caption": "Ambulance Control Unit",
+		"coins": 25,
+		"credits": 50000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 32,
+		"caption": "CBRN Vehicle",
+		"coins": 25,
+		"credits": 20000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 33,
+		"caption": "Mass Casualty Equipment",
+		"coins": 15,
+		"credits": 15000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 34,
+		"caption": "Ambulance Officer",
+		"coins": 15,
+		"credits": 25500,
+		"minpersonnel": 1,
+		"maxpersonnel": 1
+	},
+	{
+		"id": 35,
+		"caption": "BFU",
+		"coins": 10,
+		"credits": 17300,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 36,
+		"caption": "F/WrC",
+		"coins": 15,
+		"credits": 45000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 37,
+		"caption": "WrL CAFS",
+		"coins": 10,
+		"credits": 17300,
+		"minpersonnel": 2,
+		"maxpersonnel": 9
+	},
+	{
+		"id": 38,
+		"caption": "RP CAFS",
+		"coins": 10,
+		"credits": 25000,
+		"minpersonnel": 2,
+		"maxpersonnel": 9
+	},
+	{
+		"id": 39,
+		"caption": "OSU",
+		"coins": 15,
+		"credits": 30000,
+		"minpersonnel": 1,
+		"maxpersonnel": 6
+	},
+	{
+		"id": 40,
+		"caption": "PM",
+		"coins": 10,
+		"credits": 10000,
+		"minpersonnel": 0,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 41,
+		"caption": "Water Pod",
+		"coins": 8,
+		"credits": 17300,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 42,
+		"caption": "Bulk Foam Pod",
+		"coins": 8,
+		"credits": 17300,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 43,
+		"caption": "Rescue Pod",
+		"coins": 8,
+		"credits": 12180,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 44,
+		"caption": "Command Pod",
+		"coins": 8,
+		"credits": 25500,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 45,
+		"caption": "Welfare Pod",
+		"coins": 8,
+		"credits": 15000,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 46,
+		"caption": "BASU Pod",
+		"coins": 8,
+		"credits": 11680,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 47,
+		"caption": "Misting Pod",
+		"coins": 8,
+		"credits": 5000,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 48,
+		"caption": "Hazardous Materials Pod",
+		"coins": 8,
+		"credits": 19200,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 49,
+		"caption": "OSU Pod",
+		"coins": 8,
+		"credits": 30000,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 50,
+		"caption": "HVP",
+		"coins": 8,
+		"credits": 20000,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 51,
+		"caption": "PSU Carrier",
+		"coins": 8,
+		"credits": 8000,
+		"minpersonnel": 1,
+		"maxpersonnel": 9
+	},
+	{
+		"id": 52,
+		"caption": "Firearms Personnel Carrier",
+		"coins": 15,
+		"credits": 8000,
+		"minpersonnel": 1,
+		"maxpersonnel": 9
+	},
+	{
+		"id": 53,
+		"caption": "Multiple Dog Carrier",
+		"coins": 15,
+		"credits": 50000,
+		"minpersonnel": 1,
+		"maxpersonnel": 4
+	},
+	{
+		"id": 54,
+		"caption": "Detention Van",
+		"coins": 15,
+		"credits": 26000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 55,
+		"caption": "Mounted Unit",
+		"coins": 15,
+		"credits": 15000,
+		"minpersonnel": 1,
+		"maxpersonnel": 8
+	},
+	{
+		"id": 56,
+		"caption": "M-RAV",
+		"coins": 23,
+		"credits": 10000,
+		"minpersonnel": 1,
+		"maxpersonnel": 6
+	}
+]

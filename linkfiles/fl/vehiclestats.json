@@ -1,0 +1,258 @@
+[
+    {
+        "id": 0,
+        "caption": "CAS 20",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 4,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 1,
+        "caption": "CAS 30",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 2,
+        "caption": "AZ",
+        "coins": 30,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 3,
+        "caption": "VEA",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 4,
+        "caption": "TA",
+        "coins": 25,
+        "credits": 12180,
+        "minpersonnel": 2,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 5,
+        "caption": "RZP",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 3,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 6,
+        "caption": "KHA",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 7,
+        "caption": "TACH",
+        "coins": 25,
+        "credits": 19200,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 8,
+        "caption": "Policejní automobil",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 9,
+        "caption": "Vrtulník LZS",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 3,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 10,
+        "caption": "AP",
+        "coins": 25,
+        "credits": 14000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 11,
+        "caption": "Policejní vrtulník",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 12,
+        "caption": "Obrněné vozidlo URNA",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 6,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 13,
+        "caption": "Vozidlo Kynologů PČR",
+        "coins": 25,
+        "credits": 7000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 14,
+        "caption": "Policejní motocykl",
+        "coins": 18,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 15,
+        "caption": "URNA SUV",
+        "coins": 23,
+        "credits": 7000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 16,
+        "caption": "Protiplynový automobil",
+        "coins": 25,
+        "credits": 11680,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 17,
+        "caption": "MOS",
+        "coins": 25,
+        "credits": 25500,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 18,
+        "caption": "Vyzidlo vyšetřovatelů DN",
+        "coins": 10,
+        "credits": 15000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 19,
+        "caption": "Vozidlo pyrotechnika PČR",
+        "coins": 35,
+        "credits": 35000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 20,
+        "caption": "Přívěs se člunem",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 21,
+        "caption": "Přívěs se člunem VZS ČČK",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 22,
+        "caption": "Potápěčský automobil",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 23,
+        "caption": "SUV VZS ČČK",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 24,
+        "caption": "Dodávka VZS ČČK",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 25,
+        "caption": "RV",
+        "coins": 20,
+        "credits": 4000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 26,
+        "caption": "IP",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 27,
+        "caption": "RLP",
+        "coins": 30,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 28,
+        "caption": "VYA",
+        "coins": 10,
+        "credits": 35000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 29,
+        "caption": "AJ",
+        "coins": 10,
+        "credits": 35000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 30,
+        "caption": "DA",
+        "coins": 10,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9
+    },
+    {
+        "id": 31,
+        "caption": "RZA",
+        "coins": 10,
+        "credits": 20000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3
+    }
+]

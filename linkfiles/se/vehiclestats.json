@@ -1,0 +1,322 @@
+[
+    {
+        "id": 0,
+        "caption": "BAS 1 - Släckbil",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 3000
+    },
+    {
+        "id": 1,
+        "caption": "BAS 2 - Släckbil",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 1500
+    },
+    {
+        "id": 2,
+        "caption": "Stegbil",
+        "coins": 30,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 3,
+        "caption": "Brandbefäl",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 4,
+        "caption": "Lastväxlare",
+        "coins": 25,
+        "credits": 12180,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 5,
+        "caption": "Ambulans",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 6,
+        "caption": "Tankbil",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 6000
+    },
+    {
+        "id": 7,
+        "caption": "Kemskyddsenhet",
+        "coins": 25,
+        "credits": 19200,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 8,
+        "caption": "Radiobil",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 9,
+        "caption": "Ambulanshelikopter",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 3,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 10,
+        "caption": "Luftfordon",
+        "coins": 25,
+        "credits": 11680,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 11,
+        "caption": "Räddningsledning",
+        "coins": 25,
+        "credits": 25500,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 12,
+        "caption": "Räddningsbil",
+        "coins": 25,
+        "credits": 19000,
+        "minpersonnel": 2,
+        "maxpersonnel": 6,
+        "water": 3000
+    },
+    {
+        "id": 13,
+        "caption": "Polishelikopter",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 14,
+        "caption": "Bepansrat insatsfordon",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 8,
+        "maxpersonnel": 8
+    },
+    {
+        "id": 15,
+        "caption": "Hundenhet",
+        "coins": 25,
+        "credits": 7000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 16,
+        "caption": "Polismotorcykel",
+        "coins": 18,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 17,
+        "caption": "Insatsfordon",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 3,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 18,
+        "caption": "Dykbil",
+        "coins": 25,
+        "credits": 19000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 19,
+        "caption": "Tryckkammarbil",
+        "coins": 25,
+        "credits": 19000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 20,
+        "caption": "Liten räddningsbåt",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 21,
+        "caption": "Terrängbil",
+        "coins": 19,
+        "credits": 19000,
+        "minpersonnel": 3,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 22,
+        "caption": "Bandvagn",
+        "coins": 8,
+        "credits": 8000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 23,
+        "caption": "ATV",
+        "coins": 5,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 24,
+        "caption": "Polishäst",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 25,
+        "caption": "Brandhelikopter",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 2,
+        "maxpersonnel": 5,
+        "water": 7500
+    },
+    {
+        "id": 26,
+        "caption": "Vattenbombare",
+        "coins": 50,
+        "credits": 1000000,
+        "minpersonnel": 2,
+        "maxpersonnel": 5,
+        "water": 7200
+    },
+    {
+        "id": 27,
+        "caption": "Stor Vattenbombare",
+        "coins": 65,
+        "credits": 1500000,
+        "minpersonnel": 2,
+        "maxpersonnel": 5,
+        "water": 12000
+    },
+    {
+        "id": 28,
+        "caption": "Akutläkarbil",
+        "coins": 20,
+        "credits": 4000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 29,
+        "caption": "FIP",
+        "coins": 25,
+        "credits": 4000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 30,
+        "caption": "Lättvårdsambulans",
+        "coins": 12,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 31,
+        "caption": "Ledningsfordon",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 3,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 32,
+        "caption": "Jourläkare",
+        "coins": 20,
+        "credits": 4000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 33,
+        "caption": "IVPA",
+        "coins": 20,
+        "credits": 4000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 34,
+        "caption": "MC-Ambulans",
+        "coins": 15,
+        "credits": 12000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 35,
+        "caption": "Slangbil",
+        "coins": 10,
+        "credits": 15000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 36,
+        "caption": "Slangbil med pump",
+        "coins": 15,
+        "credits": 35000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 37,
+        "caption": "Skumenhet",
+        "coins": 15,
+        "credits": 35000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3,
+        "foam": 3000
+    },
+    {
+        "id": 38,
+        "caption": "Motorspruta",
+        "coins": 10,
+        "credits": 10000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    }
+]

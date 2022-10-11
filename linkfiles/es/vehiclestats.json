@@ -1,0 +1,210 @@
+[
+    {
+        "id": 0,
+        "caption": "Camión BUP",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 3000,
+        "foam": 500
+    },
+    {
+        "id": 1,
+        "caption": "Camión BUL",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 1500,
+        "foam": 250
+    },
+    {
+        "id": 2,
+        "caption": "Camión AE",
+        "coins": 30,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 3,
+        "caption": "Vehículo UMC",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 4,
+        "caption": "FUV",
+        "coins": 25,
+        "credits": 12180,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 5,
+        "caption": "Ambulancia",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 6,
+        "caption": "Camión BNP",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 6000
+    },
+    {
+        "id": 7,
+        "caption": "Camión TPP",
+        "coins": 25,
+        "credits": 19200,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 8,
+        "caption": "Coche Patrulla",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 9,
+        "caption": "HEMS",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 10,
+        "caption": "Vehículo aéreo",
+        "coins": 25,
+        "credits": 11680,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 11,
+        "caption": "Vehículo de mando móvil",
+        "coins": 25,
+        "credits": 25500,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 12,
+        "caption": "Vehículo de rescate",
+        "coins": 25,
+        "credits": 19000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 3000,
+        "foam": 500
+    },
+    {
+        "id": 13,
+        "caption": "Helicóptero de Policía",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 14,
+        "caption": "Unidad Antidisturbios",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 6,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 15,
+        "caption": "Unidad GEO",
+        "coins": 23,
+        "credits": 7000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 16,
+        "caption": "Unidad Canina",
+        "coins": 25,
+        "credits": 7000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 17,
+        "caption": "Moto de Policía",
+        "coins": 18,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 18,
+        "caption": "VIR",
+        "coins": 20,
+        "credits": 4000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 19,
+        "caption": "Unidad logística de AMV",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 20,
+        "caption": "Médico de cabecera",
+        "coins": 20,
+        "credits": 4000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 21,
+        "caption": "Motocicleta de intervención rápida",
+        "coins": 15,
+        "credits": 12000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 22,
+        "caption": "Ambulancia SVB",
+        "coins": 12,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 23,
+        "caption": "Vehículo de extinción por espuma",
+        "coins": 15,
+        "credits": 35000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3,
+        "foam": 3000
+    },
+    {
+        "id": 24,
+        "caption": "Remolque con bomba accionada por motor",
+        "coins": 10,
+        "credits": 10000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    }
+]

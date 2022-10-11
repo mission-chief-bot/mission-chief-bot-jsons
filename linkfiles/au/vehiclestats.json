@@ -1,0 +1,292 @@
+[
+    {
+        "id": 0,
+        "caption": "Pumper",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 2000
+    },
+    {
+        "id": 1,
+        "caption": "Medium Tanker",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 1800
+    },
+    {
+        "id": 2,
+        "caption": "Turntable Ladder",
+        "coins": 30,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 3,
+        "caption": "Support Vehicle",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 4,
+        "caption": "Major Rescue Vehicle",
+        "coins": 25,
+        "credits": 12180,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 5,
+        "caption": "Ambulance",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 6,
+        "caption": "Bulk Water Tanker",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 11000
+    },
+    {
+        "id": 7,
+        "caption": "HAZMAT Truck",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 8,
+        "caption": "Police car",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 9,
+        "caption": "Air Ambulance",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 10,
+        "caption": "BASU",
+        "coins": 25,
+        "credits": 11680,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 11,
+        "caption": "MCV",
+        "coins": 25,
+        "credits": 25500,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 0
+    },
+    {
+        "id": 12,
+        "caption": "Rescue Pumper",
+        "coins": 25,
+        "credits": 19000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 0
+    },
+    {
+        "id": 13,
+        "caption": "Aerial Pumper",
+        "coins": 25,
+        "credits": 19000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 0
+    },
+    {
+        "id": 14,
+        "caption": "Police helicopter",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 15,
+        "caption": "TOG Armoured Bearcat",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 6,
+        "maxpersonnel": 10
+    },
+    {
+        "id": 16,
+        "caption": "K-9 Unit",
+        "coins": 25,
+        "credits": 7000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 17,
+        "caption": "Police Motorcycle",
+        "coins": 18,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 1,
+        "water": 0
+    },
+    {
+        "id": 18,
+        "caption": "TOG SUV",
+        "coins": 23,
+        "credits": 7000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 19,
+        "caption": "Heavy Tanker",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 5,
+        "water": 4000
+    },
+    {
+        "id": 20,
+        "caption": "SES Vehicle",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 0
+    },
+    {
+        "id": 21,
+        "caption": "Rescue Boat",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 22,
+        "caption": "Mounted Police",
+        "coins": 10,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 23,
+        "caption": "Paramedic Supervisor",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 24,
+        "caption": "ICP",
+        "coins": 15,
+        "credits": 12000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 25,
+        "caption": "ICS",
+        "coins": 15,
+        "credits": 12000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 26,
+        "caption": "Ambulance Rescue",
+        "coins": 15,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 27,
+        "caption": "Mass Casualty Unit",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 4,
+        "maxpersonnel": 10
+    },
+    {
+        "id": 28,
+        "caption": "Ultra-Light Tanker",
+        "coins": 5,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 500
+    },
+    {
+        "id": 29,
+        "caption": "Light Tanker",
+        "coins": 8,
+        "credits": 8000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4,
+        "water": 3000
+    },
+    {
+        "id": 30,
+        "caption": "Pumper Tanker",
+        "coins": 15,
+        "credits": 19000,
+        "minpersonnel": 4,
+        "maxpersonnel": 6,
+        "water": 3000
+    },
+    {
+        "id": 31,
+        "caption": "Fire Helicopter",
+        "coins": 25,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 1500
+    },
+    {
+        "id": 32,
+        "caption": "Bomber",
+        "coins": 25,
+        "credits": 1000000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1,
+        "water": 3200
+    },
+    {
+        "id": 33,
+        "caption": "Large Air Tanker",
+        "coins": 25,
+        "credits": 1500000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3,
+        "water": 13000
+    }
+]

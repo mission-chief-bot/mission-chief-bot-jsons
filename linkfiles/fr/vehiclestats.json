@@ -1,0 +1,380 @@
+[{
+		"id": 0,
+		"caption": "FPT",
+		"coins": 25,
+		"credits": 5000,
+		"minpersonnel": 4,
+		"maxpersonnel": 6,
+		"water": 3000
+	},
+	{
+		"id": 1,
+		"caption": "FPTL",
+		"coins": 25,
+		"credits": 5000,
+		"minpersonnel": 4,
+		"maxpersonnel": 6,
+		"water": 2000
+	},
+	{
+		"id": 2,
+		"caption": "EPA",
+		"coins": 30,
+		"credits": 10000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 3,
+		"caption": "VLCG",
+		"coins": 25,
+		"credits": 10000,
+		"minpersonnel": 1,
+		"maxpersonnel": 1
+	},
+	{
+		"id": 4,
+		"caption": "VSR",
+		"coins": 25,
+		"credits": 12180,
+		"minpersonnel": 2,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 5,
+		"caption": "ASSU",
+		"coins": 25,
+		"credits": 5000,
+		"minpersonnel": 3,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 6,
+		"caption": "CCGC",
+		"coins": 25,
+		"credits": 17300,
+		"minpersonnel": 1,
+		"maxpersonnel": 2,
+		"water": 11000
+	},
+	{
+		"id": 7,
+		"caption": "VIRT",
+		"coins": 25,
+		"credits": 19200,
+		"minpersonnel": 1,
+		"maxpersonnel": 4
+	},
+	{
+		"id": 8,
+		"caption": "Véhicule de patrouille",
+		"coins": 25,
+		"credits": 5000,
+		"minpersonnel": 2,
+		"maxpersonnel": 4
+	},
+	{
+		"id": 9,
+		"caption": "Dragon",
+		"coins": 30,
+		"credits": 300000,
+		"minpersonnel": 3,
+		"maxpersonnel": 5
+	},
+	{
+		"id": 10,
+		"caption": "VAR",
+		"coins": 25,
+		"credits": 11680,
+		"minpersonnel": 1,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 11,
+		"caption": "VPC",
+		"coins": 25,
+		"credits": 25500,
+		"minpersonnel": 1,
+		"maxpersonnel": 6
+	},
+	{
+		"id": 12,
+		"caption": "FPTSR",
+		"coins": 25,
+		"credits": 19000,
+		"minpersonnel": 2,
+		"maxpersonnel": 6,
+		"water": 3000
+	},
+	{
+		"id": 13,
+		"caption": "VTU",
+		"coins": 25,
+		"credits": 12180,
+		"minpersonnel": 1,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 14,
+		"caption": "VGRIMP",
+		"coins": 25,
+		"credits": 19000,
+		"minpersonnel": 2,
+		"maxpersonnel": 5
+	},
+	{
+		"id": 15,
+		"caption": "BEA",
+		"coins": 25,
+		"credits": 19000,
+		"minpersonnel": 2,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 16,
+		"caption": "VPL",
+		"coins": 25,
+		"credits": 10000,
+		"minpersonnel": 3,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 17,
+		"caption": "BLS",
+		"coins": 12,
+		"credits": 6000,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 18,
+		"caption": "Choucas",
+		"coins": 30,
+		"credits": 300000,
+		"minpersonnel": 2,
+		"maxpersonnel": 4
+	},
+	{
+		"id": 19,
+		"caption": "Equipe cynophile",
+		"coins": 25,
+		"credits": 7000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 20,
+		"caption": "Unité motocycliste",
+		"coins": 18,
+		"credits": 2500,
+		"minpersonnel": 1,
+		"maxpersonnel": 1
+	},
+	{
+		"id": 21,
+		"caption": "CCFS",
+		"coins": 25,
+		"credits": 19000,
+		"minpersonnel": 2,
+		"maxpersonnel": 4,
+		"water": 14500
+	},
+	{
+		"id": 22,
+		"caption": "CCFM",
+		"coins": 8,
+		"credits": 8000,
+		"minpersonnel": 2,
+		"maxpersonnel": 4,
+		"water": 4000
+	},
+	{
+		"id": 23,
+		"caption": "CCFL",
+		"coins": 5,
+		"credits": 5000,
+		"minpersonnel": 2,
+		"maxpersonnel": 4,
+		"water": 2000
+	},
+	{
+		"id": 24,
+		"caption": "VLHR",
+		"coins": 25,
+		"credits": 10000,
+		"minpersonnel": 1,
+		"maxpersonnel": 1
+	},
+	{
+		"id": 25,
+		"caption": "VSAV",
+		"coins": 25,
+		"credits": 5000,
+		"minpersonnel": 3,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 26,
+		"caption": "VL SSSM",
+		"coins": 20,
+		"credits": 4000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 27,
+		"caption": "VLM",
+		"coins": 20,
+		"credits": 4000,
+		"minpersonnel": 3,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 28,
+		"caption": "AR",
+		"coins": 30,
+		"credits": 10000,
+		"minpersonnel": 3,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 29,
+		"caption": "PC DSM",
+		"coins": 25,
+		"credits": 20000,
+		"minpersonnel": 2,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 30,
+		"caption": "Ambulance Type A",
+		"coins": 25,
+		"credits": 5000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 31,
+		"caption": "VTP",
+		"coins": 10,
+		"credits": 10000,
+		"minpersonnel": 1,
+		"maxpersonnel": 9
+	},
+	{
+		"id": 32,
+		"caption": "CCRL",
+		"coins": 10,
+		"credits": 15000,
+		"minpersonnel": 2,
+		"maxpersonnel": 4,
+		"water": 1400
+	},
+	{
+		"id": 33,
+		"caption": "CCRM",
+		"coins": 10,
+		"credits": 18000,
+		"minpersonnel": 2,
+		"maxpersonnel": 6,
+		"water": 2500
+	},
+	{
+		"id": 34,
+		"caption": "CCRSR",
+		"coins": 15,
+		"credits": 30000,
+		"minpersonnel": 2,
+		"maxpersonnel": 6,
+		"water": 2000
+	},
+	{
+		"id": 35,
+		"caption": "FMOGP",
+		"coins": 15,
+		"credits": 35000,
+		"minpersonnel": 2,
+		"maxpersonnel": 3,
+		"water": 12000
+	},
+	{
+		"id": 36,
+		"caption": "CDHR",
+		"coins": 10,
+		"credits": 15000,
+		"minpersonnel": 2,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 37,
+		"caption": "FDGP",
+		"coins": 15,
+		"credits": 35000,
+		"minpersonnel": 2,
+		"maxpersonnel": 4
+	},
+	{
+		"id": 38,
+		"caption": "MPR",
+		"coins": 10,
+		"credits": 10000,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 39,
+		"caption": "VR",
+		"coins": 5,
+		"credits": 10000,
+		"minpersonnel": 1,
+		"maxpersonnel": 6
+	},
+	{
+		"id": 40,
+		"caption": "VCT",
+		"coins": 10,
+		"credits": 25000,
+		"minpersonnel": 1,
+		"maxpersonnel": 4
+	},
+	{
+		"id": 41,
+		"caption": "RAM",
+		"coins": 10,
+		"credits": 25000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 42,
+		"caption": "VTP",
+		"coins": 10,
+		"credits": 15000,
+		"minpersonnel": 2,
+		"maxpersonnel": 2
+	},
+	{
+		"id": 43,
+		"caption": "ELE",
+		"coins": 10,
+		"credits": 35000,
+		"minpersonnel": 1,
+		"maxpersonnel": 3
+	},
+	{
+		"id": 44,
+		"caption": "ReBP",
+		"coins": 10,
+		"credits": 10000,
+		"minpersonnel": 0,
+		"maxpersonnel": 0
+	},
+	{
+		"id": 45,
+		"caption": "VAT",
+		"coins": 10,
+		"credits": 25000,
+		"minpersonnel": 1,
+		"maxpersonnel": 2
+	}
+]

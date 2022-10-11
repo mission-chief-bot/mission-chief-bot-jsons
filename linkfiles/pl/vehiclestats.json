@@ -1,0 +1,594 @@
+[
+    {
+        "id": 0,
+        "caption": "Ciężki samochód gaśniczy",
+        "coins": 25,
+        "credits": 7500,
+        "minpersonnel": 2,
+        "maxpersonnel": 6,
+        "water": 5000,
+        "foam": 500
+    },
+    {
+        "id": 1,
+        "caption": "Średni samochód gaśniczy",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 6,
+        "water": 2500,
+        "foam": 250
+    },
+    {
+        "id": 2,
+        "caption": "SD",
+        "coins": 30,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 3,
+        "caption": "SLOp",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 4,
+        "water": 0
+    },
+    {
+        "id": 4,
+        "caption": "Samochód ratownictwa technicznego",
+        "coins": 25,
+        "credits": 12180,
+        "minpersonnel": 3,
+        "maxpersonnel": 5,
+        "water": 0
+    },
+    {
+        "id": 5,
+        "caption": "Ambulans P",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 6,
+        "caption": "Cysterna gaśnicza",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 25000
+    },
+    {
+        "id": 7,
+        "caption": "Samochód ratownictwa chemicznego",
+        "coins": 25,
+        "credits": 19200,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 8,
+        "caption": "Radiowóz OPI",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 9,
+        "caption": "Śmigłowiec LPR",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 3,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 10,
+        "caption": "SPGaz",
+        "coins": 25,
+        "credits": 11680,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 11,
+        "caption": "Samochód Dowodzenia i Łączności",
+        "coins": 25,
+        "credits": 25500,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 12,
+        "caption": "GBARt",
+        "coins": 25,
+        "credits": 19000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 3000,
+        "foam": 250
+    },
+    {
+        "id": 13,
+        "caption": "SH",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 14,
+        "caption": "Helikopter Policyjny",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1,
+        "water": 0
+    },
+    {
+        "id": 15,
+        "caption": "Opancerzony Pojazd SPKP",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 6,
+        "maxpersonnel": 6,
+        "water": 0
+    },
+    {
+        "id": 16,
+        "caption": "Jednostka K-9",
+        "coins": 25,
+        "credits": 7000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 17,
+        "caption": "Motocykl Policyjny",
+        "coins": 18,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 1,
+        "water": 0
+    },
+    {
+        "id": 18,
+        "caption": "SUV SPKP",
+        "coins": 23,
+        "credits": 7000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4,
+        "water": 0
+    },
+    {
+        "id": 19,
+        "caption": "S.WOPR",
+        "coins": 25,
+        "credits": 8500,
+        "minpersonnel": 2,
+        "maxpersonnel": 4,
+        "water": 0
+    },
+    {
+        "id": 20,
+        "caption": "Quad",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1,
+        "water": 0
+    },
+    {
+        "id": 21,
+        "caption": "L.Ratownicza",
+        "coins": 12,
+        "credits": 12600,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 22,
+        "caption": "Ponton",
+        "coins": 12,
+        "credits": 9000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 23,
+        "caption": "Skuter",
+        "coins": 12,
+        "credits": 7500,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 24,
+        "caption": "Samochód SLRw",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4,
+        "water": 0
+    },
+    {
+        "id": 25,
+        "caption": "Dźwig SP",
+        "coins": 25,
+        "credits": 14500,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 26,
+        "caption": "Łódź SP",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 27,
+        "caption": "SRWys",
+        "coins": 25,
+        "credits": 7200,
+        "minpersonnel": 3,
+        "maxpersonnel": 5,
+        "water": 0
+    },
+    {
+        "id": 28,
+        "caption": "SLRr",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 4,
+        "water": 0
+    },
+    {
+        "id": 29,
+        "caption": "Lekki samochód gaśniczy",
+        "coins": 25,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 1000,
+        "foam": 100
+    },
+    {
+        "id": 30,
+        "caption": "Radiowóz WRD",
+        "coins": 10,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 31,
+        "caption": "Ambulans S",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 3,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 32,
+        "caption": "Samochód Lekarza",
+        "coins": 20,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 33,
+        "caption": "Motoambulans",
+        "coins": 20,
+        "credits": 6000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1,
+        "water": 0
+    },
+    {
+        "id": 34,
+        "caption": "Ambulans T",
+        "coins": 12,
+        "credits": 5000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 35,
+        "caption": "SRMed",
+        "coins": 20,
+        "credits": 4000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 36,
+        "caption": "Kontenerowiec",
+        "coins": 15,
+        "credits": 50000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 37,
+        "caption": "SCRd",
+        "coins": 25,
+        "credits": 40000,
+        "minpersonnel": 1,
+        "maxpersonnel": 4,
+        "water": 0
+    },
+    {
+        "id": 38,
+        "caption": "GCBARt",
+        "coins": 25,
+        "credits": 27000,
+        "minpersonnel": 2,
+        "maxpersonnel": 6,
+        "water": 6500,
+        "foam": 500
+    },
+    {
+        "id": 39,
+        "caption": "GLBARt",
+        "coins": 25,
+        "credits": 14500,
+        "minpersonnel": 2,
+        "maxpersonnel": 6,
+        "water": 1500,
+        "foam": 100
+    },
+    {
+        "id": 40,
+        "caption": "Kontener inżynieryjno - techniczny",
+        "coins": 8,
+        "credits": 5000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 41,
+        "caption": "Kontener dekontaminacyjny",
+        "coins": 8,
+        "credits": 5000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 42,
+        "caption": "Kontener z AODO",
+        "coins": 8,
+        "credits": 5000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 43,
+        "caption": "Kontener dowodzeniowy",
+        "coins": 8,
+        "credits": 5000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 44,
+        "caption": "Kontener do przewozu środków gaśniczych",
+        "coins": 8,
+        "credits": 5000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0,
+        "foam": 800
+    },
+    {
+        "id": 45,
+        "caption": "Kontener socjalno - sanitarny",
+        "coins": 8,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 46,
+        "caption": "Kontener powodziowo - pompowy",
+        "coins": 8,
+        "credits": 5000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 47,
+        "caption": "Kontener - cysterna",
+        "coins": 8,
+        "credits": 5000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 15000
+    },
+    {
+        "id": 48,
+        "caption": "Przyczepa pompowa",
+        "coins": 8,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 49,
+        "caption": "Przyczepa chemiczno - ekologiczna",
+        "coins": 8,
+        "credits": 10000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 50,
+        "caption": "Przyczepa dekontaminacyjna",
+        "coins": 8,
+        "credits": 10000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 51,
+        "caption": "Przyczepa przeciwpowodziowa",
+        "coins": 8,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 52,
+        "caption": "Przyczepa ze sprzętem AODO",
+        "coins": 8,
+        "credits": 8000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 53,
+        "caption": "Przyczepa ze sprzętem medycznym",
+        "coins": 8,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 54,
+        "caption": "Przyczepa z łódką strażacką",
+        "coins": 8,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 55,
+        "caption": "GCBAPr",
+        "coins": 15,
+        "credits": 45000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 6000,
+        "foam": 1500
+    },
+    {
+        "id": 56,
+        "caption": "GBAPr",
+        "coins": 15,
+        "credits": 35000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 2500,
+        "foam": 750
+    },
+    {
+        "id": 57,
+        "caption": "GCPr",
+        "coins": 10,
+        "credits": 35000,
+        "minpersonnel": 1,
+        "maxpersonnel": 4,
+        "foam": 6000
+    },
+    {
+        "id": 58,
+        "caption": "GPr",
+        "coins": 10,
+        "credits": 25000,
+        "minpersonnel": 1,
+        "maxpersonnel": 4,
+        "foam": 3000
+    },
+    {
+        "id": 59,
+        "caption": "GLPr",
+        "coins": 10,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "foam": 750
+    },
+    {
+        "id": 60,
+        "caption": "Przyczepa ze środkiem pianotwórczym",
+        "coins": 10,
+        "credits": 10000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "foam": 450
+    },
+    {
+        "id": 61,
+        "caption": "SW",
+        "coins": 8,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 62,
+        "caption": "Przyczepa wężowa",
+        "coins": 8,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 63,
+        "caption": "Przyczepa wielofunkcyjna",
+        "coins": 8,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 64,
+        "caption": "Kontener wężowy",
+        "coins": 8,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    }
+]

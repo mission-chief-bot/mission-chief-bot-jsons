@@ -1,0 +1,905 @@
+[
+    {
+        "id": 0,
+        "caption": "LF 20",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 2000,
+        "pumpcap": 2000
+    },
+    {
+        "id": 1,
+        "caption": "LF 10",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 1200,
+        "pumpcap": 1000
+    },
+    {
+        "id": 2,
+        "caption": "DLK 23",
+        "coins": 30,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 3,
+        "caption": "ELW 1",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 4,
+        "caption": "RW",
+        "coins": 25,
+        "credits": 12180,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 5,
+        "caption": "GW-A",
+        "coins": 25,
+        "credits": 11680,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 6,
+        "caption": "LF 8/6",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 600,
+        "pumpcap": 800
+    },
+    {
+        "id": 7,
+        "caption": "LF 20/16",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 1600,
+        "pumpcap": 2000
+    },
+    {
+        "id": 8,
+        "caption": "LF 10/6",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 600,
+        "pumpcap": 1000
+    },
+    {
+        "id": 9,
+        "caption": "LF 16-TS",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 0,
+        "pumpcap": 1600
+    },
+    {
+        "id": 10,
+        "caption": "GW-Öl",
+        "coins": 25,
+        "credits": 12000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 11,
+        "caption": "GW-L2-Wasser",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 12,
+        "caption": "GW-Messtechnik",
+        "coins": 25,
+        "credits": 18300,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 13,
+        "caption": "SW 1000",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 14,
+        "caption": "SW 2000",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 0
+    },
+    {
+        "id": 15,
+        "caption": "SW 2000-Tr",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 16,
+        "caption": "SW Kats",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 17,
+        "caption": "TLF 2000",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 2000,
+        "pumpcap": 1000
+    },
+    {
+        "id": 18,
+        "caption": "TLF 3000",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 3000,
+        "pumpcap": 2000
+    },
+    {
+        "id": 19,
+        "caption": "TLF 8/8",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 800,
+        "pumpcap": 800
+    },
+    {
+        "id": 20,
+        "caption": "TLF 8/18",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 1800,
+        "pumpcap": 800
+    },
+    {
+        "id": 21,
+        "caption": "TLF 16/24-Tr",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 2400,
+        "pumpcap": 1600
+    },
+    {
+        "id": 22,
+        "caption": "TLF 16/25",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 2400,
+        "pumpcap": 1600
+    },
+    {
+        "id": 23,
+        "caption": "TLF 16/45",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 4500,
+        "pumpcap": 1600
+    },
+    {
+        "id": 24,
+        "caption": "TLF 20/40",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 4000,
+        "pumpcap": 2000
+    },
+    {
+        "id": 25,
+        "caption": "TLF 20/40-SL",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 4000,
+        "pumpcap": 2000
+    },
+    {
+        "id": 26,
+        "caption": "TLF 16",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 1800,
+        "pumpcap": 1600
+    },
+    {
+        "id": 27,
+        "caption": "GW-Gefahrgut",
+        "coins": 25,
+        "credits": 19200,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 28,
+        "caption": "RTW",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 29,
+        "caption": "NEF",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 30,
+        "caption": "HLF 20",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 1600,
+        "pumpcap": 2000
+    },
+    {
+        "id": 31,
+        "caption": "RTH",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 32,
+        "caption": "FuStW",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 33,
+        "caption": "GW-Höhenrettung",
+        "coins": 25,
+        "credits": 19500,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 0
+    },
+    {
+        "id": 34,
+        "caption": "ELW 2",
+        "coins": 25,
+        "credits": 25500,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 0
+    },
+    {
+        "id": 35,
+        "caption": "leBefKw",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 36,
+        "caption": "MTW",
+        "coins": 12,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 0
+    },
+    {
+        "id": 37,
+        "caption": "TSF-W",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 500,
+        "pumpcap": 1000
+    },
+    {
+        "id": 38,
+        "caption": "KTW",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 39,
+        "caption": "GKW",
+        "coins": 25,
+        "credits": 13000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9
+    },
+    {
+        "id": 40,
+        "caption": "MTW-TZ",
+        "coins": 12,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 41,
+        "caption": "MzKW",
+        "coins": 25,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9
+    },
+    {
+        "id": 42,
+        "caption": "LKW K 9",
+        "coins": 25,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 43,
+        "caption": "BRmG R",
+        "coins": 25,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 44,
+        "caption": "Anh DLE",
+        "coins": 25,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 45,
+        "caption": "MLW 5",
+        "coins": 12,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 46,
+        "caption": "WLF",
+        "coins": 12,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 47,
+        "caption": "AB-Rüst",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 48,
+        "caption": "AB-Atemschutz",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 49,
+        "caption": "AB-Öl",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 50,
+        "caption": "GruKw",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9
+    },
+    {
+        "id": 51,
+        "caption": "FüKw",
+        "coins": 25,
+        "credits": 17500,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 52,
+        "caption": "GefKw",
+        "coins": 25,
+        "credits": 13000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 53,
+        "caption": "Dekon-P",
+        "coins": 25,
+        "credits": 23100,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 54,
+        "caption": "AB-Dekon-P",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 55,
+        "caption": "KdoW-LNA",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1,
+        "water": 0
+    },
+    {
+        "id": 56,
+        "caption": "KdoW-OrgL",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1,
+        "water": 0
+    },
+    {
+        "id": 57,
+        "caption": "FwK",
+        "coins": 25,
+        "credits": 30000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 58,
+        "caption": "KTW Typ B",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 59,
+        "caption": "ELW 1 (SEG)",
+        "coins": 25,
+        "credits": 25500,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 60,
+        "caption": "GW-San",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 6,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 61,
+        "caption": "Polizeihubschrauber",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 62,
+        "caption": "AB-Schlauch",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 63,
+        "caption": "GW-Taucher",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 64,
+        "caption": "GW-Wasserrettung",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 65,
+        "caption": "LKW 7 Lkr 19 tm",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 66,
+        "caption": "Anh MzB",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 67,
+        "caption": "Anh SchlB",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 68,
+        "caption": "Anh MzAB",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 69,
+        "caption": "Tauchkraftwagen",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 70,
+        "caption": "MZB",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 71,
+        "caption": "AB-MZB",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 72,
+        "caption": "WaWe 10",
+        "coins": 25,
+        "credits": 13000,
+        "minpersonnel": 5,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 73,
+        "caption": "GRTW",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 6,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 74,
+        "caption": "NAW",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 3,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 75,
+        "caption": "FLF",
+        "coins": 25,
+        "credits": 80000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3,
+        "water": 12000
+    },
+    {
+        "id": 76,
+        "caption": "Rettungstreppe",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 2,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 77,
+        "caption": "AB-Gefahrgut",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 78,
+        "caption": "AB-Einsatzleitung",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 79,
+        "caption": "SEK - ZF",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 3,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 80,
+        "caption": "SEK - MTF",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 9,
+        "maxpersonnel": 9
+    },
+    {
+        "id": 81,
+        "caption": "MEK - ZF",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 3,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 82,
+        "caption": "MEK - MTF",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 9,
+        "maxpersonnel": 9
+    },
+    {
+        "id": 83,
+        "caption": "GW-Werkfeuerwehr",
+        "coins": 30,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 0
+    },
+    {
+        "id": 84,
+        "caption": "ULF mit Löscharm",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 5000
+    },
+    {
+        "id": 85,
+        "caption": "TM 50",
+        "coins": 30,
+        "credits": 20000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 86,
+        "caption": "Turbolöscher",
+        "coins": 30,
+        "credits": 12500,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 87,
+        "caption": "TLF 4000",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 4000,
+        "pumpcap": 2000
+    },
+    {
+        "id": 88,
+        "caption": "KLF",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 500,
+        "pumpcap": 1000
+    },
+    {
+        "id": 89,
+        "caption": "MLF",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 1000,
+        "pumpcap": 1000
+    },
+    {
+        "id": 90,
+        "caption": "HLF 10",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 1,
+        "maxpersonnel": 9,
+        "water": 1000,
+        "pumpcap": 1000
+    },
+    {
+        "id": 91,
+        "caption": "Rettungshundefahrzeug",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 4,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 92,
+        "caption": "Anh Hund",
+        "coins": 0,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 93,
+        "caption": "MTW-OV",
+        "coins": 0,
+        "credits": 19000,
+        "minpersonnel": 4,
+        "maxpersonnel": 5
+    },
+    {
+        "id": 94,
+        "caption": "DHuFüKw",
+        "coins": 10,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 95,
+        "caption": "Polizeimotorrad",
+        "coins": 10,
+        "credits": 3000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 96,
+        "caption": "Außenlastbehälter (allgemein)",
+        "coins": 10,
+        "credits": 50000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 97,
+        "caption": "ITW",
+        "coins": 25,
+        "credits": 30000,
+        "minpersonnel": 3,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 98,
+        "caption": "Zivilstreifenwagen",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 99,
+        "caption": "LKW 7 Lbw",
+        "coins": 25,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 100,
+        "caption": "MLW 4",
+        "coins": 25,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 7
+    },
+    {
+        "id": 101,
+        "caption": "Anh SwPu",
+        "coins": 25,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "pumpcap": 15000
+    },
+    {
+        "id": 102,
+        "caption": "Anh 7",
+        "coins": 25,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "pumpcap": 12400
+    },
+    {
+        "id": 103,
+        "caption": "FuStW (DGL)",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    }
+]
