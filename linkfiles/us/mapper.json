@@ -1,6 +1,26 @@
 {
-	"'we need' and 'water rescue training'": {
-		"name": "light boat",
-		"qty": "1"
-	}
+    "'We need' and 'more firefighter'": {
+        "name": "fire engine",
+        "qty": "1"
+    },
+    "'Needed vehicles:' and 'gal. foam'": {
+        "name": "foam",
+        "qty": "2"
+    },
+    "'Needed vehicles:' and 'gal. water'": {
+        "name": "water",
+        "qty": "2"
+    },
+    "'Educated personnel' and 'EMS Mobile Command'": {
+        "name": "ems chief",
+        "qty": "1"
+    },
+    "'Needed vehicles:' and 'SWAT Personnel'": {
+        "name": "swat",
+        "qty": "1"
+    },
+    "'we need' and 'water rescue training'": {
+        "name": "light boat",
+        "qty": "1"
+    }
 }
