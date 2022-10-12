@@ -1,2 +1,10 @@
 [
+	"lekarz (staff, doctor ems)",
+	"radiowóz opi wymagany personel (required staff for radiowóz opi)",
+	"armatka wodna wymagany personel (required staff for armatka wodna)",
+	"specjalistyczny sprzęt opp wymagany personel (required staff for specjalistyczny sprzęt opp)",
+	"posiadany personel (staff owned)",
+	"oddziały prewencji policji (riot police extension)",
+	"ruchome stanowisko dowodzenia wymagany personel (required staff for ruchome stanowisko dowodzenia)",
+	"maks. pacjenci (max. patients)"
 ]
