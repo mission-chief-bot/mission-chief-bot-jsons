@@ -25,8 +25,7 @@
         "coins": 30,
         "credits": 10000,
         "minpersonnel": 1,
-        "maxpersonnel": 3,
-        "water": 0
+        "maxpersonnel": 3
     },
     {
         "id": 3,
@@ -34,8 +33,7 @@
         "coins": 25,
         "credits": 10000,
         "minpersonnel": 1,
-        "maxpersonnel": 3,
-        "water": 0
+        "maxpersonnel": 3
     },
     {
         "id": 4,
@@ -43,8 +41,7 @@
         "coins": 25,
         "credits": 12180,
         "minpersonnel": 1,
-        "maxpersonnel": 4,
-        "water": 0
+        "maxpersonnel": 4
     },
     {
         "id": 5,
@@ -52,8 +49,7 @@
         "coins": 25,
         "credits": 5000,
         "minpersonnel": 1,
-        "maxpersonnel": 3,
-        "water": 0
+        "maxpersonnel": 3
     },
     {
         "id": 6,
@@ -61,8 +57,7 @@
         "coins": 25,
         "credits": 11860,
         "minpersonnel": 1,
-        "maxpersonnel": 3,
-        "water": 0
+        "maxpersonnel": 3
     },
     {
         "id": 7,
@@ -79,8 +74,7 @@
         "coins": 25,
         "credits": 12180,
         "minpersonnel": 1,
-        "maxpersonnel": 4,
-        "water": 0
+        "maxpersonnel": 4
     },
     {
         "id": 9,
@@ -88,8 +82,7 @@
         "coins": 25,
         "credits": 19200,
         "minpersonnel": 1,
-        "maxpersonnel": 6,
-        "water": 0
+        "maxpersonnel": 6
     },
     {
         "id": 10,
@@ -97,8 +90,7 @@
         "coins": 25,
         "credits": 5000,
         "minpersonnel": 1,
-        "maxpersonnel": 2,
-        "water": 0
+        "maxpersonnel": 2
     },
     {
         "id": 11,
@@ -106,8 +98,7 @@
         "coins": 30,
         "credits": 300000,
         "minpersonnel": 1,
-        "maxpersonnel": 1,
-        "water": 0
+        "maxpersonnel": 1
     },
     {
         "id": 12,
@@ -115,8 +106,7 @@
         "coins": 25,
         "credits": 25500,
         "minpersonnel": 1,
-        "maxpersonnel": 6,
-        "water": 0
+        "maxpersonnel": 6
     },
     {
         "id": 13,
@@ -134,8 +124,7 @@
         "coins": 30,
         "credits": 300000,
         "minpersonnel": 1,
-        "maxpersonnel": 3,
-        "water": 0
+        "maxpersonnel": 3
     },
     {
         "id": 15,
@@ -143,8 +132,7 @@
         "coins": 20,
         "credits": 4000,
         "minpersonnel": 1,
-        "maxpersonnel": 2,
-        "water": 0
+        "maxpersonnel": 2
     },
     {
         "id": 16,
@@ -152,8 +140,7 @@
         "coins": 25,
         "credits": 10000,
         "minpersonnel": 6,
-        "maxpersonnel": 6,
-        "water": 0
+        "maxpersonnel": 6
     },
     {
         "id": 17,
@@ -181,8 +168,7 @@
         "coins": 25,
         "credits": 7000,
         "minpersonnel": 1,
-        "maxpersonnel": 2,
-        "water": 0
+        "maxpersonnel": 2
     },
     {
         "id": 20,
@@ -190,8 +176,7 @@
         "coins": 25,
         "credits": 25000,
         "minpersonnel": 6,
-        "maxpersonnel": 6,
-        "water": 0
+        "maxpersonnel": 6
     },
     {
         "id": 21,
@@ -199,8 +184,7 @@
         "coins": 25,
         "credits": 19000,
         "minpersonnel": 1,
-        "maxpersonnel": 5,
-        "water": 0
+        "maxpersonnel": 5
     },
     {
         "id": 22,
@@ -208,8 +192,7 @@
         "coins": 12,
         "credits": 6000,
         "minpersonnel": 0,
-        "maxpersonnel": 0,
-        "water": 0
+        "maxpersonnel": 0
     },
     {
         "id": 23,
@@ -217,8 +200,7 @@
         "coins": 18,
         "credits": 2500,
         "minpersonnel": 1,
-        "maxpersonnel": 1,
-        "water": 0
+        "maxpersonnel": 1
     },
     {
         "id": 24,
@@ -226,8 +208,7 @@
         "coins": 35,
         "credits": 35000,
         "minpersonnel": 2,
-        "maxpersonnel": 7,
-        "water": 0
+        "maxpersonnel": 7
     },
     {
         "id": 25,
@@ -235,8 +216,7 @@
         "coins": 35,
         "credits": 35000,
         "minpersonnel": 2,
-        "maxpersonnel": 6,
-        "water": 0
+        "maxpersonnel": 6
     },
     {
         "id": 26,
@@ -244,8 +224,7 @@
         "coins": 23,
         "credits": 7000,
         "minpersonnel": 2,
-        "maxpersonnel": 4,
-        "water": 0
+        "maxpersonnel": 4
     },
     {
         "id": 27,
@@ -315,8 +294,7 @@
         "coins": 10,
         "credits": 10000,
         "minpersonnel": 1,
-        "maxpersonnel": 12,
-        "water": 0
+        "maxpersonnel": 12
     },
     {
         "id": 35,
@@ -572,5 +550,69 @@
         "minpersonnel": 0,
         "maxpersonnel": 0,
         "foam": 650
+    },
+    {
+        "id": 66,
+        "caption": "Lifeguard Truck",
+        "coins": 10,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 67,
+        "caption": "Lifeguard Rescue",
+        "coins": 15,
+        "credits": 35000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 68,
+        "caption": "Lifeguard Supervisor",
+        "coins": 10,
+        "credits": 25000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 69,
+        "caption": "Small Coastal Boat",
+        "coins": 15,
+        "credits": 50000,
+        "minpersonnel": 2,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 70,
+        "caption": "Large Coastal Boat",
+        "coins": 25,
+        "credits": 75000,
+        "minpersonnel": 2,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 71,
+        "caption": "Coastal Helicopter",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 72,
+        "caption": "Coastal Guard Plane",
+        "coins": 30,
+        "credits": 500000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 73,
+        "caption": "Small Coastal Boat Trailer",
+        "coins": 15,
+        "credits": 50000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
     }
 ]
