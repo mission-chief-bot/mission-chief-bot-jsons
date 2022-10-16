@@ -30,6 +30,7 @@
  "Ambulans": [5, 31, 33],
  "ambulanse": [5, 31, 33],
  "ambulance": [5, 31, 33],
+ "ambulanse opp": [5, 31, 33],
  "ambulans p": [5],
  "ambulanse p": [5],
  "lekarz": [31, 32], 
@@ -108,5 +109,7 @@
  "aprd": [75],
  "armatki wodne": [69],
  "specjalistyczny sprzęt opp (pickup)": [67],
+ "specjalistyczny sprzęt opp": [67],
+ "specjalistyczne sprzęty opp": [67],
  "ruchome stanowisko dowodzenia": [78]
 }
