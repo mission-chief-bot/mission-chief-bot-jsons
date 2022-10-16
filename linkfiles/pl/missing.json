@@ -30,6 +30,7 @@
  "Ambulans": [5, 31, 33],
  "ambulanse": [5, 31, 33],
  "ambulance": [5, 31, 33],
+ "ambulanse opp": [5, 31, 33],
  "ambulans p": [5],
  "ambulanse p": [5],
  "lekarz": [31, 32], 
@@ -58,10 +59,10 @@
  "Helikopteru Policyjnego": [14],
  "helikopterów policyjnych": [14],
  "dźwigów sp": [25, 37],
+ "dźwigi sp" : [25, 37],
  "Dźwig SP": [25, 37],
  "dźwig sp": [25, 37],
  "dźwig SP": [25, 37],
- "dźwigi sp" : [25, 37],
  "SRWys": [27],
  "samochód ratownictwa wysokościowego": [27],
  "samochodów ratownictwa wysokościowego": [27],
@@ -108,5 +109,7 @@
  "aprd": [75],
  "armatki wodne": [69],
  "specjalistyczny sprzęt opp (pickup)": [67],
+ "specjalistyczny sprzęt opp": [67],
+ "specjalistyczne sprzęty opp": [67],
  "ruchome stanowisko dowodzenia": [78]
 }
