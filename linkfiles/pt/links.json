@@ -19,6 +19,7 @@
 	"viaturas de batalh\u00e3o necess\u00e1rias": [3, 10],
 	"veículo de comando": [3, 10],
 	"veículos de comando": [3, 10],
+	"veículos de posto de comando necessários:" : [3, 10],
 	"veículos de comando necessários": [3, 10],
 	"veículos de comando necessários:": [3, 10],
 	"veículo de comando necessários": [3, 10],
@@ -134,5 +135,6 @@
 	"veículo de operações especiais" : [31],
 	"veículos de operações especiais necessários:" : [31],
 	"veículos do corpo/unidade de intervenção necessários:": [32],
-	"equipas operacionais cinotécnicas necessárias:": [33]
+	"equipas operacionais cinotécnicas necessárias:": [33],
+	"ciclopatrulhas necessárias:" : [35, 36]
 }

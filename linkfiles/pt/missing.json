@@ -17,6 +17,7 @@
 	"veículo escada necessários": [2],
 	"veículo escada necessários:": [2],
 	"viaturas de batalh\u00e3o necess\u00e1rias": [3, 10],
+	"veículo de posto de comando": [3, 10],
 	"veículo de comando": [3, 10],
 	"veículos de comando": [3, 10],
 	"veículos de comando necessários": [3, 10],
@@ -25,6 +26,8 @@
 	"veículo de comando necessários:": [3, 10],
 	"veículos de combate a incêndios necessários": [0, 1, 11],
 	"veículos de comando tático necessários:": [3, 10],
+	"veículos de operações especiais" : [31, 3],
+	"veículo de operações especiais" : [31, 3],
 	"ve\u00edculos de resgate pesado necess\u00e1rios": [4, 11],
 	"veículo(s) de desencarceramento": [4, 11],
 	"veículo de desencarceramento": [4, 11],
@@ -135,6 +138,8 @@
 	"equipa de prevenção e reacção imediata" : [12, 13],
 	"grupo de inntervenão" : [32],
 	"grupos de inntervenão" : [32],
-	"equipa operacional cinotécnica" : [32],
-	"equipas operacionais cinotécnicas" : [32]
+	"equipa operacional cinotécnica" : [33],
+	"equipas operacionais cinotécnicas" : [33],
+	"ciclopatrulha" : [35, 36],
+	"ciclopatrulhas" : [35, 36]
 }
