@@ -3,5 +3,6 @@
  "'Zusätzlich benötigte Fahrzeuge' and 'l. Wasser'" : {"name" : "löschfahrzeuge", "qty" : "1"},
  "'wir benötigen noch min' and 'feuerwehrleute'" : {"name" : "löschfahrzeuge", "qty" : "1"},
  "'wir benötigen noch min' and 'feuerwehrmann'" : {"name" : "löschfahrzeuge", "qty" : "1"},
- "'wir benötigen noch min' and 'mit gw-wasserrettung ausbildung'" : {"name" : "gw-wasserrettung", "qty" : "1"}
+ "'wir benötigen noch min' and 'mit gw-wasserrettung ausbildung'" : {"name" : "gw-wasserrettung", "qty" : "1"},
+ "'wir benötigen noch min' and 'mit dekon-p ausbildung'" : {"name" : "dekon-p", "qty" : "1"}
 }
