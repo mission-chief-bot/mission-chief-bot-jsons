@@ -36,5 +36,10 @@
 	"schiuma": [0, 9, 37],
 	"pattuglia forestale": [40],
 	"polizia stradale": [38, 39],
-	"idrante antisommossa": [41]
+	"idrante antisommossa": [41],
+	"motovedetta costiera": [48],
+	"elicottero guardia costiera": [49],
+	"motovedetta d'altura": [51],
+	"battello litoraneo": [47],
+	"pattuglia guardia costiera": [46]
 }
