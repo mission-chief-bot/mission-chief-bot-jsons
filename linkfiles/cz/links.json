@@ -4,6 +4,8 @@
 	"cisternové automobilové stříkačky": [ 0, 1 ],
 	"CAS": [ 0, 1 ],
 	"CAS:": [ 0, 1 ],
+	"cas:": [ 0, 1 ],
+	"cas": [ 0, 1 ],
 	
 	"AZ": [ 2 ],
 	"AP": [ 10 ],
