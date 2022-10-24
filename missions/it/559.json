@@ -1,1 +1,1 @@
-{"missionId": "559", "missionName": "Campeggiatori Abusivi in Spiaggia", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "1400"}
+{"missionId": "559", "missionName": "Campeggiatori Abusivi in Spiaggia", "requirements": [{"requirement": "pattuglie", "qty": "2"}, {"requirement": "pattuglia guardia costiera", "qty": "2"}], "credits": "1400"}

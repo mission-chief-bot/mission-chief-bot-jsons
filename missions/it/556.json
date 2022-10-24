@@ -1,1 +1,1 @@
-{"missionId": "556", "missionName": "Controllo Prodotti Ittici", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1200"}
+{"missionId": "556", "missionName": "Controllo Prodotti Ittici", "requirements": [{"requirement": "pattuglia guardia costiera", "qty": "1"}], "credits": "1200"}

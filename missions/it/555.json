@@ -1,1 +1,1 @@
-{"missionId": "555", "missionName": "Perdita di Carburante in Porto", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1600"}
+{"missionId": "555", "missionName": "Perdita di Carburante in Porto", "requirements": [{"requirement": "pattuglia guardia costiera", "qty": "2"}], "credits": "1600"}

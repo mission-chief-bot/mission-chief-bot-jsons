@@ -1,1 +1,1 @@
-{"missionId": "557", "missionName": "Marinai Intrappolati in Nave Ribaltata", "requirements": [{"requirement": "max pazienti", "qty": "10"}], "credits": "9000"}
+{"missionId": "557", "missionName": "Marinai Intrappolati in Nave Ribaltata", "requirements": [{"requirement": "max pazienti", "qty": "10"}, {"requirement": "motovedetta costiera", "qty": "4"}, {"requirement": "elicottero guardia costiera", "qty": "1"}, {"requirement": "motovedetta d'altura", "qty": "2"}], "credits": "9000"}
