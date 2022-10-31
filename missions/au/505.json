@@ -1,0 +1,1 @@
+{"missionId": "505", "missionName": "LPG Leak from Refueling Car", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "major rescue vehicles", "qty": "1"}, {"requirement": "hazmat units", "qty": "1"}, {"requirement": "police cars", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1000"}
