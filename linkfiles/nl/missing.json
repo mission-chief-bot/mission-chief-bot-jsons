@@ -78,9 +78,9 @@
  "officier van dienst - politie": [35],
  "officieren van dienst - politie": [35],
  "bereden brigade (paarden)": [73,74],
- "rb-k of rb-g": "78, 79",
- "sar-heli(s)": "80",
- "sar-heli": "80",
- "kw-boot": "77",
- "strandvoertuigen (quad, dat-rb of khv)": "65,66,76"
+ "rb-k of rb-g": [78, 79],
+ "sar-heli(s)": [80],
+ "sar-heli": [80],
+ "kw-boot": [77],
+ "strandvoertuigen (quad, dat-rb of khv)": [65,66,76]
 }
