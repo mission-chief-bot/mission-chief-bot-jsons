@@ -1,1 +1,1 @@
-{"missionId": "983", "missionName": "Zeiljacht in problemen", "requirements": [{"requirement": "boten uitbreidingen", "qty": "2"}, {"requirement": "sar helikopter hangar(s)", "qty": "1"}, {"requirement": "rb-k of rb-g", "qty": "2"}, {"requirement": "sar-heli(s)", "qty": "1"}, {"requirement": "kans dat een sar-heli benodigd is", "qty": "45"}], "credits": "3080"}
+{"missionId": "983", "missionName": "Zeiljacht in problemen", "requirements": [{"requirement": "rb-k of rb-g", "qty": "2"}, {"requirement": "sar-heli(s)", "qty": "1"}], "credits": "3080"}
