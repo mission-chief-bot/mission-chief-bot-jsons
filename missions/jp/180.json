@@ -1,1 +1,12 @@
-{"missionId": "180", "missionName": "花火による粗大ごみ火災", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "180",
+ "missionName": "花火による粗大ごみ火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "163477620495295755548041597311106130540"
+}

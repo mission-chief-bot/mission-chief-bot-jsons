@@ -1,1 +1,12 @@
-{"missionId": "221-1", "missionName": "Požiar bytu v centre pre seniorov", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}], "credits": "3900"}
+{
+ "missionId": "221-1",
+ "missionName": "Požiar bytu v centre pre seniorov",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  }
+ ],
+ "credits": "3900",
+ "version": "211409471470128793088004282089443149711"
+}

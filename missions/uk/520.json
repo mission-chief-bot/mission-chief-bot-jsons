@@ -1,1 +1,12 @@
-{"missionId": "520", "missionName": "Community Engagement (Police)", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "6000"}
+{
+ "missionId": "520",
+ "missionName": "Community Engagement (Police)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "6000",
+ "version": "336897239966372297216791629122350936354"
+}

@@ -1,1 +1,12 @@
-{"missionId": "349", "missionName": "Brandgeruch", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "349",
+ "missionName": "Brandgeruch",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "148094792695676585530384768076412532832"
+}

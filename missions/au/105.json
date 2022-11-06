@@ -1,1 +1,12 @@
-{"missionId": "105", "missionName": "Burning paper containers ignited by fireworks", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "105",
+ "missionName": "Burning paper containers ignited by fireworks",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "41183230692556907146880361075525312482"
+}

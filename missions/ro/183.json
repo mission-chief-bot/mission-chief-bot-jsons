@@ -1,1 +1,28 @@
-{"missionId": "183", "missionName": "Casă cu acoperiș de paie incendiată de artificii", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "5"}, {"requirement": "camioane cu platformă necesare", "qty": "1"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "1"}, {"requirement": "mașini de poliție necesare", "qty": "2"}, {"requirement": "max. pacienți", "qty": "2"}], "credits": "4200"}
+{
+ "missionId": "183",
+ "missionName": "Casă cu acoperiș de paie incendiată de artificii",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "5"
+  },
+  {
+   "requirement": "camioane cu platformă necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "2"
+  }
+ ],
+ "credits": "4200",
+ "version": "18020990599263832867595188817972637803"
+}

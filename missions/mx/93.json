@@ -1,1 +1,12 @@
-{"missionId": "93", "missionName": "Pasajero agresivo", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "300"}
+{
+ "missionId": "93",
+ "missionName": "Pasajero agresivo",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "300",
+ "version": "182606316263182967242398777561757355247"
+}

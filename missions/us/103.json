@@ -1,1 +1,12 @@
-{"missionId": "103", "missionName": "Domestic Dispute", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "300"}
+{
+ "missionId": "103",
+ "missionName": "Domestic Dispute",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "300",
+ "version": "96292431553093355475078331876391240798"
+}

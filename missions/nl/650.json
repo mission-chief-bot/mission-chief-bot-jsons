@@ -1,1 +1,12 @@
-{"missionId": "650", "missionName": "Personen vallen voorbijgangers lastig", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "0"}
+{
+ "missionId": "650",
+ "missionName": "Personen vallen voorbijgangers lastig",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "0",
+ "version": "82434380135966222578060546314365208752"
+}

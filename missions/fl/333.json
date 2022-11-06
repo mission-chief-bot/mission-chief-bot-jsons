@@ -1,1 +1,20 @@
-{"missionId": "333", "missionName": "413 Palava kaatunut täysperävaunurekka", "requirements": [{"requirement": "johtoautot", "qty": "1"}, {"requirement": "paloautot", "qty": "3"}, {"requirement": "raskaat pelastusautot", "qty": "1"}], "credits": "2800"}
+{
+ "missionId": "333",
+ "missionName": "413 Palava kaatunut täysperävaunurekka",
+ "requirements": [
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "2800",
+ "version": "215952946684707812581931632414331556655"
+}

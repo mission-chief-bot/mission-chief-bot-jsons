@@ -1,1 +1,12 @@
-{"missionId": "930", "missionName": "Kind slikt schoonmaakmiddel in", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "930",
+ "missionName": "Kind slikt schoonmaakmiddel in",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "70131742966265697495375467448724329612"
+}

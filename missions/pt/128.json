@@ -1,1 +1,32 @@
-{"missionId": "128", "missionName": "Derrocada da Mina", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "10"}, {"requirement": "veículos de socorro e assistência tático necessários", "qty": "4"}, {"requirement": "veículos de comando tático necessários", "qty": "4"}, {"requirement": "carros de patrulha necessários", "qty": "3"}, {"requirement": "veículos de proteção multiriscos e ambiente necessários", "qty": "2"}, {"requirement": "máx. de pacientes", "qty": "25"}], "credits": "9000"}
+{
+ "missionId": "128",
+ "missionName": "Derrocada da Mina",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "10"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos de comando tático necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos de proteção multiriscos e ambiente necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "25"
+  }
+ ],
+ "credits": "9000",
+ "version": "69532883855250951563617712878686173080"
+}

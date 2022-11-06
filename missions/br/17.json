@@ -1,1 +1,12 @@
-{"missionId": "17", "missionName": "Fogo em caixa de correio", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "17",
+ "missionName": "Fogo em caixa de correio",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "298699444361392578966579529834555646523"
+}

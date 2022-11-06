@@ -1,1 +1,28 @@
-{"missionId": "933", "missionName": "Bouwsteiger ingestort", "requirements": [{"requirement": "tankautospuiten", "qty": "4"}, {"requirement": "redvoertuigen", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "2"}, {"requirement": "noodhulpeenheden", "qty": "5"}], "credits": "4480"}
+{
+ "missionId": "933",
+ "missionName": "Bouwsteiger ingestort",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "4"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "2"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "5"
+  }
+ ],
+ "credits": "4480",
+ "version": "106985112732634921631527703622225065893"
+}

@@ -1,1 +1,16 @@
-{"missionId": "186", "missionName": "Brand i Kloak", "requirements": [{"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "210"}
+{
+ "missionId": "186",
+ "missionName": "Brand i Kloak",
+ "requirements": [
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "210",
+ "version": "245122125546682565894340482932226706221"
+}

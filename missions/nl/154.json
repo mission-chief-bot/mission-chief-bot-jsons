@@ -1,1 +1,12 @@
-{"missionId": "154", "missionName": "Horrorclown gespot", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "154",
+ "missionName": "Horrorclown gespot",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "301911646465475522302106724407149140607"
+}

@@ -1,1 +1,12 @@
-{"missionId": "356", "missionName": "Car Jacking", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "5"}], "credits": "3500"}
+{
+ "missionId": "356",
+ "missionName": "Car Jacking",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "5"
+  }
+ ],
+ "credits": "3500",
+ "version": "265460158813138318152705330428595833200"
+}

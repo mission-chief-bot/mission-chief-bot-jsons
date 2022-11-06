@@ -1,1 +1,12 @@
-{"missionId": "312", "missionName": "Accouchement avec complications", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "312",
+ "missionName": "Accouchement avec complications",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "72396893793796689634157909771003392911"
+}

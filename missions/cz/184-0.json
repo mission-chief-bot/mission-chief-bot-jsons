@@ -1,1 +1,16 @@
-{"missionId": "184-0", "missionName": "Hořící strašák", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "rza", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "184-0",
+ "missionName": "Hořící strašák",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "rza",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "284684454784400529547848149638481987164"
+}

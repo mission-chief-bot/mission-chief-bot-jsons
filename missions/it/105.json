@@ -1,1 +1,24 @@
-{"missionId": "105", "missionName": "Intossicazione da monossido", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "10"}], "credits": "5"}
+{
+ "missionId": "105",
+ "missionName": "Intossicazione da monossido",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "10"
+  }
+ ],
+ "credits": "5",
+ "version": "204196728932732145079824916966133324503"
+}

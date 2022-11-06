@@ -1,1 +1,12 @@
-{"missionId": "184", "missionName": "Roubo no mercado de Natal", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "184",
+ "missionName": "Roubo no mercado de Natal",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "298173073104535505765585607357351078825"
+}

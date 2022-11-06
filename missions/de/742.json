@@ -1,1 +1,12 @@
-{"missionId": "742", "missionName": "Person auf geschmolzener Schokolade ausgerutscht", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "742",
+ "missionName": "Person auf geschmolzener Schokolade ausgerutscht",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "41698978526647925265181810037003806028"
+}

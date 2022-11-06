@@ -1,1 +1,16 @@
-{"missionId": "76", "missionName": "Горит палатка на рождественском рынке", "requirements": [{"requirement": "пожарные машины", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "610"}
+{
+ "missionId": "76",
+ "missionName": "Горит палатка на рождественском рынке",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "610",
+ "version": "161095334124688846409050093781273413010"
+}

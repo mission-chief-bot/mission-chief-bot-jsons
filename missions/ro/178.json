@@ -1,1 +1,12 @@
-{"missionId": "178", "missionName": "Stație de autobuz incendiată de artificii", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "178",
+ "missionName": "Stație de autobuz incendiată de artificii",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "221499101687561730411957654043799130769"
+}

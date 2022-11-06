@@ -1,1 +1,12 @@
-{"missionId": "114", "missionName": "Rubbish bin ignited by fireworks", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "114",
+ "missionName": "Rubbish bin ignited by fireworks",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "330384908883799038655034306235111308698"
+}

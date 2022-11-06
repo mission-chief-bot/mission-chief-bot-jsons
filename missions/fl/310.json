@@ -1,1 +1,12 @@
-{"missionId": "310", "missionName": "420 Savuhavainto", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "310",
+ "missionName": "420 Savuhavainto",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "308448992334020713034623264973957532061"
+}

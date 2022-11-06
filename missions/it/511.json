@@ -1,1 +1,16 @@
-{"missionId": "511", "missionName": "Controllo Cacciatori", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "pattuglia forestale", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "511",
+ "missionName": "Controllo Cacciatori",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglia forestale",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "271753175685649910471398861917537642932"
+}

@@ -1,1 +1,28 @@
-{"missionId": "394", "missionName": "Bank robbery (Medium)", "requirements": [ {"requirement": "police cars", "qty": "7"}, {"requirement": "k-9 units", "qty": "2"}, {"requirement": "riot police group vehicles", "qty": "1"}, {"requirement": "senior sergeants", "qty": "1"}, {"requirement": "tog personnel", "qty": "2"}], "credits": "3300"}
+{
+ "missionId": "394",
+ "missionName": "Bank robbery (Medium)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "7"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "1"
+  },
+  {
+   "requirement": "tog personnel",
+   "qty": "2"
+  }
+ ],
+ "credits": "3300",
+ "version": "110909127296941075502240632694011797729"
+}

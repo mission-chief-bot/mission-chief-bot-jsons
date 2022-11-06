@@ -1,1 +1,12 @@
-{"missionId": "64", "missionName": "Burning pumpkin field", "requirements": [{"requirement": "firetrucks", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "64",
+ "missionName": "Burning pumpkin field",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "48587045230848630563231427363768155108"
+}

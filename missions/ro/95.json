@@ -1,1 +1,12 @@
-{"missionId": "95", "missionName": "Picior fracturat", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "95",
+ "missionName": "Picior fracturat",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "248553941827768266517304026301308342594"
+}

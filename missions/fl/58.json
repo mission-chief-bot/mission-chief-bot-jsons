@@ -1,1 +1,16 @@
-{"missionId": "58", "missionName": "402 Keittiöpalo", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "58",
+ "missionName": "402 Keittiöpalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "117912268820043723798528615891246771360"
+}

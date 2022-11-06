@@ -1,1 +1,16 @@
-{"missionId": "118", "missionName": "Arrestordre", "requirements": [ {"requirement": "politibiler", "qty": "3"}, {"requirement": "politihelikoptere", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "118",
+ "missionName": "Arrestordre",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "politihelikoptere",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "227494722856986386686123121235425034210"
+}

@@ -1,1 +1,20 @@
-{"missionId": "194", "missionName": "Požiar vlakovej stanice (Veľký)", "requirements": [{"requirement": "hasičské automobily", "qty": "10"}, {"requirement": "ppla", "qty": "1"}, {"requirement": "policajné vozidlá", "qty": "8"}], "credits": "10000"}
+{
+ "missionId": "194",
+ "missionName": "Požiar vlakovej stanice (Veľký)",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "10"
+  },
+  {
+   "requirement": "ppla",
+   "qty": "1"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "8"
+  }
+ ],
+ "credits": "10000",
+ "version": "171909494764988193136588877336410151564"
+}

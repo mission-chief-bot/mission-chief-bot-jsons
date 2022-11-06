@@ -1,1 +1,16 @@
-{"missionId": "176", "missionName": "Incendio de vehículo en el túnel", "requirements": [{"requirement": "camiones de bomberos", "qty": "3"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "176",
+ "missionName": "Incendio de vehículo en el túnel",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "3"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "184427838616451883181405889550138113827"
+}

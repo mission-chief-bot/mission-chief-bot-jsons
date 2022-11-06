@@ -1,1 +1,16 @@
-{"missionId": "284", "missionName": "Usage illégal de feux d'artifices", "requirements": [{"requirement": "voitures de police es", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "284",
+ "missionName": "Usage illégal de feux d'artifices",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "270269869997226565436124244179703405041"
+}

@@ -1,1 +1,12 @@
-{"missionId": "82", "missionName": "754 3. asteen palovammat", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "82",
+ "missionName": "754 3. asteen palovammat",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "222916411649884864241608088499008073022"
+}

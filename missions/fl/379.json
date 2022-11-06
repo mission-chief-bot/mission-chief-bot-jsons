@@ -1,1 +1,12 @@
-{"missionId": "379", "missionName": "551 Ajoneuvo pysäköity raitiovaunukiskoille", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "379",
+ "missionName": "551 Ajoneuvo pysäköity raitiovaunukiskoille",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "29185917647657929441919997024072785965"
+}

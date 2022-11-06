@@ -1,1 +1,20 @@
-{"missionId": "429", "missionName": "Assalto a um Museu", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "5"}, {"requirement": "equipas operacionais cinotécnicas necessárias:", "qty": "1"}, {"requirement": "veículos de operações especiais necessários:", "qty": "2"}], "credits": "7000"}
+{
+ "missionId": "429",
+ "missionName": "Assalto a um Museu",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "equipas operacionais cinotécnicas necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de operações especiais necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "7000",
+ "version": "57309994000647071990817893679460221582"
+}

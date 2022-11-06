@@ -1,1 +1,20 @@
-{"missionId": "562", "missionName": "Fighting on yacht", "requirements": [{"requirement": "patrol boats", "qty": "2"}, {"requirement": "police cars", "qty": "6"}, {"requirement": "max. patients", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "562",
+ "missionName": "Fighting on yacht",
+ "requirements": [
+  {
+   "requirement": "patrol boats",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "148652976196944461411088023918345733985"
+}

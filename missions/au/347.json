@@ -1,1 +1,20 @@
-{"missionId": "347", "missionName": "Cleaning contaminated soil", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "hazmat units", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "347",
+ "missionName": "Cleaning contaminated soil",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat units",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "81014073421058994715100913696363717798"
+}

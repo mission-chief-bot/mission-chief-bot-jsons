@@ -1,1 +1,12 @@
-{"missionId": "373", "missionName": "Criminoso escondido no baile", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}], "credits": "200"}
+{
+ "missionId": "373",
+ "missionName": "Criminoso escondido no baile",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "200",
+ "version": "144812227961145342364346859060144095293"
+}

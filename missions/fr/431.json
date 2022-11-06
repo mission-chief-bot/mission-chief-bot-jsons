@@ -1,1 +1,16 @@
-{"missionId": "431", "missionName": "Réaction allergique à la piqûre d'abeille", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "550"}
+{
+ "missionId": "431",
+ "missionName": "Réaction allergique à la piqûre d'abeille",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "550",
+ "version": "262799140770282971736503359728063542358"
+}

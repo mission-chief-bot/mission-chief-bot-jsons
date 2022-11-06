@@ -1,1 +1,12 @@
-{"missionId": "631", "missionName": "Vollstreckung Durchsuchungsbeschluss", "requirements": [{"requirement": "zivilstreifenwagen", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "631",
+ "missionName": "Vollstreckung Durchsuchungsbeschluss",
+ "requirements": [
+  {
+   "requirement": "zivilstreifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "281037019320175384574519209399778685928"
+}

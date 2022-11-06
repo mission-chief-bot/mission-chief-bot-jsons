@@ -1,1 +1,12 @@
-{"missionId": "332", "missionName": "Two vehicle RTC (No Injuries)", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "332",
+ "missionName": "Two vehicle RTC (No Injuries)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "77267584926361497912692635975033445983"
+}

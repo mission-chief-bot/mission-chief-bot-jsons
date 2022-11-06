@@ -1,1 +1,12 @@
-{"missionId": "167", "missionName": "Amputarea traumatică a membrelor", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "167",
+ "missionName": "Amputarea traumatică a membrelor",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "5246770834343254791518387317298293856"
+}

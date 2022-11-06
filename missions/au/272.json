@@ -1,1 +1,20 @@
-{"missionId": "272", "missionName": "Injured free runner", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "272",
+ "missionName": "Injured free runner",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "174389815077266424604999699507805336246"
+}

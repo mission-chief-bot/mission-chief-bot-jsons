@@ -1,1 +1,12 @@
-{"missionId": "193", "missionName": "Горящий призрак", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "193",
+ "missionName": "Горящий призрак",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "23537067052441072044365857721063211777"
+}

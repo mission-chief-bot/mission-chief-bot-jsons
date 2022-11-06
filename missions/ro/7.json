@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Frunze în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Frunze în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "78876564325375991746115658352097927619"
+}

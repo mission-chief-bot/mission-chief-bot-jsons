@@ -1,1 +1,12 @@
-{"missionId": "131", "missionName": "酸による焼けど事故", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "131",
+ "missionName": "酸による焼けど事故",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "182007673486408108768130814879812127690"
+}

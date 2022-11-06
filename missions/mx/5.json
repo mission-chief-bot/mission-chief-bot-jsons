@@ -1,1 +1,16 @@
-{"missionId": "5", "missionName": "Cuarto incendiado", "requirements": [{"requirement": "camiones de bomberos", "qty": "2"}, {"requirement": "camiones con plataforma", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "5",
+ "missionName": "Cuarto incendiado",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "51313290984682400431146358910693102931"
+}

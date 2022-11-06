@@ -1,1 +1,28 @@
-{"missionId": "176", "missionName": "Nahlášena výbušnina v nákupním centru", "requirements": [{"requirement": "policejní automobily", "qty": "4"}, {"requirement": "vozidla pyrotechniků pčr", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "vozidla kynologů pčr", "qty": "1"}], "credits": "3600"}
+{
+ "missionId": "176",
+ "missionName": "Nahlášena výbušnina v nákupním centru",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "vozidla pyrotechniků pčr",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla kynologů pčr",
+   "qty": "1"
+  }
+ ],
+ "credits": "3600",
+ "version": "55687857034263628282561119670593727984"
+}

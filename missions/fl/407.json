@@ -1,1 +1,16 @@
-{"missionId": "407", "missionName": "35 Riehuva asiakas sairaalassa", "requirements": [{"requirement": "poliisiautot", "qty": "2"}, {"requirement": "koirapartiot", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "407",
+ "missionName": "35 Riehuva asiakas sairaalassa",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "188495024507510519367976251916992333252"
+}

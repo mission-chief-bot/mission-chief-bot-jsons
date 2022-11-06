@@ -1,1 +1,12 @@
-{"missionId": "394", "missionName": "Zvyšme povědomí školáků o lince 112", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "394",
+ "missionName": "Zvyšme povědomí školáků o lince 112",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "64149082202868580850300588997217508762"
+}

@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "Manifestation non autorisée", "requirements": [{"requirement": "voitures de police es", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "57",
+ "missionName": "Manifestation non autorisée",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "216655014750800253103631921937115806235"
+}

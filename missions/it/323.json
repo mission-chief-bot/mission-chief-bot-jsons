@@ -1,1 +1,16 @@
-{"missionId": "323", "missionName": "Caduta calcinacci", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}], "credits": "980"}
+{
+ "missionId": "323",
+ "missionName": "Caduta calcinacci",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  }
+ ],
+ "credits": "980",
+ "version": "245131819705440535845214915813287748839"
+}

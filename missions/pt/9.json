@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "Incêndio num fardo de palha", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "Incêndio num fardo de palha",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "42308695166099243834510860802490009154"
+}

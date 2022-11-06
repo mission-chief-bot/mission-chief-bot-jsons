@@ -1,1 +1,12 @@
-{"missionId": "747", "missionName": "Gestohlener Blumenstrauß", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "747",
+ "missionName": "Gestohlener Blumenstrauß",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "190392904719759378160204042236115111274"
+}

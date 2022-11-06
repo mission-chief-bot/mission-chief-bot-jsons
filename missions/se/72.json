@@ -1,1 +1,32 @@
-{"missionId": "72", "missionName": "Flyghändelse - varningslarm", "requirements": [{"requirement": "släckbilar", "qty": "4"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "tankbilar", "qty": "1"}, {"requirement": "farligt gods-fordon", "qty": "1"}, {"requirement": "mest patienter", "qty": "4"}], "credits": "4000"}
+{
+ "missionId": "72",
+ "missionName": "Flyghändelse - varningslarm",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "farligt gods-fordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "4000",
+ "version": "59662769627750689459741672920722164755"
+}

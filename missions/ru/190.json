@@ -1,1 +1,16 @@
-{"missionId": "190", "missionName": "Человек под поваленным деревом", "requirements": [{"requirement": "пожарные машины", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "190",
+ "missionName": "Человек под поваленным деревом",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "99287924789544206911574597656036909377"
+}

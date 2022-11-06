@@ -1,1 +1,28 @@
-{"missionId": "281", "missionName": "022 Pankkiryöstö", "requirements": [{"requirement": "poliisihelikopteritukikohta", "qty": "1"}, {"requirement": "poliisiautot", "qty": "10"}, {"requirement": "koirapartiot", "qty": "3"}, {"requirement": "poliisihelikopterit", "qty": "1"}, {"requirement": "vati-henkilöt", "qty": "12"}], "credits": "1600"}
+{
+ "missionId": "281",
+ "missionName": "022 Pankkiryöstö",
+ "requirements": [
+  {
+   "requirement": "poliisihelikopteritukikohta",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "10"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "3"
+  },
+  {
+   "requirement": "poliisihelikopterit",
+   "qty": "1"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "12"
+  }
+ ],
+ "credits": "1600",
+ "version": "276965492790161793042778548239004594655"
+}

@@ -1,1 +1,16 @@
-{"missionId": "832", "missionName": "Illegaal kampvuur in park", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "832",
+ "missionName": "Illegaal kampvuur in park",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "65521894027665101541903395151778747787"
+}

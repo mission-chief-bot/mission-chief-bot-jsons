@@ -1,1 +1,20 @@
-{"missionId": "147", "missionName": "032 Murhayritys", "requirements": [{"requirement": "poliisiautot", "qty": "6"}, {"requirement": "koirapartiot", "qty": "1"}, {"requirement": "vati-henkilöt", "qty": "6"}], "credits": "1000"}
+{
+ "missionId": "147",
+ "missionName": "032 Murhayritys",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "6"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "6"
+  }
+ ],
+ "credits": "1000",
+ "version": "279080116318462970268940593228537777674"
+}

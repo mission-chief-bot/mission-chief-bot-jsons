@@ -1,1 +1,12 @@
-{"missionId": "112", "missionName": "Overval winkel", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "400"}
+{
+ "missionId": "112",
+ "missionName": "Overval winkel",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "400",
+ "version": "47391783783100995755842548101307288430"
+}

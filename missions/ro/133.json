@@ -1,1 +1,12 @@
-{"missionId": "133", "missionName": "Contrabanda cu bunuri ilegale", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "3"}], "credits": "0"}
+{
+ "missionId": "133",
+ "missionName": "Contrabanda cu bunuri ilegale",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "3"
+  }
+ ],
+ "credits": "0",
+ "version": "2182852680154997944021086376679656356"
+}

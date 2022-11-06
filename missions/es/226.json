@@ -1,1 +1,28 @@
-{"missionId": "226", "missionName": "Incendio en taller de carpintería", "requirements": [{"requirement": "camiones de bomberos", "qty": "10"}, {"requirement": "unidades de mando y comunicaciones", "qty": "4"}, {"requirement": "camiones con plataforma", "qty": "2"}, {"requirement": "unidades de mando", "qty": "1"}, {"requirement": "coches patrulla", "qty": "2"}], "credits": "4200"}
+{
+ "missionId": "226",
+ "missionName": "Incendio en taller de carpintería",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "10"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "4"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "2"
+  },
+  {
+   "requirement": "unidades de mando",
+   "qty": "1"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "4200",
+ "version": "197300975516224674020375954885153878860"
+}

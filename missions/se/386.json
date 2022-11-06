@@ -1,1 +1,12 @@
-{"missionId": "386", "missionName": "Allergisk reaktion av pollen", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "386",
+ "missionName": "Allergisk reaktion av pollen",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "207210870722869374607597288226272103932"
+}

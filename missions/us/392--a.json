@@ -1,1 +1,32 @@
-{"missionId": "392/a", "missionName": "Campsite fire", "requirements": [{"requirement": "firetrucks", "qty": "4"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "water tankers", "qty": "1"}, {"requirement": "wildland fire engines", "qty": "1"}, {"requirement": "fire investigation units", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "3500"}
+{
+ "missionId": "392/a",
+ "missionName": "Campsite fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "3500",
+ "version": "339277258373050781733676415970879785814"
+}

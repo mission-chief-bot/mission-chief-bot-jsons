@@ -1,1 +1,28 @@
-{"missionId": "127", "missionName": "Spray urticante in luogo pubblico", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "4"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "max pazienti", "qty": "12"}], "credits": "2"}
+{
+ "missionId": "127",
+ "missionName": "Spray urticante in luogo pubblico",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "12"
+  }
+ ],
+ "credits": "2",
+ "version": "36030678979485017043555694600394956008"
+}

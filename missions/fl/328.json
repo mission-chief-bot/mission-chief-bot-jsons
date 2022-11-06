@@ -1,1 +1,16 @@
-{"missionId": "328", "missionName": "202 Moottoripyöräonnettomuus", "requirements": [{"requirement": "paloautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "2"}], "credits": "1700"}
+{
+ "missionId": "328",
+ "missionName": "202 Moottoripyöräonnettomuus",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "1700",
+ "version": "257878841965562489297635138866133577567"
+}

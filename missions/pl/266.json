@@ -1,1 +1,16 @@
-{"missionId": "266", "missionName": "Poruszanie Się Uszkodzonego Pojazdu", "requirements": [{"requirement": "wydziały ruchu drogowego", "qty": "1"}, {"requirement": "radiowozy wrd", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "266",
+ "missionName": "Poruszanie Się Uszkodzonego Pojazdu",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "95937917257379701108944740915722261311"
+}

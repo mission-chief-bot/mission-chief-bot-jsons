@@ -1,1 +1,16 @@
-{"missionId": "394", "missionName": "Brand i byggnad - möblemang", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "394",
+ "missionName": "Brand i byggnad - möblemang",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "287147968953624764783870939728799394142"
+}

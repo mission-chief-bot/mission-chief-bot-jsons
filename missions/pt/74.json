@@ -1,1 +1,28 @@
-{"missionId": "74", "missionName": "Incêndio de grandes dimensões", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "10"}, {"requirement": "veículos de comando tático necessários", "qty": "3"}, {"requirement": "veículos escada necessários", "qty": "2"}, {"requirement": "veículos tanque tático urbano necessários", "qty": "2"}, {"requirement": "veículos de socorro e assistência tático necessários", "qty": "2"}], "credits": "10210"}
+{
+ "missionId": "74",
+ "missionName": "Incêndio de grandes dimensões",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "10"
+  },
+  {
+   "requirement": "veículos de comando tático necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos escada necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos tanque tático urbano necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "10210",
+ "version": "250116799190335454582349104903114416574"
+}

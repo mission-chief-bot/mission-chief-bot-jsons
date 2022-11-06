@@ -1,1 +1,16 @@
-{"missionId": "457", "missionName": "Legnaia in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}], "credits": "2900"}
+{
+ "missionId": "457",
+ "missionName": "Legnaia in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  }
+ ],
+ "credits": "2900",
+ "version": "42264947790201647187421309850967150882"
+}

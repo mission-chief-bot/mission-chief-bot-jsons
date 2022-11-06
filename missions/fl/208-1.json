@@ -1,1 +1,28 @@
-{"missionId": "208-1", "missionName": "403 Kerrostalopalo", "requirements": [{"requirement": "paloautot", "qty": "10"}, {"requirement": "nostolava-autot", "qty": "2"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "letkuajoneuvot", "qty": "3"}], "credits": "4400"}
+{
+ "missionId": "208-1",
+ "missionName": "403 Kerrostalopalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "10"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "3"
+  }
+ ],
+ "credits": "4400",
+ "version": "276984508626564781038630190723906094932"
+}

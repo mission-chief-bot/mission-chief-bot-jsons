@@ -1,1 +1,12 @@
-{"missionId": "695", "missionName": "Verwonding door onjuist vuurwerkgebruik", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "695",
+ "missionName": "Verwonding door onjuist vuurwerkgebruik",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "145274620533916980036425250567563720228"
+}

@@ -1,1 +1,20 @@
-{"missionId": "427", "missionName": "Invasão Domiciliária", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "4"}, {"requirement": "equipas operacionais cinotécnicas necessárias:", "qty": "1"}, {"requirement": "veículos do corpo/unidade de intervenção necessários:", "qty": "2"}], "credits": "1250"}
+{
+ "missionId": "427",
+ "missionName": "Invasão Domiciliária",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "equipas operacionais cinotécnicas necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos do corpo/unidade de intervenção necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "1250",
+ "version": "283150800445036434421943109279440183412"
+}

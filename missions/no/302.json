@@ -1,1 +1,12 @@
-{"missionId": "302", "missionName": "Fødsel", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "302",
+ "missionName": "Fødsel",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "287536202430804591477173158420322153375"
+}

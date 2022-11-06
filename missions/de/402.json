@@ -1,1 +1,12 @@
-{"missionId": "402", "missionName": "Brennender PKW", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "402",
+ "missionName": "Brennender PKW",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "182504322584563950318805628004415829440"
+}

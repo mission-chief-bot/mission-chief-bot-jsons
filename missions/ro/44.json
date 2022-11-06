@@ -1,1 +1,12 @@
-{"missionId": "44", "missionName": "Furt din magazin", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "44",
+ "missionName": "Furt din magazin",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "97947706245478921569582644931124569963"
+}

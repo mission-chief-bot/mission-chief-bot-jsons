@@ -1,1 +1,12 @@
-{"missionId": "270", "missionName": "Fire in petrol station shop (small)", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "1450"}
+{
+ "missionId": "270",
+ "missionName": "Fire in petrol station shop (small)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "1450",
+ "version": "319554303749745472655633156110875286796"
+}

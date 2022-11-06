@@ -1,1 +1,24 @@
-{"missionId": "159", "missionName": "Collapsed rabbit hole", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "fire officers", "qty": "2"}, {"requirement": "rescue support vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "159",
+ "missionName": "Collapsed rabbit hole",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "2"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "79516665490350867605289118765738575580"
+}

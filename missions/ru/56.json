@@ -1,1 +1,12 @@
-{"missionId": "56", "missionName": "Нарушитель порядка", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "56",
+ "missionName": "Нарушитель порядка",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "237912511096206147395379119411800538282"
+}

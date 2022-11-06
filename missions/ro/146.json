@@ -1,1 +1,12 @@
-{"missionId": "146", "missionName": "Frankenstein zărit", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "3"}], "credits": "550"}
+{
+ "missionId": "146",
+ "missionName": "Frankenstein zărit",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "3"
+  }
+ ],
+ "credits": "550",
+ "version": "96244245839204801399905850349249709525"
+}

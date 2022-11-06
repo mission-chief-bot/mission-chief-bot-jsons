@@ -1,1 +1,32 @@
-{"missionId": "315", "missionName": "Avsporet passasjertog", "requirements": [{"requirement": "brannbiler", "qty": "11"}, {"requirement": "innsatsledere fra brann", "qty": "3"}, {"requirement": "tungredningsbiler", "qty": "4"}, {"requirement": "politibiler", "qty": "3"}, {"requirement": "innsatsstøttebil", "qty": "1"}, {"requirement": "maks pasienter", "qty": "25"}], "credits": "11000"}
+{
+ "missionId": "315",
+ "missionName": "Avsporet passasjertog",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "11"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "3"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "innsatsstøttebil",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "25"
+  }
+ ],
+ "credits": "11000",
+ "version": "221693600547868790573399644447006003602"
+}

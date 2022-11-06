@@ -1,1 +1,12 @@
-{"missionId": "67", "missionName": "Bitka", "requirements": [{"requirement": "policajné vozidlá", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "67",
+ "missionName": "Bitka",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "71259817558799469925811177869836622532"
+}

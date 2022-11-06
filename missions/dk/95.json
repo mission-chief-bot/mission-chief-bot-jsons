@@ -1,1 +1,16 @@
-{"missionId": "95", "missionName": "Vold mod tjenestemand", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}, {"requirement": "maks. antal patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "95",
+ "missionName": "Vold mod tjenestemand",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "297888018219940506616287296797422985729"
+}

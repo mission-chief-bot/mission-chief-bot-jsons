@@ -1,1 +1,12 @@
-{"missionId": "624", "missionName": "Onbeheerde bagage gevonden", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "670"}
+{
+ "missionId": "624",
+ "missionName": "Onbeheerde bagage gevonden",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "670",
+ "version": "287976978252881056329357877922196942400"
+}

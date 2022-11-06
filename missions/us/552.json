@@ -1,1 +1,12 @@
-{"missionId": "552", "missionName": "Illegal fishing", "requirements": [{"requirement": "warden trucks", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "552",
+ "missionName": "Illegal fishing",
+ "requirements": [
+  {
+   "requirement": "warden trucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "299218598847104892256785073854794644712"
+}

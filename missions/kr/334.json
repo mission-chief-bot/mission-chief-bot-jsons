@@ -1,1 +1,12 @@
-{"missionId": "334", "missionName": "우물에 갇힌 동물", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "334",
+ "missionName": "우물에 갇힌 동물",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "287340113005324047630865982349645464349"
+}

@@ -1,1 +1,12 @@
-{"missionId": "245", "missionName": "Anfall forårsaket av å se fyrverkeri", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "245",
+ "missionName": "Anfall forårsaket av å se fyrverkeri",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "91638121148917915495551539152918071135"
+}

@@ -1,1 +1,12 @@
-{"missionId": "379", "missionName": "Caduta sull'autobus", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "379",
+ "missionName": "Caduta sull'autobus",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "253084318185241810804557132936406940273"
+}

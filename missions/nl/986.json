@@ -1,1 +1,20 @@
-{"missionId": "986", "missionName": "Surfer vermist", "requirements": [{"requirement": "strandvoertuigen (quad, dat-rb of khv)", "qty": "2"}, {"requirement": "rb-k of rb-g", "qty": "2"}, {"requirement": "sar-heli(s)", "qty": "1"}], "credits": "4080"}
+{
+ "missionId": "986",
+ "missionName": "Surfer vermist",
+ "requirements": [
+  {
+   "requirement": "strandvoertuigen (quad, dat-rb of khv)",
+   "qty": "2"
+  },
+  {
+   "requirement": "rb-k of rb-g",
+   "qty": "2"
+  },
+  {
+   "requirement": "sar-heli(s)",
+   "qty": "1"
+  }
+ ],
+ "credits": "4080",
+ "version": "188133762988352572909510494497654395352"
+}

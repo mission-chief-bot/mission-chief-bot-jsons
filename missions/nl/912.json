@@ -1,1 +1,12 @@
-{"missionId": "912", "missionName": "Ongeluk op carnaval feest", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "912",
+ "missionName": "Ongeluk op carnaval feest",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "284536146940967374091993208157603870234"
+}

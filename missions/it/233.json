@@ -1,1 +1,36 @@
-{"missionId": "233", "missionName": "Maxitamponamento in galleria", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "3"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "kilolitriche", "qty": "2"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "14"}], "credits": "11"}
+{
+ "missionId": "233",
+ "missionName": "Maxitamponamento in galleria",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "3"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "14"
+  }
+ ],
+ "credits": "11",
+ "version": "70389760422858912318376845785529911102"
+}

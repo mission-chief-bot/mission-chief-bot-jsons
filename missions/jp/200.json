@@ -1,1 +1,16 @@
-{"missionId": "200", "missionName": "道路近くでの花火使用による自動車事故", "requirements": [{"requirement": "警察車両", "qty": "2"}, {"requirement": "最大患者", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "200",
+ "missionName": "道路近くでの花火使用による自動車事故",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "232158314651870529499692646953615146201"
+}

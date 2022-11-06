@@ -1,1 +1,24 @@
-{"missionId": "60", "missionName": "화재 현장(스포츠 홀)", "requirements": [{"requirement": "소방차", "qty": "5"}, {"requirement": "지휘차", "qty": "1"}, {"requirement": "고가 사다리(TL)", "qty": "1"}, {"requirement": "구급차", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "60",
+ "missionName": "화재 현장(스포츠 홀)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "5"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "1"
+  },
+  {
+   "requirement": "고가 사다리(TL)",
+   "qty": "1"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "141421199199662056309524571717437790539"
+}

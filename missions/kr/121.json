@@ -1,1 +1,12 @@
-{"missionId": "121", "missionName": "기차 선로 무단 침입자", "requirements": [{"requirement": "경찰차", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "121",
+ "missionName": "기차 선로 무단 침입자",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "209159461782912832117483571684709665313"
+}

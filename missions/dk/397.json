@@ -1,1 +1,32 @@
-{"missionId": "397", "missionName": "Europæisk 112 dags fejring", "requirements": [{"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede redningsvogn", "qty": "1"}, {"requirement": "påkrævede brandbiler", "qty": "2"}, {"requirement": "påkrævede stigevogn", "qty": "1"}, {"requirement": "påkrævede ambulancer", "qty": "2"}, {"requirement": "påkrævede politibiler", "qty": "3"}], "credits": "4500"}
+{
+ "missionId": "397",
+ "missionName": "Europæisk 112 dags fejring",
+ "requirements": [
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede ambulancer",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "3"
+  }
+ ],
+ "credits": "4500",
+ "version": "141210698475465905229430241017417849192"
+}

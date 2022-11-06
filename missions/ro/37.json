@@ -1,1 +1,12 @@
-{"missionId": "37", "missionName": "Criză de astm", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "37",
+ "missionName": "Criză de astm",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "249276390025161396244087502189924902387"
+}

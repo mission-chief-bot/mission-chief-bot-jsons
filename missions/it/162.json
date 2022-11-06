@@ -1,1 +1,12 @@
-{"missionId": "162", "missionName": "Furto in appartamento", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "1250"}
+{
+ "missionId": "162",
+ "missionName": "Furto in appartamento",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1250",
+ "version": "7225732370752065254769946282678416119"
+}

@@ -1,1 +1,12 @@
-{"missionId": "32", "missionName": "Cosechadora incendiada", "requirements": [{"requirement": "camiones de bomberos", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "32",
+ "missionName": "Cosechadora incendiada",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "281641955336369049105235417058957190979"
+}

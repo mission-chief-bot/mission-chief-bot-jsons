@@ -1,1 +1,16 @@
-{"missionId": "132", "missionName": "Barn forsvunnet", "requirements": [ {"requirement": "politibiler", "qty": "3"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "132",
+ "missionName": "Barn forsvunnet",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "288147467164182848695528678805194205445"
+}

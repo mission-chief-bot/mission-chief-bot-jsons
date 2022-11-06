@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Палаюче листя", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Палаюче листя",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "214473554034424041597024404392553522631"
+}

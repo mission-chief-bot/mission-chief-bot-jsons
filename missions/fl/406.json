@@ -1,1 +1,28 @@
-{"missionId": "406", "missionName": "443 Räjähdys kerrostaloasunnossa", "requirements": [{"requirement": "paloautot", "qty": "5"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "nostolava-autot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "poliisiautot", "qty": "2"}], "credits": "7500"}
+{
+ "missionId": "406",
+ "missionName": "443 Räjähdys kerrostaloasunnossa",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "5"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "7500",
+ "version": "180065887005418456689105478437054686476"
+}

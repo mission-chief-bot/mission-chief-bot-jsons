@@ -1,1 +1,12 @@
-{"missionId": "242", "missionName": "Garantarea siguranței în cadrul unei competiții de înot", "requirements": [{"requirement": "ambulanțe necesare", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "242",
+ "missionName": "Garantarea siguranței în cadrul unei competiții de înot",
+ "requirements": [
+  {
+   "requirement": "ambulanțe necesare",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "252994516333827192085762868142197296800"
+}

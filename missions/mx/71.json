@@ -1,1 +1,12 @@
-{"missionId": "71", "missionName": "Sangrado nasal", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "71",
+ "missionName": "Sangrado nasal",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "59504930330481729065853846055478117961"
+}

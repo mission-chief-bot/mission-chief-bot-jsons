@@ -1,1 +1,16 @@
-{"missionId": "47", "missionName": "akuter Asthma-Anfall", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "47",
+ "missionName": "akuter Asthma-Anfall",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "65058289701914576149245289729748033716"
+}

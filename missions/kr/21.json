@@ -1,1 +1,20 @@
-{"missionId": "21", "missionName": "화재 현장(굴뚝)", "requirements": [{"requirement": "고가 사다리(TL)", "qty": "1"}, {"requirement": "지휘차", "qty": "1"}, {"requirement": "소방차", "qty": "1"}], "credits": "2400"}
+{
+ "missionId": "21",
+ "missionName": "화재 현장(굴뚝)",
+ "requirements": [
+  {
+   "requirement": "고가 사다리(TL)",
+   "qty": "1"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "1"
+  },
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "2400",
+ "version": "291344247291749024185000593951124243662"
+}

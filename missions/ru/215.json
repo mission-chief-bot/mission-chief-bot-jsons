@@ -1,1 +1,12 @@
-{"missionId": "215", "missionName": "Порезы от распаковки юбилейных подарков", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "215",
+ "missionName": "Порезы от распаковки юбилейных подарков",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "25239974465660504460939808561173359648"
+}

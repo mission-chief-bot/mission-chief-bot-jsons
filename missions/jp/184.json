@@ -1,1 +1,16 @@
-{"missionId": "184", "missionName": "花火によるバルコニー火災", "requirements": [{"requirement": "消防車", "qty": "2"}, {"requirement": "プラットフォームトラック", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "184",
+ "missionName": "花火によるバルコニー火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "32927881032350443309312918522492409143"
+}

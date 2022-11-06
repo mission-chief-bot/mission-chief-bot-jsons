@@ -1,1 +1,12 @@
-{"missionId": "317", "missionName": "Hořící kytice", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "317",
+ "missionName": "Hořící kytice",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "59894639206388182679839327810064981841"
+}

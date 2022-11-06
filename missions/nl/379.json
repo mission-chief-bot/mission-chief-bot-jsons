@@ -1,1 +1,48 @@
-{"missionId": "379", "missionName": "Vreemde lucht in winkelcentrum", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "waarschuwings- en verkenningsdienst voertuigen", "qty": "1"}, {"requirement": "adviseurs gevaarlijke stoffen", "qty": "1"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "commandowagen", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "4"}, {"requirement": "ovd-geneeskunde", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "18"}], "credits": "4000"}
+{
+ "missionId": "379",
+ "missionName": "Vreemde lucht in winkelcentrum",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "waarschuwings- en verkenningsdienst voertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "commandowagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  },
+  {
+   "requirement": "ovd-geneeskunde",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "18"
+  }
+ ],
+ "credits": "4000",
+ "version": "282235761324392775281643379264377270020"
+}

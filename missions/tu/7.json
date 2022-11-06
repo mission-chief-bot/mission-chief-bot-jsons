@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Yaprak yangını", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Yaprak yangını",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "329886422343368781714599751525727222435"
+}

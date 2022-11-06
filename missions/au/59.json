@@ -1,1 +1,16 @@
-{"missionId": "59", "missionName": "Animal Rescue", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "59",
+ "missionName": "Animal Rescue",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "56527606325216090864038223872108697246"
+}

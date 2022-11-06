@@ -1,1 +1,12 @@
-{"missionId": "365", "missionName": "Vandalismo", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "365",
+ "missionName": "Vandalismo",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "3280509575620272573015921084461791222"
+}

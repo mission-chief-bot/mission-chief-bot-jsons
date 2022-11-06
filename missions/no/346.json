@@ -1,1 +1,16 @@
-{"missionId": "346", "missionName": "Person med illebefinnende i heis", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "346",
+ "missionName": "Person med illebefinnende i heis",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "23478212807236395816798142519213816193"
+}

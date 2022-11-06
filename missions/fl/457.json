@@ -1,1 +1,20 @@
-{"missionId": "457", "missionName": "628 Raskaan liikenteen valvonta", "requirements": [{"requirement": "liikenneryhmät", "qty": "2"}, {"requirement": "poliisiautot", "qty": "1"}, {"requirement": "vaaka-autot", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "457",
+ "missionName": "628 Raskaan liikenteen valvonta",
+ "requirements": [
+  {
+   "requirement": "liikenneryhmät",
+   "qty": "2"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "vaaka-autot",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "203703147976049316492276150767842374715"
+}

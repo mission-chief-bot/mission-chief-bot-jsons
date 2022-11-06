@@ -1,1 +1,24 @@
-{"missionId": "552", "missionName": "Ultraleggero Precipitato in Mare", "requirements": [{"requirement": "max pazienti", "qty": "4"}, {"requirement": "motovedetta costiera", "qty": "2"}, {"requirement": "elicottero guardia costiera", "qty": "1"}, {"requirement": "motovedetta d'altura", "qty": "1"}], "credits": "2800"}
+{
+ "missionId": "552",
+ "missionName": "Ultraleggero Precipitato in Mare",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  },
+  {
+   "requirement": "motovedetta costiera",
+   "qty": "2"
+  },
+  {
+   "requirement": "elicottero guardia costiera",
+   "qty": "1"
+  },
+  {
+   "requirement": "motovedetta d'altura",
+   "qty": "1"
+  }
+ ],
+ "credits": "2800",
+ "version": "35550041310054881567974035372244620757"
+}

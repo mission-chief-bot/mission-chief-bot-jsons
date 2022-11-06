@@ -1,1 +1,20 @@
-{"missionId": "28", "missionName": "Máquina ardiendo", "requirements": [{"requirement": "camiones de bomberos", "qty": "3"}, {"requirement": "furgones de útiles varios", "qty": "1"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}], "credits": "2470"}
+{
+ "missionId": "28",
+ "missionName": "Máquina ardiendo",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "3"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "1"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  }
+ ],
+ "credits": "2470",
+ "version": "17592932189944561079786083090698420073"
+}

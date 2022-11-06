@@ -1,1 +1,12 @@
-{"missionId": "216", "missionName": "失恋", "requirements": [{"requirement": "最大患者", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "216",
+ "missionName": "失恋",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "147270070027177744363869850745777772653"
+}

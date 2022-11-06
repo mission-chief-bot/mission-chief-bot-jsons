@@ -1,1 +1,16 @@
-{"missionId": "794", "missionName": "Onwelwording (strand)", "requirements": [{"requirement": "strandvoertuigen (dat-rb of khv)", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "830"}
+{
+ "missionId": "794",
+ "missionName": "Onwelwording (strand)",
+ "requirements": [
+  {
+   "requirement": "strandvoertuigen (dat-rb of khv)",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "830",
+ "version": "84225498513124368496238339897480134283"
+}

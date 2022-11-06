@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "草むらから出火", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "草むらから出火",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "62599986420299750344210309615592701840"
+}

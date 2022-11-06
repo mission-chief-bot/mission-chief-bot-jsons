@@ -1,1 +1,20 @@
-{"missionId": "92", "missionName": "Person with a weapon", "requirements": [{"requirement": "police cars", "qty": "6"}, {"requirement": "dog support units (dsus)", "qty": "1"}, {"requirement": "armed response vehicle", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "92",
+ "missionName": "Person with a weapon",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "dog support units (dsus)",
+   "qty": "1"
+  },
+  {
+   "requirement": "armed response vehicle",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "261579575307124246617031314709661028177"
+}

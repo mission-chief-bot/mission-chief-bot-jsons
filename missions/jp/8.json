@@ -1,1 +1,12 @@
-{"missionId": "8", "missionName": "大型ごみから出火", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "8",
+ "missionName": "大型ごみから出火",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "114878090870570038815390934717796197770"
+}

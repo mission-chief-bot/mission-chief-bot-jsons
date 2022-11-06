@@ -1,1 +1,12 @@
-{"missionId": "492", "missionName": "Cestino da picnic in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "492",
+ "missionName": "Cestino da picnic in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "29955108968730869242042662928812780372"
+}

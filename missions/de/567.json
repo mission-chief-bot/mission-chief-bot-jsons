@@ -1,1 +1,12 @@
-{"missionId": "567", "missionName": "Diebstahl auf Baustelle", "requirements": [{"requirement": "zivilstreifenwagen, streifenwagen", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "567",
+ "missionName": "Diebstahl auf Baustelle",
+ "requirements": [
+  {
+   "requirement": "zivilstreifenwagen, streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "321126086233692639692352269486685762927"
+}

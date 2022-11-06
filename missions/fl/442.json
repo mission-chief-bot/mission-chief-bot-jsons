@@ -1,1 +1,12 @@
-{"missionId": "442", "missionName": "620 Mopomiitin valvonta", "requirements": [{"requirement": "poliisiautot", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "442",
+ "missionName": "620 Mopomiitin valvonta",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "145607580038664204355531850306218304434"
+}

@@ -1,1 +1,16 @@
-{"missionId": "55", "missionName": "Bråk", "requirements": [{"requirement": "polisbilar", "qty": "3"}, {"requirement": "mest patienter", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "55",
+ "missionName": "Bråk",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "290668309410222960396697168225667426272"
+}

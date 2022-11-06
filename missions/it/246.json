@@ -1,1 +1,12 @@
-{"missionId": "246", "missionName": "Controllo fiscale", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "246",
+ "missionName": "Controllo fiscale",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "163716261351013140921979286753297443240"
+}

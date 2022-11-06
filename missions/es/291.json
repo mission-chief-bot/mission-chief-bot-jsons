@@ -1,1 +1,12 @@
-{"missionId": "291", "missionName": "Autobús del equipo estacionado en zona sin parada", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "291",
+ "missionName": "Autobús del equipo estacionado en zona sin parada",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "239108670233983481793936280392021916206"
+}

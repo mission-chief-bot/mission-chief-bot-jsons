@@ -1,1 +1,12 @@
-{"missionId": "200", "missionName": "Adornos robados por invitados a aniversario", "requirements": [{"requirement": "coches patrulla", "qty": "4"}], "credits": "3000"}
+{
+ "missionId": "200",
+ "missionName": "Adornos robados por invitados a aniversario",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "51565619731196478653892315240152282083"
+}

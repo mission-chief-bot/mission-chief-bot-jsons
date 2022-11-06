@@ -1,1 +1,12 @@
-{"missionId": "139", "missionName": "Sperietoare în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "139",
+ "missionName": "Sperietoare în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "33615813363448411894433233131617088902"
+}

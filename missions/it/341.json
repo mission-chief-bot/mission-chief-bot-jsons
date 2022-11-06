@@ -1,1 +1,12 @@
-{"missionId": "341", "missionName": "Controllo bancarelle abusive", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "341",
+ "missionName": "Controllo bancarelle abusive",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "15061840083419414479031685878981032462"
+}

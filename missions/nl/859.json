@@ -1,1 +1,12 @@
-{"missionId": "859", "missionName": "Op hol geslagen bladblazer", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "859",
+ "missionName": "Op hol geslagen bladblazer",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "299791732787755634897240921420803514583"
+}

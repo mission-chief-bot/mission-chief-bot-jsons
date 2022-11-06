@@ -1,1 +1,12 @@
-{"missionId": "370", "missionName": "マニフェストセキュア（メジャー）", "requirements": [{"requirement": "警察車両", "qty": "12"}], "credits": "18200"}
+{
+ "missionId": "370",
+ "missionName": "マニフェストセキュア（メジャー）",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "12"
+  }
+ ],
+ "credits": "18200",
+ "version": "246444158215464853360836995558904527579"
+}

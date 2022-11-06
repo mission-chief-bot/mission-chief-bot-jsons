@@ -1,1 +1,12 @@
-{"missionId": "36", "missionName": "Dureri în piept", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "36",
+ "missionName": "Dureri în piept",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "149920688005235198440330926697497538363"
+}

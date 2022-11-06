@@ -1,1 +1,16 @@
-{"missionId": "341", "missionName": "Kontaminovaný vozík na zmrzlinu", "requirements": [{"requirement": "policejní automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "4"}], "credits": "100"}
+{
+ "missionId": "341",
+ "missionName": "Kontaminovaný vozík na zmrzlinu",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "4"
+  }
+ ],
+ "credits": "100",
+ "version": "229076549092775086752457051438575628993"
+}

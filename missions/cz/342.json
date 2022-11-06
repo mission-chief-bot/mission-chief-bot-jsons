@@ -1,1 +1,16 @@
-{"missionId": "342", "missionName": "Nelegální táborák v parku", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "342",
+ "missionName": "Nelegální táborák v parku",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "71238713326236619975756467768477026316"
+}

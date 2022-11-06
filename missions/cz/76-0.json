@@ -1,1 +1,36 @@
-{"missionId": "76-0", "missionName": "Dopravní nehoda s převrácením", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}, {"requirement": "rza", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "4"}], "credits": "3400"}
+{
+ "missionId": "76-0",
+ "missionName": "Dopravní nehoda s převrácením",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  },
+  {
+   "requirement": "rza",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "4"
+  }
+ ],
+ "credits": "3400",
+ "version": "315409738678417477854882266471808436709"
+}

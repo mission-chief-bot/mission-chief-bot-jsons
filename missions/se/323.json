@@ -1,1 +1,20 @@
-{"missionId": "323", "missionName": "Skadegörelse, stadshus", "requirements": [{"requirement": "polisbilar", "qty": "4"}, {"requirement": "hundenheter", "qty": "2"}, {"requirement": "polishelikoptrar", "qty": "1"}], "credits": "2800"}
+{
+ "missionId": "323",
+ "missionName": "Skadegörelse, stadshus",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "2"
+  },
+  {
+   "requirement": "polishelikoptrar",
+   "qty": "1"
+  }
+ ],
+ "credits": "2800",
+ "version": "93809371484035948841680493588888088443"
+}

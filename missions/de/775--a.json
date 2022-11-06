@@ -1,1 +1,40 @@
-{"missionId": "775/a", "missionName": "Drogenlabor gefunden", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "gw-gefahrgut", "qty": "1"}, {"requirement": "streifenwagen", "qty": "4"}, {"requirement": "grukw", "qty": "3"}, {"requirement": "lebefkw", "qty": "1"}, {"requirement": "zivilstreifenwagen", "qty": "2"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "2400"}
+{
+ "missionId": "775/a",
+ "missionName": "Drogenlabor gefunden",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-gefahrgut",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "grukw",
+   "qty": "3"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "1"
+  },
+  {
+   "requirement": "zivilstreifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "2400",
+ "version": "51964813990555707846171943846607636092"
+}

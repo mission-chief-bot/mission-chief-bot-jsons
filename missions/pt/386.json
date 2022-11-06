@@ -1,1 +1,12 @@
-{"missionId": "386", "missionName": "Złodziej kradnie cielaki", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "386",
+ "missionName": "Złodziej kradnie cielaki",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "160849604456943119432233049858342941012"
+}

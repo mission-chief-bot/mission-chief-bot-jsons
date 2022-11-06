@@ -1,1 +1,28 @@
-{"missionId": "449", "missionName": "Bränsleutsläpp vid bensinstation", "requirements": [{"requirement": "släckbilar", "qty": "4"}, {"requirement": "lastväxlare", "qty": "2"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "polisbilar", "qty": "3"}, {"requirement": "kemskyddsenhet", "qty": "1"}], "credits": "4300"}
+{
+ "missionId": "449",
+ "missionName": "Bränsleutsläpp vid bensinstation",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "kemskyddsenhet",
+   "qty": "1"
+  }
+ ],
+ "credits": "4300",
+ "version": "181202929876672067997515035827083144818"
+}

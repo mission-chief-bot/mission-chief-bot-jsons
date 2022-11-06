@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "İzinsiz gösteri", "requirements": [{"requirement": "gerekli polis arabaları", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "57",
+ "missionName": "İzinsiz gösteri",
+ "requirements": [
+  {
+   "requirement": "gerekli polis arabaları",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "292110757374885353857082517957831048470"
+}

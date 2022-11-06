@@ -1,1 +1,16 @@
-{"missionId": "59", "missionName": "동물 구조", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "구조공작차(MRU)", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "59",
+ "missionName": "동물 구조",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  },
+  {
+   "requirement": "구조공작차(MRU)",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "211580307867883480071917278018669203061"
+}

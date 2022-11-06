@@ -1,1 +1,16 @@
-{"missionId": "261", "missionName": "Skogsbrand, liten", "requirements": [{"requirement": "brandbefäl", "qty": "1"}, {"requirement": "tankbilar", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "261",
+ "missionName": "Skogsbrand, liten",
+ "requirements": [
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "65155091090602031454866885650321254223"
+}

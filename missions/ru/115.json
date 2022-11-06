@@ -1,1 +1,12 @@
-{"missionId": "115", "missionName": "Черепно-мозговая травма", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "115",
+ "missionName": "Черепно-мозговая травма",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "304738946627794545094141892883650222838"
+}

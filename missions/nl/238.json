@@ -1,1 +1,12 @@
-{"missionId": "238", "missionName": "Brand in werkplaats", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "238",
+ "missionName": "Brand in werkplaats",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "174015275497675756561666750050581445277"
+}

@@ -1,1 +1,12 @@
-{"missionId": "14", "missionName": "Little field fire", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "14",
+ "missionName": "Little field fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "277464128045019713732107698422981613470"
+}

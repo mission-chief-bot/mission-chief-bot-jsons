@@ -1,1 +1,28 @@
-{"missionId": "114", "missionName": "Grøftredning", "requirements": [ {"requirement": "politibiler", "qty": "1"}, {"requirement": "brannbiler", "qty": "3"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tungredningsbiler", "qty": "2"}, {"requirement": "maks pasienter", "qty": "4"}], "credits": "2500"}
+{
+ "missionId": "114",
+ "missionName": "Grøftredning",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "brannbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "2500",
+ "version": "85469860955260749914117208998894231756"
+}

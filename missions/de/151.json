@@ -1,1 +1,12 @@
-{"missionId": "151", "missionName": "Raub", "requirements": [ {"requirement": "streifenwagen", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "151",
+ "missionName": "Raub",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "194342043299406357771973341223247505398"
+}

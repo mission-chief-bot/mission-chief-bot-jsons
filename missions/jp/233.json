@@ -1,1 +1,12 @@
-{"missionId": "233", "missionName": "外傷性四肢切断", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "233",
+ "missionName": "外傷性四肢切断",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "308742665033852396724020614787069054199"
+}

@@ -1,1 +1,20 @@
-{"missionId": "487", "missionName": "Bird strike", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "arff", "qty": "3"}], "credits": "2500"}
+{
+ "missionId": "487",
+ "missionName": "Bird strike",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "arff",
+   "qty": "3"
+  }
+ ],
+ "credits": "2500",
+ "version": "306299126757481495790478970178676558859"
+}

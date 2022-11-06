@@ -1,1 +1,16 @@
-{"missionId": "849", "missionName": "Gevallen groep mountainbikers", "requirements": [{"requirement": "strandvoertuigen (dat-rb of khv)", "qty": "3"}, {"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "3020"}
+{
+ "missionId": "849",
+ "missionName": "Gevallen groep mountainbikers",
+ "requirements": [
+  {
+   "requirement": "strandvoertuigen (dat-rb of khv)",
+   "qty": "3"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "3020",
+ "version": "240739336679745153246172029131818017166"
+}

@@ -1,1 +1,12 @@
-{"missionId": "206", "missionName": "Kost v krku od Vánočního kapra", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "206",
+ "missionName": "Kost v krku od Vánočního kapra",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "240381309596524647155158486434093050586"
+}

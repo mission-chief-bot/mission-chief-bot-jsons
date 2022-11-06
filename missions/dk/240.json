@@ -1,1 +1,12 @@
-{"missionId": "240", "missionName": "Overtrædelse af fyrværkeri loven", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "240",
+ "missionName": "Overtrædelse af fyrværkeri loven",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "192106276272730418929725794015257663434"
+}

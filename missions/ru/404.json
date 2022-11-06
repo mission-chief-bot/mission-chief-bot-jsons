@@ -1,1 +1,16 @@
-{"missionId": "404", "missionName": "Курение в доме на одну семью", "requirements": [{"requirement": "пожарные машины", "qty": "4"}, {"requirement": "машины командира батальона", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "404",
+ "missionName": "Курение в доме на одну семью",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "4"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "307081075378063882035636116509778062524"
+}

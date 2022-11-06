@@ -1,1 +1,12 @@
-{"missionId": "208", "missionName": "Violação da Lei dos Explosivos", "requirements": [{"requirement": "carros de patrulha", "qty": 1}], "credits": "200"}
+{
+ "missionId": "208",
+ "missionName": "Violação da Lei dos Explosivos",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha",
+   "qty": 1
+  }
+ ],
+ "credits": "200",
+ "version": "274519918684340895648137463351777110321"
+}

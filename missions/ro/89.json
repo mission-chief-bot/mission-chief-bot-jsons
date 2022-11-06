@@ -1,1 +1,16 @@
-{"missionId": "89", "missionName": "Copil pierdut", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "3"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "89",
+ "missionName": "Copil pierdut",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "44785276928227366804070244057835973292"
+}

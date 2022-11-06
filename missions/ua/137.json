@@ -1,1 +1,28 @@
-{"missionId": "137", "missionName": "Пожежа у музеї", "requirements": [{"requirement": "пожежні машини", "qty": "6"}, {"requirement": "штабні автомобілі", "qty": "2"}, {"requirement": "пожежні автодрабини", "qty": "2"}, {"requirement": "пожежно-рятувальні автомобілі", "qty": "4"}, {"requirement": "поліцейські машини", "qty": "2"}], "credits": "7500"}
+{
+ "missionId": "137",
+ "missionName": "Пожежа у музеї",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "6"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "2"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "2"
+  },
+  {
+   "requirement": "пожежно-рятувальні автомобілі",
+   "qty": "4"
+  },
+  {
+   "requirement": "поліцейські машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "7500",
+ "version": "2577266471687833472116033810309782094"
+}

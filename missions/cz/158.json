@@ -1,1 +1,20 @@
-{"missionId": "158", "missionName": "Požár elektromobilu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "vozidla pro práci s nebezpečnými látkami", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "158",
+ "missionName": "Požár elektromobilu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "vozidla pro práci s nebezpečnými látkami",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "272798958725706960268495500782044420991"
+}

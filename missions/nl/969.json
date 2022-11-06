@@ -1,1 +1,24 @@
-{"missionId": "969", "missionName": "Illegale F1-auto op snelweg", "requirements": [{"requirement": "noodhulpeenheden", "qty": "10"}, {"requirement": "hondengeleider", "qty": "1"}, {"requirement": "officiers van dienst politie", "qty": "1"}, {"requirement": "politie helikopters", "qty": "1"}], "credits": "4330"}
+{
+ "missionId": "969",
+ "missionName": "Illegale F1-auto op snelweg",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "10"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "1"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "4330",
+ "version": "74857450369596886269152745790775725457"
+}

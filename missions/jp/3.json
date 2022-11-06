@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "モーターバイク火災", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "モーターバイク火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "279549416537236026011746194115224835046"
+}

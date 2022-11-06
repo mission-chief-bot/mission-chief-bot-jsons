@@ -1,1 +1,12 @@
-{"missionId": "277", "missionName": "낙엽으로 배수구 막힘", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "277",
+ "missionName": "낙엽으로 배수구 막힘",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "75263317808421102639573313976737857063"
+}

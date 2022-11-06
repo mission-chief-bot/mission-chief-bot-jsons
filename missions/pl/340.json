@@ -1,1 +1,12 @@
-{"missionId": "340", "missionName": "Uraz wielonarządowy", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "810"}
+{
+ "missionId": "340",
+ "missionName": "Uraz wielonarządowy",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "810",
+ "version": "36264946262092681545288803755620412665"
+}

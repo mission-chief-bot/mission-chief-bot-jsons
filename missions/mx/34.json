@@ -1,1 +1,28 @@
-{"missionId": "34", "missionName": "Incendio en hospital", "requirements": [{"requirement": "camiones de bomberos", "qty": "10"}, {"requirement": "unidades de mando y comunicaciones", "qty": "2"}, {"requirement": "furgones de útiles varios", "qty": "2"}, {"requirement": "camiones cisterna", "qty": "1"}, {"requirement": "camiones con plataforma", "qty": "3"}], "credits": "6000"}
+{
+ "missionId": "34",
+ "missionName": "Incendio en hospital",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "10"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "2"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "2"
+  },
+  {
+   "requirement": "camiones cisterna",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "3"
+  }
+ ],
+ "credits": "6000",
+ "version": "263227082601732085917637132534480422377"
+}

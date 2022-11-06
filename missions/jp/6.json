@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "庭の小屋から出火", "requirements": [{"requirement": "消防車", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "庭の小屋から出火",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "94414049462309780536287315286113324035"
+}

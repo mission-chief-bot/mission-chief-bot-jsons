@@ -1,1 +1,12 @@
-{"missionId": "461", "missionName": "Dehydrierte Person", "requirements": [ {"requirement": "rtw, naw", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "461",
+ "missionName": "Dehydrierte Person",
+ "requirements": [
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "59712620506001680538026870858194407033"
+}

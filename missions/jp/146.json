@@ -1,1 +1,12 @@
-{"missionId": "146", "missionName": "モンスターの大混乱", "requirements": [{"requirement": "警察車両", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "146",
+ "missionName": "モンスターの大混乱",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "39416489003600340503749868189350462958"
+}

@@ -1,1 +1,12 @@
-{"missionId": "227", "missionName": "785 Paniikkikohtaus", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "250"}
+{
+ "missionId": "227",
+ "missionName": "785 Paniikkikohtaus",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "250",
+ "version": "294676078242098836850695892661204392869"
+}

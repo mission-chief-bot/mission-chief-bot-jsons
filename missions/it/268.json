@@ -1,1 +1,32 @@
-{"missionId": "268", "missionName": "Incendio Discoteca", "requirements": [{"requirement": "aps/abp", "qty": "6"}, {"requirement": "unità polisoccorso", "qty": "4"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "pattuglie", "qty": "6"}, {"requirement": "max pazienti", "qty": "60"}], "credits": "10"}
+{
+ "missionId": "268",
+ "missionName": "Incendio Discoteca",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "6"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "4"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "6"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "60"
+  }
+ ],
+ "credits": "10",
+ "version": "232827802659630326226676716291788046552"
+}

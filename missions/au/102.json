@@ -1,1 +1,20 @@
-{"missionId": "102", "missionName": "Basement fire caused by fireworks", "requirements": [{"requirement": "support vehicles", "qty": "1"}, {"requirement": "fire engines", "qty": "3"}, {"requirement": "max. patients", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "102",
+ "missionName": "Basement fire caused by fireworks",
+ "requirements": [
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "312941183291146966332556318193332172749"
+}

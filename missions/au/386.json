@@ -1,1 +1,12 @@
-{"missionId": "386", "missionName": "Vandalism", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "386",
+ "missionName": "Vandalism",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "263874764877549469168451870151904525841"
+}

@@ -1,1 +1,16 @@
-{"missionId": "67", "missionName": "Rvačka", "requirements": [{"requirement": "policejní automobily", "qty": "3"}, {"requirement": "maximum pacientů", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "67",
+ "missionName": "Rvačka",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "246580605514835882252441598104135694407"
+}

@@ -1,1 +1,12 @@
-{"missionId": "244", "missionName": "Patrulhamento no mercado", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "244",
+ "missionName": "Patrulhamento no mercado",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "297279012272506321070634272845201179325"
+}

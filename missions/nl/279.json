@@ -1,1 +1,12 @@
-{"missionId": "279", "missionName": "Bedreiging", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "750"}
+{
+ "missionId": "279",
+ "missionName": "Bedreiging",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "750",
+ "version": "96199769991713414520233781448619349777"
+}

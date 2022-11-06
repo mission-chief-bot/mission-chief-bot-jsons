@@ -1,1 +1,12 @@
-{"missionId": "341", "missionName": "Stopp i avloppsbrunn på grund av löv", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "341",
+ "missionName": "Stopp i avloppsbrunn på grund av löv",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "303296313763174919317005374332117546178"
+}

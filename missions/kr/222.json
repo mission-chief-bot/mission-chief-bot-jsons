@@ -1,1 +1,12 @@
-{"missionId": "222", "missionName": "실연의 아픔", "requirements": [{"requirement": "최대 환자", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "222",
+ "missionName": "실연의 아픔",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "186330632244616801665336345214020659341"
+}

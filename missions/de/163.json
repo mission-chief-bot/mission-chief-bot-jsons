@@ -1,1 +1,20 @@
-{"missionId": "163", "missionName": "Baum auf Dach", "requirements": [ {"requirement": "drehleitern", "qty": "1"}, {"requirement": "feuerwehrkräne (fwk)", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "163",
+ "missionName": "Baum auf Dach",
+ "requirements": [
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "feuerwehrkräne (fwk)",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "309034911831440685604897329759597490036"
+}

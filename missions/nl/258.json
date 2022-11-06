@@ -1,1 +1,16 @@
-{"missionId": "258", "missionName": "Brand in flatwoning", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "258",
+ "missionName": "Brand in flatwoning",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "266034462776902473595416554941406708017"
+}

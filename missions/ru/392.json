@@ -1,1 +1,12 @@
-{"missionId": "392", "missionName": "Животное в ловушке в реке", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "392",
+ "missionName": "Животное в ловушке в реке",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "24514469671331724935650550301333043596"
+}

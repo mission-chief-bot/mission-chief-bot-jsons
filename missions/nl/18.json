@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "Brandende struik", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "Brandende struik",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "44417524961230595827300814805285538436"
+}

@@ -1,1 +1,12 @@
-{"missionId": "788", "missionName": "Iemand uitgegleden over gesmolten chocolade", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "788",
+ "missionName": "Iemand uitgegleden over gesmolten chocolade",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "206514808191061956040718623104484031133"
+}

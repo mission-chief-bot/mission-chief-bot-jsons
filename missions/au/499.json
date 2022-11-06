@@ -1,1 +1,32 @@
-{"missionId": "499", "missionName": "People missing on dance floor", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "ambulances", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "1"}, {"requirement": "ladder platform trucks", "qty": "1"}, {"requirement": "police cars", "qty": "1"}, {"requirement": "support vehicles", "qty": "1"}], "credits": "7500"}
+{
+ "missionId": "499",
+ "missionName": "People missing on dance floor",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "ladder platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "7500",
+ "version": "77995646899960662095320662173319262441"
+}

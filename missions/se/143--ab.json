@@ -1,1 +1,24 @@
-{"missionId": "143/ab", "missionName": "Ordningslagen, demonstration utan tillstånd", "requirements": [{"requirement": "polisbilar", "qty": "5"}, {"requirement": "polishelikoptrar", "qty": "1"}, {"requirement": "hundenheter", "qty": "2"}, {"requirement": "mest patienter", "qty": "4"}], "credits": "4200"}
+{
+ "missionId": "143/ab",
+ "missionName": "Ordningslagen, demonstration utan tillstånd",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "polishelikoptrar",
+   "qty": "1"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "4200",
+ "version": "109167461309004474057890444667138807696"
+}

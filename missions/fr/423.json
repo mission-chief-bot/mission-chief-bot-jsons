@@ -1,1 +1,40 @@
-{"missionId": "423", "missionName": "Sécurisation de Manifestation (Majeur)", "requirements": [{"requirement": "voitures de police es", "qty": "12"}, { "requirement": "vr", "qty": "30"}, { "requirement": "vct", "qty": "2"}, { "requirement": "ram", "qty": "2"}, { "requirement": "vat", "qty": "2"}, { "requirement": "vtp", "qty": "2"}, { "requirement": "rebp", "qty": "3"}, { "requirement": "ele", "qty": "2"}], "credits": "18200"}
+{
+ "missionId": "423",
+ "missionName": "Sécurisation de Manifestation (Majeur)",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "12"
+  },
+  {
+   "requirement": "vr",
+   "qty": "30"
+  },
+  {
+   "requirement": "vct",
+   "qty": "2"
+  },
+  {
+   "requirement": "ram",
+   "qty": "2"
+  },
+  {
+   "requirement": "vat",
+   "qty": "2"
+  },
+  {
+   "requirement": "vtp",
+   "qty": "2"
+  },
+  {
+   "requirement": "rebp",
+   "qty": "3"
+  },
+  {
+   "requirement": "ele",
+   "qty": "2"
+  }
+ ],
+ "credits": "18200",
+ "version": "307151917055527613388180939500640903725"
+}

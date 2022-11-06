@@ -1,1 +1,12 @@
-{"missionId": "219", "missionName": "Ataque de pânico", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "219",
+ "missionName": "Ataque de pânico",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "47833341474472289081538013866431322719"
+}

@@ -1,1 +1,12 @@
-{"missionId": "441", "missionName": "Neakutní otevření bytu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "441",
+ "missionName": "Neakutní otevření bytu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "138196584092757579368154809032071045534"
+}

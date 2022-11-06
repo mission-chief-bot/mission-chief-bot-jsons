@@ -1,1 +1,12 @@
-{"missionId": "194", "missionName": "Folosirea de artificii in apropiere de drum", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "194",
+ "missionName": "Folosirea de artificii in apropiere de drum",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "121689749335073482577937555212155797140"
+}

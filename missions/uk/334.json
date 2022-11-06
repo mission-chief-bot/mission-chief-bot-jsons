@@ -1,1 +1,12 @@
-{"missionId": "334", "missionName": "Arcing power lines", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "334",
+ "missionName": "Arcing power lines",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "106321590246813027035913506608324934100"
+}

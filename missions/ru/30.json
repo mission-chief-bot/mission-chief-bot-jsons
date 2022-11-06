@@ -1,1 +1,12 @@
-{"missionId": "30", "missionName": "Утечка газа", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "30",
+ "missionName": "Утечка газа",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "281328147534158773115919087470995577078"
+}

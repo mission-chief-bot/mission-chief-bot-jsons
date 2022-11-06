@@ -1,1 +1,16 @@
-{"missionId": "355", "missionName": "Injured free runner", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "355",
+ "missionName": "Injured free runner",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "280082339516217842755574865962020746853"
+}

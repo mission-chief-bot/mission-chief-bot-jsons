@@ -1,1 +1,12 @@
-{"missionId": "111", "missionName": "Trespasser on railway line", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "111",
+ "missionName": "Trespasser on railway line",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "47473998955400142024533130902223102908"
+}

@@ -1,1 +1,12 @@
-{"missionId": "378", "missionName": "Öka medvetenheten kring 112 för skolbarn", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "378",
+ "missionName": "Öka medvetenheten kring 112 för skolbarn",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "93245853324657723425581820826867641779"
+}

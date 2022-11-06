@@ -1,1 +1,32 @@
-{"missionId": "194", "missionName": "Choque frontal entre veículos pesados", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "5"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "3"}, {"requirement": "veículos de socorro e assistência especial necessários:", "qty": "1"}, {"requirement": "carros de patrulha necessários:", "qty": "4"}, {"requirement": "máx. de pacientes:", "qty": "2"}], "credits": "4500"}
+{
+ "missionId": "194",
+ "missionName": "Choque frontal entre veículos pesados",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos de socorro e assistência especial necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "2"
+  }
+ ],
+ "credits": "4500",
+ "version": "188377306586263520503694459903041725675"
+}

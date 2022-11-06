@@ -1,1 +1,16 @@
-{"missionId": "374", "missionName": "煙に巻く", "requirements": [{"requirement": "消防車", "qty": "4"}, {"requirement": "消防隊長車両", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "374",
+ "missionName": "煙に巻く",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "4"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "205124632673688267595398575139749869827"
+}

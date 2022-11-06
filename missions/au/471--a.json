@@ -1,1 +1,44 @@
-{"missionId": "471/a", "missionName": "Armored Vehicle Pursuit", "requirements": [ {"requirement": "police cars", "qty": "6"}, {"requirement": "k-9 units", "qty": "2"}, {"requirement": "riot police group vehicles", "qty": "2"}, {"requirement": "riot police suvs", "qty": "2"}, {"requirement": "riot police equipment vehicles", "qty": "1"}, {"requirement": "senior sergeants", "qty": "1"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "' swat personnel (in swat vehicles)", "qty": "12"}, {"requirement": "max. patients", "qty": "3"}], "credits": "12000"}
+{
+ "missionId": "471/a",
+ "missionName": "Armored Vehicle Pursuit",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police suvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police equipment vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "1"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "' swat personnel (in swat vehicles)",
+   "qty": "12"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "credits": "12000",
+ "version": "70989372011341957158082944730027972658"
+}

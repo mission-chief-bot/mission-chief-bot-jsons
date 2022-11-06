@@ -1,1 +1,12 @@
-{"missionId": "38", "missionName": "Cудороги", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "38",
+ "missionName": "Cудороги",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "151966666030657014730948790767605769626"
+}

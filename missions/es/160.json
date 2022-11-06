@@ -1,1 +1,12 @@
-{"missionId": "160", "missionName": "Intoxicación alimentaria", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "160",
+ "missionName": "Intoxicación alimentaria",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "104582127237349551914014745333871208312"
+}

@@ -1,1 +1,44 @@
-{"missionId": "934", "missionName": "Ontsnapping gevaarlijke gedetineerde", "requirements": [{"requirement": "noodhulpeenheden", "qty": "12"}, {"requirement": "hondengeleider", "qty": "2"}, {"requirement": "biketeams", "qty": "2"}, {"requirement": "db-av", "qty": "1"}, {"requirement": "at operators", "qty": "4"}, {"requirement": "at commandanten", "qty": "1"}, {"requirement": "at materiaalwagens", "qty": "1"}, {"requirement": "officiers van dienst politie", "qty": "1"}, {"requirement": "politie helikopters", "qty": "1"}], "credits": "8820"}
+{
+ "missionId": "934",
+ "missionName": "Ontsnapping gevaarlijke gedetineerde",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "12"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "2"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "2"
+  },
+  {
+   "requirement": "db-av",
+   "qty": "1"
+  },
+  {
+   "requirement": "at operators",
+   "qty": "4"
+  },
+  {
+   "requirement": "at commandanten",
+   "qty": "1"
+  },
+  {
+   "requirement": "at materiaalwagens",
+   "qty": "1"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "8820",
+ "version": "120128120735044057506026984895796755411"
+}

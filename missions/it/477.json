@@ -1,1 +1,16 @@
-{"missionId": "477", "missionName": "Furto trofeo del ballo in maschera", "requirements": [{"requirement": "pattuglie", "qty": "5"}, {"requirement": "max pazienti", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "477",
+ "missionName": "Furto trofeo del ballo in maschera",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "5"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "315964471130342359768551047416707270874"
+}

@@ -1,1 +1,16 @@
-{"missionId": "123", "missionName": "Narkotikasalg", "requirements": [{"requirement": "politibiler", "qty": "4"}, {"requirement": "hundepatruljer", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "123",
+ "missionName": "Narkotikasalg",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "220300541643781516883986257225730938146"
+}

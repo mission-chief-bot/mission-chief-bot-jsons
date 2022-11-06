@@ -1,1 +1,20 @@
-{"missionId": "392", "missionName": "Kotjuven är på flykt", "requirements": [{"requirement": "polisbilar", "qty": "5"}, {"requirement": "hundenheter", "qty": "2"}, {"requirement": "polishelikoptrar", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "392",
+ "missionName": "Kotjuven är på flykt",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "2"
+  },
+  {
+   "requirement": "polishelikoptrar",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "228896434435854040155276993208515794347"
+}

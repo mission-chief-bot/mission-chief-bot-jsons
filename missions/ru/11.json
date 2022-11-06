@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Горящая телефонная будка", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Горящая телефонная будка",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "35921459745295077149654428161490217968"
+}

@@ -1,1 +1,16 @@
-{"missionId": "268", "missionName": "콘서트장 폭동", "requirements": [{"requirement": "경찰차", "qty": "3"}, {"requirement": "구급차", "qty": "30"}], "credits": "1150"}
+{
+ "missionId": "268",
+ "missionName": "콘서트장 폭동",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "3"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "30"
+  }
+ ],
+ "credits": "1150",
+ "version": "288279766767583027585646211330554711273"
+}

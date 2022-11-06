@@ -1,1 +1,32 @@
-{"missionId": "206", "missionName": "Firearms Attack", "requirements": [{"requirement": "police cars", "qty": "8"}, {"requirement": "dog support units (dsus)", "qty": "1"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "operational team leaders", "qty": "1"}, {"requirement": "armed response vehicle", "qty": "1"}, {"requirement": "max. patients", "qty": "6"}], "credits": "10000"}
+{
+ "missionId": "206",
+ "missionName": "Firearms Attack",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "8"
+  },
+  {
+   "requirement": "dog support units (dsus)",
+   "qty": "1"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "operational team leaders",
+   "qty": "1"
+  },
+  {
+   "requirement": "armed response vehicle",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "10000",
+ "version": "91053817896946867331607208177005985227"
+}

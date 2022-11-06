@@ -1,1 +1,12 @@
-{"missionId": "32", "missionName": "Ild i høstmaskine", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "32",
+ "missionName": "Ild i høstmaskine",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "130004112534077284033168061937063004613"
+}

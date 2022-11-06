@@ -1,1 +1,12 @@
-{"missionId": "188", "missionName": "Leziune cauzată di o explozie accidentală", "requirements": [{"requirement": "max. pacienți", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "188",
+ "missionName": "Leziune cauzată di o explozie accidentală",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "54341524032440511982505779921744837083"
+}

@@ -1,1 +1,28 @@
-{"missionId": "347", "missionName": "Fuite de Gaz - Enflammée", "requirements": [{"requirement": "fourgons d’incendie", "qty": "4"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "chefs de groupe ou vlhr", "qty": "2"}, {"requirement": "voitures de police es", "qty": "4"}, {"requirement": "max. patients", "qty": "3"}], "credits": "7500"}
+{
+ "missionId": "347",
+ "missionName": "Fuite de Gaz - Enflammée",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "4"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "2"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "credits": "7500",
+ "version": "174179529789229623492345363139554663156"
+}

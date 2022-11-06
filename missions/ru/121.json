@@ -1,1 +1,12 @@
-{"missionId": "121", "missionName": "Побег заключенного", "requirements": [{"requirement": "полицейские автомобили", "qty": "10"}], "credits": "4000"}
+{
+ "missionId": "121",
+ "missionName": "Побег заключенного",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "10"
+  }
+ ],
+ "credits": "4000",
+ "version": "128872667437072701262291124060199362103"
+}

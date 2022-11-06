@@ -1,1 +1,12 @@
-{"missionId": "271", "missionName": "Krossat hjärta", "requirements": [{"requirement": "mest patienter", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "271",
+ "missionName": "Krossat hjärta",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "26186141220773810924888159467328674313"
+}

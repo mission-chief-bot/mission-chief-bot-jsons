@@ -1,1 +1,12 @@
-{"missionId": "256", "missionName": "Hastighetskontroll", "requirements": [{"requirement": "polisbilar", "qty": "2"}], "credits": "0"}
+{
+ "missionId": "256",
+ "missionName": "Hastighetskontroll",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "0",
+ "version": "297847793522076164894295108940831734673"
+}

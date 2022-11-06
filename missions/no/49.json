@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "Lommetyveri", "requirements": [ {"requirement": "politibiler", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Lommetyveri",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "6486836602295868233162633561793203825"
+}

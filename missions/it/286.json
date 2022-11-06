@@ -1,1 +1,12 @@
-{"missionId": "286", "missionName": "Ospite della festa privo di sensi", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "286",
+ "missionName": "Ospite della festa privo di sensi",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "264183132271179220646559309348291907895"
+}

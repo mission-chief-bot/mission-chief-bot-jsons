@@ -1,1 +1,16 @@
-{"missionId": "518", "missionName": "Container Leaking Unknown Substance", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "hazmat vehicles", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "518",
+ "missionName": "Container Leaking Unknown Substance",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "208836315592989443148721826663726189827"
+}

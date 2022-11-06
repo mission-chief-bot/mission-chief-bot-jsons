@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Burning grass", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "Burning grass",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "107255698399551488857657364066121506257"
+}

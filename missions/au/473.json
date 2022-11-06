@@ -1,1 +1,20 @@
-{"missionId": "473", "missionName": "Pedestrians Hit at Tram Stop", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "minimum number of patients", "qty": "1"}, {"requirement": "max. patients", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "473",
+ "missionName": "Pedestrians Hit at Tram Stop",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "226136447483686594612740960215493804275"
+}

@@ -1,1 +1,12 @@
-{"missionId": "276", "missionName": "Sommerfugler i magen", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "276",
+ "missionName": "Sommerfugler i magen",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "291234857901576794043584286058173245641"
+}

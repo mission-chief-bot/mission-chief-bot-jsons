@@ -1,1 +1,48 @@
-{"missionId": "446", "missionName": "Zřícení hradu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "30"}, {"requirement": "vya nebo aj", "qty": "6"}, {"requirement": "automobilové žebříky", "qty": "9"}, {"requirement": "protiplynové automobily", "qty": "6"}, {"requirement": "ta", "qty": "5"}, {"requirement": "kombinované hasící automobily", "qty": "3"}, {"requirement": "rzp", "qty": "8"}, {"requirement": "policejní automobily", "qty": "10"}, {"requirement": "da", "qty": "6"}, {"requirement": "maximum pacientů", "qty": "40"}], "credits": "42000"}
+{
+ "missionId": "446",
+ "missionName": "Zřícení hradu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "30"
+  },
+  {
+   "requirement": "vya nebo aj",
+   "qty": "6"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "9"
+  },
+  {
+   "requirement": "protiplynové automobily",
+   "qty": "6"
+  },
+  {
+   "requirement": "ta",
+   "qty": "5"
+  },
+  {
+   "requirement": "kombinované hasící automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "rzp",
+   "qty": "8"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "10"
+  },
+  {
+   "requirement": "da",
+   "qty": "6"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "40"
+  }
+ ],
+ "credits": "42000",
+ "version": "163879692573887390714003610509756993736"
+}

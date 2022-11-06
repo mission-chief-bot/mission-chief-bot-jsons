@@ -1,1 +1,24 @@
-{"missionId": "560", "missionName": "Drug smuggling by water", "requirements": [{"requirement": "patrol boats", "qty": "2"}, {"requirement": "dea units", "qty": "2"}, {"requirement": "dea clan labs", "qty": "1"}, {"requirement": "k-9 units", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "560",
+ "missionName": "Drug smuggling by water",
+ "requirements": [
+  {
+   "requirement": "patrol boats",
+   "qty": "2"
+  },
+  {
+   "requirement": "dea units",
+   "qty": "2"
+  },
+  {
+   "requirement": "dea clan labs",
+   "qty": "1"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "27276505337339755571492391595016709926"
+}

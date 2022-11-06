@@ -1,1 +1,12 @@
-{"missionId": "431", "missionName": "35 Häiriökäyttäytyminen junassa", "requirements": [{"requirement": "poliisiautot", "qty": "2"}], "credits": "700"}
+{
+ "missionId": "431",
+ "missionName": "35 Häiriökäyttäytyminen junassa",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "700",
+ "version": "80093372827784432376693584758160333690"
+}

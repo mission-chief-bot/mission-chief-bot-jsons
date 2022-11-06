@@ -1,1 +1,12 @@
-{"missionId": "267", "missionName": "Pulsante antipanico in banca", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "750"}
+{
+ "missionId": "267",
+ "missionName": "Pulsante antipanico in banca",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "750",
+ "version": "134001975209831538197377719803804584632"
+}

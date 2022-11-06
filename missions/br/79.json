@@ -1,1 +1,16 @@
-{"missionId": "79", "missionName": "Ameaças sobre funcionário", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "2"}, {"requirement": "máx. de pacientes", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "79",
+ "missionName": "Ameaças sobre funcionário",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "253452121453455881488659652885264414467"
+}

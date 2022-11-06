@@ -1,1 +1,12 @@
-{"missionId": "579", "missionName": "Kwast gestolen uit werkplaats", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "579",
+ "missionName": "Kwast gestolen uit werkplaats",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "233983933376830863543751716214501552685"
+}

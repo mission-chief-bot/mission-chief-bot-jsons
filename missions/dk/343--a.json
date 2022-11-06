@@ -1,1 +1,36 @@
-{"missionId": "343/a", "missionName": "Kollision på landjorden", "requirements": [{"requirement": "crash tender påkrævet", "qty": "2"}, {"requirement": "rednings trappe påkrævet", "qty": "1"}, {"requirement": "påkrævede redningsvogn", "qty": "2"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "2"}, {"requirement": "påkrævede ledelses- og kommunikationsmoduler", "qty": "1"},  {"requirement": "skum tender påkrævet", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "5"}], "credits": "3000"}
+{
+ "missionId": "343/a",
+ "missionName": "Kollision på landjorden",
+ "requirements": [
+  {
+   "requirement": "crash tender påkrævet",
+   "qty": "2"
+  },
+  {
+   "requirement": "rednings trappe påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede ledelses- og kommunikationsmoduler",
+   "qty": "1"
+  },
+  {
+   "requirement": "skum tender påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "3000",
+ "version": "80446593715289693444853290271488910448"
+}

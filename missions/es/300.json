@@ -1,1 +1,12 @@
-{"missionId": "300", "missionName": "Auxiliar un campeonato de natación", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "2000"}
+{
+ "missionId": "300",
+ "missionName": "Auxiliar un campeonato de natación",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "2000",
+ "version": "201019091767186593610098245301150682822"
+}

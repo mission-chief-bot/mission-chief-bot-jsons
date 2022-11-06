@@ -1,1 +1,12 @@
-{"missionId": "66", "missionName": "Notebook aus Schule entwendet", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "66",
+ "missionName": "Notebook aus Schule entwendet",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "292841444781592171751055772488763354704"
+}

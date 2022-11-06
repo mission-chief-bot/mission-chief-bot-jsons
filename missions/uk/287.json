@@ -1,1 +1,12 @@
-{"missionId": "287", "missionName": "Train station fire (Small)", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "287",
+ "missionName": "Train station fire (Small)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "140820346862143687085801862333251771290"
+}

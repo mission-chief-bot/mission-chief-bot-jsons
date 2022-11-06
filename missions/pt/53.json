@@ -1,1 +1,12 @@
-{"missionId": "53", "missionName": "Furto por Carteirista", "requirements": [{"requirement": "carros de patrulha necessários", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "53",
+ "missionName": "Furto por Carteirista",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "6529117865111490376195964253925778917"
+}

@@ -1,1 +1,16 @@
-{"missionId": "183", "missionName": "Potrzebne Wsparcie Podczas Zatrzymania", "requirements": [{"requirement": "radiowozy", "qty": "2"}, {"requirement": "maks. pacjenci", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "183",
+ "missionName": "Potrzebne Wsparcie Podczas Zatrzymania",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "3092131214100625382696629783843152728"
+}

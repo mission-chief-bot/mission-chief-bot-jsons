@@ -1,1 +1,24 @@
-{"missionId": "355", "missionName": "Colisão entre motociclos", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "2"}, {"requirement": "carros de patrulha necessários:", "qty": "3"}, {"requirement": "máx. de pacientes:", "qty": "4"}], "credits": "3500"}
+{
+ "missionId": "355",
+ "missionName": "Colisão entre motociclos",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "4"
+  }
+ ],
+ "credits": "3500",
+ "version": "188844809660451860033728199380122017944"
+}

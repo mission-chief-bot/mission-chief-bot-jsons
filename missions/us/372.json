@@ -1,1 +1,12 @@
-{"missionId": "372", "missionName": "Medium Controlled Burn", "requirements": [{"requirement": "wildland fire engines", "qty": "2"}], "credits": "1300"}
+{
+ "missionId": "372",
+ "missionName": "Medium Controlled Burn",
+ "requirements": [
+  {
+   "requirement": "wildland fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "1300",
+ "version": "303636782396256561872225269439878578842"
+}

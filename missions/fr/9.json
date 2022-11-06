@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "Feu de paille", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "Feu de paille",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  }
+ ],
+ "credits": "250",
+ "version": "221595853546108286148628631009013473387"
+}

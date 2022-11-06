@@ -1,1 +1,16 @@
-{"missionId": "595", "missionName": "Person von Blitz getroffen", "requirements": [{"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "595",
+ "missionName": "Person von Blitz getroffen",
+ "requirements": [
+  {
+   "requirement": "nef",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "317970087233721498029071450188883373736"
+}

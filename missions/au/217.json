@@ -1,1 +1,16 @@
-{"missionId": "217", "missionName": "Illegal Shipment Intercept", "requirements": [{"requirement": "police cars", "qty": "3"}, {"requirement": "k-9 units", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "217",
+ "missionName": "Illegal Shipment Intercept",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "276079568350066991094940274445448611246"
+}

@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "Купа хмизу", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "Купа хмизу",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "225898600730518891891681962235566796400"
+}

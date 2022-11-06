@@ -1,1 +1,24 @@
-{"missionId": "414", "missionName": "Operaio Ferito nelle Fogne", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "1800"}
+{
+ "missionId": "414",
+ "missionName": "Operaio Ferito nelle Fogne",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1800",
+ "version": "218415455023415355848110218164131858635"
+}

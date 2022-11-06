@@ -1,1 +1,12 @@
-{"missionId": "143", "missionName": "Podozrivá osoba", "requirements": [{"requirement": "policajné vozidlá", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "143",
+ "missionName": "Podozrivá osoba",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "288683691459974864207101848860428623832"
+}

@@ -1,1 +1,20 @@
-{"missionId": "572/a", "missionName": "Überfall auf Spielhalle", "requirements": [{"requirement": "streifenwagen", "qty": "6"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "2100"}
+{
+ "missionId": "572/a",
+ "missionName": "Überfall auf Spielhalle",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "6"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "2100",
+ "version": "336255079547334096716021185110383566282"
+}

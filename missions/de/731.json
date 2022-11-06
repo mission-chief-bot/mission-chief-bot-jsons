@@ -1,1 +1,28 @@
-{"missionId": "731", "missionName": "Zugevakuierung", "requirements": [{"requirement": "drehleitern", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "rtw", "qty": "3"}], "credits": "2000"}
+{
+ "missionId": "731",
+ "missionName": "Zugevakuierung",
+ "requirements": [
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "3"
+  }
+ ],
+ "credits": "2000",
+ "version": "1512476750442377261012047948332644024"
+}

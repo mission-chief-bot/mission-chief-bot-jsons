@@ -1,1 +1,16 @@
-{"missionId": "223", "missionName": "Brandsicherheitswache bei Volksfest", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "streifenwagen", "qty": "1"}], "credits": "4400"}
+{
+ "missionId": "223",
+ "missionName": "Brandsicherheitswache bei Volksfest",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "4400",
+ "version": "264941673211173129776417596933085064177"
+}

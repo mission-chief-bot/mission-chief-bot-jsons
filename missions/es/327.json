@@ -1,1 +1,12 @@
-{"missionId": "327", "missionName": "Persona que se ha caído en un montón de hojas", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "327",
+ "missionName": "Persona que se ha caído en un montón de hojas",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "145485577689856673981305375023898673500"
+}

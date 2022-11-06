@@ -1,1 +1,24 @@
-{"missionId": "586", "missionName": "Gekantelde paaseivrachtwagen", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "2"}], "credits": "2200"}
+{
+ "missionId": "586",
+ "missionName": "Gekantelde paaseivrachtwagen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "2"
+  }
+ ],
+ "credits": "2200",
+ "version": "106569214808200881267834078744627190387"
+}

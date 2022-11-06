@@ -1,1 +1,36 @@
-{"missionId": "146", "missionName": "Brann i hytte med halmtak", "requirements": [{"requirement": "brannbiler", "qty": "8"}, {"requirement": "innsatsledere fra brann", "qty": "4"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "tankbiler", "qty": "1"}, {"requirement": "stigebil", "qty": "1"}, {"requirement": "innsatsstøttebil", "qty": "1"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "8000"}
+{
+ "missionId": "146",
+ "missionName": "Brann i hytte med halmtak",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "8"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "4"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "stigebil",
+   "qty": "1"
+  },
+  {
+   "requirement": "innsatsstøttebil",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "8000",
+ "version": "227983764656878438820462929614946984780"
+}

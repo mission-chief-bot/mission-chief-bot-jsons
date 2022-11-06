@@ -1,1 +1,12 @@
-{"missionId": "210", "missionName": "Rilievi incidente stradale", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "210",
+ "missionName": "Rilievi incidente stradale",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "296165811618226284131999197596536788847"
+}

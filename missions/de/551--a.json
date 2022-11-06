@@ -1,1 +1,16 @@
-{"missionId": "551/a", "missionName": "Einbruch auf Betriebsgelände", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "551/a",
+ "missionName": "Einbruch auf Betriebsgelände",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "66423740443971861193064442811477634315"
+}

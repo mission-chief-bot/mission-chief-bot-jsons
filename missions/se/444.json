@@ -1,1 +1,12 @@
-{"missionId": "444", "missionName": "Olaga vapeninnehav", "requirements": [{"requirement": "polisbilar", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "444",
+ "missionName": "Olaga vapeninnehav",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "65240774726639816064476656184782548688"
+}

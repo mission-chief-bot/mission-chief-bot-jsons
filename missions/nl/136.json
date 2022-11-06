@@ -1,1 +1,12 @@
-{"missionId": "136", "missionName": "Brandende caravan", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "136",
+ "missionName": "Brandende caravan",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "272669969828054064792488945186193924369"
+}

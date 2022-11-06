@@ -1,1 +1,28 @@
-{"missionId": "69", "missionName": "Utsläpp farligt ämne - övrigt", "requirements": [{"requirement": "släckbilar", "qty": "4"}, {"requirement": "lastväxlare", "qty": "2"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "polisbilar", "qty": "3"}, {"requirement": "farligt gods-fordon", "qty": "1"}], "credits": "4300"}
+{
+ "missionId": "69",
+ "missionName": "Utsläpp farligt ämne - övrigt",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "farligt gods-fordon",
+   "qty": "1"
+  }
+ ],
+ "credits": "4300",
+ "version": "331449677363932066250607616069313670928"
+}

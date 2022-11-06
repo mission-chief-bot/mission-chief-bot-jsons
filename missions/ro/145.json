@@ -1,1 +1,12 @@
-{"missionId": "145", "missionName": "Dovleac furat", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "145",
+ "missionName": "Dovleac furat",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "258704456222202162841224679525242153873"
+}

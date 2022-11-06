@@ -1,1 +1,12 @@
-{"missionId": "142", "missionName": "Задымление при варке пасхальных яиц", "requirements": [{"requirement": "пожарные машины", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "142",
+ "missionName": "Задымление при варке пасхальных яиц",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "311806963044308652947220976514007974916"
+}

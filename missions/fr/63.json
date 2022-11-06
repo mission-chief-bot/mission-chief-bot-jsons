@@ -1,1 +1,12 @@
-{"missionId": "63", "missionName": "Accident Ischémique Transitoire", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "63",
+ "missionName": "Accident Ischémique Transitoire",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "235460198482160356020490664918526073773"
+}

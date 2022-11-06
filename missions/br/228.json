@@ -1,1 +1,16 @@
-{"missionId": "228", "missionName": "Lesão séria na cabeça", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "50"}], "credits": "100"}
+{
+ "missionId": "228",
+ "missionName": "Lesão séria na cabeça",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "50"
+  }
+ ],
+ "credits": "100",
+ "version": "217429408287760599905705618168865168077"
+}

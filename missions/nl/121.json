@@ -1,1 +1,12 @@
-{"missionId": "121", "missionName": "Test brandalarm school", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "121",
+ "missionName": "Test brandalarm school",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "334117696060115790657006533199752747291"
+}

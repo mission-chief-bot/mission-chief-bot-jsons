@@ -1,1 +1,20 @@
-{"missionId": "143", "missionName": "Barn forsvundet", "requirements": [{"requirement": "påkrævede politibiler", "qty": "3"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "143",
+ "missionName": "Barn forsvundet",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "140713977582560590760978703833292863209"
+}

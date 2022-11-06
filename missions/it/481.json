@@ -1,1 +1,12 @@
-{"missionId": "481", "missionName": "Ricercato nascosto al ballo", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "200"}
+{
+ "missionId": "481",
+ "missionName": "Ricercato nascosto al ballo",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "200",
+ "version": "245219760204139448231990568966938550213"
+}

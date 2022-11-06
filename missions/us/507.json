@@ -1,1 +1,12 @@
-{"missionId": "507", "missionName": "New years eve party disrupted", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "507",
+ "missionName": "New years eve party disrupted",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "122232512433986800500590786950562171539"
+}

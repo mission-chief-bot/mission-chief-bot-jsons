@@ -1,1 +1,12 @@
-{"missionId": "78", "missionName": "Poškodené vodovodné potrubie", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "78",
+ "missionName": "Poškodené vodovodné potrubie",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "182997984062191228980562357975350980591"
+}

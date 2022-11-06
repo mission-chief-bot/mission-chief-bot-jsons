@@ -1,1 +1,24 @@
-{"missionId": "495", "missionName": "Sauvetage d'otages à bord d'un cargo", "requirements": [{"requirement": "canot tous temps", "qty": "2"}, {"requirement": "vedette côtière de surveillance maritime e", "qty": "3"}, {"requirement": "dragon", "qty": "2"}, {"requirement": "max. patients", "qty": "8"}], "credits": "8500"}
+{
+ "missionId": "495",
+ "missionName": "Sauvetage d'otages à bord d'un cargo",
+ "requirements": [
+  {
+   "requirement": "canot tous temps",
+   "qty": "2"
+  },
+  {
+   "requirement": "vedette côtière de surveillance maritime e",
+   "qty": "3"
+  },
+  {
+   "requirement": "dragon",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "8"
+  }
+ ],
+ "credits": "8500",
+ "version": "330777833705854815673167604296520368159"
+}

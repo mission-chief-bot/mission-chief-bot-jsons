@@ -1,1 +1,12 @@
-{"missionId": "202", "missionName": "Инцидент в бензопилой", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "202",
+ "missionName": "Инцидент в бензопилой",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "319354173259934797178296606048058994748"
+}

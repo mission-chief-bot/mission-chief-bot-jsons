@@ -1,1 +1,32 @@
-{"missionId": "313", "missionName": "Crollo parcheggio sotterraneo", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "autogrù", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "10"}], "credits": "8"}
+{
+ "missionId": "313",
+ "missionName": "Crollo parcheggio sotterraneo",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "3"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "10"
+  }
+ ],
+ "credits": "8",
+ "version": "211768917577980813480476471247377737608"
+}

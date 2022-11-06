@@ -1,1 +1,20 @@
-{"missionId": "60", "missionName": "Brand in slaapkamer", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "60",
+ "missionName": "Brand in slaapkamer",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "103481669052826191977361723315544790340"
+}

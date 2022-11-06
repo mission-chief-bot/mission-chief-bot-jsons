@@ -1,1 +1,12 @@
-{"missionId": "113", "missionName": "Étouffement", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "113",
+ "missionName": "Étouffement",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "137248734781944172091340229788159960029"
+}

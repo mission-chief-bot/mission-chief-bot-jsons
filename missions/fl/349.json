@@ -1,1 +1,12 @@
-{"missionId": "349", "missionName": "033 Painiottelu baarissa", "requirements": [{"requirement": "poliisiautot", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "349",
+ "missionName": "033 Painiottelu baarissa",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "272294085554112468140200147644614976949"
+}

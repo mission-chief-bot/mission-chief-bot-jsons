@@ -1,1 +1,12 @@
-{"missionId": "353", "missionName": "Trauma torácico", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "353",
+ "missionName": "Trauma torácico",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "4489545736142971465287051692036718731"
+}

@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Cabina telefonica in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Cabina telefonica in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "103003529442991452142035055403420465623"
+}

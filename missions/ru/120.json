@@ -1,1 +1,12 @@
-{"missionId": "120", "missionName": "Полицейский обыск жилого района", "requirements": [{"requirement": "полицейские автомобили", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "120",
+ "missionName": "Полицейский обыск жилого района",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "89939083144998419221911466815729003640"
+}

@@ -1,1 +1,12 @@
-{"missionId": "648", "missionName": "Verkeimter Eiswagen", "requirements": [{"requirement": "rtw, naw", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "648",
+ "missionName": "Verkeimter Eiswagen",
+ "requirements": [
+  {
+   "requirement": "rtw, naw",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "293985312774318483778202717854259567798"
+}

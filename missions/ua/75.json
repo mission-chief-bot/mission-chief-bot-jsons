@@ -1,1 +1,16 @@
-{"missionId": "75", "missionName": "Кав'ярня у вогні", "requirements": [{"requirement": "пожежні машини", "qty": "3"}, {"requirement": "штабні автомобілі", "qty": "1"}], "credits": "1300"}
+{
+ "missionId": "75",
+ "missionName": "Кав'ярня у вогні",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "3"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "24910932813048632794792238221077479336"
+}

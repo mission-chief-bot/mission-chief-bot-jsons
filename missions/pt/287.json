@@ -1,1 +1,12 @@
-{"missionId": "287", "missionName": "Dores Provocadas Pela Geada", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "287",
+ "missionName": "Dores Provocadas Pela Geada",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "180369468231730263066929153252037370763"
+}

@@ -1,1 +1,16 @@
-{"missionId": "675", "missionName": "Wild animal attack during spring picnic", "requirements": [{"requirement": "police cars", "qty": "1"}, {"requirement": "max. patients", "qty": "3"}], "credits": "600"}
+{
+ "missionId": "675",
+ "missionName": "Wild animal attack during spring picnic",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "credits": "600",
+ "version": "109297441357763188370256902905052328989"
+}

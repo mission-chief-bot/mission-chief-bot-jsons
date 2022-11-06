@@ -1,1 +1,12 @@
-{"missionId": "732", "missionName": "Brand door diner met kaarsen", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "732",
+ "missionName": "Brand door diner met kaarsen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "39815280247907833163133493297993136392"
+}

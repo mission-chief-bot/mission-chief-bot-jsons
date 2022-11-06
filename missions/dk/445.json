@@ -1,1 +1,20 @@
-{"missionId": "445", "missionName": "Opsyn ved sportskamp", "requirements": [{"requirement": "påkrævede politibiler", "qty": "4"}, {"requirement": "gruppevogn påkrævet", "qty": "2"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "445",
+ "missionName": "Opsyn ved sportskamp",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "gruppevogn påkrævet",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "167325969549062655853382756797238942637"
+}

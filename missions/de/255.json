@@ -1,1 +1,44 @@
-{"missionId": "255", "missionName": "Bus in Wasser", "requirements": [ {"requirement": "streifenwagen", "qty": "3"}, {"requirement": "boote", "qty": "3"}, {"requirement": "gw-taucher", "qty": "3"}, {"requirement": "löschfahrzeuge", "qty": "5"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "rtw, naw", "qty": "15"}, {"requirement": "nef", "qty": "5"}, {"requirement": "lna", "qty": "1"}, {"requirement": "orgl", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "255",
+ "missionName": "Bus in Wasser",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  },
+  {
+   "requirement": "boote",
+   "qty": "3"
+  },
+  {
+   "requirement": "gw-taucher",
+   "qty": "3"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "5"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw, naw",
+   "qty": "15"
+  },
+  {
+   "requirement": "nef",
+   "qty": "5"
+  },
+  {
+   "requirement": "lna",
+   "qty": "1"
+  },
+  {
+   "requirement": "orgl",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "252439986085083030922925475188448332259"
+}

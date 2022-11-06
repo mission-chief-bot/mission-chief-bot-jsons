@@ -1,1 +1,16 @@
-{"missionId": "257", "missionName": "Strega contro un albero", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "257",
+ "missionName": "Strega contro un albero",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "211051584123889405607746654474809637605"
+}

@@ -1,1 +1,24 @@
-{"missionId": "426", "missionName": "Misstänkt föremål, bomb - tågstation", "requirements": [{"requirement": "polisbilar", "qty": "4"}, {"requirement": "släckbilar", "qty": "2"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "hundenheter", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "426",
+ "missionName": "Misstänkt föremål, bomb - tågstation",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "70259231391588833697218741070448882259"
+}

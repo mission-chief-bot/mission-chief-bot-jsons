@@ -1,1 +1,16 @@
-{"missionId": "73", "missionName": "Vážna dopravná nehoda autobusu", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}, {"requirement": "policajné vozidlá", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "73",
+ "missionName": "Vážna dopravná nehoda autobusu",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "200423535660947576180587448910583867969"
+}

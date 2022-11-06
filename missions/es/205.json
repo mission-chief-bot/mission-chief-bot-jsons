@@ -1,1 +1,12 @@
-{"missionId": "205", "missionName": "Invitado a aniversario golpeado por corcho", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "205",
+ "missionName": "Invitado a aniversario golpeado por corcho",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "324504487046033371824470622689095571447"
+}

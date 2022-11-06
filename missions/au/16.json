@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "Caravan fire", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "Caravan fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "312874278483760196803780895682637882976"
+}

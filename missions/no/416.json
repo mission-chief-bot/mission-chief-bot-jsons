@@ -1,1 +1,12 @@
-{"missionId": "416", "missionName": "Patruljerer parken", "requirements": [{"requirement": "politibiler", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "416",
+ "missionName": "Patruljerer parken",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "93690017635080606612950789741875241049"
+}

@@ -1,1 +1,12 @@
-{"missionId": "197", "missionName": "Brandende vrachtwagen", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "190"}
+{
+ "missionId": "197",
+ "missionName": "Brandende vrachtwagen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "190",
+ "version": "320155564837302852801443698885573491292"
+}

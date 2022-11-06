@@ -1,1 +1,12 @@
-{"missionId": "208", "missionName": "Græskar stjålet", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "208",
+ "missionName": "Græskar stjålet",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "69943830271286849048456389026664043377"
+}

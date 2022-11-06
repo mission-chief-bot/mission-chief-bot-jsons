@@ -1,1 +1,16 @@
-{"missionId": "179", "missionName": "Incendiu pe balcon provocat de artificii", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "2"}, {"requirement": "camioane cu platformă necesare", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "179",
+ "missionName": "Incendiu pe balcon provocat de artificii",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "camioane cu platformă necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "220987435155749190494823985970107840734"
+}

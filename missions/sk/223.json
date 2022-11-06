@@ -1,1 +1,16 @@
-{"missionId": "223", "missionName": "Požiar rodinného domu", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}, {"requirement": "veliteľské vozidlo", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "223",
+ "missionName": "Požiar rodinného domu",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "veliteľské vozidlo",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "99545790226484439057517416737504047916"
+}

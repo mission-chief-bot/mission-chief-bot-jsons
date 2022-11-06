@@ -1,1 +1,12 @@
-{"missionId": "190", "missionName": "Sledovanie podozrivej osoby", "requirements": [{"requirement": "policajné vozidlá", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "190",
+ "missionName": "Sledovanie podozrivej osoby",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "67062952146881326486539878790774587791"
+}

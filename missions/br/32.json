@@ -1,1 +1,12 @@
-{"missionId": "32", "missionName": "Fogo em colheitadeira", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "32",
+ "missionName": "Fogo em colheitadeira",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "78766958747067510570731750468823040632"
+}

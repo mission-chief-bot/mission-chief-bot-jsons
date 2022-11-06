@@ -1,1 +1,16 @@
-{"missionId": "476", "missionName": "Maschera rubata", "requirements": [{"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "476",
+ "missionName": "Maschera rubata",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "205869406024014765620360539803126015724"
+}

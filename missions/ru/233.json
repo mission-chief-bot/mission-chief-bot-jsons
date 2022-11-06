@@ -1,1 +1,12 @@
-{"missionId": "233", "missionName": "Подозрительная личность", "requirements": [{"requirement": "полицейские автомобили", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "233",
+ "missionName": "Подозрительная личность",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "23814251120201973968936249398482362689"
+}

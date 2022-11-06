@@ -1,1 +1,12 @@
-{"missionId": "758", "missionName": "Kabelbrand in Jubiläums-Party-Dekoration (klein)", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}], "credits": "1850"}
+{
+ "missionId": "758",
+ "missionName": "Kabelbrand in Jubiläums-Party-Dekoration (klein)",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "1850",
+ "version": "307052052666295219629831582876529941557"
+}

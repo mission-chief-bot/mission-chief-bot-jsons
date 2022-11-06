@@ -1,1 +1,12 @@
-{"missionId": "362", "missionName": "Discusión fuera de control", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "362",
+ "missionName": "Discusión fuera de control",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "132427144703658685273350532021413921038"
+}

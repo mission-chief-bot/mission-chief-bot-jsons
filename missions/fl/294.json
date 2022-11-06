@@ -1,1 +1,24 @@
-{"missionId": "294", "missionName": "213 Junan alle jäänyt ihminen", "requirements": [{"requirement": "paloautot", "qty": "3"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "2"}], "credits": "3500"}
+{
+ "missionId": "294",
+ "missionName": "213 Junan alle jäänyt ihminen",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "3500",
+ "version": "252372812118200772211883807035216953186"
+}

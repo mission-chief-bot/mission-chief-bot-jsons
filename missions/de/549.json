@@ -1,1 +1,12 @@
-{"missionId": "549", "missionName": "Absicherung Geldtransport", "requirements": [{"requirement": "mek-fahrzeuge", "qty": "4"}], "credits": "4400"}
+{
+ "missionId": "549",
+ "missionName": "Absicherung Geldtransport",
+ "requirements": [
+  {
+   "requirement": "mek-fahrzeuge",
+   "qty": "4"
+  }
+ ],
+ "credits": "4400",
+ "version": "228077758510375748080673341357404108613"
+}

@@ -1,1 +1,12 @@
-{"missionId": "31", "missionName": "Oliespoor", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "31",
+ "missionName": "Oliespoor",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "271617549403223559182844741192396881698"
+}

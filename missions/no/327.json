@@ -1,1 +1,28 @@
-{"missionId": "327", "missionName": "Brann på campingplass", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tankbiler", "qty": "1"}, {"requirement": "skogbrann kjøretøy", "qty": "1"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "3000"}
+{
+ "missionId": "327",
+ "missionName": "Brann på campingplass",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "skogbrann kjøretøy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "3000",
+ "version": "177947732314517197833111577578388951296"
+}

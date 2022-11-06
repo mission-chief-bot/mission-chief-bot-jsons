@@ -1,1 +1,12 @@
-{"missionId": "221", "missionName": "Tyveri til julemarked", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "221",
+ "missionName": "Tyveri til julemarked",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "9911311813517853775693791244689712516"
+}

@@ -1,1 +1,24 @@
-{"missionId": "412", "missionName": "Brann i refektorium", "requirements": [{"requirement": "brannbiler", "qty": "3"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "1300"}
+{
+ "missionId": "412",
+ "missionName": "Brann i refektorium",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "1300",
+ "version": "304277871895161099291608212242875608383"
+}

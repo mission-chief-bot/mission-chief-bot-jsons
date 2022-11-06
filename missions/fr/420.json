@@ -1,1 +1,12 @@
-{"missionId": "420", "missionName": "Surveillance d'évènement public", "requirements": [{"requirement": "vr", "qty": 3}], "credits": "1500"}
+{
+ "missionId": "420",
+ "missionName": "Surveillance d'évènement public",
+ "requirements": [
+  {
+   "requirement": "vr",
+   "qty": 3
+  }
+ ],
+ "credits": "1500",
+ "version": "131248734986694159151740543706913019495"
+}

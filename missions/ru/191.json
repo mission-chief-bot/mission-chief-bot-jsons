@@ -1,1 +1,20 @@
-{"missionId": "191", "missionName": "Концерт", "requirements": [{"requirement": "пожарные машины", "qty": "2"}, {"requirement": "скорые", "qty": "1"}, {"requirement": "полицейские автомобили", "qty": "7"}], "credits": "0"}
+{
+ "missionId": "191",
+ "missionName": "Концерт",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  },
+  {
+   "requirement": "скорые",
+   "qty": "1"
+  },
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "7"
+  }
+ ],
+ "credits": "0",
+ "version": "196343447509828595139857786869074205465"
+}

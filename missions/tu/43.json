@@ -1,1 +1,12 @@
-{"missionId": "43", "missionName": "Yüksekten düşme", "requirements": [{"requirement": "maks. hastalar", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "43",
+ "missionName": "Yüksekten düşme",
+ "requirements": [
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "225317198236310226204279056964109971993"
+}

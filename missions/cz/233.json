@@ -1,1 +1,16 @@
-{"missionId": "233", "missionName": "Autonehoda způsobená ohňostrojem v blízkosti silnice", "requirements": [{"requirement": "policejní automobily", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "233",
+ "missionName": "Autonehoda způsobená ohňostrojem v blízkosti silnice",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "239590011935163130273857020854305711082"
+}

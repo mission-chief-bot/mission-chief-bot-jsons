@@ -1,1 +1,12 @@
-{"missionId": "176", "missionName": "Stroke", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "176",
+ "missionName": "Stroke",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "272922459450191055518255827562025585689"
+}

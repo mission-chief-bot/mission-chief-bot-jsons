@@ -1,1 +1,40 @@
-{"missionId": "34/a", "missionName": "403 Sairaalapalo", "requirements": [{"requirement": "paloautot", "qty": "10"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "johtokeskusautot", "qty": "2"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "nostolava-autot", "qty": "3"}, {"requirement": "suurtehopumput", "qty": "2"}, {"requirement": "letkuajoneuvot", "qty": "2"}, {"requirement": "potilaita enint.", "qty": "25"}], "credits": "8500"}
+{
+ "missionId": "34/a",
+ "missionName": "403 Sairaalapalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "10"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "3"
+  },
+  {
+   "requirement": "suurtehopumput",
+   "qty": "2"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "2"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "25"
+  }
+ ],
+ "credits": "8500",
+ "version": "307259338906801821261484730035024634127"
+}

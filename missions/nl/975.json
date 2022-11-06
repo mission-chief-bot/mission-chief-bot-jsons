@@ -1,1 +1,12 @@
-{"missionId": "975", "missionName": "Persoon van steiger gevallen", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "975",
+ "missionName": "Persoon van steiger gevallen",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "219343756267404518579440280258938808660"
+}

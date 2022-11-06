@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "Ordningslagen, demonstration", "requirements": [{"requirement": "polisbilar", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "57",
+ "missionName": "Ordningslagen, demonstration",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "21162532415247674626841045684108191090"
+}

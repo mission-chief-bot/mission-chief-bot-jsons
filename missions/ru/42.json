@@ -1,1 +1,12 @@
-{"missionId": "42", "missionName": "Упавший человек", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "42",
+ "missionName": "Упавший человек",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "223130946231499689741787390944475689825"
+}

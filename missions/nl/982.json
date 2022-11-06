@@ -1,1 +1,28 @@
-{"missionId": "982", "missionName": "Oefening brandweer", "requirements": [{"requirement": "tankautospuiten", "qty": "3"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "9210"}
+{
+ "missionId": "982",
+ "missionName": "Oefening brandweer",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "3"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "9210",
+ "version": "230708802447551698341123908581262393884"
+}

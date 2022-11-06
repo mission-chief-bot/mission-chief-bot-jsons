@@ -1,1 +1,12 @@
-{"missionId": "216", "missionName": "Filarea unui suspect", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "216",
+ "missionName": "Filarea unui suspect",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "242115431402316028438776125526001754490"
+}

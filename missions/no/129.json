@@ -1,1 +1,16 @@
-{"missionId": "129", "missionName": "Innbrudd på museum", "requirements": [{"requirement": "politibiler", "qty": "4"}, {"requirement": "hundepatruljer", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "129",
+ "missionName": "Innbrudd på museum",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "149607657501326656361609400872225803577"
+}

@@ -1,1 +1,12 @@
-{"missionId": "694", "missionName": "Verwonding door ontplofte blindganger", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "694",
+ "missionName": "Verwonding door ontplofte blindganger",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "45684318642814391655815673615940366526"
+}

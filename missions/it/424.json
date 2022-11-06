@@ -1,1 +1,12 @@
-{"missionId": "424", "missionName": "Bicicletta Rubata", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "424",
+ "missionName": "Bicicletta Rubata",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "197342682249414237813205192157549281819"
+}

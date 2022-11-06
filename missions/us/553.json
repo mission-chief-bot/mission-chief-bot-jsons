@@ -1,1 +1,16 @@
-{"missionId": "553", "missionName": "Animal smuggling", "requirements": [{"requirement": "warden trucks", "qty": "2"}, {"requirement": "k-9 units", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "553",
+ "missionName": "Animal smuggling",
+ "requirements": [
+  {
+   "requirement": "warden trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "267815228829362158772220975562187714149"
+}

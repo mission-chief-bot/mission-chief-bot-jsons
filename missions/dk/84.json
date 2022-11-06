@@ -1,1 +1,12 @@
-{"missionId": "84", "missionName": "Person Kvalt", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "84",
+ "missionName": "Person Kvalt",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "153737221259612521194280278732398778365"
+}

@@ -1,1 +1,11 @@
-{"missionId": "617", "missionName": "Zonnesteek", "requirements": [{"requirement": "maximale pati\u00ebnten aantal", "qty": "1"}]}
+{
+ "missionId": "617",
+ "missionName": "Zonnesteek",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "version": "171706275291204359483040426591810115490"
+}

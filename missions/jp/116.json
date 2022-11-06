@@ -1,1 +1,16 @@
-{"missionId": "116", "missionName": "ホテルのボヤ", "requirements": [{"requirement": "消防車", "qty": "4"}, {"requirement": "救急車", "qty": "6"}], "credits": "3000"}
+{
+ "missionId": "116",
+ "missionName": "ホテルのボヤ",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "4"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "6"
+  }
+ ],
+ "credits": "3000",
+ "version": "90035291069011371466591401640139583275"
+}

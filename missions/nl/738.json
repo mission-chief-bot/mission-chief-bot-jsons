@@ -1,1 +1,12 @@
-{"missionId": "738", "missionName": "Vuur door elektrische verjaardagsversiering (klein)", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}], "credits": "1850"}
+{
+ "missionId": "738",
+ "missionName": "Vuur door elektrische verjaardagsversiering (klein)",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  }
+ ],
+ "credits": "1850",
+ "version": "239098817514160428200419554119711403918"
+}

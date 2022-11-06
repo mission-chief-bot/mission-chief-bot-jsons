@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "Wohnwagenbrand", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "Wohnwagenbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "84067191097515644956676448533735483889"
+}

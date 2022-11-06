@@ -1,1 +1,12 @@
-{"missionId": "96", "missionName": "755 Lämpöhalvaus", "requirements": [{"requirement": "potilaita enint.", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "96",
+ "missionName": "755 Lämpöhalvaus",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "236308385390636723950820237360146963143"
+}

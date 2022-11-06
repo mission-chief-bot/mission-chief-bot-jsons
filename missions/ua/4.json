@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Палаюча трава", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "Палаюча трава",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "219673031034371922142319426127680821886"
+}

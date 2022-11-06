@@ -1,1 +1,16 @@
-{"missionId": "368", "missionName": "Máscara roubada", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "368",
+ "missionName": "Máscara roubada",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "215611852399325684955038688469505084199"
+}

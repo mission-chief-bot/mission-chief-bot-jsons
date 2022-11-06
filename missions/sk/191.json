@@ -1,1 +1,12 @@
-{"missionId": "191", "missionName": "Mólo v plameňoch", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}], "credits": "5000"}
+{
+ "missionId": "191",
+ "missionName": "Mólo v plameňoch",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  }
+ ],
+ "credits": "5000",
+ "version": "16594319735601640824546184616798646614"
+}

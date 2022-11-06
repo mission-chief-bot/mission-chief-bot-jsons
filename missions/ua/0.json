@@ -1,1 +1,12 @@
-{"missionId": "0", "missionName": "Займання урни", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "0",
+ "missionName": "Займання урни",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "125632562448159317109924164386567981450"
+}

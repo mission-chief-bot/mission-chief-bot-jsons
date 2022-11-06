@@ -1,1 +1,16 @@
-{"missionId": "198", "missionName": "Inbrott - 'smash and grab'", "requirements": [{"requirement": "polisbilar", "qty": "10"}, {"requirement": "hundenheter", "qty": "5"}], "credits": "4500"}
+{
+ "missionId": "198",
+ "missionName": "Inbrott - 'smash and grab'",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "10"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "5"
+  }
+ ],
+ "credits": "4500",
+ "version": "281216055958929409764953095558011197886"
+}

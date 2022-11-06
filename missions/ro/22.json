@@ -1,1 +1,20 @@
-{"missionId": "22", "missionName": "Acoperiș în flăcări", "requirements": [{"requirement": "camioane cu platformă necesare", "qty": "1"}, {"requirement": "mașini de pompieri necesare", "qty": "3"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "1"}], "credits": "2700"}
+{
+ "missionId": "22",
+ "missionName": "Acoperiș în flăcări",
+ "requirements": [
+  {
+   "requirement": "camioane cu platformă necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "3"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "2700",
+ "version": "184900748357088193986623738688352909001"
+}

@@ -1,1 +1,20 @@
-{"missionId": "219", "missionName": "Eveniment public", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}, {"requirement": "mașini de poliție necesare", "qty": "1"}, {"requirement": "ambulanțe necesare", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "219",
+ "missionName": "Eveniment public",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulanțe necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "326857415968051239856912667564376590701"
+}

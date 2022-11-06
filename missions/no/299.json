@@ -1,1 +1,12 @@
-{"missionId": "299", "missionName": "Alvorlig hodeskade", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "299",
+ "missionName": "Alvorlig hodeskade",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "104885004752569601846930859438949324523"
+}

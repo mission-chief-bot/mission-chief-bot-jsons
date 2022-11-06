@@ -1,1 +1,20 @@
-{"missionId": "348", "missionName": "Explosion at an ATM", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "police cars", "qty": "5"}, {"requirement": "max. patients", "qty": "4"}], "credits": "5000"}
+{
+ "missionId": "348",
+ "missionName": "Explosion at an ATM",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "5000",
+ "version": "116891332572936878570001965031208212786"
+}

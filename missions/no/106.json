@@ -1,1 +1,12 @@
-{"missionId": "106", "missionName": "Brennende eggkoker", "requirements": [{"requirement": "brannbiler", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "106",
+ "missionName": "Brennende eggkoker",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "57272943389808856650247976459062210032"
+}

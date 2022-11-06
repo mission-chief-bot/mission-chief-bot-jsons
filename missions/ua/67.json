@@ -1,1 +1,12 @@
-{"missionId": "67", "missionName": "Бійка", "requirements": [{"requirement": "поліцейські машини", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "67",
+ "missionName": "Бійка",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "267347951140188978176324783787112886910"
+}

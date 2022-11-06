@@ -1,1 +1,12 @@
-{"missionId": "278", "missionName": "Butterflies in stomach", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "278",
+ "missionName": "Butterflies in stomach",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "206858573607101469846689778235532031644"
+}

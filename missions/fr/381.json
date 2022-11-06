@@ -1,1 +1,12 @@
-{"missionId": "381", "missionName": "Tas de feuilles en feu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "381",
+ "missionName": "Tas de feuilles en feu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "53916920414112749494166813259406542615"
+}

@@ -1,1 +1,12 @@
-{"missionId": "289", "missionName": "Multiple organ trauma", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "810"}
+{
+ "missionId": "289",
+ "missionName": "Multiple organ trauma",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "810",
+ "version": "48613234944866056739478393471412095844"
+}

@@ -1,1 +1,36 @@
-{"missionId": "422", "missionName": "443 Silta sortunut", "requirements": [{"requirement": "paloautot", "qty": "12"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "nostolava-autot", "qty": "2"}, {"requirement": "raskaat pelastusautot", "qty": "6"}, {"requirement": "poliisiautot", "qty": "2"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "20"}], "credits": "6850"}
+{
+ "missionId": "422",
+ "missionName": "443 Silta sortunut",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "12"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "6"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "20"
+  }
+ ],
+ "credits": "6850",
+ "version": "287337781448835783347205365306980323838"
+}

@@ -1,1 +1,12 @@
-{"missionId": "677", "missionName": "Picnic basket on fire", "requirements": [{"requirement": "firetrucks", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "677",
+ "missionName": "Picnic basket on fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "182196554491102328387244306626968128864"
+}

@@ -1,1 +1,16 @@
-{"missionId": "116/a", "missionName": "Monster ausgebrochen", "requirements": [{"requirement": "streifenwagen", "qty": "4"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "116/a",
+ "missionName": "Monster ausgebrochen",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "299274993413449276772868248384420114762"
+}

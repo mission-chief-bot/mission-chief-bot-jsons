@@ -1,1 +1,32 @@
-{"missionId": "318", "missionName": "아파트 화재", "requirements": [{"requirement": "소방차", "qty": "6"}, {"requirement": "소방대장 차량", "qty": "1"}, {"requirement": "플랫폼 트럭", "qty": "3"}, {"requirement": "이동식 호흡 장비", "qty": "1"}, {"requirement": "경찰차", "qty": "4"}, {"requirement": "최대 환자", "qty": "25"}], "credits": "5000"}
+{
+ "missionId": "318",
+ "missionName": "아파트 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "6"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "플랫폼 트럭",
+   "qty": "3"
+  },
+  {
+   "requirement": "이동식 호흡 장비",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "4"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "25"
+  }
+ ],
+ "credits": "5000",
+ "version": "336621982788259850496853348328167554278"
+}

@@ -1,1 +1,16 @@
-{"missionId": "323", "missionName": "Protestors on runway", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "max. patients", "qty": "4"}], "credits": "700"}
+{
+ "missionId": "323",
+ "missionName": "Protestors on runway",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "700",
+ "version": "67693116671128330714624708999361515349"
+}

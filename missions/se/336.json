@@ -1,1 +1,16 @@
-{"missionId": "336", "missionName": "Upplopp - musikfestival", "requirements": [{"requirement": "polisbilar", "qty": "3"}, {"requirement": "mest patienter", "qty": "30"}], "credits": "1150"}
+{
+ "missionId": "336",
+ "missionName": "Upplopp - musikfestival",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "30"
+  }
+ ],
+ "credits": "1150",
+ "version": "146259283246088770827603348461317951872"
+}

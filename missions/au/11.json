@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Burning phone box", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Burning phone box",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "77666351720639560120148615931394119018"
+}

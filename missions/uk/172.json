@@ -1,1 +1,16 @@
-{"missionId": "172", "missionName": "Commercial Burglary", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "dog support units (dsus)", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "172",
+ "missionName": "Commercial Burglary",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "dog support units (dsus)",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "43568522268091464127229287627530522074"
+}

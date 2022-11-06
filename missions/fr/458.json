@@ -1,1 +1,12 @@
-{"missionId": "458", "missionName": "Assaut de bijoux", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "458",
+ "missionName": "Assaut de bijoux",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "244573285575414784391908311010717678327"
+}

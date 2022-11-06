@@ -1,1 +1,12 @@
-{"missionId": "215", "missionName": "Dýchacie problémy", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "215",
+ "missionName": "Dýchacie problémy",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "203654505148248416183856277059080322260"
+}

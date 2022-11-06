@@ -1,1 +1,36 @@
-{"missionId": "377", "missionName": "Crollo tribuna stadio", "requirements": [{"requirement": "aps/abp", "qty": "4"}, {"requirement": "unità polisoccorso", "qty": "3"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "autogrù", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "40"}], "credits": "6000"}
+{
+ "missionId": "377",
+ "missionName": "Crollo tribuna stadio",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "4"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "3"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "40"
+  }
+ ],
+ "credits": "6000",
+ "version": "193661612668895553027560999692355584551"
+}

@@ -1,1 +1,36 @@
-{"missionId": "350", "missionName": "レストランでの爆発", "requirements": [{"requirement": "水", "qty": "13000"}, {"requirement": "消防車", "qty": "5"}, {"requirement": "プラットフォームトラック", "qty": "2"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "危険物取扱車両", "qty": "1"}, {"requirement": "警察車両", "qty": "2"}, {"requirement": "最大患者", "qty": "4"}], "credits": "5200"}
+{
+ "missionId": "350",
+ "missionName": "レストランでの爆発",
+ "requirements": [
+  {
+   "requirement": "水",
+   "qty": "13000"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "5"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "2"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "危険物取扱車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "4"
+  }
+ ],
+ "credits": "5200",
+ "version": "41346784372870577357445782180947046433"
+}

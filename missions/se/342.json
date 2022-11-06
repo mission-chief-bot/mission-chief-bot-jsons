@@ -1,1 +1,12 @@
-{"missionId": "342", "missionName": "Hypotermi efter att ha simmat i kallt vatten", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "342",
+ "missionName": "Hypotermi efter att ha simmat i kallt vatten",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "94475350102520914221394970747028494960"
+}

@@ -1,1 +1,12 @@
-{"missionId": "36", "missionName": "Dores no peito", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "36",
+ "missionName": "Dores no peito",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "113011693412783939151611364332755259948"
+}

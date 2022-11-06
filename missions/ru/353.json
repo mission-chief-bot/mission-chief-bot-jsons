@@ -1,1 +1,16 @@
-{"missionId": "353", "missionName": "Контрабанда экзотических животных", "requirements": [{"requirement": "полицейские автомобили", "qty": "5"}, {"requirement": "макс. пациенты", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "353",
+ "missionName": "Контрабанда экзотических животных",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "5"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "117835003361386939454225698279787408504"
+}

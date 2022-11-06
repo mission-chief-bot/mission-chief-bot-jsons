@@ -1,1 +1,12 @@
-{"missionId": "152", "missionName": "Dolor de espalda", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "152",
+ "missionName": "Dolor de espalda",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "113693704550858920725695010773760083625"
+}

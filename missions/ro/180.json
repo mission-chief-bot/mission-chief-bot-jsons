@@ -1,1 +1,12 @@
-{"missionId": "180", "missionName": "Containere de hârtie incendiate de artificii", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "180",
+ "missionName": "Containere de hârtie incendiate de artificii",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "161483158702654185799800192189134492424"
+}

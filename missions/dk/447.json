@@ -1,1 +1,28 @@
-{"missionId": "447", "missionName": "Opsyn på musikfestival", "requirements": [{"requirement": "påkrævede politibiler", "qty": "8"}, {"requirement": "påkrævede hundepatruljer", "qty": "1"}, {"requirement": "gruppevogn påkrævet", "qty": "4"}, {"requirement": "hollændervogn påkrævet", "qty": "1"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}], "credits": "8200"}
+{
+ "missionId": "447",
+ "missionName": "Opsyn på musikfestival",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "8"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "1"
+  },
+  {
+   "requirement": "gruppevogn påkrævet",
+   "qty": "4"
+  },
+  {
+   "requirement": "hollændervogn påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  }
+ ],
+ "credits": "8200",
+ "version": "103722745914309539249628106632275328373"
+}

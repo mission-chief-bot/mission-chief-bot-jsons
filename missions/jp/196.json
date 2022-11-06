@@ -1,1 +1,12 @@
-{"missionId": "196", "missionName": "花火見物による痙攣", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "196",
+ "missionName": "花火見物による痙攣",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "64536749369779260436513506314081409286"
+}

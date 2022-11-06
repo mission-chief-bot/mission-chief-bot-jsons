@@ -1,1 +1,28 @@
-{"missionId": "375", "missionName": "Brann på stadion (Liten)", "requirements": [{"requirement": "brannbiler", "qty": "5"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tankbiler", "qty": "2"}, {"requirement": "politibiler", "qty": "3"}, {"requirement": "maks pasienter", "qty": "6"}], "credits": "4000"}
+{
+ "missionId": "375",
+ "missionName": "Brann på stadion (Liten)",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "4000",
+ "version": "57763906679452462775660434645145408963"
+}

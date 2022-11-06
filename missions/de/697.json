@@ -1,1 +1,24 @@
-{"missionId": "697", "missionName": "Abwasserkanal droht zu überfluten", "requirements": [{"requirement": "gkw", "qty": "1"}, {"requirement": "mtw-tz", "qty": "1"}, {"requirement": "mzkw", "qty": "1"}, {"requirement": "schmutzwasserpumpen", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "697",
+ "missionName": "Abwasserkanal droht zu überfluten",
+ "requirements": [
+  {
+   "requirement": "gkw",
+   "qty": "1"
+  },
+  {
+   "requirement": "mtw-tz",
+   "qty": "1"
+  },
+  {
+   "requirement": "mzkw",
+   "qty": "1"
+  },
+  {
+   "requirement": "schmutzwasserpumpen",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "123141886101703275559495077719298919681"
+}

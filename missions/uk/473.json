@@ -1,1 +1,16 @@
-{"missionId": "473", "missionName": "Ceiling Collapse Minor (Person Trapped)", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "473",
+ "missionName": "Ceiling Collapse Minor (Person Trapped)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "107290713808028229958173548624839318669"
+}

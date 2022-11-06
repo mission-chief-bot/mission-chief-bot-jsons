@@ -1,1 +1,32 @@
-{"missionId": "34", "missionName": "Brann på sykehus", "requirements": [{"requirement": "brannbiler", "qty": "10"}, {"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "2"}, {"requirement": "tankbiler", "qty": "1"}, {"requirement": "stigebil", "qty": "3"}, {"requirement": "maks pasienter", "qty": "25"}], "credits": "6000"}
+{
+ "missionId": "34",
+ "missionName": "Brann på sykehus",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "2"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "stigebil",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "25"
+  }
+ ],
+ "credits": "6000",
+ "version": "168075783540638165071939431074896822703"
+}

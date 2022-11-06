@@ -1,1 +1,12 @@
-{"missionId": "248", "missionName": "Anfall orsakad av fyrverkeri-tittande", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "248",
+ "missionName": "Anfall orsakad av fyrverkeri-tittande",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "291921936096333927339993231446322628445"
+}

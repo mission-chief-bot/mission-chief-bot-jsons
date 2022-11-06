@@ -1,1 +1,16 @@
-{"missionId": "233", "missionName": "Morsure de zombie", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "233",
+ "missionName": "Morsure de zombie",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "275840340618976622262323561024051393330"
+}

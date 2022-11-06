@@ -1,1 +1,16 @@
-{"missionId": "313", "missionName": "Odłamany Konar", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}, {"requirement": "samochody ratownictwa technicznego", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "313",
+ "missionName": "Odłamany Konar",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "93197528165625125285798207081300557984"
+}

@@ -1,1 +1,12 @@
-{"missionId": "369", "missionName": "Ataque de animal salvaje durante pícnic primaveral", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "369",
+ "missionName": "Ataque de animal salvaje durante pícnic primaveral",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "268628244484939903706027010886647490456"
+}

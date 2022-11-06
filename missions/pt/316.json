@@ -1,1 +1,12 @@
-{"missionId": "316", "missionName": "Amputação de membro", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "316",
+ "missionName": "Amputação de membro",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "93362717626360496799694233212637168287"
+}

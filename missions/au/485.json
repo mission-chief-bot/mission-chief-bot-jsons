@@ -1,1 +1,16 @@
-{"missionId": "485", "missionName": "Accident when baking anniversary cake", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "485",
+ "missionName": "Accident when baking anniversary cake",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "219072571041892940636704218443683805250"
+}

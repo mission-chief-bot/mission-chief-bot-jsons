@@ -1,1 +1,12 @@
-{"missionId": "269", "missionName": "Kfz durch Feuerwerkskörper beschädigt", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "269",
+ "missionName": "Kfz durch Feuerwerkskörper beschädigt",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "238369759487964079892296950922205002547"
+}

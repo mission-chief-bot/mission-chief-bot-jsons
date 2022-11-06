@@ -1,1 +1,12 @@
-{"missionId": "30", "missionName": "Únik plynu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "30",
+ "missionName": "Únik plynu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "175909857515099896801410698267666209481"
+}

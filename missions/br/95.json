@@ -1,1 +1,36 @@
-{"missionId": "95", "missionName": "Descarrilamento de Comboio de Carga", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "10"}, {"requirement": "caminhões plataforma necessários", "qty": "4"}, {"requirement": "viaturas de batalhão necessárias", "qty": "2"}, {"requirement": "veículos de resgate pesado necessários", "qty": "4"}, {"requirement": "viaturas de produtos perigosos necessárias", "qty": "2"}, {"requirement": "viaturas de polícia necessárias", "qty": "2"}, {"requirement": "máx. de pacientes", "qty": "4"}], "credits": "10000"}
+{
+ "missionId": "95",
+ "missionName": "Descarrilamento de Comboio de Carga",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "10"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "viaturas de produtos perigosos necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "4"
+  }
+ ],
+ "credits": "10000",
+ "version": "132115950664297031961216199443015521222"
+}

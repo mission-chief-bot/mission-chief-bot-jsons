@@ -1,1 +1,12 @@
-{"missionId": "494", "missionName": "Anniversary guest missing", "requirements": [{"requirement": "police cars", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "494",
+ "missionName": "Anniversary guest missing",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "183905691163413353087513841696227028721"
+}

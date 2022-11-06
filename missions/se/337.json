@@ -1,1 +1,12 @@
-{"missionId": "337", "missionName": "Person har halkat på våta löv", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "337",
+ "missionName": "Person har halkat på våta löv",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "165208578440997787425194531326415849507"
+}

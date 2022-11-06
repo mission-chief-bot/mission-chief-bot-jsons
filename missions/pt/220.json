@@ -1,1 +1,24 @@
-{"missionId": "220", "missionName": "Incêndio Rural", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "6"}, {"requirement": "veículos de comando tático necessários:", "qty": "2"}, {"requirement": "veículos tanque tático urbano necessários:", "qty": "1"}, {"requirement": "carros de patrulha necessários:", "qty": "2"}], "credits": "4500"}
+{
+ "missionId": "220",
+ "missionName": "Incêndio Rural",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "6"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos tanque tático urbano necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "4500",
+ "version": "294975080737334374798948825399270741714"
+}

@@ -1,1 +1,32 @@
-{"missionId": "352/a", "missionName": "Utæt brændstof system", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "3"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "1"}, {"requirement": "påkrævede redningsvogn", "qty": "1"}, {"requirement": "crash tender påkrævet", "qty": "2"}, {"requirement": "skum tender påkrævet", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "352/a",
+ "missionName": "Utæt brændstof system",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "crash tender påkrævet",
+   "qty": "2"
+  },
+  {
+   "requirement": "skum tender påkrævet",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "87839233162347374603474714501808063024"
+}

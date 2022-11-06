@@ -1,1 +1,12 @@
-{"missionId": "711", "missionName": "Anniversary guests stole cake", "requirements": [{"requirement": "police cars", "qty": "5"}], "credits": "4500"}
+{
+ "missionId": "711",
+ "missionName": "Anniversary guests stole cake",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  }
+ ],
+ "credits": "4500",
+ "version": "4765850680043321537641120406888711325"
+}

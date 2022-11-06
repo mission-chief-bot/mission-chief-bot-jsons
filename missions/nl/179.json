@@ -1,1 +1,12 @@
-{"missionId": "179", "missionName": "Snijwond door gebroken kerstbal", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "179",
+ "missionName": "Snijwond door gebroken kerstbal",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "144625949628055882546325571723877980310"
+}

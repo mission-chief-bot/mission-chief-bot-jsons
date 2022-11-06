@@ -1,1 +1,20 @@
-{"missionId": "511", "missionName": "Violent Prison Fight (Medium)", "requirements": [{"requirement": "police cars", "qty": "6"}, {"requirement": "dog support units (dsus)", "qty": "1"}, {"requirement": "max. patients", "qty": "4"}], "credits": "10000"}
+{
+ "missionId": "511",
+ "missionName": "Violent Prison Fight (Medium)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "dog support units (dsus)",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "10000",
+ "version": "274380410186961507953156430794393008923"
+}

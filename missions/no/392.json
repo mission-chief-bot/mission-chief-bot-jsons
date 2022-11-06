@@ -1,1 +1,16 @@
-{"missionId": "392", "missionName": "Møbler i brann", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "392",
+ "missionName": "Møbler i brann",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "152558758543762653218639592650694668516"
+}

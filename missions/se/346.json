@@ -1,1 +1,12 @@
-{"missionId": "346", "missionName": "Personskada - överdos", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "346",
+ "missionName": "Personskada - överdos",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "200545536138991058567806413189721574137"
+}

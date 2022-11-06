@@ -1,1 +1,12 @@
-{"missionId": "814", "missionName": "ANPR hit: Vervreemd voertuig", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "840"}
+{
+ "missionId": "814",
+ "missionName": "ANPR hit: Vervreemd voertuig",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "840",
+ "version": "100344717208695325885737888905047403487"
+}

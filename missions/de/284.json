@@ -1,1 +1,12 @@
-{"missionId": "284", "missionName": "Ostereier-Dieb", "requirements": [{ "requirement": "streifenwagen", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "284",
+ "missionName": "Ostereier-Dieb",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "83441877126538136819469391922051952621"
+}

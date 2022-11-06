@@ -1,1 +1,16 @@
-{"missionId": "97", "missionName": "Osoba zrazená vlakom", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}, {"requirement": "policajné vozidlá", "qty": "2"}], "credits": "3000"}
+{
+ "missionId": "97",
+ "missionName": "Osoba zrazená vlakom",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "3000",
+ "version": "252731283493650675699074244634802455302"
+}

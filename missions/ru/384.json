@@ -1,1 +1,12 @@
-{"missionId": "384", "missionName": "Обыск дома", "requirements": [{"requirement": "полицейские автомобили", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "384",
+ "missionName": "Обыск дома",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "120655474569532109890081677627791518951"
+}

@@ -1,1 +1,12 @@
-{"missionId": "979", "missionName": "Verward persoon bij spoor", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "840"}
+{
+ "missionId": "979",
+ "missionName": "Verward persoon bij spoor",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "840",
+ "version": "37762994192533466064670166026307972306"
+}

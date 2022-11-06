@@ -1,1 +1,12 @@
-{"missionId": "122", "missionName": "線路侵入", "requirements": [{"requirement": "警察車両", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "122",
+ "missionName": "線路侵入",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "296115500485569301999160416950751405412"
+}

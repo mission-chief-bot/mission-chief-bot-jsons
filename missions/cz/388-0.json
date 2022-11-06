@@ -1,1 +1,40 @@
-{"missionId": "388-0", "missionName": "Střet vlaku s vozidlem", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "vya nebo aj", "qty": "1"}, {"requirement": "rza", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "4"}], "credits": "6500"}
+{
+ "missionId": "388-0",
+ "missionName": "Střet vlaku s vozidlem",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "vya nebo aj",
+   "qty": "1"
+  },
+  {
+   "requirement": "rza",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "4"
+  }
+ ],
+ "credits": "6500",
+ "version": "142551626059557785452278154778669196582"
+}

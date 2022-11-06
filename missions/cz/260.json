@@ -1,1 +1,32 @@
-{"missionId": "260", "missionName": "Auto ve vodě", "requirements": [{"requirement": "policejní automobily", "qty": "2"}, {"requirement": "přívěs se člunem", "qty": "2"}, {"requirement": "potápěčský automobil", "qty": "2"}, {"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "5"}], "credits": "2800"}
+{
+ "missionId": "260",
+ "missionName": "Auto ve vodě",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "přívěs se člunem",
+   "qty": "2"
+  },
+  {
+   "requirement": "potápěčský automobil",
+   "qty": "2"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "5"
+  }
+ ],
+ "credits": "2800",
+ "version": "102439923718619484128805748746116226413"
+}

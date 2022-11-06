@@ -1,1 +1,20 @@
-{"missionId": "363", "missionName": "Personskada - arbetsplatsolycka", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "fordon med luftapparater", "qty": "1"}, {"requirement": "mest patienter", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "363",
+ "missionName": "Personskada - arbetsplatsolycka",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "fordon med luftapparater",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "232042505941761527315915427751691877553"
+}

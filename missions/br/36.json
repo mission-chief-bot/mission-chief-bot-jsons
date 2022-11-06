@@ -1,1 +1,16 @@
-{"missionId": "36", "missionName": "Dores do peito", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "10"}], "credits": "100"}
+{
+ "missionId": "36",
+ "missionName": "Dores do peito",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "10"
+  }
+ ],
+ "credits": "100",
+ "version": "195486099191951353964255811330285133832"
+}

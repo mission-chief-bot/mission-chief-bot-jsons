@@ -1,1 +1,12 @@
-{"missionId": "89", "missionName": "Drunken person at christmas market", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "89",
+ "missionName": "Drunken person at christmas market",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "311745890175184886963989165216642102194"
+}

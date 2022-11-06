@@ -1,1 +1,12 @@
-{"missionId": "190", "missionName": "Persoană lovită artificiu-exploziv", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "190",
+ "missionName": "Persoană lovită artificiu-exploziv",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "278575503307931554148926158451552523032"
+}

@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "Robo de metal", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "Robo de metal",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "79612412545995408731722240389672007937"
+}

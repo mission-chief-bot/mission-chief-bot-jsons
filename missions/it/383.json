@@ -1,1 +1,12 @@
-{"missionId": "383", "missionName": "Infortunio dopo aver colpito il palo", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "383",
+ "missionName": "Infortunio dopo aver colpito il palo",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "221236392194953873284350569004088103329"
+}

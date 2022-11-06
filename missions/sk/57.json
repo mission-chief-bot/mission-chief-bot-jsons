@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "Neohlásená demonštrácia", "requirements": [{"requirement": "policajné vozidlá", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "57",
+ "missionName": "Neohlásená demonštrácia",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "209199769213403960999405569631262947583"
+}

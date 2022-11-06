@@ -1,1 +1,36 @@
-{"missionId": "461", "missionName": "Prisoner Escape Attempt", "requirements": [{"requirement": "police cars", "qty": "10"}, {"requirement": "k-9 units", "qty": "2"}, {"requirement": "riot police group vehicles", "qty": "1"}, {"requirement": "riot police equipment vehicles", "qty": "1"}, {"requirement": "' swat personnel (in swat vehicles)", "qty": "6"}, {"requirement": "max. patients", "qty": "3"}, {"requirement": "minimum number of patients", "qty": "1"}], "credits": "11000"}
+{
+ "missionId": "461",
+ "missionName": "Prisoner Escape Attempt",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "10"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police equipment vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "' swat personnel (in swat vehicles)",
+   "qty": "6"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "11000",
+ "version": "146156514322610381025537960362056176006"
+}

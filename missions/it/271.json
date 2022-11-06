@@ -1,1 +1,12 @@
-{"missionId": "271", "missionName": "Malore a bordo", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "271",
+ "missionName": "Malore a bordo",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "157504398223325744034949598509119408140"
+}

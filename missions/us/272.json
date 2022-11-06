@@ -1,1 +1,20 @@
-{"missionId": "272", "missionName": "Museum robbery", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "k-9 units", "qty": "1"}, {"requirement": "swat armoured vehicle", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "272",
+ "missionName": "Museum robbery",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  },
+  {
+   "requirement": "swat armoured vehicle",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "292292334113051252942666459899973889491"
+}

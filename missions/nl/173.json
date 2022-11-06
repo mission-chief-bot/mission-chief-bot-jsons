@@ -1,1 +1,12 @@
-{"missionId": "173", "missionName": "Ruzie op de kerstmarkt", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "173",
+ "missionName": "Ruzie op de kerstmarkt",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "255641623528991076934211376773967052228"
+}

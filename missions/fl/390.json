@@ -1,1 +1,36 @@
-{"missionId": "390", "missionName": "09 Piiritystilanne", "requirements": [{"requirement": "poliisihelikopteritukikohta", "qty": "1"}, {"requirement": "paloautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "12"}, {"requirement": "koirapartiot", "qty": "2"}, {"requirement": "poliisihelikopterit", "qty": "1"}, {"requirement": "ambulanssit", "qty": "1"}, {"requirement": "vati-henkilöt", "qty": "12"}], "credits": "12500"}
+{
+ "missionId": "390",
+ "missionName": "09 Piiritystilanne",
+ "requirements": [
+  {
+   "requirement": "poliisihelikopteritukikohta",
+   "qty": "1"
+  },
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "12"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "2"
+  },
+  {
+   "requirement": "poliisihelikopterit",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulanssit",
+   "qty": "1"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "12"
+  }
+ ],
+ "credits": "12500",
+ "version": "314519903221639287767953901783377046573"
+}

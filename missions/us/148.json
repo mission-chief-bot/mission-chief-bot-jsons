@@ -1,1 +1,24 @@
-{"missionId": "148", "missionName": "Stuck Climber", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "148",
+ "missionName": "Stuck Climber",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "89484755486697809174253754966140020227"
+}

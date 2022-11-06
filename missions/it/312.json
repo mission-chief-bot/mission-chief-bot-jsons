@@ -1,1 +1,12 @@
-{"missionId": "312", "missionName": "Amputazione traumatica arto", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "312",
+ "missionName": "Amputazione traumatica arto",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "251528474071285443659510106894044111080"
+}

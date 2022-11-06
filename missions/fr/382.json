@@ -1,1 +1,16 @@
-{"missionId": "382", "missionName": "Carence ambulance", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "382",
+ "missionName": "Carence ambulance",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "157814834796863589590980977423591358599"
+}

@@ -1,1 +1,24 @@
-{"missionId": "345", "missionName": "Ujetí od dopravní nehody", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}, {"requirement": "policejní automobily", "qty": "4"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "2200"}
+{
+ "missionId": "345",
+ "missionName": "Ujetí od dopravní nehody",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "2200",
+ "version": "209783626746335829528483617471363953535"
+}

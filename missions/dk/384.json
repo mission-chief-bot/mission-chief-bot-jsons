@@ -1,1 +1,28 @@
-{"missionId": "384", "missionName": "Brand på stadion (Lille)", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "5"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede vandtankvogne", "qty": "2"}, {"requirement": "påkrævede politibiler", "qty": "3"}, {"requirement": "maks. antal patienter", "qty": "6"}], "credits": "4000"}
+{
+ "missionId": "384",
+ "missionName": "Brand på stadion (Lille)",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede vandtankvogne",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "4000",
+ "version": "186891647598688108314844270953600912994"
+}

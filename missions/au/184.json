@@ -1,1 +1,16 @@
-{"missionId": "184", "missionName": "Hotel fire (small)", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "max. patients", "qty": "6"}], "credits": "3000"}
+{
+ "missionId": "184",
+ "missionName": "Hotel fire (small)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "3000",
+ "version": "122125112366047733710406378348791494269"
+}

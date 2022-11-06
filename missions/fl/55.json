@@ -1,1 +1,12 @@
-{"missionId": "55", "missionName": "033 Tappelu", "requirements": [{"requirement": "poliisiautot", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "55",
+ "missionName": "033 Tappelu",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "267496607802986369280347291425512264946"
+}

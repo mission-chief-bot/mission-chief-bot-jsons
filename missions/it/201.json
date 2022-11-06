@@ -1,1 +1,12 @@
-{"missionId": "201", "missionName": "Dolore addominale", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "201",
+ "missionName": "Dolore addominale",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "95670006253661590610184319638419028630"
+}

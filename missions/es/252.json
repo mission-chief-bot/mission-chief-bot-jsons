@@ -1,1 +1,12 @@
-{"missionId": "252", "missionName": "Fragmento de vidrio incrustado en mano", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "252",
+ "missionName": "Fragmento de vidrio incrustado en mano",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "242386625499988500804508841202466058425"
+}

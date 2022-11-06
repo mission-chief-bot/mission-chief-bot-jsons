@@ -1,1 +1,12 @@
-{"missionId": "495", "missionName": "Ladro attaccato da un bovino", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "495",
+ "missionName": "Ladro attaccato da un bovino",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "307289518186720581794846268568878484994"
+}

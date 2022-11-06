@@ -1,1 +1,20 @@
-{"missionId": "372", "missionName": "Segurança do Carnaval", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "4"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "carros de patrulha necessários:", "qty": "2"}], "credits": "4000"}
+{
+ "missionId": "372",
+ "missionName": "Segurança do Carnaval",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "4000",
+ "version": "233713944992078636571884236940528887404"
+}

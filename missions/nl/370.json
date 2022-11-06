@@ -1,1 +1,32 @@
-{"missionId": "370", "missionName": "Verkeersongeval met vrachtwagen en fietser", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "1"}, {"requirement": "mmt-arts", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "370",
+ "missionName": "Verkeersongeval met vrachtwagen en fietser",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  },
+  {
+   "requirement": "mmt-arts",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "10364628573234492398447092651132682101"
+}

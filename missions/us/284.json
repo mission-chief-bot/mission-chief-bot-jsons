@@ -1,1 +1,16 @@
-{"missionId": "284", "missionName": "Illegal goods smuggling", "requirements": [{"requirement": "police cars", "qty": "3"}, {"requirement": "k-9 units", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "284",
+ "missionName": "Illegal goods smuggling",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "15002475750697954865213002211981984642"
+}

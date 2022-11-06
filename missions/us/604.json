@@ -1,1 +1,12 @@
-{"missionId": "604", "missionName": "Intoxicated passenger", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "604",
+ "missionName": "Intoxicated passenger",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "311443137839770011600787959315619850026"
+}

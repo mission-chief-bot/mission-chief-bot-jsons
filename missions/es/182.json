@@ -1,1 +1,16 @@
-{"missionId": "182", "missionName": "Incendio menor en una fábrica", "requirements": [{"requirement": "camiones de bomberos", "qty": "4"}, {"requirement": "unidades de mando y comunicaciones", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "182",
+ "missionName": "Incendio menor en una fábrica",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "4"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "179672247716649691783902998130263985623"
+}

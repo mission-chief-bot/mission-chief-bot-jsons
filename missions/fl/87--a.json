@@ -1,1 +1,24 @@
-{"missionId": "87/a", "missionName": "433 Kaatopaikan tulipalo", "requirements": [{"requirement": "paloautot", "qty": "5"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "suurtehopumput", "qty": "2"}, {"requirement": "letkuajoneuvot", "qty": "2"}], "credits": "4700"}
+{
+ "missionId": "87/a",
+ "missionName": "433 Kaatopaikan tulipalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "5"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "suurtehopumput",
+   "qty": "2"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "2"
+  }
+ ],
+ "credits": "4700",
+ "version": "291754478731108533988539895987856304455"
+}

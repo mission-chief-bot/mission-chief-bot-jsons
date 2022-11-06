@@ -1,1 +1,12 @@
-{"missionId": "38", "missionName": "Convulsiones", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "38",
+ "missionName": "Convulsiones",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "4385218737403762399896547325371490024"
+}

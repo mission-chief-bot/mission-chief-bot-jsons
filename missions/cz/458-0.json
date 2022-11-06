@@ -1,1 +1,32 @@
-{"missionId": "458-0", "missionName": "Převrácený traktor", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}, {"requirement": "vya nebo aj", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "458-0",
+ "missionName": "Převrácený traktor",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "vya nebo aj",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "152949077525120684467954354576344353342"
+}

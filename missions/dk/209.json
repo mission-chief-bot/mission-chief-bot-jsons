@@ -1,1 +1,12 @@
-{"missionId": "209", "missionName": "Frankenstein spottet", "requirements": [{"requirement": "påkrævede politibiler", "qty": "3"}], "credits": "550"}
+{
+ "missionId": "209",
+ "missionName": "Frankenstein spottet",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "3"
+  }
+ ],
+ "credits": "550",
+ "version": "3061371449813490636921787413019364322"
+}

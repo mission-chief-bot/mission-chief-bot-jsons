@@ -1,1 +1,16 @@
-{"missionId": "307", "missionName": "Incidenter d'auto causato da fuoco d'artificio", "requirements": [{"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "307",
+ "missionName": "Incidenter d'auto causato da fuoco d'artificio",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "44484406903419949047472225200044677665"
+}

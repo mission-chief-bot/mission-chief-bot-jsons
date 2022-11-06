@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Brand ute - terräng, gräsbrand", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "Brand ute - terräng, gräsbrand",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "306567299786775045100431076107424708376"
+}

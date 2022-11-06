@@ -1,1 +1,20 @@
-{"missionId": "22", "missionName": "Požár střechy", "requirements": [{"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "velitelské automobily", "qty": "1"}], "credits": "2700"}
+{
+ "missionId": "22",
+ "missionName": "Požár střechy",
+ "requirements": [
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "2700",
+ "version": "86566149189123458378948423462473444112"
+}

@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Zwarcie w instalacji elektrycznej", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Zwarcie w instalacji elektrycznej",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "119585962548291782246166416523029710252"
+}

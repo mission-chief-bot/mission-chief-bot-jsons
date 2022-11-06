@@ -1,1 +1,16 @@
-{"missionId": "224", "missionName": "コミュニティイベント", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "警察車両", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "224",
+ "missionName": "コミュニティイベント",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "335005685677872337878166445497386423296"
+}

@@ -1,1 +1,32 @@
-{"missionId": "841", "missionName": "Aanrijding met zwaar letsel", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "6"}, {"requirement": "officiers van dienst politie", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "6"}], "credits": "4590"}
+{
+ "missionId": "841",
+ "missionName": "Aanrijding met zwaar letsel",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "6"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "6"
+  }
+ ],
+ "credits": "4590",
+ "version": "186780820702058062022937295534085478600"
+}

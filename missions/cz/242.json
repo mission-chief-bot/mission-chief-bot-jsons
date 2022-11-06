@@ -1,1 +1,12 @@
-{"missionId": "242", "missionName": "Na výročí chybí host", "requirements": [{"requirement": "policejní automobily", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "242",
+ "missionName": "Na výročí chybí host",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "97290385245107491040745430603931614097"
+}

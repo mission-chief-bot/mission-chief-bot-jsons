@@ -1,1 +1,16 @@
-{"missionId": "682", "missionName": "Gevangenisbewaarder aangevallen", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "682",
+ "missionName": "Gevangenisbewaarder aangevallen",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "240310314118876149983011623865056264819"
+}

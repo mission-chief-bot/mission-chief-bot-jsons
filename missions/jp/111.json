@@ -1,1 +1,12 @@
-{"missionId": "111", "missionName": "日射病", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "111",
+ "missionName": "日射病",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "11847081232756627604145865307204891456"
+}

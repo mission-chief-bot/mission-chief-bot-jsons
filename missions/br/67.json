@@ -1,1 +1,16 @@
-{"missionId": "67", "missionName": "Briga", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "3"}, {"requirement": "máx. de pacientes", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "67",
+ "missionName": "Briga",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "3"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "298303090413809752158397368561029897558"
+}

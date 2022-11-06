@@ -1,1 +1,12 @@
-{"missionId": "205", "missionName": "Zombiebett", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "205",
+ "missionName": "Zombiebett",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "214066011677172942052471802510541890984"
+}

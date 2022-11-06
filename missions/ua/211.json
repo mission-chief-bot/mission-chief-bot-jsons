@@ -1,1 +1,12 @@
-{"missionId": "211", "missionName": "Підозрілий пакунок", "requirements": [{"requirement": "поліцейські машини", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "211",
+ "missionName": "Підозрілий пакунок",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "82424596920686075962582588648246992099"
+}

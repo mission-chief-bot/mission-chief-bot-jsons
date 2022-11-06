@@ -1,1 +1,28 @@
-{"missionId": "174", "missionName": "Nahlášena výbušnina na vlakovém nádraží", "requirements": [{"requirement": "policejní automobily", "qty": "4"}, {"requirement": "vozidla pyrotechniků pčr", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "vozidla kynologů pčr", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "174",
+ "missionName": "Nahlášena výbušnina na vlakovém nádraží",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "vozidla pyrotechniků pčr",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla kynologů pčr",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "159207651617058043027570374498615775023"
+}

@@ -1,1 +1,12 @@
-{"missionId": "63", "missionName": "Burning bogle", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "63",
+ "missionName": "Burning bogle",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "200380480353584665224400300885722692177"
+}

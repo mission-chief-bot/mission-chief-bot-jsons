@@ -1,1 +1,16 @@
-{"missionId": "157", "missionName": "Incendiu la târgul de Crăciun", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "157",
+ "missionName": "Incendiu la târgul de Crăciun",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "71647918490420622471816471795279164799"
+}

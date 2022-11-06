@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "기습 데모", "requirements": [{"requirement": "경찰차", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "57",
+ "missionName": "기습 데모",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "330466053469173619183594808817637231185"
+}

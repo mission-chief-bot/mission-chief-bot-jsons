@@ -1,1 +1,12 @@
-{"missionId": "418", "missionName": "Otrava jedovatými bobulemi", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "418",
+ "missionName": "Otrava jedovatými bobulemi",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "53462154977457957284371459590427212656"
+}

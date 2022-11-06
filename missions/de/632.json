@@ -1,1 +1,16 @@
-{"missionId": "632", "missionName": "Einbruchalarm in Museum", "requirements": [{"requirement": "streifenwagen", "qty": "5"}, {"requirement": "zivilstreifenwagen", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "632",
+ "missionName": "Einbruchalarm in Museum",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "5"
+  },
+  {
+   "requirement": "zivilstreifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "133838688179012742746871645874462176721"
+}

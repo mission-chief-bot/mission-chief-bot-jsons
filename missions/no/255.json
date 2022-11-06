@@ -1,1 +1,16 @@
-{"missionId": "255", "missionName": "Stor brann startet av jubileumsfestutstyr", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "255",
+ "missionName": "Stor brann startet av jubileumsfestutstyr",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "69544157638546045312320813073987942039"
+}

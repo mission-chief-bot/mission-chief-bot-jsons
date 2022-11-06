@@ -1,1 +1,12 @@
-{"missionId": "523", "missionName": "Trauma Distorsivo", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "523",
+ "missionName": "Trauma Distorsivo",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "35919421671195101467242302863820714140"
+}

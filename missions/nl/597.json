@@ -1,1 +1,12 @@
-{"missionId": "597", "missionName": "Brand in asielzoekerscentrum", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "170"}
+{
+ "missionId": "597",
+ "missionName": "Brand in asielzoekerscentrum",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "170",
+ "version": "39571008921895255077711400462976951164"
+}

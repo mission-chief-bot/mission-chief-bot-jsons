@@ -1,1 +1,12 @@
-{"missionId": "137", "missionName": "Кража кисти для пасхальных яиц", "requirements": [{"requirement": "полицейские автомобили", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "137",
+ "missionName": "Кража кисти для пасхальных яиц",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "188273304157406415621892307060695485986"
+}

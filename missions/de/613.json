@@ -1,1 +1,12 @@
-{"missionId": "613", "missionName": "Intensivverlegung", "requirements": [{"requirement": "itw", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "613",
+ "missionName": "Intensivverlegung",
+ "requirements": [
+  {
+   "requirement": "itw",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "318656987465133988256161244449735466894"
+}

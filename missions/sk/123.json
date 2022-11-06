@@ -1,1 +1,12 @@
-{"missionId": "123", "missionName": "Horiaci nákladný vozeň", "requirements": [{"requirement": "hasičské automobily", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "123",
+ "missionName": "Horiaci nákladný vozeň",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "276475824067476129541890474581164508099"
+}

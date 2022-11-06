@@ -1,1 +1,16 @@
-{"missionId": "295", "missionName": "Brand fra stearinlysmiddag breder sig", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "295",
+ "missionName": "Brand fra stearinlysmiddag breder sig",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "176233105663210206777597803626397270147"
+}

@@ -1,1 +1,16 @@
-{"missionId": "177", "missionName": "Förlossning", "requirements": [{"requirement": "ambulanser", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "590"}
+{
+ "missionId": "177",
+ "missionName": "Förlossning",
+ "requirements": [
+  {
+   "requirement": "ambulanser",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "590",
+ "version": "160563798741651502644586526549105041598"
+}

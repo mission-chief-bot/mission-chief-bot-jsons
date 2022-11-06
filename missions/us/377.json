@@ -1,1 +1,20 @@
-{"missionId": "377", "missionName": "Off-road Rescue", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "wildland fire engines", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "3000"}
+{
+ "missionId": "377",
+ "missionName": "Off-road Rescue",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "3000",
+ "version": "83602185249811170645269015048637059239"
+}

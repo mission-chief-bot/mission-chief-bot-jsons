@@ -1,1 +1,56 @@
-{"missionId": "242-1", "missionName": "Feu d'ERP - Centre commercial", "requirements": [{"requirement": "fourgons d’incendie", "qty": "6"}, {"requirement": "vlhr", "qty": "3"}, {"requirement": "véhicules poste de commandement", "qty": "1"}, {"requirement": "moyen elévateur aérien", "qty": "2"}, {"requirement": "ccf", "qty": "1"}, {"requirement": "assistance respiratoire e", "qty": "1"}, {"requirement": "voitures de police es", "qty": "2"}, {"requirement": "max. patients", "qty": "10"}, {"requirement": "DSM","qty": "1"}, {"requirement": "camions dévidoir", "qty": "2"}, {"requirement": "motopompes", "qty": "3"}, {"requirement": "fmogp", "qty": "1"}], "credits": "8700"}
+{
+ "missionId": "242-1",
+ "missionName": "Feu d'ERP - Centre commercial",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "6"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "3"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "2"
+  },
+  {
+   "requirement": "ccf",
+   "qty": "1"
+  },
+  {
+   "requirement": "assistance respiratoire e",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  },
+  {
+   "requirement": "DSM",
+   "qty": "1"
+  },
+  {
+   "requirement": "camions dévidoir",
+   "qty": "2"
+  },
+  {
+   "requirement": "motopompes",
+   "qty": "3"
+  },
+  {
+   "requirement": "fmogp",
+   "qty": "1"
+  }
+ ],
+ "credits": "8700",
+ "version": "98387576492636331605654218847140669166"
+}

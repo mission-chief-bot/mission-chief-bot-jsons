@@ -1,1 +1,12 @@
-{"missionId": "449", "missionName": "Tyveri av medisiner", "requirements": [{"requirement": "politibiler", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "449",
+ "missionName": "Tyveri av medisiner",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "170587774467049384187834913667340811066"
+}

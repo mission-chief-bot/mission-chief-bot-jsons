@@ -1,1 +1,24 @@
-{"missionId": "101/a", "missionName": "Brand ute - fordon, lastfordon", "requirements": [{"requirement": "släckbilar", "qty": "3"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "tankbilar", "qty": "1"}, {"requirement": "polisbilar", "qty": "1"}], "credits": "2900"}
+{
+ "missionId": "101/a",
+ "missionName": "Brand ute - fordon, lastfordon",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "2900",
+ "version": "277172623938319688318930938171679800496"
+}

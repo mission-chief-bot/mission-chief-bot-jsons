@@ -1,1 +1,12 @@
-{"missionId": "344", "missionName": "Ограбление банка", "requirements": [{"requirement": "полицейские автомобили", "qty": "5"}], "credits": "2500"}
+{
+ "missionId": "344",
+ "missionName": "Ограбление банка",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "5"
+  }
+ ],
+ "credits": "2500",
+ "version": "42523409082043159516223289850346925306"
+}

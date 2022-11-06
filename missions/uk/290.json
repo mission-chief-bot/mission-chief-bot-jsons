@@ -1,1 +1,16 @@
-{"missionId": "290", "missionName": "Train station fire (Medium)", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "fire officers", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "290",
+ "missionName": "Train station fire (Medium)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "48766785552493509490562315325771665691"
+}

@@ -1,1 +1,16 @@
-{"missionId": "269", "missionName": "Nehoda na píle", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}, {"requirement": "policajné vozidlá", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "269",
+ "missionName": "Nehoda na píle",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "339035482704017582644780053187271066831"
+}

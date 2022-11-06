@@ -1,1 +1,12 @@
-{"missionId": "53", "missionName": "不正乗車", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "53",
+ "missionName": "不正乗車",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "185728276399644237435170216891661654814"
+}

@@ -1,1 +1,12 @@
-{"missionId": "347", "missionName": "Palava lehtikasa", "requirements": [{"requirement": "paloautot", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "347",
+ "missionName": "Palava lehtikasa",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "38743406888132094494460589912878592329"
+}

@@ -1,1 +1,12 @@
-{"missionId": "459", "missionName": "Estintore scoppiato", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "459",
+ "missionName": "Estintore scoppiato",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "142565181546132759863188924517189272541"
+}

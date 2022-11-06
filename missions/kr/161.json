@@ -1,1 +1,12 @@
-{"missionId": "161", "missionName": "속도측정기", "requirements": [{"requirement": "경찰차", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "161",
+ "missionName": "속도측정기",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "280687940743685381354448303723847070956"
+}

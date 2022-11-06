@@ -1,1 +1,12 @@
-{"missionId": "81", "missionName": "Pumpkin stolen", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "81",
+ "missionName": "Pumpkin stolen",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "321805654098273765415394337881828222849"
+}

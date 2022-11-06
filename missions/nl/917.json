@@ -1,1 +1,20 @@
-{"missionId": "917", "missionName": "Reanimatie", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "ambulances", "qty": "2"}], "credits": "1840"}
+{
+ "missionId": "917",
+ "missionName": "Reanimatie",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "2"
+  }
+ ],
+ "credits": "1840",
+ "version": "147913376873994860845129676741595900368"
+}

@@ -1,1 +1,12 @@
-{"missionId": "83", "missionName": "Candy theft", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "83",
+ "missionName": "Candy theft",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "88923704432678597856019161762153919699"
+}

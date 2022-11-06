@@ -1,1 +1,12 @@
-{"missionId": "278", "missionName": "Beroerte", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "278",
+ "missionName": "Beroerte",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "156753880579038923284829613777843664913"
+}

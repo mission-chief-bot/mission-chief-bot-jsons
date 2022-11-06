@@ -1,1 +1,16 @@
-{"missionId": "126", "missionName": "Aggressione a pubblico ufficiale", "requirements": [{"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "2"}], "credits": "4"}
+{
+ "missionId": "126",
+ "missionName": "Aggressione a pubblico ufficiale",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "4",
+ "version": "33366621671178440676596151706310582559"
+}

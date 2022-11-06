@@ -1,1 +1,12 @@
-{"missionId": "296", "missionName": "カージャック", "requirements": [{"requirement": "警察車両", "qty": "5"}], "credits": "3500"}
+{
+ "missionId": "296",
+ "missionName": "カージャック",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "5"
+  }
+ ],
+ "credits": "3500",
+ "version": "18837813405312079978521063706886130898"
+}

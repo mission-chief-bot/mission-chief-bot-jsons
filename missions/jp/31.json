@@ -1,1 +1,20 @@
-{"missionId": "31", "missionName": "暖炉から出火", "requirements": [{"requirement": "指令ユニット", "qty": "1"}, {"requirement": "プラットフォームトラック", "qty": "1"}, {"requirement": "消防車", "qty": "1"}], "credits": "1310"}
+{
+ "missionId": "31",
+ "missionName": "暖炉から出火",
+ "requirements": [
+  {
+   "requirement": "指令ユニット",
+   "qty": "1"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "1310",
+ "version": "227017186134144058166799438747831951337"
+}

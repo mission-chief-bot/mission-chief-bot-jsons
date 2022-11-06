@@ -1,1 +1,12 @@
-{"missionId": "62", "missionName": "Plângere pentru gălăgie", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "62",
+ "missionName": "Plângere pentru gălăgie",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "94591044969481714535572799397874717560"
+}

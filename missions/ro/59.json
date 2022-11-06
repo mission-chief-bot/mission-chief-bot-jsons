@@ -1,1 +1,16 @@
-{"missionId": "59", "missionName": "Salvare animale", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}, {"requirement": "vehicule grele de salvare necesare", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "59",
+ "missionName": "Salvare animale",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "vehicule grele de salvare necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "145158409438801538349991225770773925024"
+}

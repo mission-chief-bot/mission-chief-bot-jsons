@@ -1,1 +1,16 @@
-{"missionId": "382", "missionName": "Påkørt cyklist", "requirements": [{"requirement": "påkrævede politibiler", "qty": "5"}, {"requirement": "maks. antal patienter", "qty": "2"}], "credits": "2950"}
+{
+ "missionId": "382",
+ "missionName": "Påkørt cyklist",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "2950",
+ "version": "266319600050513073214200906421153666120"
+}

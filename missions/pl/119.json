@@ -1,1 +1,20 @@
-{"missionId": "119", "missionName": "Pożar Małego Magazynu", "requirements": [{"requirement": "samochody pożarnicze", "qty": "9"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "sh lub sd", "qty": "2"}], "credits": "6500"}
+{
+ "missionId": "119",
+ "missionName": "Pożar Małego Magazynu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "9"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "2"
+  }
+ ],
+ "credits": "6500",
+ "version": "312549452476786317271794302174710156842"
+}

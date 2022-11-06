@@ -1,1 +1,12 @@
-{"missionId": "367", "missionName": "Аллергия на пыльцу", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "367",
+ "missionName": "Аллергия на пыльцу",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "317968715140113234265452424388862150336"
+}

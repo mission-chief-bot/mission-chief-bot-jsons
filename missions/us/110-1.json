@@ -1,1 +1,32 @@
-{"missionId": "110-1", "missionName": "Residential Fire", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "firetrucks", "qty": "3"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "fire investigation unit", "qty": "1"}, {"requirement": "max. patients", "qty": "4"}], "credits": "2250"}
+{
+ "missionId": "110-1",
+ "missionName": "Residential Fire",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "2250",
+ "version": "117430969706895821089521937235882164462"
+}

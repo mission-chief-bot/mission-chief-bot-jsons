@@ -1,1 +1,12 @@
-{"missionId": "108", "missionName": "Anaphylaxis", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "108",
+ "missionName": "Anaphylaxis",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "165998872949473807150936503968183123087"
+}

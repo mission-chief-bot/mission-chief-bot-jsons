@@ -1,1 +1,20 @@
-{"missionId": "440", "missionName": "Hjemme invasjon", "requirements": [{"requirement": "politibiler", "qty": "6"}, {"requirement": "hundepatruljer", "qty": "1"}, {"requirement": "kjøretøy fra demonstrasjonspolitiet", "qty": "1"}], "credits": "5500"}
+{
+ "missionId": "440",
+ "missionName": "Hjemme invasjon",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "6"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "1"
+  },
+  {
+   "requirement": "kjøretøy fra demonstrasjonspolitiet",
+   "qty": "1"
+  }
+ ],
+ "credits": "5500",
+ "version": "192960253928871779841787563076648229503"
+}

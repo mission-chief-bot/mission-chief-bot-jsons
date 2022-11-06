@@ -1,1 +1,20 @@
-{"missionId": "735", "missionName": "Smuggling via Boat", "requirements": [{"requirement": "large coastal boat", "qty": "2"}, {"requirement": "coastal helicopter", "qty": "2"}, {"requirement": "coastal guard plane", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "735",
+ "missionName": "Smuggling via Boat",
+ "requirements": [
+  {
+   "requirement": "large coastal boat",
+   "qty": "2"
+  },
+  {
+   "requirement": "coastal helicopter",
+   "qty": "2"
+  },
+  {
+   "requirement": "coastal guard plane",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "274859739130804974838762548845115300997"
+}

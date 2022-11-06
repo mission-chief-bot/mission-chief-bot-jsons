@@ -1,1 +1,16 @@
-{"missionId": "95", "missionName": "Fleeing Suspect", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "police helicopters", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "95",
+ "missionName": "Fleeing Suspect",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "175159320238775291947382620500618911238"
+}

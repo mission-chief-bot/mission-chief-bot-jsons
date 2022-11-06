@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "Vlámanie", "requirements": [{"requirement": "policajné vozidlá", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "Vlámanie",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "130432000001682264637779593717026164195"
+}

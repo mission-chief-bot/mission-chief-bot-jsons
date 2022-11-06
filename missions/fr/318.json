@@ -1,1 +1,20 @@
-{"missionId": "318", "missionName": "Engagement communautaire", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "voitures de police es", "qty": "1"}, {"requirement": "ambulances es", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "318",
+ "missionName": "Engagement communautaire",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances es",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "191489129825280370738078520471768471019"
+}

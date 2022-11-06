@@ -1,1 +1,11 @@
-{"missionId": "155", "missionName": "Dehydreret person", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}]}
+{
+ "missionId": "155",
+ "missionName": "Dehydreret person",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "123761936303837828375227207840872936624"
+}

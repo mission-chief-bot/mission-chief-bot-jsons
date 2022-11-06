@@ -1,1 +1,16 @@
-{"missionId": "146", "missionName": "Bilulykke med dyr", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "146",
+ "missionName": "Bilulykke med dyr",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "209426477974315117970277708271080663246"
+}

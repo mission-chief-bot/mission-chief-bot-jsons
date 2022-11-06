@@ -1,1 +1,12 @@
-{"missionId": "537", "missionName": "Possesso illegale di armi", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "537",
+ "missionName": "Possesso illegale di armi",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "286887192229374837821530443176135179785"
+}

@@ -1,1 +1,16 @@
-{"missionId": "23-1", "missionName": "Ild i olie", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "skum tender påkrævet", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23-1",
+ "missionName": "Ild i olie",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "skum tender påkrævet",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "151902439255768728465934536131772470602"
+}

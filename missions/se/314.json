@@ -1,1 +1,12 @@
-{"missionId": "314", "missionName": "Stulen trofé", "requirements": [{"requirement": "polisbilar", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "314",
+ "missionName": "Stulen trofé",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "205166400899842134015843019596330311136"
+}

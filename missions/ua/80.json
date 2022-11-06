@@ -1,1 +1,16 @@
-{"missionId": "80", "missionName": "Займання тюка соломи", "requirements": [{"requirement": "пожежні машини", "qty": "5"}, {"requirement": "штабні автомобілі", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "80",
+ "missionName": "Займання тюка соломи",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "5"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "224764355897482544748322604471392673048"
+}

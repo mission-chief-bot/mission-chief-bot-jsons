@@ -1,1 +1,12 @@
-{"missionId": "799", "missionName": "Persoon op luchtbed in problemen", "requirements": [{"requirement": "strandvoertuigen (dat-rb of khv)", "qty": "1"}], "credits": "830"}
+{
+ "missionId": "799",
+ "missionName": "Persoon op luchtbed in problemen",
+ "requirements": [
+  {
+   "requirement": "strandvoertuigen (dat-rb of khv)",
+   "qty": "1"
+  }
+ ],
+ "credits": "830",
+ "version": "228641311055861972072603156616309336693"
+}

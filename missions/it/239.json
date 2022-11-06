@@ -1,1 +1,12 @@
-{"missionId": "239", "missionName": "Controllo igienico sanitario", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "560"}
+{
+ "missionId": "239",
+ "missionName": "Controllo igienico sanitario",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "560",
+ "version": "83041633245799769420095635545032582144"
+}

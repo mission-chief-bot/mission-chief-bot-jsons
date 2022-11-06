@@ -1,1 +1,16 @@
-{"missionId": "197", "missionName": "Präsenzeinsatz Volksfest", "requirements": [ {"requirement": "grukw", "qty": "3"}, {"requirement": "lebefkw", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "197",
+ "missionName": "Präsenzeinsatz Volksfest",
+ "requirements": [
+  {
+   "requirement": "grukw",
+   "qty": "3"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "332833835261677917739654386970737500184"
+}

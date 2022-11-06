@@ -1,1 +1,12 @@
-{"missionId": "278", "missionName": "Sabotaggio ai jukebox della festa di anniversario", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "278",
+ "missionName": "Sabotaggio ai jukebox della festa di anniversario",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "153952662938514347719512087874458676260"
+}

@@ -1,1 +1,12 @@
-{"missionId": "791", "missionName": "Brandende taart in oven", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "791",
+ "missionName": "Brandende taart in oven",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "216309134175454600900438166902387540420"
+}

@@ -1,1 +1,12 @@
-{"missionId": "104", "missionName": "Suspicion de fracture du rachis", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "6"}
+{
+ "missionId": "104",
+ "missionName": "Suspicion de fracture du rachis",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "6",
+ "version": "283774793953680035616745437337120710783"
+}

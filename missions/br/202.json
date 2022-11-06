@@ -1,1 +1,12 @@
-{"missionId": "202", "missionName": "Atividade ilegal na internet", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "202",
+ "missionName": "Atividade ilegal na internet",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "301828151231448878588520595377248896809"
+}

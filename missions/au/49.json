@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "Pickpocketing", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Pickpocketing",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "118311642692992304001079772916814046038"
+}

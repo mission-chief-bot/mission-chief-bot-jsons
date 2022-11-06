@@ -1,1 +1,16 @@
-{"missionId": "185", "missionName": "Ulovlig Varer Smugleri", "requirements": [{"requirement": "påkrævede politibiler", "qty": "3"}, {"requirement": "påkrævede hundepatruljer", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "185",
+ "missionName": "Ulovlig Varer Smugleri",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "100145499560725235183342196946948241927"
+}

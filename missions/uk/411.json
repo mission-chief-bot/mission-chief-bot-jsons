@@ -1,1 +1,12 @@
-{"missionId": "411", "missionName": "Out of control argument", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "411",
+ "missionName": "Out of control argument",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "242433031972598462077458901472523371295"
+}

@@ -1,1 +1,84 @@
-{"missionId": "437", "missionName": "Den složek IZS", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "8"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "kombinované hasící automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "3"}, {"requirement": "vozidla pro práci s nebezpečnými látkami", "qty": "1"}, {"requirement": "inspektor provozu", "qty": "1"}, {"requirement": "rzp", "qty": "2"}, {"requirement": "vozidla kynologů pčr", "qty": "1"}, {"requirement": "policejní vrtulníky", "qty": "1"}, {"requirement": "protiplynové automobily", "qty": "1"}, {"requirement": "mobilní operační střediska", "qty": "1"}, {"requirement": "vozidla pyrotechniků pčr", "qty": "1"}, {"requirement": "přívěs se člunem", "qty": "1"}, {"requirement": "potápěčský automobil", "qty": "1"}, {"requirement": "da", "qty": "2"}, {"requirement": "personál urny", "qty": "1"}], "credits": "25000"}
+{
+ "missionId": "437",
+ "missionName": "Den složek IZS",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "8"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "kombinované hasící automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "vozidla pro práci s nebezpečnými látkami",
+   "qty": "1"
+  },
+  {
+   "requirement": "inspektor provozu",
+   "qty": "1"
+  },
+  {
+   "requirement": "rzp",
+   "qty": "2"
+  },
+  {
+   "requirement": "vozidla kynologů pčr",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní vrtulníky",
+   "qty": "1"
+  },
+  {
+   "requirement": "protiplynové automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobilní operační střediska",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla pyrotechniků pčr",
+   "qty": "1"
+  },
+  {
+   "requirement": "přívěs se člunem",
+   "qty": "1"
+  },
+  {
+   "requirement": "potápěčský automobil",
+   "qty": "1"
+  },
+  {
+   "requirement": "da",
+   "qty": "2"
+  },
+  {
+   "requirement": "personál urny",
+   "qty": "1"
+  }
+ ],
+ "credits": "25000",
+ "version": "45620090873502602650973692163842574464"
+}

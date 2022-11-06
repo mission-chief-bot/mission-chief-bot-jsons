@@ -1,1 +1,12 @@
-{"missionId": "928", "missionName": "Dief aangevallen door een koe", "requirements": [{"requirement": "ambulances", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "928",
+ "missionName": "Dief aangevallen door een koe",
+ "requirements": [
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "34378880842092585974819735925334962094"
+}

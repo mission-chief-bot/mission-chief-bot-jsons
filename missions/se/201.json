@@ -1,1 +1,12 @@
-{"missionId": "201", "missionName": "Brinnande fågelskrämma", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "201",
+ "missionName": "Brinnande fågelskrämma",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "248705913862379875298410809086996754279"
+}

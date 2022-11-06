@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "421 Heinäpaalipalo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "421 Heinäpaalipalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "265295427786154670994695667003194782364"
+}

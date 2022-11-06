@@ -1,1 +1,16 @@
-{"missionId": "120", "missionName": "Fuego en la cafetería", "requirements": [{"requirement": "camiones de bomberos", "qty": "3"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}], "credits": "1300"}
+{
+ "missionId": "120",
+ "missionName": "Fuego en la cafetería",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "3"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "238844771069997204886181766019984050874"
+}

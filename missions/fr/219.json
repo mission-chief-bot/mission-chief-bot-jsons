@@ -1,1 +1,16 @@
-{"missionId": "219", "missionName": "Vente de stupéfiants sur la VP", "requirements": [{"requirement": "voitures de police es", "qty": "4"}, {"requirement": "unité cynophile e", "qty": "1"}], "credits": "6"}
+{
+ "missionId": "219",
+ "missionName": "Vente de stupéfiants sur la VP",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "4"
+  },
+  {
+   "requirement": "unité cynophile e",
+   "qty": "1"
+  }
+ ],
+ "credits": "6",
+ "version": "167877526854032348199386416827628218484"
+}

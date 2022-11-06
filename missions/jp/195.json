@@ -1,1 +1,12 @@
-{"missionId": "195", "missionName": "花火の起爆剤直撃", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "195",
+ "missionName": "花火の起爆剤直撃",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "59613476314747890144206494539185396193"
+}

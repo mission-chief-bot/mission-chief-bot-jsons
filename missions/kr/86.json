@@ -1,1 +1,16 @@
-{"missionId": "86", "missionName": "이스터 버니 교통사고", "requirements": [{"requirement": "경찰차", "qty": "1"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "86",
+ "missionName": "이스터 버니 교통사고",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "326248966341227306658716699999169460468"
+}

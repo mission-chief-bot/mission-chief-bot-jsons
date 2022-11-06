@@ -1,1 +1,16 @@
-{"missionId": "603", "missionName": "Illegal bonfire in park", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "police cars", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "603",
+ "missionName": "Illegal bonfire in park",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "237474007769590874013268084495676337335"
+}

@@ -1,1 +1,12 @@
-{"missionId": "302", "missionName": "Operações de Vigilância e Prevenção", "requirements": [{"requirement": "veículos florestais", "qty": "2" }], "credits": "700"}
+{
+ "missionId": "302",
+ "missionName": "Operações de Vigilância e Prevenção",
+ "requirements": [
+  {
+   "requirement": "veículos florestais",
+   "qty": "2"
+  }
+ ],
+ "credits": "700",
+ "version": "256025251697602751817930717525132249344"
+}

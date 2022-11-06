@@ -1,1 +1,12 @@
-{"missionId": "65", "missionName": "Bucătărie în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "65",
+ "missionName": "Bucătărie în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "189205971720114893061139490317676845503"
+}

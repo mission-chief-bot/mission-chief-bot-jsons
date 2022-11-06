@@ -1,1 +1,24 @@
-{"missionId": "132", "missionName": "HGV Lost its load (Livestock)", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "traffic cars", "qty": "1"}, {"requirement": "armed response vehicle", "qty": "1"}], "credits": "2400"}
+{
+ "missionId": "132",
+ "missionName": "HGV Lost its load (Livestock)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "traffic cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "armed response vehicle",
+   "qty": "1"
+  }
+ ],
+ "credits": "2400",
+ "version": "214617888596355389856697222948567931845"
+}

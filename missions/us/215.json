@@ -1,1 +1,12 @@
-{"missionId": "215", "missionName": "Animal rescue from drain", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "275"}
+{
+ "missionId": "215",
+ "missionName": "Animal rescue from drain",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "275",
+ "version": "257471879444017455912432386346071890795"
+}

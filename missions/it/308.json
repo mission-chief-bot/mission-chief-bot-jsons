@@ -1,1 +1,12 @@
-{"missionId": "308", "missionName": "Maxi sequestro fuochi d'artificio illegali", "requirements": [{"requirement": "pattuglie", "qty": "6"}], "credits": "2000"}
+{
+ "missionId": "308",
+ "missionName": "Maxi sequestro fuochi d'artificio illegali",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "6"
+  }
+ ],
+ "credits": "2000",
+ "version": "62165852321437515988086336447594278923"
+}

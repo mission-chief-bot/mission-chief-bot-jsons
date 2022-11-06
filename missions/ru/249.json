@@ -1,1 +1,12 @@
-{"missionId": "249", "missionName": "Масштабное перекрытие дороги", "requirements": [{"requirement": "полицейские автомобили", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "249",
+ "missionName": "Масштабное перекрытие дороги",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "88506411324606842427122538486671613900"
+}

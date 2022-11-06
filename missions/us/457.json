@@ -1,1 +1,12 @@
-{"missionId": "457", "missionName": "Bicycle stolen", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "457",
+ "missionName": "Bicycle stolen",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "205878997226040565645538056810814506362"
+}

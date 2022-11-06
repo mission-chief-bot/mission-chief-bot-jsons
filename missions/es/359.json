@@ -1,1 +1,20 @@
-{"missionId": "359", "missionName": "Anuncio de nuevas funciones del 112", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}, {"requirement": "ambulancias", "qty": "1"}, {"requirement": "coches patrulla", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "359",
+ "missionName": "Anuncio de nuevas funciones del 112",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulancias",
+   "qty": "1"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "28268939295988469841530757026716095796"
+}

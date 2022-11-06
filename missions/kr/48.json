@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "금속 강도 사건", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "금속 강도 사건",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "232059683581930396972710562502073462079"
+}

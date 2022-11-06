@@ -1,1 +1,16 @@
-{"missionId": "410", "missionName": "Sjokoladekanin låst inne i bil", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "410",
+ "missionName": "Sjokoladekanin låst inne i bil",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "271896378253291821481701443411948279990"
+}

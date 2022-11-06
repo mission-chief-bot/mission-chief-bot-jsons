@@ -1,1 +1,12 @@
-{"missionId": "86", "missionName": "Возгорание кучи мусора из-за фейерверка", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "86",
+ "missionName": "Возгорание кучи мусора из-за фейерверка",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "131235552615299917044528654762608025079"
+}

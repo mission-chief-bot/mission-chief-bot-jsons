@@ -1,1 +1,12 @@
-{"missionId": "295", "missionName": "Ukradené srdce", "requirements": [{"requirement": "policejní automobily", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "295",
+ "missionName": "Ukradené srdce",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "244307740161999077555986132174098655639"
+}

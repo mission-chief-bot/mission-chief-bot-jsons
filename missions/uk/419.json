@@ -1,1 +1,40 @@
-{"missionId": "419", "missionName": "Scrapyard Fire", "requirements": [{"requirement": "fire engines", "qty": "14"}, {"requirement": "fire officers", "qty": "6"}, {"requirement": "aerial appliance trucks", "qty": "1"}, {"requirement": "water carriers", "qty": "2"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "hazmat units or cbrn vehicles", "qty": "1"}, {"requirement": "iccu or ambulance control units", "qty": "1"}, {"requirement": "breathing apparatus support units", "qty": "1"}], "credits": "15000"}
+{
+ "missionId": "419",
+ "missionName": "Scrapyard Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "14"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "6"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "hazmat units or cbrn vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "iccu or ambulance control units",
+   "qty": "1"
+  },
+  {
+   "requirement": "breathing apparatus support units",
+   "qty": "1"
+  }
+ ],
+ "credits": "15000",
+ "version": "26477958219139588146167135121604041985"
+}

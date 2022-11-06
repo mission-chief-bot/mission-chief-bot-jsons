@@ -1,1 +1,28 @@
-{"missionId": "491", "missionName": "Wypadek - samochód wjechał w barierki", "requirements": [{"requirement": "samochody pożarnicze", "qty": "3"}, {"requirement": "slop lub slrr", "qty": "3"}, {"requirement": "samochody ratownictwa technicznego", "qty": "1"}, {"requirement": "radiowozy", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}], "credits": "3800"}
+{
+ "missionId": "491",
+ "missionName": "Wypadek - samochód wjechał w barierki",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "3800",
+ "version": "241799276804379016004126905752020658107"
+}

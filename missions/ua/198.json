@@ -1,1 +1,20 @@
-{"missionId": "198", "missionName": "Пожежа у квартирі хмарочосу", "requirements": [{"requirement": "пожежні машини", "qty": "10"}, {"requirement": "пожежні автодрабини", "qty": "1"}, {"requirement": "штабні автомобілі", "qty": "4"}], "credits": "1500"}
+{
+ "missionId": "198",
+ "missionName": "Пожежа у квартирі хмарочосу",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "10"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "1"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "4"
+  }
+ ],
+ "credits": "1500",
+ "version": "153481377210951068113010929996711069124"
+}

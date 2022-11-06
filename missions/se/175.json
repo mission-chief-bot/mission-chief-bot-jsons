@@ -1,1 +1,11 @@
-{"missionId": "175", "missionName": "Grillbrand", "requirements": [{"requirement": "sl\u00e4ckbilar", "qty": "1"}]}
+{
+ "missionId": "175",
+ "missionName": "Grillbrand",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "version": "60956517265486042293025412540191171327"
+}

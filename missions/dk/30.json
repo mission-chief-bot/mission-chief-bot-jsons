@@ -1,1 +1,12 @@
-{"missionId": "30", "missionName": "Gaslækage", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "30",
+ "missionName": "Gaslækage",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "195434803675896821075459847364270329367"
+}

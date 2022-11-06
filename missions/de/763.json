@@ -1,1 +1,12 @@
-{"missionId": "763", "missionName": "Jubiläumsgäste haben Dekoration gestohlen", "requirements": [{"requirement": "streifenwagen", "qty": "4"}], "credits": "3000"}
+{
+ "missionId": "763",
+ "missionName": "Jubiläumsgäste haben Dekoration gestohlen",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "310717919105634019978468091607818170396"
+}

@@ -1,1 +1,12 @@
-{"missionId": "234", "missionName": "위조품 현장 급습", "requirements": [{"requirement": "경찰차", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "234",
+ "missionName": "위조품 현장 급습",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "130582594385075840881596365234277861694"
+}

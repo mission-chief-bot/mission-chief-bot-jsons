@@ -1,1 +1,12 @@
-{"missionId": "105", "missionName": "Chute du 2ème étage", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "105",
+ "missionName": "Chute du 2ème étage",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "174528458903093233397100672856862281812"
+}

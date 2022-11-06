@@ -1,1 +1,36 @@
-{"missionId": "397/a", "missionName": "Accident PL suivi de feu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "3"}, {"requirement": "ccf", "qty": "1"}, {"requirement": "vlhr", "qty": "2"}, {"requirement": "voitures de police es", "qty": "3"}, {"requirement": "max. patients", "qty": "1"}, {"requirement": "fmogp", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "5400"}
+{
+ "missionId": "397/a",
+ "missionName": "Accident PL suivi de feu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "3"
+  },
+  {
+   "requirement": "ccf",
+   "qty": "1"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "2"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "fmogp",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "5400",
+ "version": "276154854082107704013394618752751085778"
+}

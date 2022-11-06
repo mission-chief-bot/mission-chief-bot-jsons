@@ -1,1 +1,16 @@
-{"missionId": "367", "missionName": "Desacatos no cortejo de carnaval", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "4"}, {"requirement": "máx. de pacientes:", "qty": "6"}], "credits": "1500"}
+{
+ "missionId": "367",
+ "missionName": "Desacatos no cortejo de carnaval",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "6"
+  }
+ ],
+ "credits": "1500",
+ "version": "223501243500043163491184944429961771026"
+}

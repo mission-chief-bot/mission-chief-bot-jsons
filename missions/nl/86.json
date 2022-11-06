@@ -1,1 +1,16 @@
-{"missionId": "86", "missionName": "Aanrijding door trein", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "86",
+ "missionName": "Aanrijding door trein",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "113087481987363459294267534501876032840"
+}

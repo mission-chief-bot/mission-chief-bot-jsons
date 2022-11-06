@@ -1,1 +1,16 @@
-{"missionId": "550", "missionName": "Brand in theater", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "850"}
+{
+ "missionId": "550",
+ "missionName": "Brand in theater",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "850",
+ "version": "29231906714085321218717717167633655016"
+}

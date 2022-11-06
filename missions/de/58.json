@@ -1,1 +1,12 @@
-{"missionId": "58", "missionName": "Gestürzter Radfahrer", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "58",
+ "missionName": "Gestürzter Radfahrer",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "261677652260092676057139642895838382239"
+}

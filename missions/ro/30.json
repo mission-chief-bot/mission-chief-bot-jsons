@@ -1,1 +1,12 @@
-{"missionId": "30", "missionName": "Scurgere de gaze", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "30",
+ "missionName": "Scurgere de gaze",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "210683118021284131662133650082970450035"
+}

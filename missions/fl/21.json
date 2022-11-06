@@ -1,1 +1,20 @@
-{"missionId": "21", "missionName": "401 Savupiippupalo", "requirements": [{"requirement": "paloautot", "qty": "1"}, {"requirement": "nostolava-autot", "qty": "1"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "2400"}
+{
+ "missionId": "21",
+ "missionName": "401 Savupiippupalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "2400",
+ "version": "318582437199674051099218308007927450112"
+}

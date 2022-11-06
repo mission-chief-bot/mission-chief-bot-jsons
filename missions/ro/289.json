@@ -1,1 +1,16 @@
-{"missionId": "289", "missionName": "Vânzător ambulant ilegal", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "5"}, {"requirement": "max. pacienți", "qty": "2"}], "credits": "3500"}
+{
+ "missionId": "289",
+ "missionName": "Vânzător ambulant ilegal",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "5"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "2"
+  }
+ ],
+ "credits": "3500",
+ "version": "121133933250118511151938754367192919136"
+}

@@ -1,1 +1,12 @@
-{"missionId": "108", "missionName": "Corredor lesionado", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "108",
+ "missionName": "Corredor lesionado",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "328370112856550460273106687881697039590"
+}

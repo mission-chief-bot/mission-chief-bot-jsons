@@ -1,1 +1,20 @@
-{"missionId": "370", "missionName": "Panic button activation", "requirements": [{"requirement": "dog support units (dsus)", "qty": "1"}, {"requirement": "police cars", "qty": "10"}, {"requirement": "max. patients", "qty": "6"}], "credits": "7000"}
+{
+ "missionId": "370",
+ "missionName": "Panic button activation",
+ "requirements": [
+  {
+   "requirement": "dog support units (dsus)",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "10"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "7000",
+ "version": "201022633938038745848578220138265597688"
+}

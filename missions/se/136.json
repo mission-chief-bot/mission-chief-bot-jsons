@@ -1,1 +1,20 @@
-{"missionId": "136", "missionName": "Försök till rymning", "requirements": [{"requirement": "hundenheter", "qty": "1"}, {"requirement": "polisbilar", "qty": "10"}, {"requirement": "polishelikoptrar", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "136",
+ "missionName": "Försök till rymning",
+ "requirements": [
+  {
+   "requirement": "hundenheter",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "10"
+  },
+  {
+   "requirement": "polishelikoptrar",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "339063511637358265737510803744846271767"
+}

@@ -1,1 +1,12 @@
-{"missionId": "67", "missionName": "Personalienaufnahme von Schwarzfahrer", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "67",
+ "missionName": "Personalienaufnahme von Schwarzfahrer",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "108002016760956634077346283279012535803"
+}

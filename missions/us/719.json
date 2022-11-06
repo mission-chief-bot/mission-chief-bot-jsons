@@ -1,1 +1,20 @@
-{"missionId": "719", "missionName": "Guest drank poisoned drinks at anniversary party", "requirements": [{"requirement": "police cars", "qty": "3"}, {"requirement": "battalion chief vehicles", "qty": "2"}, {"requirement": "max. patients", "qty": "18"}], "credits": "1200"}
+{
+ "missionId": "719",
+ "missionName": "Guest drank poisoned drinks at anniversary party",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "18"
+  }
+ ],
+ "credits": "1200",
+ "version": "127789648981599691647824651439169817149"
+}

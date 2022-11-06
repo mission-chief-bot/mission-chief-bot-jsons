@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "Brand ute - höbal", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "Brand ute - höbal",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "318479414224629568687694847332158347858"
+}

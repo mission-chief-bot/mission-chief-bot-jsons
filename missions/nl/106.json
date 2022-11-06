@@ -1,1 +1,12 @@
-{"missionId": "106", "missionName": "Schaap in sloot", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "140"}
+{
+ "missionId": "106",
+ "missionName": "Schaap in sloot",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "140",
+ "version": "78480932438993631819848550317109165757"
+}

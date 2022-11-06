@@ -1,1 +1,20 @@
-{"missionId": "322", "missionName": "Brandende wegberm", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "slangenwagens", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "322",
+ "missionName": "Brandende wegberm",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "slangenwagens",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "311843004688636547160786546711574460233"
+}

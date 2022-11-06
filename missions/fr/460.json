@@ -1,1 +1,12 @@
-{"missionId": "460", "missionName": "Animal piégé dans une rivière", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "460",
+ "missionName": "Animal piégé dans une rivière",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "219181178691101567531095088078418780361"
+}

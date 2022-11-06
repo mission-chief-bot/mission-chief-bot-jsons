@@ -1,1 +1,36 @@
-{"missionId": "164/a", "missionName": "貨物列車火災", "requirements": [{"requirement": "消火サポート拡張", "qty": "1"}, {"requirement": "消防車", "qty": "4"}, {"requirement": "水", "qty": "16000"}, {"requirement": "消防隊長車両", "qty": "3"}, {"requirement": "指令車", "qty": "1"}, {"requirement": "空気充填照明車", "qty": "1"}, {"requirement": "ポンプ積載車", "qty": "1"}], "credits": "2200"}
+{
+ "missionId": "164/a",
+ "missionName": "貨物列車火災",
+ "requirements": [
+  {
+   "requirement": "消火サポート拡張",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "4"
+  },
+  {
+   "requirement": "水",
+   "qty": "16000"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "3"
+  },
+  {
+   "requirement": "指令車",
+   "qty": "1"
+  },
+  {
+   "requirement": "空気充填照明車",
+   "qty": "1"
+  },
+  {
+   "requirement": "ポンプ積載車",
+   "qty": "1"
+  }
+ ],
+ "credits": "2200",
+ "version": "157093671929158739425570914798647605448"
+}

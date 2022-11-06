@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "Traktor Brand", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "Traktor Brand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "15524264443024780405562773356951444729"
+}

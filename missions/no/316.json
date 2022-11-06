@@ -1,1 +1,28 @@
-{"missionId": "316", "missionName": "Person påkjørt av tog", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "4"}, {"requirement": "tungredningsbiler", "qty": "2"}, {"requirement": "politibiler", "qty": "5"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "7000"}
+{
+ "missionId": "316",
+ "missionName": "Person påkjørt av tog",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "4"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "7000",
+ "version": "294746543260647914707630641626025368397"
+}

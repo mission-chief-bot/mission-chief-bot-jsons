@@ -1,1 +1,12 @@
-{"missionId": "492", "missionName": "Anniversary guests stole decoration", "requirements": [{"requirement": "police cars", "qty": "4"}], "credits": "3000"}
+{
+ "missionId": "492",
+ "missionName": "Anniversary guests stole decoration",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "285688803413138857145302956502074792422"
+}

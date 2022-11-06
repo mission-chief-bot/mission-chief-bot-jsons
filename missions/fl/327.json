@@ -1,1 +1,12 @@
-{"missionId": "327", "missionName": "112 Hämärämiehiä kellarissa", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "327",
+ "missionName": "112 Hämärämiehiä kellarissa",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "191529832108242232768455991935835947269"
+}

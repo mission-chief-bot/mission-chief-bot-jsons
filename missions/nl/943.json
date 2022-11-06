@@ -1,1 +1,12 @@
-{"missionId": "943", "missionName": "Bestuurder onwel", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "1350"}
+{
+ "missionId": "943",
+ "missionName": "Bestuurder onwel",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "1350",
+ "version": "25005379309842579109579370344975742642"
+}

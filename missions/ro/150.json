@@ -1,1 +1,12 @@
-{"missionId": "150", "missionName": "Radar de viteză", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "150",
+ "missionName": "Radar de viteză",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "5845490701062254722511806912252900832"
+}

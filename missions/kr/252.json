@@ -1,1 +1,12 @@
-{"missionId": "252", "missionName": "수영 경기 보호 임무", "requirements": [{"requirement": "구급차", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "252",
+ "missionName": "수영 경기 보호 임무",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "122756934763373935982843580115341938635"
+}

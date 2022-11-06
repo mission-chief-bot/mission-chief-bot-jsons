@@ -1,1 +1,12 @@
-{"missionId": "184", "missionName": "Gniazdo szerszeni w budynku mieszkalnym", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "184",
+ "missionName": "Gniazdo szerszeni w budynku mieszkalnym",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "119953678955082432729771747600750794890"
+}

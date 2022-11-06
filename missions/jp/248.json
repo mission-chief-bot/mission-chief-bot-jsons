@@ -1,1 +1,12 @@
-{"missionId": "248", "missionName": "水泳競技会のセーフガード", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "2000"}
+{
+ "missionId": "248",
+ "missionName": "水泳競技会のセーフガード",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "2000",
+ "version": "107065112809105361240601185264233201451"
+}

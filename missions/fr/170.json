@@ -1,1 +1,11 @@
-{"missionId": "170", "missionName": "Coup de chaleur", "requirements": [{"requirement": "max. patients", "qty": "1"}]}
+{
+ "missionId": "170",
+ "missionName": "Coup de chaleur",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "126326980366763018284131737384675014584"
+}

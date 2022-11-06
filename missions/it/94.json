@@ -1,1 +1,12 @@
-{"missionId": "94", "missionName": "Conducente ubriaco dopo la festa di Capodanno", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "94",
+ "missionName": "Conducente ubriaco dopo la festa di Capodanno",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "49786771751927727621370086330710797986"
+}

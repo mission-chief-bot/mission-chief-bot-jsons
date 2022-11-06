@@ -1,1 +1,16 @@
-{"missionId": "684", "missionName": "Geweld tegen hulpverleners", "requirements": [{"requirement": "noodhulpeenheden", "qty": "4"}, {"requirement": "hondengeleider", "qty": "1"}], "credits": "1510"}
+{
+ "missionId": "684",
+ "missionName": "Geweld tegen hulpverleners",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "1"
+  }
+ ],
+ "credits": "1510",
+ "version": "83919276830003823607985128061537051849"
+}

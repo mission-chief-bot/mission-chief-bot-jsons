@@ -1,1 +1,12 @@
-{"missionId": "257", "missionName": "Sabotasje på jubileumsjukeboksene", "requirements": [{"requirement": "politibiler", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "257",
+ "missionName": "Sabotasje på jubileumsjukeboksene",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "213655315002853579773507330094135768390"
+}

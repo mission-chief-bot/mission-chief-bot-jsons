@@ -1,1 +1,12 @@
-{"missionId": "374", "missionName": "Firebreak Clearing", "requirements": [{"requirement": "wildland fire engines", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "374",
+ "missionName": "Firebreak Clearing",
+ "requirements": [
+  {
+   "requirement": "wildland fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "68246754245694713347226142953816567258"
+}

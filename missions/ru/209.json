@@ -1,1 +1,12 @@
-{"missionId": "209", "missionName": "Кража юбилейного подарка", "requirements": [{"requirement": "полицейские автомобили", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "209",
+ "missionName": "Кража юбилейного подарка",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "76472431186743804619616476918070312875"
+}

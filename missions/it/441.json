@@ -1,1 +1,12 @@
-{"missionId": "441", "missionName": "Persona caduta in un mucchio di foglie", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "441",
+ "missionName": "Persona caduta in un mucchio di foglie",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "312877035141335432579118043105471177913"
+}

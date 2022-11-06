@@ -1,1 +1,36 @@
-{"missionId": "277", "missionName": "Brokollaps", "requirements": [{"requirement": "släckbilar", "qty": "5"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "stegbilar", "qty": "1"}, {"requirement": "fordon med luftapparater", "qty": "1"}, {"requirement": "ledningsfordon", "qty": "1"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "20"}], "credits": "7000"}
+{
+ "missionId": "277",
+ "missionName": "Brokollaps",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "fordon med luftapparater",
+   "qty": "1"
+  },
+  {
+   "requirement": "ledningsfordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "20"
+  }
+ ],
+ "credits": "7000",
+ "version": "172431308665636669875862514196664525212"
+}

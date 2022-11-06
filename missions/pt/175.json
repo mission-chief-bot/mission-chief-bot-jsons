@@ -1,1 +1,16 @@
-{"missionId": "175", "missionName": "Ameaça de bomba num autocarro", "requirements": [{"requirement": "veículos de inativação de explosivos e segurança em subsolo necessários", "qty": "2"}, {"requirement": "carros de patrulha necessários", "qty": "4"}], "credits": "3000"}
+{
+ "missionId": "175",
+ "missionName": "Ameaça de bomba num autocarro",
+ "requirements": [
+  {
+   "requirement": "veículos de inativação de explosivos e segurança em subsolo necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "55239918125063135020471340525846399896"
+}

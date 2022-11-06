@@ -1,1 +1,12 @@
-{"missionId": "347", "missionName": "Animal on the tracks", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "347",
+ "missionName": "Animal on the tracks",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "7778772422063132845473795218415570238"
+}

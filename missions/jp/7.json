@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "枯れ葉から不審火", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "枯れ葉から不審火",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "176833450008206383516027082016039140732"
+}

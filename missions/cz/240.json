@@ -1,1 +1,12 @@
-{"missionId": "240", "missionName": "Ukradený dárek k výročí", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "240",
+ "missionName": "Ukradený dárek k výročí",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "332866130542721273318240644337350031771"
+}

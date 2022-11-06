@@ -1,1 +1,12 @@
-{"missionId": "370", "missionName": "H32 Ensihoitoharjoitus", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "5000"}
+{
+ "missionId": "370",
+ "missionName": "H32 Ensihoitoharjoitus",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "5000",
+ "version": "196091750005009550667008087167836462063"
+}

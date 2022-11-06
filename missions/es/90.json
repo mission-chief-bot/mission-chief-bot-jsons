@@ -1,1 +1,12 @@
-{"missionId": "90", "missionName": "Árbol de navidad en llamas", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "870"}
+{
+ "missionId": "90",
+ "missionName": "Árbol de navidad en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "870",
+ "version": "199821635621315952657205912038420627804"
+}

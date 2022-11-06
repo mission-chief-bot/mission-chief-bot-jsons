@@ -1,1 +1,20 @@
-{"missionId": "92", "missionName": "Encontro de Coelhos na cidade da páscoa", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "8"}, {"requirement": "ambulância de socorro necessárias", "qty": "4"}, {"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}], "credits": "7000"}
+{
+ "missionId": "92",
+ "missionName": "Encontro de Coelhos na cidade da páscoa",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "8"
+  },
+  {
+   "requirement": "ambulância de socorro necessárias",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "7000",
+ "version": "193898730054057849457779443071084154257"
+}

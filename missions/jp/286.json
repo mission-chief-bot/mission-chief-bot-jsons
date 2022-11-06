@@ -1,1 +1,12 @@
-{"missionId": "286", "missionName": "虫垂炎疑い", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "286",
+ "missionName": "虫垂炎疑い",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "275267400027347604434914732709164834998"
+}

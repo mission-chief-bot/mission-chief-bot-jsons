@@ -1,1 +1,16 @@
-{"missionId": "169", "missionName": "Dor nas costas", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "60"}], "credits": "100"}
+{
+ "missionId": "169",
+ "missionName": "Dor nas costas",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "60"
+  }
+ ],
+ "credits": "100",
+ "version": "213902204661127550426078128305221225673"
+}

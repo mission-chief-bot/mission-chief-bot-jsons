@@ -1,1 +1,12 @@
-{"missionId": "63", "missionName": "Acidente Vascular Cerebral", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "63",
+ "missionName": "Acidente Vascular Cerebral",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "129630354505985385747346624893222016604"
+}

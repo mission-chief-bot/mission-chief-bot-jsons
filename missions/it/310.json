@@ -1,1 +1,24 @@
-{"missionId": "310", "missionName": "Incidente con persone incastrate", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "5"}], "credits": "4"}
+{
+ "missionId": "310",
+ "missionName": "Incidente con persone incastrate",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "5"
+  }
+ ],
+ "credits": "4",
+ "version": "233987968642440780447854123865625668668"
+}

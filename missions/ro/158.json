@@ -1,1 +1,12 @@
-{"missionId": "158", "missionName": "Furt la târgul de Crăciun", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "158",
+ "missionName": "Furt la târgul de Crăciun",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "120520275493021206230939193163040973470"
+}

@@ -1,1 +1,16 @@
-{"missionId": "307", "missionName": "752 Ruokamyrkytys jäätelökärrystä", "requirements": [{"requirement": "poliisiautot", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "4"}], "credits": "100"}
+{
+ "missionId": "307",
+ "missionName": "752 Ruokamyrkytys jäätelökärrystä",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "4"
+  }
+ ],
+ "credits": "100",
+ "version": "60511974482988399393717969007658549358"
+}

@@ -1,1 +1,12 @@
-{"missionId": "46", "missionName": "Accident de voiture garée", "requirements": [{"requirement": "voitures de police es", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "46",
+ "missionName": "Accident de voiture garée",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "273447250357811985665264777403770234827"
+}

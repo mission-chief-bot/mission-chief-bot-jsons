@@ -1,1 +1,16 @@
-{"missionId": "420", "missionName": "Rusga em Veículo", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}, {"requirement": "equipas operacionais cinotécnicas necessárias:", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "420",
+ "missionName": "Rusga em Veículo",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "equipas operacionais cinotécnicas necessárias:",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "239572797255590408832462431991597871645"
+}

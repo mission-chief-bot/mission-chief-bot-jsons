@@ -1,1 +1,12 @@
-{"missionId": "12", "missionName": "Træ på vejen", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "12",
+ "missionName": "Træ på vejen",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "60049147799841578772226238622228504375"
+}

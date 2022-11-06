@@ -1,1 +1,12 @@
-{"missionId": "39", "missionName": "Febră", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "39",
+ "missionName": "Febră",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "38822285014505151454844873813632299910"
+}

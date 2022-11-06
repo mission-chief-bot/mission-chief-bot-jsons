@@ -1,1 +1,16 @@
-{"missionId": "334", "missionName": "Medium Bushfire Cleanup", "requirements": [{"requirement": "brush trucks", "qty": "4"}, {"requirement": "fire engines", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "334",
+ "missionName": "Medium Bushfire Cleanup",
+ "requirements": [
+  {
+   "requirement": "brush trucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "247731501899673634565132894361069280779"
+}

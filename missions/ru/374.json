@@ -1,1 +1,16 @@
-{"missionId": "374", "missionName": "Корова атаковала вора", "requirements": [{"requirement": "скорые", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "374",
+ "missionName": "Корова атаковала вора",
+ "requirements": [
+  {
+   "requirement": "скорые",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "20150713998613030180625694369904504228"
+}

@@ -1,1 +1,12 @@
-{"missionId": "363", "missionName": "Muebles en llamas", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "363",
+ "missionName": "Muebles en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "169929105891207440897549832782105724533"
+}

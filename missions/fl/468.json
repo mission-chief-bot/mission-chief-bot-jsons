@@ -1,1 +1,12 @@
-{"missionId": "468", "missionName": "585 Loukkaantunut eläin", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "468",
+ "missionName": "585 Loukkaantunut eläin",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "72683821162636886042131479731511249295"
+}

@@ -1,1 +1,12 @@
-{"missionId": "349", "missionName": "Bilstöld", "requirements": [{"requirement": "polisbilar", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "349",
+ "missionName": "Bilstöld",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "87935828414369274952640960419792661705"
+}

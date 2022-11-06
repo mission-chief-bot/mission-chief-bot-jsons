@@ -1,1 +1,12 @@
-{"missionId": "305", "missionName": "Plainte pour nuisances sonores suite à une dispute de couple", "requirements": [{"requirement": "voitures de police es", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "305",
+ "missionName": "Plainte pour nuisances sonores suite à une dispute de couple",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "226577783804737200024796788568694075036"
+}

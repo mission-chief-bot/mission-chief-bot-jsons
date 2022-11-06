@@ -1,1 +1,16 @@
-{"missionId": "118", "missionName": "Hardloopevenement", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "ambulances", "qty": "3"}], "credits": "3700"}
+{
+ "missionId": "118",
+ "missionName": "Hardloopevenement",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "3"
+  }
+ ],
+ "credits": "3700",
+ "version": "104781580501893652119742156591281988458"
+}

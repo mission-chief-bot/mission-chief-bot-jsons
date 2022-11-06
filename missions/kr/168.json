@@ -1,1 +1,16 @@
-{"missionId": "168", "missionName": "크리스마스 마켓 방화 사건", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "168",
+ "missionName": "크리스마스 마켓 방화 사건",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "23297031795047823034603169662396039653"
+}

@@ -1,1 +1,12 @@
-{"missionId": "122", "missionName": "Incêndio num churrasco", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "122",
+ "missionName": "Incêndio num churrasco",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "237036062303242621602357225730550324190"
+}

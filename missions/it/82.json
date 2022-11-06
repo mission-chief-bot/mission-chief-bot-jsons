@@ -1,1 +1,20 @@
-{"missionId": "82", "missionName": "Persona intrappolata sotto un macchinario", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "82",
+ "missionName": "Persona intrappolata sotto un macchinario",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "133874955919637762306851476208850857370"
+}

@@ -1,1 +1,20 @@
-{"missionId": "445", "missionName": "Incidente su una strada nebbiosa", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "max pazienti", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "445",
+ "missionName": "Incidente su una strada nebbiosa",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "71594008817885182666121053940530828683"
+}

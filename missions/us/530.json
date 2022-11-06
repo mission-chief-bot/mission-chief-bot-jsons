@@ -1,1 +1,12 @@
-{"missionId": "530", "missionName": "Heart attack due shock from proposing", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "530",
+ "missionName": "Heart attack due shock from proposing",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "320312566249670902422453084770902947374"
+}

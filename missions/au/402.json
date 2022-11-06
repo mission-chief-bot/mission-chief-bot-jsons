@@ -1,1 +1,28 @@
-{"missionId": "402", "missionName": "Multi-vehicle accident", "requirements": [{"requirement": "fire engines", "qty": "7"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "4"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "max. patients", "qty": "15"}], "credits": "7000"}
+{
+ "missionId": "402",
+ "missionName": "Multi-vehicle accident",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "7"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "15"
+  }
+ ],
+ "credits": "7000",
+ "version": "219920089683660662977917916139524564432"
+}

@@ -1,1 +1,24 @@
-{"missionId": "280", "missionName": "Baum auf Oberleitung", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "drehleitern", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "280",
+ "missionName": "Baum auf Oberleitung",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "147274588934743984842315971696356456448"
+}

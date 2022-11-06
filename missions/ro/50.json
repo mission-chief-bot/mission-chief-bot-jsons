@@ -1,1 +1,12 @@
-{"missionId": "50", "missionName": "Călător fără bilet", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "50",
+ "missionName": "Călător fără bilet",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "85170335637656373376492561753712335793"
+}

@@ -1,1 +1,12 @@
-{"missionId": "62", "missionName": "騒音の苦情", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "62",
+ "missionName": "騒音の苦情",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "164396278459301941732078887104242136882"
+}

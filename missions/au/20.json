@@ -1,1 +1,20 @@
-{"missionId": "20", "missionName": "Basement fire", "requirements": [{"requirement": "support vehicles", "qty": "1"}, {"requirement": "fire engines", "qty": "3"}, {"requirement": "max. patients", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "20",
+ "missionName": "Basement fire",
+ "requirements": [
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "184931501751047120786404535046667439193"
+}

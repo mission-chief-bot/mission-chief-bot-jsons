@@ -1,1 +1,20 @@
-{"missionId": "33", "missionName": "화재 현장(소형 슈퍼마켓)", "requirements": [{"requirement": "소방차", "qty": "4"}, {"requirement": "지휘차", "qty": "1"}, {"requirement": "구급차", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "33",
+ "missionName": "화재 현장(소형 슈퍼마켓)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "4"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "1"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "184656603767568466440521442874306019588"
+}

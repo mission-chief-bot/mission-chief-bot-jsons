@@ -1,1 +1,12 @@
-{"missionId": "480", "missionName": "Blurred Vision", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "480",
+ "missionName": "Blurred Vision",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "333255788441353860037865163639030749593"
+}

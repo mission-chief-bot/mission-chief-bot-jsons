@@ -1,1 +1,24 @@
-{"missionId": "28", "missionName": "Brand in landbouwschuur", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "slangenwagens", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "28",
+ "missionName": "Brand in landbouwschuur",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "slangenwagens",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "10820951508793629446803812424431987453"
+}

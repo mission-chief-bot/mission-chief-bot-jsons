@@ -1,1 +1,20 @@
-{"missionId": "796", "missionName": "Zoekactie vermist persoon", "requirements": [{"requirement": "strandvoertuigen (dat-rb of khv)", "qty": "2"}, {"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1840"}
+{
+ "missionId": "796",
+ "missionName": "Zoekactie vermist persoon",
+ "requirements": [
+  {
+   "requirement": "strandvoertuigen (dat-rb of khv)",
+   "qty": "2"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1840",
+ "version": "135021713783530969131963586272831391054"
+}

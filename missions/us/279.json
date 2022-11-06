@@ -1,1 +1,12 @@
-{"missionId": "279", "missionName": "Electrical Cupboard Fire", "requirements": [{"requirement": "firetrucks", "qty": "2"}], "credits": "350"}
+{
+ "missionId": "279",
+ "missionName": "Electrical Cupboard Fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "350",
+ "version": "257613085140627048894181292201653751522"
+}

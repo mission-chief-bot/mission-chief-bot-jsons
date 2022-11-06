@@ -1,1 +1,12 @@
-{"missionId": "536", "missionName": "Controlli in Banca", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "536",
+ "missionName": "Controlli in Banca",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "143512266541990904755773628627040061041"
+}

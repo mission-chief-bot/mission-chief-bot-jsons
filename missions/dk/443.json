@@ -1,1 +1,48 @@
-{"missionId": "443", "missionName": "Politieskorte af fans", "requirements": [ {"requirement": "påkrævede politibiler", "qty": "10"}, {"requirement": "påkrævede politihelikoptere", "qty": "1"}, {"requirement": "påkrævede hundepatruljer", "qty": "4"}, {"requirement": "gruppevogn påkrævet", "qty": "10"}, {"requirement": "fangetransport påkrævet", "qty": "2"}, {"requirement": "rydningsvogn påkrævet", "qty": "1"}, {"requirement": "rydningsvogn med vandkanon påkrævet", "qty": "1"}, {"requirement": "hollændervogn påkrævet", "qty": "1"}, {"requirement": "politihest påkrævet", "qty": "1"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}], "credits": "17000"}
+{
+ "missionId": "443",
+ "missionName": "Politieskorte af fans",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "påkrævede politihelikoptere",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "4"
+  },
+  {
+   "requirement": "gruppevogn påkrævet",
+   "qty": "10"
+  },
+  {
+   "requirement": "fangetransport påkrævet",
+   "qty": "2"
+  },
+  {
+   "requirement": "rydningsvogn påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "rydningsvogn med vandkanon påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "hollændervogn påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "politihest påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  }
+ ],
+ "credits": "17000",
+ "version": "171999253254910662865243366137733085287"
+}

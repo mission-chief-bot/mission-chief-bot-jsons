@@ -1,1 +1,12 @@
-{"missionId": "459", "missionName": "25 Tien sulkeminen", "requirements": [{"requirement": "poliisiautot", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "459",
+ "missionName": "25 Tien sulkeminen",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "185140564986122186021334008718107532545"
+}

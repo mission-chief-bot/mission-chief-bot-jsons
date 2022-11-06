@@ -1,1 +1,16 @@
-{"missionId": "310", "missionName": "Limpiando terreno contaminado", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}, {"requirement": "vehículos de materiales peligrosos", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "310",
+ "missionName": "Limpiando terreno contaminado",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  },
+  {
+   "requirement": "vehículos de materiales peligrosos",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "37301222705742169211672083481964626867"
+}

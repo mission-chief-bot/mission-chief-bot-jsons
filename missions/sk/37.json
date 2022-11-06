@@ -1,1 +1,12 @@
-{"missionId": "37", "missionName": "Akútna astma", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "37",
+ "missionName": "Akútna astma",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "164172455888053919542851482192658789413"
+}

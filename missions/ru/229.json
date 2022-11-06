@@ -1,1 +1,12 @@
-{"missionId": "229", "missionName": "Человек тонет", "requirements": [{"requirement": "плавсредства", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "229",
+ "missionName": "Человек тонет",
+ "requirements": [
+  {
+   "requirement": "плавсредства",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "98165721157267961148224822307428892993"
+}

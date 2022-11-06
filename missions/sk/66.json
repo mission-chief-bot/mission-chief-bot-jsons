@@ -1,1 +1,12 @@
-{"missionId": "66", "missionName": "Požiar v miestnosti", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "66",
+ "missionName": "Požiar v miestnosti",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "219073576873330847701099168798628565750"
+}

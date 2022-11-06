@@ -1,1 +1,12 @@
-{"missionId": "260", "missionName": "Atividade cibernética ilegal", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "260",
+ "missionName": "Atividade cibernética ilegal",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "104383170936782618551419571834294939449"
+}

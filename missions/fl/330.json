@@ -1,1 +1,24 @@
-{"missionId": "330", "missionName": "423 Maastopalo, suuri", "requirements": [{"requirement": "paloautot", "qty": "5"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "letkuajoneuvot", "qty": "2"}, {"requirement": "suurtehopumput", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "330",
+ "missionName": "423 Maastopalo, suuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "5"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "2"
+  },
+  {
+   "requirement": "suurtehopumput",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "138547689455503293617142185556409182962"
+}

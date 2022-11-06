@@ -1,1 +1,12 @@
-{"missionId": "101", "missionName": "Børste tjålet fra påskeverksted", "requirements": [{"requirement": "politibiler", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "101",
+ "missionName": "Børste tjålet fra påskeverksted",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "152783482802452715660998031931448317592"
+}

@@ -1,1 +1,12 @@
-{"missionId": "189", "missionName": "Příšera utekla", "requirements": [{"requirement": "policejní automobily", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "189",
+ "missionName": "Příšera utekla",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "170980870592711276836077128194127048221"
+}

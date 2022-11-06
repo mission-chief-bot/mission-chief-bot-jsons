@@ -1,1 +1,12 @@
-{"missionId": "288", "missionName": "Andningsstopp", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "288",
+ "missionName": "Andningsstopp",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "48283382189115156672394961115238033216"
+}

@@ -1,1 +1,36 @@
-{"missionId": "381-0", "missionName": "Náraz autobusu do spadlého stromu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}, {"requirement": "vya nebo aj", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "8"}], "credits": "3400"}
+{
+ "missionId": "381-0",
+ "missionName": "Náraz autobusu do spadlého stromu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  },
+  {
+   "requirement": "vya nebo aj",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "8"
+  }
+ ],
+ "credits": "3400",
+ "version": "3792482312695636862203904925346394086"
+}

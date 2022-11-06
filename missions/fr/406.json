@@ -1,1 +1,20 @@
-{"missionId": "406", "missionName": "Annonce des nouvelles fonctionnalités du 112", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "ambulances es", "qty": "1"}, {"requirement": "voitures de police es", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "406",
+ "missionName": "Annonce des nouvelles fonctionnalités du 112",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances es",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "249250520314481970051169653023759256555"
+}

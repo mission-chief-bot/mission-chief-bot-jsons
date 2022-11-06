@@ -1,1 +1,12 @@
-{"missionId": "463", "missionName": "Veicolo abbandonato", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "463",
+ "missionName": "Veicolo abbandonato",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "132969949949483213792759687271243139585"
+}

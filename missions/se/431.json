@@ -1,1 +1,24 @@
-{"missionId": "431", "missionName": "Olycka - nedfallen lyktstolpe", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "mest patienter", "qty": "6"}], "credits": "2500"}
+{
+ "missionId": "431",
+ "missionName": "Olycka - nedfallen lyktstolpe",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "2500",
+ "version": "7356846389801438294250594140990750900"
+}

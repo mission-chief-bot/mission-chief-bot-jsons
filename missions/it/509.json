@@ -1,1 +1,12 @@
-{"missionId": "509", "missionName": "Controllo Falso Invalido", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "509",
+ "missionName": "Controllo Falso Invalido",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "240700098070670454468493202470680457017"
+}

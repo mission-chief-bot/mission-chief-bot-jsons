@@ -1,1 +1,12 @@
-{"missionId": "432", "missionName": "Person is stealing baby cows", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "432",
+ "missionName": "Person is stealing baby cows",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "119951778307210308224164119734612527609"
+}

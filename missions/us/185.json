@@ -1,1 +1,28 @@
-{"missionId": "185", "missionName": "Dock Crane fire", "requirements": [{"requirement": "firetrucks", "qty": "3"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "large fire boats", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "6000"}
+{
+ "missionId": "185",
+ "missionName": "Dock Crane fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "large fire boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "6000",
+ "version": "260041568424378623856099082161378946549"
+}

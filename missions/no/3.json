@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "Brennende motorsykkel", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "Brennende motorsykkel",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "223185521581068793770417670130927707049"
+}

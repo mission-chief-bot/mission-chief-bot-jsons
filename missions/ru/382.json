@@ -1,1 +1,16 @@
-{"missionId": "382", "missionName": "Подводная охота за яйцами", "requirements": [{"requirement": "пожарные машины", "qty": "1"}, {"requirement": "полицейские автомобили", "qty": "1"}], "credits": "1670"}
+{
+ "missionId": "382",
+ "missionName": "Подводная охота за яйцами",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  },
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  }
+ ],
+ "credits": "1670",
+ "version": "211482172252299297010402164281600667789"
+}

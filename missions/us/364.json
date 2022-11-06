@@ -1,1 +1,12 @@
-{"missionId": "364", "missionName": "Flashover when boiling eggs", "requirements": [{"requirement": "firetrucks", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "364",
+ "missionName": "Flashover when boiling eggs",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "280158523489662418106074154198584951053"
+}

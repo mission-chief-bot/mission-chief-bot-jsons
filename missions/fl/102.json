@@ -1,1 +1,12 @@
-{"missionId": "102", "missionName": "25 Liikennevalovika", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "102",
+ "missionName": "25 Liikennevalovika",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "98821755960123392791490519374153726352"
+}

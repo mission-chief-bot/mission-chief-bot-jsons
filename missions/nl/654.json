@@ -1,1 +1,24 @@
-{"missionId": "654", "missionName": "Brand bij zendmast", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "10"}], "credits": "2030"}
+{
+ "missionId": "654",
+ "missionName": "Brand bij zendmast",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "10"
+  }
+ ],
+ "credits": "2030",
+ "version": "115820604372137156217568879145220308040"
+}

@@ -1,1 +1,12 @@
-{"missionId": "135", "missionName": "Úpal", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "135",
+ "missionName": "Úpal",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "207790838736841667807491794789869564530"
+}

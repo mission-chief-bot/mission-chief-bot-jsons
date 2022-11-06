@@ -1,1 +1,12 @@
-{"missionId": "459", "missionName": "Animal piégé dans un puits", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "459",
+ "missionName": "Animal piégé dans un puits",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "187009290313047968276490770726218879067"
+}

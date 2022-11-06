@@ -1,1 +1,12 @@
-{"missionId": "113", "missionName": "바베큐 화재", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "113",
+ "missionName": "바베큐 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "192143059069019905554613122383258793397"
+}

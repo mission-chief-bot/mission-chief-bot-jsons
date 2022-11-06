@@ -1,1 +1,12 @@
-{"missionId": "366", "missionName": "Аллергия на пчелиные укусы", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "550"}
+{
+ "missionId": "366",
+ "missionName": "Аллергия на пчелиные укусы",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "550",
+ "version": "80211393023159132882070170085600142675"
+}

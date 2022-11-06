@@ -1,1 +1,28 @@
-{"missionId": "220", "missionName": "Open dag, groot", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "ambulances", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "220",
+ "missionName": "Open dag, groot",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "100179233566569192501277016169355405646"
+}

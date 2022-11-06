@@ -1,1 +1,16 @@
-{"missionId": "84", "missionName": "Lösa föremål", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "stegbilar", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "84",
+ "missionName": "Lösa föremål",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "50732538059539778604853751541866986820"
+}

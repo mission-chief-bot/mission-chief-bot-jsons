@@ -1,1 +1,16 @@
-{"missionId": "433", "missionName": "Chute d'une échelle pendant le nettoyage de printemps", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "433",
+ "missionName": "Chute d'une échelle pendant le nettoyage de printemps",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "208395838834133367690899555686282050619"
+}

@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Požiar záhradného domčeka", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Požiar záhradného domčeka",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "232703893752178887274906000926764521986"
+}

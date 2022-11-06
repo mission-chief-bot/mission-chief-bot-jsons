@@ -1,1 +1,16 @@
-{"missionId": "407", "missionName": "Gran protesta", "requirements": [{"requirement": "coches patrulla", "qty": "12"}, {"requirement": "n.º máximo de presos", "qty": "10"}], "credits": "12500"}
+{
+ "missionId": "407",
+ "missionName": "Gran protesta",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "12"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "10"
+  }
+ ],
+ "credits": "12500",
+ "version": "134387222930656640717518877533799492450"
+}

@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "421 Risukasapalo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "421 Risukasapalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "274028752394983675416713477006262012932"
+}

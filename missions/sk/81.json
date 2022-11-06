@@ -1,1 +1,12 @@
-{"missionId": "81", "missionName": "Dehydratácia", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "81",
+ "missionName": "Dehydratácia",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "213372985728827622893012792252872048734"
+}

@@ -1,1 +1,32 @@
-{"missionId": "816", "missionName": "Vrachtwagen vast in tunnel", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "officiers van dienst politie", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "2730"}
+{
+ "missionId": "816",
+ "missionName": "Vrachtwagen vast in tunnel",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "2730",
+ "version": "249972019080841853136547579267105453812"
+}

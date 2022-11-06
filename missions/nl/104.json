@@ -1,1 +1,12 @@
-{"missionId": "104", "missionName": "Brandgerucht", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "130"}
+{
+ "missionId": "104",
+ "missionName": "Brandgerucht",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "130",
+ "version": "270121918140438324585676299028342867540"
+}

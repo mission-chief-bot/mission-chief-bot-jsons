@@ -1,1 +1,16 @@
-{"missionId": "249", "missionName": "Straatroof", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "politie helikopters", "qty": "1"}], "credits": "2700"}
+{
+ "missionId": "249",
+ "missionName": "Straatroof",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "2700",
+ "version": "41630688339849258004865329599598872585"
+}

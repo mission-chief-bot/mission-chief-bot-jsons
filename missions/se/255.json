@@ -1,1 +1,16 @@
-{"missionId": "255", "missionName": "Våld i hemmet", "requirements": [{"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "1250"}
+{
+ "missionId": "255",
+ "missionName": "Våld i hemmet",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1250",
+ "version": "167953255720310855980502830719828928924"
+}

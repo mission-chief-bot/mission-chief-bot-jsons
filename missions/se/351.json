@@ -1,1 +1,20 @@
-{"missionId": "351", "missionName": "Trafikolycka - tunnel, singel", "requirements": [{"requirement": "släckbilar", "qty": "3"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "mest patienter", "qty": "4"}], "credits": "1500"}
+{
+ "missionId": "351",
+ "missionName": "Trafikolycka - tunnel, singel",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "1500",
+ "version": "71994900070077704400280742960139983784"
+}

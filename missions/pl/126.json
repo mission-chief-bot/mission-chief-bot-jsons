@@ -1,1 +1,12 @@
-{"missionId": "126", "missionName": "Zadławienie", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "126",
+ "missionName": "Zadławienie",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "340269126021070313053848865435598736138"
+}

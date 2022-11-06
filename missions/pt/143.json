@@ -1,1 +1,32 @@
-{"missionId": "143", "missionName": "Derrame de Matérias Perigosas", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "5"}, {"requirement": "veículos de socorro e assistência tático necessários", "qty": "2"}, {"requirement": "veículos de comando tático necessários", "qty": "2"}, {"requirement": "veículos de comando e comunicações necessários", "qty": "1"}, {"requirement": "veículos de proteção multiriscos e ambiente necessários", "qty": "1"}, {"requirement": "carros de patrulha necessários", "qty": "3"}], "credits": "4300"}
+{
+ "missionId": "143",
+ "missionName": "Derrame de Matérias Perigosas",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "5"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de comando tático necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de comando e comunicações necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de proteção multiriscos e ambiente necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "3"
+  }
+ ],
+ "credits": "4300",
+ "version": "240666317209571124285305678045275600811"
+}

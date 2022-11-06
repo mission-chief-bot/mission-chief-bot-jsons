@@ -1,1 +1,20 @@
-{"missionId": "66", "missionName": "Incêndio em cômodo", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "2"}, {"requirement": "caminhões plataforma necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "66",
+ "missionName": "Incêndio em cômodo",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "309748772717414717929529929208217029727"
+}

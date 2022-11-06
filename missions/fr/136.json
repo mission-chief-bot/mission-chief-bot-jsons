@@ -1,1 +1,12 @@
-{"missionId": "136", "missionName": "Choc anaphylactique", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "136",
+ "missionName": "Choc anaphylactique",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "2236883356307185027991234891927051329"
+}

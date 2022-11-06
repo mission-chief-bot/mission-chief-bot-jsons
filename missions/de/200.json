@@ -1,1 +1,28 @@
-{"missionId": "200", "missionName": "Geplante Razzia", "requirements": [ {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "grukw", "qty": "6"}, {"requirement": "lebefkw", "qty": "2"}, {"requirement": "gefkw", "qty": "1"}, {"requirement": "dhufükw", "qty": "1"}], "credits": "5500"}
+{
+ "missionId": "200",
+ "missionName": "Geplante Razzia",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "grukw",
+   "qty": "6"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "2"
+  },
+  {
+   "requirement": "gefkw",
+   "qty": "1"
+  },
+  {
+   "requirement": "dhufükw",
+   "qty": "1"
+  }
+ ],
+ "credits": "5500",
+ "version": "191106849174639215427532940848734422700"
+}

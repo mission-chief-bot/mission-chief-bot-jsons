@@ -1,1 +1,12 @@
-{"missionId": "231", "missionName": "Vernieling bushokje", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "231",
+ "missionName": "Vernieling bushokje",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "52833382701724072887088171420039384192"
+}

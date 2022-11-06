@@ -1,1 +1,16 @@
-{"missionId": "464", "missionName": "420 savu omakotitalossa", "requirements": [{"requirement": "paloautot", "qty": "4"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "464",
+ "missionName": "420 savu omakotitalossa",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "250346583167253166072830898125521259427"
+}

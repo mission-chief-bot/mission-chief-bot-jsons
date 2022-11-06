@@ -1,1 +1,20 @@
-{"missionId": "408", "missionName": "Gran protesta peligrosa", "requirements": [{"requirement": "coches patrulla", "qty": "16"}, {"requirement": "unidad canina", "qty": "2"}, {"requirement": "n.º máximo de presos", "qty": "18"}], "credits": "18000"}
+{
+ "missionId": "408",
+ "missionName": "Gran protesta peligrosa",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "16"
+  },
+  {
+   "requirement": "unidad canina",
+   "qty": "2"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "18"
+  }
+ ],
+ "credits": "18000",
+ "version": "82363588715912321868122355488939466366"
+}

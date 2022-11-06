@@ -1,1 +1,16 @@
-{"missionId": "548", "missionName": "Investigate area for fire", "requirements": [{"requirement": "wildland fire engine", "qty": "1"}, {"requirement": "fire investigation unit", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "548",
+ "missionName": "Investigate area for fire",
+ "requirements": [
+  {
+   "requirement": "wildland fire engine",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "295369915595095432249661305416173745905"
+}

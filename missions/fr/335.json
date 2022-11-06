@@ -1,1 +1,12 @@
-{"missionId": "335", "missionName": "Ballon de foot gonflable", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "335",
+ "missionName": "Ballon de foot gonflable",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "13230011270063882257867537451487339363"
+}

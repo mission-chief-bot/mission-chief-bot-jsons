@@ -1,1 +1,12 @@
-{"missionId": "332", "missionName": "Farfalle nello stomaco", "requirements": [{"requirement": "max pazienti", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "332",
+ "missionName": "Farfalle nello stomaco",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "27367258726082917079979990879973934156"
+}

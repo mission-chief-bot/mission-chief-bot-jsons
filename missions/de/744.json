@@ -1,1 +1,12 @@
-{"missionId": "744", "missionName": "Brennender Kuchen in Ofen", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "744",
+ "missionName": "Brennender Kuchen in Ofen",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "46128266953977488794122845176955140296"
+}

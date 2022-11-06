@@ -1,1 +1,12 @@
-{"missionId": "701", "missionName": "Auto verongelukt door vuurwerk op de weg", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "701",
+ "missionName": "Auto verongelukt door vuurwerk op de weg",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "292307859137220812695287012213726703322"
+}

@@ -1,1 +1,12 @@
-{"missionId": "103", "missionName": "Pessoa armada", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "4"}], "credits": "2500"}
+{
+ "missionId": "103",
+ "missionName": "Pessoa armada",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "4"
+  }
+ ],
+ "credits": "2500",
+ "version": "239871215641798914643091563764281537302"
+}

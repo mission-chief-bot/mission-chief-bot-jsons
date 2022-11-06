@@ -1,1 +1,36 @@
-{"missionId": "116-1", "missionName": "Incendiu într-o clădire de birouri", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "10"}, {"requirement": "camioane cu platformă necesare", "qty": "4"}, {"requirement": "vehicule grele de salvare necesare", "qty": "2"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "2"}, {"requirement": "mașini de poliție necesare", "qty": "3"}, {"requirement": "cisterne de apă necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "4"}], "credits": "7400"}
+{
+ "missionId": "116-1",
+ "missionName": "Incendiu într-o clădire de birouri",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "10"
+  },
+  {
+   "requirement": "camioane cu platformă necesare",
+   "qty": "4"
+  },
+  {
+   "requirement": "vehicule grele de salvare necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "3"
+  },
+  {
+   "requirement": "cisterne de apă necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "4"
+  }
+ ],
+ "credits": "7400",
+ "version": "338083595535950906366460322959699459059"
+}

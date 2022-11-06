@@ -1,1 +1,12 @@
-{"missionId": "511", "missionName": "Major road block", "requirements": [{"requirement": "police cars", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "511",
+ "missionName": "Major road block",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "93929483944574039604632166032428475279"
+}

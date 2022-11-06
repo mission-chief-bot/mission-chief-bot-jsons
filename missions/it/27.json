@@ -1,1 +1,12 @@
-{"missionId": "27", "missionName": "Garage in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "27",
+ "missionName": "Garage in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "233716291412518082372649912993679571503"
+}

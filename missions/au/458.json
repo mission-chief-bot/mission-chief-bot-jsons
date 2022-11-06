@@ -1,1 +1,32 @@
-{"missionId": "458", "missionName": "Threat to Water Supply", "requirements": [ {"requirement": "police cars", "qty": "5"}, {"requirement": "k-9 units", "qty": "2"}, {"requirement": "riot police group vehicles", "qty": "1"}, {"requirement": "senior sergeants", "qty": "1"}, {"requirement": "riot police suvs", "qty": "1"}, {"requirement": "riot police equipment vehicles", "qty": "1"}], "credits": "5200"}
+{
+ "missionId": "458",
+ "missionName": "Threat to Water Supply",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police suvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police equipment vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "5200",
+ "version": "21943249848629778870888442356873134135"
+}

@@ -1,1 +1,12 @@
-{"missionId": "478", "missionName": "Food Poisoning from Bush Tucker", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "478",
+ "missionName": "Food Poisoning from Bush Tucker",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "35863485981227708017241110117113657272"
+}

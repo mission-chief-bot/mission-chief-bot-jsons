@@ -1,1 +1,32 @@
-{"missionId": "591", "missionName": "Fassadenbrand durch Feuerwerksbatterien", "requirements": [{"requirement": "elw 1", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "591",
+ "missionName": "Fassadenbrand durch Feuerwerksbatterien",
+ "requirements": [
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "104520727274991245096510041034139774259"
+}

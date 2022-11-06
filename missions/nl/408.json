@@ -1,1 +1,16 @@
-{"missionId": "408", "missionName": "Brand in kerkgebouw", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "408",
+ "missionName": "Brand in kerkgebouw",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "87780406520841988789431932267746127875"
+}

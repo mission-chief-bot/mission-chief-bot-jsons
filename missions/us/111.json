@@ -1,1 +1,16 @@
-{"missionId": "111", "missionName": "Stabbing", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "max. patients", "qty": "6"}], "credits": "1500"}
+{
+ "missionId": "111",
+ "missionName": "Stabbing",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "1500",
+ "version": "337913091490624818610930514921912359597"
+}

@@ -1,1 +1,32 @@
-{"missionId": "316", "missionName": "Bus nell'acqua", "requirements": [{"requirement": "pattuglie", "qty": "3"}, {"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "autogrù", "qty": "1"}, {"requirement": "max pazienti", "qty": "15"}], "credits": "4200"}
+{
+ "missionId": "316",
+ "missionName": "Bus nell'acqua",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "15"
+  }
+ ],
+ "credits": "4200",
+ "version": "311337075957069372470481861356011987607"
+}

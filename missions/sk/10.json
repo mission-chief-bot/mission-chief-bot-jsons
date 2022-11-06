@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "Požiar traktora", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "Požiar traktora",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "164313577816387269989016891354828442253"
+}

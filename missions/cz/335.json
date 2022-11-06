@@ -1,1 +1,12 @@
-{"missionId": "335", "missionName": "Bolest v krku po oslavě", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "335",
+ "missionName": "Bolest v krku po oslavě",
+ "requirements": [
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "248699224733571037674445887088231023534"
+}

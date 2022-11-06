@@ -1,1 +1,12 @@
-{"missionId": "145", "missionName": "Ulovlig våbenbesiddelse", "requirements": [{"requirement": "påkrævede politibiler", "qty": "4"}], "credits": "2500"}
+{
+ "missionId": "145",
+ "missionName": "Ulovlig våbenbesiddelse",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "4"
+  }
+ ],
+ "credits": "2500",
+ "version": "95109551729922348422594358068020868107"
+}

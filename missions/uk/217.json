@@ -1,1 +1,12 @@
-{"missionId": "217", "missionName": "Diabetic problems", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "217",
+ "missionName": "Diabetic problems",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "298537153640432747621199986291754052095"
+}

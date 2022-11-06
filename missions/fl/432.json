@@ -1,1 +1,12 @@
-{"missionId": "432", "missionName": "554 Kulotuksen valvominen", "requirements": [{"requirement": "paloautot", "qty": "2"}], "credits": "1800"}
+{
+ "missionId": "432",
+ "missionName": "554 Kulotuksen valvominen",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "1800",
+ "version": "91694936131383395009101983011851509999"
+}

@@ -1,1 +1,16 @@
-{"missionId": "87", "missionName": "433 Kaatopaikan tulipalo", "requirements": [{"requirement": "paloautot", "qty": "5"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "87",
+ "missionName": "433 Kaatopaikan tulipalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "5"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "233638659848952072948379631055835021472"
+}

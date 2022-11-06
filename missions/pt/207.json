@@ -1,1 +1,12 @@
-{"missionId": "207", "missionName": "Veículo danificado por fogo-de-artifício", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "207",
+ "missionName": "Veículo danificado por fogo-de-artifício",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "244739822262024755072217042874075107920"
+}

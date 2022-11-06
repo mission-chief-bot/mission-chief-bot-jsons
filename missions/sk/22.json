@@ -1,1 +1,12 @@
-{"missionId": "22", "missionName": "Požiar strechy", "requirements": [{"requirement": "hasičské automobily", "qty": "3"}], "credits": "2700"}
+{
+ "missionId": "22",
+ "missionName": "Požiar strechy",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "3"
+  }
+ ],
+ "credits": "2700",
+ "version": "3764944188978938869469716871869601983"
+}

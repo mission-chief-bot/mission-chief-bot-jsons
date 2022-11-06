@@ -1,1 +1,12 @@
-{"missionId": "327", "missionName": "주택 수색", "requirements": [{"requirement": "경찰차", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "327",
+ "missionName": "주택 수색",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "306290723860374557705824528514024701011"
+}

@@ -1,1 +1,12 @@
-{"missionId": "304", "missionName": "Hipoglucemia", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1000"}
+{
+ "missionId": "304",
+ "missionName": "Hipoglucemia",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1000",
+ "version": "288956993962703938464434598905419615813"
+}

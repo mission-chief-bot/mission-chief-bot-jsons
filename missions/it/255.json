@@ -1,1 +1,12 @@
-{"missionId": "255", "missionName": "Campo di zucche in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "255",
+ "missionName": "Campo di zucche in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "70266241767625746379971002689937289444"
+}

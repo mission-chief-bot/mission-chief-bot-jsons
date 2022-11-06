@@ -1,1 +1,16 @@
-{"missionId": "106", "missionName": "High-Risk Warrant", "requirements": [{"requirement": "police cars", "qty": "1"}, {"requirement": "swat armoured vehicle", "qty": "3"}], "credits": "1400"}
+{
+ "missionId": "106",
+ "missionName": "High-Risk Warrant",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "swat armoured vehicle",
+   "qty": "3"
+  }
+ ],
+ "credits": "1400",
+ "version": "161879353530064424558264195977995574228"
+}

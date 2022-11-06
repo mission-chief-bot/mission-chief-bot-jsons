@@ -1,1 +1,12 @@
-{"missionId": "64", "missionName": "Metalldiebstahl", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "64",
+ "missionName": "Metalldiebstahl",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "31263936406933956924062310112094607922"
+}

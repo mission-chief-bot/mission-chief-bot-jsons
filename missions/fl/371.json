@@ -1,1 +1,16 @@
-{"missionId": "371", "missionName": "H32 Köysitoimintaharjoitus", "requirements": [{"requirement": "paloautot", "qty": "1"}, {"requirement": "nostolava-autot", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "371",
+ "missionName": "H32 Köysitoimintaharjoitus",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "90195447931189060279505530020870500117"
+}

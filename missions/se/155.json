@@ -1,1 +1,12 @@
-{"missionId": "155", "missionName": "Narkotikabrott", "requirements": [{"requirement": "polisbilar", "qty": "2"}], "credits": "400"}
+{
+ "missionId": "155",
+ "missionName": "Narkotikabrott",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "400",
+ "version": "290092948232364591732066966928626711930"
+}

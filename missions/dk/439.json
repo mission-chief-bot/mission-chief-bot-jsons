@@ -1,1 +1,12 @@
-{"missionId": "439", "missionName": "Dyr fanget i en flod", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "439",
+ "missionName": "Dyr fanget i en flod",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "76859432284029190630316472495500584778"
+}

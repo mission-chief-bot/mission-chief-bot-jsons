@@ -1,1 +1,12 @@
-{"missionId": "405", "missionName": "Melted Chocolate Bunny", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "405",
+ "missionName": "Melted Chocolate Bunny",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "268647148126232228143630493496389292114"
+}

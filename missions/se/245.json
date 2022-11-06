@@ -1,1 +1,12 @@
-{"missionId": "245", "missionName": "Personskada orsakad av skadad fyrverkeripjäs", "requirements": [{"requirement": "mest patienter", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "245",
+ "missionName": "Personskada orsakad av skadad fyrverkeripjäs",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "12937621129307881168223832638348669960"
+}

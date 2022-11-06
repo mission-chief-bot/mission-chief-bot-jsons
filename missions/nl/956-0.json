@@ -1,1 +1,24 @@
-{"missionId": "956-0", "missionName": "Brand in station", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "2540"}
+{
+ "missionId": "956-0",
+ "missionName": "Brand in station",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "2540",
+ "version": "334247504657938193258938783562147839446"
+}

@@ -1,1 +1,16 @@
-{"missionId": "486", "missionName": "Threat of arson", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "police cars", "qty": "3"}], "credits": "2500"}
+{
+ "missionId": "486",
+ "missionName": "Threat of arson",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  }
+ ],
+ "credits": "2500",
+ "version": "105895924230011827530753528818867043982"
+}

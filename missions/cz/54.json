@@ -1,1 +1,16 @@
-{"missionId": "54", "missionName": "Nehoda na parkovišti", "requirements": [{"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "54",
+ "missionName": "Nehoda na parkovišti",
+ "requirements": [
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "53458999307622451890204874771273723667"
+}

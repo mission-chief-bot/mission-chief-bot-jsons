@@ -1,1 +1,12 @@
-{"missionId": "229", "missionName": "공황 발작", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "229",
+ "missionName": "공황 발작",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "300573687953079524900547933170508113532"
+}

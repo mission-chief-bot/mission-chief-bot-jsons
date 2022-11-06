@@ -1,1 +1,20 @@
-{"missionId": "22", "missionName": "Roof fire", "requirements": [{"requirement": "turntable ladder trucks", "qty": "1"}, {"requirement": "fire engines", "qty": "3"}, {"requirement": "support vehicles", "qty": "1"}], "credits": "2700"}
+{
+ "missionId": "22",
+ "missionName": "Roof fire",
+ "requirements": [
+  {
+   "requirement": "turntable ladder trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "3"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "2700",
+ "version": "305169692862753170056730890490469830906"
+}

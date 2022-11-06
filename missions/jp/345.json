@@ -1,1 +1,12 @@
-{"missionId": "345", "missionName": "信号機停止", "requirements": [{"requirement": "警察車両", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "345",
+ "missionName": "信号機停止",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "176859485311012775544325902068624054135"
+}

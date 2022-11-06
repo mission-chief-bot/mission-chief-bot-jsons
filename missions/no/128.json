@@ -1,1 +1,20 @@
-{"missionId": "128", "missionName": "Drapsforsøk", "requirements": [{"requirement": "politibiler", "qty": "6"}, {"requirement": "hundepatruljer", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "128",
+ "missionName": "Drapsforsøk",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "6"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "263443049840737286235092186122945833405"
+}

@@ -1,1 +1,20 @@
-{"missionId": "326", "missionName": "Incendio boschivo (PICCOLO)", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "pattuglie", "qty": "2"}], "credits": "5"}
+{
+ "missionId": "326",
+ "missionName": "Incendio boschivo (PICCOLO)",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "5",
+ "version": "262035146335178926596358438398911572350"
+}

@@ -1,1 +1,28 @@
-{"missionId": "217", "missionName": "レストランでバレンタインデコ火災", "requirements": [{"requirement": "消防車", "qty": "5"}, {"requirement": "水", "qty": "12500"}, {"requirement": "プラットフォームトラック", "qty": "1"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "最大患者", "qty": "8"}], "credits": "2000"}
+{
+ "missionId": "217",
+ "missionName": "レストランでバレンタインデコ火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "5"
+  },
+  {
+   "requirement": "水",
+   "qty": "12500"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "8"
+  }
+ ],
+ "credits": "2000",
+ "version": "222314763245104439693895310026458157573"
+}

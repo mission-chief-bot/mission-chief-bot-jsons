@@ -1,1 +1,24 @@
-{"missionId": "170", "missionName": "Incidente Skydiver", "requirements": [{"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "aps/abp", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "170",
+ "missionName": "Incidente Skydiver",
+ "requirements": [
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "267408643609482909894432302222860526767"
+}

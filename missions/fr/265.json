@@ -1,1 +1,16 @@
-{"missionId": "265", "missionName": "Brûlage dirigé - Moyen", "requirements": [{"requirement": "vlhr", "qty": "1"}, {"requirement": "ccf", "qty": "5"}], "credits": "1000"}
+{
+ "missionId": "265",
+ "missionName": "Brûlage dirigé - Moyen",
+ "requirements": [
+  {
+   "requirement": "vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "ccf",
+   "qty": "5"
+  }
+ ],
+ "credits": "1000",
+ "version": "185020722222523076724669239902595224913"
+}

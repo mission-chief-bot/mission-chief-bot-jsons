@@ -1,1 +1,36 @@
-{"missionId": "41-1", "missionName": "403 Autokorjaamopalo", "requirements": [{"requirement": "paloautot", "qty": "8"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "nostolava-autot", "qty": "2"}, {"requirement": "raskaat pelastusautot", "qty": "1"}, {"requirement": "kemikaalitorjunta-autot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "2"}, {"requirement": "letkuajoneuvot", "qty": "2"}], "credits": "7000"}
+{
+ "missionId": "41-1",
+ "missionName": "403 Autokorjaamopalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "2"
+  }
+ ],
+ "credits": "7000",
+ "version": "53428572060703808559846732300171409777"
+}

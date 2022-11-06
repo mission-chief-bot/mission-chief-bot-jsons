@@ -1,1 +1,28 @@
-{"missionId": "88", "missionName": "초콜릿 탱크 유출", "requirements": [{"requirement": "소방차", "qty": "4"}, {"requirement": "중장비 구조 차량", "qty": "2"}, {"requirement": "소방대장 차량", "qty": "2"}, {"requirement": "경찰차", "qty": "3"}, {"requirement": "생화학 차량", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "88",
+ "missionName": "초콜릿 탱크 유출",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "4"
+  },
+  {
+   "requirement": "중장비 구조 차량",
+   "qty": "2"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "2"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "3"
+  },
+  {
+   "requirement": "생화학 차량",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "232762760005824955777249015956339838440"
+}

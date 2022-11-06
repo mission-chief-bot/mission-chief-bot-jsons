@@ -1,1 +1,20 @@
-{"missionId": "31", "missionName": "Fireplace fire", "requirements": [{"requirement": "support vehicles", "qty": "1"}, {"requirement": "turntable ladder trucks", "qty": "1"}, {"requirement": "fire engines", "qty": "1"}], "credits": "1310"}
+{
+ "missionId": "31",
+ "missionName": "Fireplace fire",
+ "requirements": [
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "turntable ladder trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "1310",
+ "version": "309743648068309299983165815307290238690"
+}

@@ -1,1 +1,20 @@
-{"missionId": "442", "missionName": "Pożar lokomotywy", "requirements": [{"requirement": "samochody pożarnicze", "qty": "4"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "samochody ratownictwa technicznego", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "442",
+ "missionName": "Pożar lokomotywy",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "296963823130958780049193445720707863368"
+}

@@ -1,1 +1,16 @@
-{"missionId": "248", "missionName": "Burning manure pile", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "water carriers", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "248",
+ "missionName": "Burning manure pile",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "132773888493267100911181209397512445405"
+}

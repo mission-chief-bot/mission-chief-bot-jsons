@@ -1,1 +1,16 @@
-{"missionId": "345", "missionName": "Паника в клубе", "requirements": [{"requirement": "полицейские автомобили", "qty": "6"}, {"requirement": "макс. пациенты", "qty": "10"}], "credits": "3000"}
+{
+ "missionId": "345",
+ "missionName": "Паника в клубе",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "6"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "10"
+  }
+ ],
+ "credits": "3000",
+ "version": "200515117719146990880727375135733195602"
+}

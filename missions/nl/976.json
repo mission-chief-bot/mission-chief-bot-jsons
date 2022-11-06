@@ -1,1 +1,12 @@
-{"missionId": "976", "missionName": "Graffitispuiter betrapt", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "976",
+ "missionName": "Graffitispuiter betrapt",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "151398630934535680931311081562403581265"
+}

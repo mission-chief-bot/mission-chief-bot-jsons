@@ -1,1 +1,24 @@
-{"missionId": "469", "missionName": "Tram fire", "requirements": [{"requirement": "fire engines", "qty": "6"}, {"requirement": "fire officers", "qty": "4"}, {"requirement": "rescue support vehicles", "qty": "1"}, {"requirement": "hazmat units or cbrn vehicles", "qty": "1"}], "credits": "6000"}
+{
+ "missionId": "469",
+ "missionName": "Tram fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "4"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat units or cbrn vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "6000",
+ "version": "157086175392362771040146687713359686008"
+}

@@ -1,1 +1,12 @@
-{"missionId": "132", "missionName": "Brandende bus", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "132",
+ "missionName": "Brandende bus",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "302682319644909850836097514865385134752"
+}

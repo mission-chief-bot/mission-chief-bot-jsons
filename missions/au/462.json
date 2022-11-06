@@ -1,1 +1,40 @@
-{"missionId": "462", "missionName": "Escaped Prisoner Manhunt", "requirements": [{"requirement": "police cars", "qty": "10"}, {"requirement": "k-9 units", "qty": "4"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "mounted police", "qty": "3"}, {"requirement": "riot police group vehicles", "qty": "2"}, {"requirement": "senior sergeants", "qty": "1"}, {"requirement": "riot police suvs", "qty": "1"}, {"requirement": "riot police equipment vehicles", "qty": "1"}], "credits": "13300"}
+{
+ "missionId": "462",
+ "missionName": "Escaped Prisoner Manhunt",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "10"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "4"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "mounted police",
+   "qty": "3"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police suvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police equipment vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "13300",
+ "version": "228399170235526295584944573539015377042"
+}

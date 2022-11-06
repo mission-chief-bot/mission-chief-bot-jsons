@@ -1,1 +1,16 @@
-{"missionId": "132", "missionName": "Balle di fieno in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "kilolitriche", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "132",
+ "missionName": "Balle di fieno in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "250504730865960437882392620524433670529"
+}

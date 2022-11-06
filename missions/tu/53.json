@@ -1,1 +1,12 @@
-{"missionId": "53", "missionName": "Kaçak yolcu", "requirements": [{"requirement": "gerekli polis arabaları", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "53",
+ "missionName": "Kaçak yolcu",
+ "requirements": [
+  {
+   "requirement": "gerekli polis arabaları",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "251758200994951423261922390584926580200"
+}

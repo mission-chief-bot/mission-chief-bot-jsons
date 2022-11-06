@@ -1,1 +1,16 @@
-{"missionId": "432", "missionName": "flykter mistenkt", "requirements": [{"requirement": "politibiler", "qty": "5"}, {"requirement": "kjøretøy fra demonstrasjonspolitiet", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "432",
+ "missionName": "flykter mistenkt",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "kjøretøy fra demonstrasjonspolitiet",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "330864796748511859798177974351077179894"
+}

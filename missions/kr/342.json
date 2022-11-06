@@ -1,1 +1,36 @@
-{"missionId": "342", "missionName": "생물학적 제품 사고", "requirements": [{"requirement": "소방차", "qty": "8"}, {"requirement": "소방대장 차량", "qty": "2"}, {"requirement": "수상 탱커", "qty": "2"}, {"requirement": "경찰차", "qty": "2"}, {"requirement": "생화학 차량", "qty": "2"}, {"requirement": "구급차", "qty": "5"}, {"requirement": "최대 환자", "qty": "10"}], "credits": "8500"}
+{
+ "missionId": "342",
+ "missionName": "생물학적 제품 사고",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "8"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "2"
+  },
+  {
+   "requirement": "수상 탱커",
+   "qty": "2"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "2"
+  },
+  {
+   "requirement": "생화학 차량",
+   "qty": "2"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "5"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "10"
+  }
+ ],
+ "credits": "8500",
+ "version": "336097201789701907552776537078799941269"
+}

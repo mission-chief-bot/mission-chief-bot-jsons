@@ -1,1 +1,16 @@
-{"missionId": "169", "missionName": "Small flooding", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "550"}
+{
+ "missionId": "169",
+ "missionName": "Small flooding",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "550",
+ "version": "5406686410534434610924071801962163645"
+}

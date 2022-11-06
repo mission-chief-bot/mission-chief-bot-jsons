@@ -1,1 +1,12 @@
-{"missionId": "268", "missionName": "Escombros en la pista", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "268",
+ "missionName": "Escombros en la pista",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "52669535213764602373208101920014282379"
+}

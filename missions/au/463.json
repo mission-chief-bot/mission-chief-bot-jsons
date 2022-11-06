@@ -1,1 +1,44 @@
-{"missionId": "463", "missionName": "High Profile Court Case Security", "requirements": [ {"requirement": "police cars", "qty": "9"}, {"requirement": "k-9 units", "qty": "3"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "mounted police", "qty": "4"}, {"requirement": "riot police group vehicles", "qty": "2"}, {"requirement": "senior sergeants", "qty": "2"}, {"requirement": "riot police suvs", "qty": "2"}, {"requirement": "riot police equipment vehicles", "qty": "2"}, {"requirement": "' swat personnel (in swat vehicles)", "qty": "12"}], "credits": "14750"}
+{
+ "missionId": "463",
+ "missionName": "High Profile Court Case Security",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "9"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "3"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "mounted police",
+   "qty": "4"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police suvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police equipment vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "' swat personnel (in swat vehicles)",
+   "qty": "12"
+  }
+ ],
+ "credits": "14750",
+ "version": "34899301867792484432833447140680651820"
+}

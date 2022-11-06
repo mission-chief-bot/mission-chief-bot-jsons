@@ -1,1 +1,40 @@
-{"missionId": "431", "missionName": "Crollo Ospedale", "requirements": [{"requirement": "aps/abp", "qty": "10"}, {"requirement": "autoscale", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "8"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "funzionari", "qty": "2"}, {"requirement": "pattuglie", "qty": "8"}, {"requirement": "autogrù", "qty": "1"}, {"requirement": "max pazienti", "qty": "120"}], "credits": "14000"}
+{
+ "missionId": "431",
+ "missionName": "Crollo Ospedale",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "10"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "8"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "8"
+  },
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "120"
+  }
+ ],
+ "credits": "14000",
+ "version": "337641267126628012884800077776517624966"
+}

@@ -1,1 +1,16 @@
-{"missionId": "464", "missionName": "Personne allongée au sol", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "464",
+ "missionName": "Personne allongée au sol",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "186356954638990567254686110648587611130"
+}

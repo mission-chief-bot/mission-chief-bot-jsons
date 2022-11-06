@@ -1,1 +1,24 @@
-{"missionId": "547", "missionName": "Zderzenie samochodu z drzewem", "requirements": [{"requirement": "samochody pożarnicze", "qty": "3"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "samochody ratownictwa technicznego", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "2"}], "credits": "2900"}
+{
+ "missionId": "547",
+ "missionName": "Zderzenie samochodu z drzewem",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "credits": "2900",
+ "version": "329969627590124372049099390983214938748"
+}

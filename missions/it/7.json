@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Foglie che bruciano", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Foglie che bruciano",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "223404844251991019258513250456536265040"
+}

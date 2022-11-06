@@ -1,1 +1,28 @@
-{"missionId": "193", "missionName": "Blind passager fundet", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "8"}, {"requirement": "påkrævede hundepatruljer", "qty": "1"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "10"}], "credits": "2000"}
+{
+ "missionId": "193",
+ "missionName": "Blind passager fundet",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "8"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "10"
+  }
+ ],
+ "credits": "2000",
+ "version": "186047246403383729899947494527336833168"
+}

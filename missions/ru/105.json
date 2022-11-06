@@ -1,1 +1,12 @@
-{"missionId": "105", "missionName": "Задыхаясь", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "105",
+ "missionName": "Задыхаясь",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "7324914019801897010066071276821376198"
+}

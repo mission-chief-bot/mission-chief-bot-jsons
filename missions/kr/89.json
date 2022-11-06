@@ -1,1 +1,12 @@
-{"missionId": "89", "missionName": "에그 보일러 화재", "requirements": [{"requirement": "소방차", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "89",
+ "missionName": "에그 보일러 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "175624027227938323801458718148272723942"
+}

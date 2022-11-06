@@ -1,1 +1,12 @@
-{"missionId": "705", "missionName": "Brandstichting", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "705",
+ "missionName": "Brandstichting",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "252181547735251565774490818247048444442"
+}

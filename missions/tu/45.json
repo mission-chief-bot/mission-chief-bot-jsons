@@ -1,1 +1,12 @@
-{"missionId": "45", "missionName": "Mağaza hırsızlığı", "requirements": [{"requirement": "gerekli polis arabaları", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "45",
+ "missionName": "Mağaza hırsızlığı",
+ "requirements": [
+  {
+   "requirement": "gerekli polis arabaları",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "216017225881316472299790550179817386123"
+}

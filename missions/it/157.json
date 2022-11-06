@@ -1,1 +1,16 @@
-{"missionId": "157", "missionName": "Media protesta violenta", "requirements": [{"requirement": "pattuglie", "qty": "6"}, {"requirement": "max pazienti", "qty": "5"}], "credits": "7"}
+{
+ "missionId": "157",
+ "missionName": "Media protesta violenta",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "6"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "5"
+  }
+ ],
+ "credits": "7",
+ "version": "294048003632892077743573937747518179890"
+}

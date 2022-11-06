@@ -1,1 +1,32 @@
-{"missionId": "349", "missionName": "무단 테크노 파티", "requirements": [{"requirement": "경찰차", "qty": "10"}, {"requirement": "진압 경찰 그룹 차량", "qty": "10"}, {"requirement": "죄수 수송 차량", "qty": "2"}, {"requirement": "물대포", "qty": "1"}, {"requirement": "진압 경찰 장비 차량", "qty": "1"}, {"requirement": "철도 경찰", "qty": "1"}], "credits": "14500"}
+{
+ "missionId": "349",
+ "missionName": "무단 테크노 파티",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "10"
+  },
+  {
+   "requirement": "진압 경찰 그룹 차량",
+   "qty": "10"
+  },
+  {
+   "requirement": "죄수 수송 차량",
+   "qty": "2"
+  },
+  {
+   "requirement": "물대포",
+   "qty": "1"
+  },
+  {
+   "requirement": "진압 경찰 장비 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "철도 경찰",
+   "qty": "1"
+  }
+ ],
+ "credits": "14500",
+ "version": "326693635162221704762341249059810770013"
+}

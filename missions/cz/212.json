@@ -1,1 +1,12 @@
-{"missionId": "212", "missionName": "Hlídka na trhu", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "212",
+ "missionName": "Hlídka na trhu",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "3303220048960005444534685747921350157"
+}

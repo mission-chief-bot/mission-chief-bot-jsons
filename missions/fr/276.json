@@ -1,1 +1,20 @@
-{"missionId": "276", "missionName": "Bus en feu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "3"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}, {"requirement": "max. patients", "qty": "12"}], "credits": "1500"}
+{
+ "missionId": "276",
+ "missionName": "Bus en feu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "3"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "12"
+  }
+ ],
+ "credits": "1500",
+ "version": "272612321000309289687387049614738799069"
+}

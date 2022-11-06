@@ -1,1 +1,20 @@
-{"missionId": "172", "missionName": "Зсування грунту", "requirements": [{"requirement": "пожежні машини", "qty": "4"}, {"requirement": "штабні автомобілі", "qty": "1"}, {"requirement": "пожежно-рятувальні автомобілі", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "172",
+ "missionName": "Зсування грунту",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "4"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежно-рятувальні автомобілі",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "208140034746475659046838866673796287597"
+}

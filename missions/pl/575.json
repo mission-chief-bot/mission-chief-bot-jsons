@@ -1,1 +1,16 @@
-{"missionId": "575", "missionName": "Dziecko uwięzione w nagrzanym samochodzie", "requirements": [{"requirement": "radiowozy", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}], "credits": "950"}
+{
+ "missionId": "575",
+ "missionName": "Dziecko uwięzione w nagrzanym samochodzie",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "950",
+ "version": "308401323236822743661130224122047890877"
+}

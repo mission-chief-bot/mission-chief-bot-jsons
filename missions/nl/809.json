@@ -1,1 +1,16 @@
-{"missionId": "809", "missionName": "Bootje op drift", "requirements": [{"requirement": "strandvoertuigen (dat-rb of khv)", "qty": "2"}, {"requirement": "bootaanhanger (woa)", "qty": "1"}], "credits": "1730"}
+{
+ "missionId": "809",
+ "missionName": "Bootje op drift",
+ "requirements": [
+  {
+   "requirement": "strandvoertuigen (dat-rb of khv)",
+   "qty": "2"
+  },
+  {
+   "requirement": "bootaanhanger (woa)",
+   "qty": "1"
+  }
+ ],
+ "credits": "1730",
+ "version": "142410592730042880219194309996089048813"
+}

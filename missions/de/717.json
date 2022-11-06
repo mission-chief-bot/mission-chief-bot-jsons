@@ -1,1 +1,12 @@
-{"missionId": "717", "missionName": "Verbrecher versteckt sich bei Maskenball", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "200"}
+{
+ "missionId": "717",
+ "missionName": "Verbrecher versteckt sich bei Maskenball",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "200",
+ "version": "26953943387769831120050243862567573348"
+}

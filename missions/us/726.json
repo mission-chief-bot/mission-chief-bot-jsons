@@ -1,1 +1,20 @@
-{"missionId": "726", "missionName": "Area Evacuation", "requirements": [{"requirement": "police cars", "qty": "10"}, {"requirement": "sheriffs", "qty": "2"}, {"requirement": "max. patients", "qty": "5"}], "credits": "3500"}
+{
+ "missionId": "726",
+ "missionName": "Area Evacuation",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "10"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "3500",
+ "version": "315795623342259236633357878433166175418"
+}

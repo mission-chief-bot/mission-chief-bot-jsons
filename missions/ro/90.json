@@ -1,1 +1,24 @@
-{"missionId": "90", "missionName": "Incendiu la depozitul", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "5"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "1"}, {"requirement": "camioane cu platformă necesare", "qty": "1"}, {"requirement": "cisterne de apă necesare", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "90",
+ "missionName": "Incendiu la depozitul",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "5"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "camioane cu platformă necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisterne de apă necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "41693726662418480191272578549587284944"
+}

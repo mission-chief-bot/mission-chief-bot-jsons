@@ -1,1 +1,12 @@
-{"missionId": "313", "missionName": "Persona indispuesta atrapada en ascensor", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "313",
+ "missionName": "Persona indispuesta atrapada en ascensor",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "104386973160188651653051671629451534962"
+}

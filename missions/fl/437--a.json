@@ -1,1 +1,12 @@
-{"missionId": "437/a", "missionName": "570 Mielenosoituksen hajottaminen", "requirements": [{"requirement": "poliisiautot", "qty": "6"}], "credits": "2200"}
+{
+ "missionId": "437/a",
+ "missionName": "570 Mielenosoituksen hajottaminen",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "6"
+  }
+ ],
+ "credits": "2200",
+ "version": "38399194215677200557897024308417006576"
+}

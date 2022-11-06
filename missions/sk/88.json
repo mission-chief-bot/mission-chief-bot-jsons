@@ -1,1 +1,12 @@
-{"missionId": "88", "missionName": "Malý požiar hotela", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}], "credits": "3000"}
+{
+ "missionId": "88",
+ "missionName": "Malý požiar hotela",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "254371834077365192118546372911844068256"
+}

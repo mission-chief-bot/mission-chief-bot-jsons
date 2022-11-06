@@ -1,1 +1,40 @@
-{"missionId": "34/a", "missionName": "病院火災", "requirements": [{"requirement": "消火サポート拡張", "qty": "2"}, {"requirement": "消防車", "qty": "10"}, {"requirement": "水", "qty": "31000"}, {"requirement": "消防隊長車両", "qty": "2"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "プラットフォームトラック", "qty": "3"}, {"requirement": "ポンプ積載車", "qty": "2"}, {"requirement": "最大患者", "qty": "25"}], "credits": "6400"}
+{
+ "missionId": "34/a",
+ "missionName": "病院火災",
+ "requirements": [
+  {
+   "requirement": "消火サポート拡張",
+   "qty": "2"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "10"
+  },
+  {
+   "requirement": "水",
+   "qty": "31000"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "3"
+  },
+  {
+   "requirement": "ポンプ積載車",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "25"
+  }
+ ],
+ "credits": "6400",
+ "version": "111555690104333204383059991441170144139"
+}

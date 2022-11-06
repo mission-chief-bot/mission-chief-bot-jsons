@@ -1,1 +1,16 @@
-{"missionId": "384", "missionName": "Búsquedas en casas", "requirements": [{"requirement": "coches patrulla", "qty": "4"}, {"requirement": "n.º máximo de presos", "qty": "3"}], "credits": "750"}
+{
+ "missionId": "384",
+ "missionName": "Búsquedas en casas",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "3"
+  }
+ ],
+ "credits": "750",
+ "version": "108065191160905322405690635700001957925"
+}

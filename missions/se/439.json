@@ -1,1 +1,12 @@
-{"missionId": "439", "missionName": "Tillbud - person på marken", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "439",
+ "missionName": "Tillbud - person på marken",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "69564603323806849746027416029663118421"
+}

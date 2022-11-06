@@ -1,1 +1,16 @@
-{"missionId": "219", "missionName": "Požiar školy (malý)", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}, {"requirement": "veliteľské vozidlo", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "219",
+ "missionName": "Požiar školy (malý)",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "veliteľské vozidlo",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "121043487374974673788910006883207244169"
+}

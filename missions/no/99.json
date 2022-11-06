@@ -1,1 +1,12 @@
-{"missionId": "99", "missionName": "Ransaking av bolig", "requirements": [{"requirement": "politibiler", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "99",
+ "missionName": "Ransaking av bolig",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "94900413733011255776374352940301117610"
+}

@@ -1,1 +1,32 @@
-{"missionId": "277", "missionName": "Queda de falésia", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "9"}, {"requirement": "veículos de comando tático necessários:", "qty": "2"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "4"}, {"requirement": "veículos de socorro e assistência especial necessários:", "qty": "2"}, {"requirement": "carros de patrulha necessários:", "qty": "2"}, {"requirement": "máx. de pacientes:", "qty": "10"}], "credits": "9500"}
+{
+ "missionId": "277",
+ "missionName": "Queda de falésia",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "9"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos de socorro e assistência especial necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "10"
+  }
+ ],
+ "credits": "9500",
+ "version": "110345786918487873408179494315508297944"
+}

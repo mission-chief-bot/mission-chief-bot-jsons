@@ -1,1 +1,32 @@
-{"missionId": "86", "missionName": "Takras", "requirements": [ {"requirement": "brannbiler", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "2"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "politibiler", "qty": "2"}, {"requirement": "stigebil", "qty": "1"}, {"requirement": "maks pasienter", "qty": "8"}], "credits": "7500"}
+{
+ "missionId": "86",
+ "missionName": "Takras",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "stigebil",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "8"
+  }
+ ],
+ "credits": "7500",
+ "version": "244006608785829868879874412625856758733"
+}

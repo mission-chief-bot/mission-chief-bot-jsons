@@ -1,1 +1,28 @@
-{"missionId": "870", "missionName": "Persoon bekneld in bouwkraan", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "2430"}
+{
+ "missionId": "870",
+ "missionName": "Persoon bekneld in bouwkraan",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "2430",
+ "version": "285483345805401584365465062761909017615"
+}

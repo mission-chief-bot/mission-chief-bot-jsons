@@ -1,1 +1,12 @@
-{"missionId": "71", "missionName": "Кровотечение из носа", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "71",
+ "missionName": "Кровотечение из носа",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "326841430796005372242401603306239628582"
+}

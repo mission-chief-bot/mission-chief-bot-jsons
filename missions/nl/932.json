@@ -1,1 +1,36 @@
-{"missionId": "932", "missionName": "Brand op veerpond", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams", "qty": "1"}, {"requirement": "bootaanhanger (woa of ba-rb)", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "3680"}
+{
+ "missionId": "932",
+ "missionName": "Brand op veerpond",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams",
+   "qty": "1"
+  },
+  {
+   "requirement": "bootaanhanger (woa of ba-rb)",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "3680",
+ "version": "114401786913348744729737087758735017613"
+}

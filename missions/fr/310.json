@@ -1,1 +1,12 @@
-{"missionId": "310", "missionName": "Personne inconsciente qui ne réspire pas", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "5"}
+{
+ "missionId": "310",
+ "missionName": "Personne inconsciente qui ne réspire pas",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "5",
+ "version": "274310493592532861221844295125047604085"
+}

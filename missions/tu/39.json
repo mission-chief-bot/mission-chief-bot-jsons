@@ -1,1 +1,12 @@
-{"missionId": "39", "missionName": "Yüksek ateş", "requirements": [{"requirement": "maks. hastalar", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "39",
+ "missionName": "Yüksek ateş",
+ "requirements": [
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "252766461037188680098565709727990653701"
+}

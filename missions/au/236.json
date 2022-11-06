@@ -1,1 +1,12 @@
-{"missionId": "236", "missionName": "Guest ate too much anniversary cake", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "236",
+ "missionName": "Guest ate too much anniversary cake",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "251847436711679841990228358349525818059"
+}

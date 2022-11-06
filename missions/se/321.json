@@ -1,1 +1,16 @@
-{"missionId": "321", "missionName": "Olaglig brasa i parken", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "polisbilar", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "321",
+ "missionName": "Olaglig brasa i parken",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "236984052133865513762169454970642757732"
+}

@@ -1,1 +1,12 @@
-{"missionId": "19", "missionName": "Brand ute - fordon, släpvagn", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "19",
+ "missionName": "Brand ute - fordon, släpvagn",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "6557392816003353430413524133585585863"
+}

@@ -1,1 +1,12 @@
-{"missionId": "727", "missionName": "Stel heeft te veel chocola gegeten", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "727",
+ "missionName": "Stel heeft te veel chocola gegeten",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "220276963819288924958335585815705687809"
+}

@@ -1,1 +1,12 @@
-{"missionId": "327", "missionName": "Car ignited by fireworks", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "370"}
+{
+ "missionId": "327",
+ "missionName": "Car ignited by fireworks",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "370",
+ "version": "200859326447495564288610887677493507359"
+}

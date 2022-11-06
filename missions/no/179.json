@@ -1,1 +1,32 @@
-{"missionId": "179", "missionName": "Bil under vann", "requirements": [ {"requirement": "politibiler", "qty": "2"}, {"requirement": "for lett redningsbåt", "qty": "2"}, {"requirement": "for dykkerbil", "qty": "1"}, {"requirement": "brannbiler", "qty": "3"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "179",
+ "missionName": "Bil under vann",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "for lett redningsbåt",
+   "qty": "2"
+  },
+  {
+   "requirement": "for dykkerbil",
+   "qty": "1"
+  },
+  {
+   "requirement": "brannbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "311836989421586368839966699120901898380"
+}

@@ -1,1 +1,24 @@
-{"missionId": "220", "missionName": "Frana", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "3"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "funzionari", "qty": "1"}], "credits": "6"}
+{
+ "missionId": "220",
+ "missionName": "Frana",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "3"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  }
+ ],
+ "credits": "6",
+ "version": "29232377007092484154839013033611276773"
+}

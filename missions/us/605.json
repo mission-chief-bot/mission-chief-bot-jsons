@@ -1,1 +1,16 @@
-{"missionId": "605", "missionName": "Inflatable swept out to sea", "requirements": [{"requirement": "large rescue boats", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "605",
+ "missionName": "Inflatable swept out to sea",
+ "requirements": [
+  {
+   "requirement": "large rescue boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "306420687761082893630898017338809766861"
+}

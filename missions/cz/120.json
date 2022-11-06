@@ -1,1 +1,24 @@
-{"missionId": "120", "missionName": "VIP vystoupení", "requirements": [{"requirement": "policejní automobily", "qty": "6"}, {"requirement": "policejní vrtulníky", "qty": "1"}, {"requirement": "vozidla kynologů pčr", "qty": "2"}, {"requirement": "personál urny", "qty": "3"}], "credits": "4000"}
+{
+ "missionId": "120",
+ "missionName": "VIP vystoupení",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "6"
+  },
+  {
+   "requirement": "policejní vrtulníky",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla kynologů pčr",
+   "qty": "2"
+  },
+  {
+   "requirement": "personál urny",
+   "qty": "3"
+  }
+ ],
+ "credits": "4000",
+ "version": "191009502308561780986607980983897131666"
+}

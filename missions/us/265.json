@@ -1,1 +1,28 @@
-{"missionId": "265", "missionName": "Sports hall fire", "requirements": [{"requirement": "firetrucks", "qty": "5"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "mobile air vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "265",
+ "missionName": "Sports hall fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "5"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "238412089879953460896679005157160983267"
+}

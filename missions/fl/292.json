@@ -1,1 +1,28 @@
-{"missionId": "292", "missionName": "214 Raiteilta suistunut matkustajajuna", "requirements": [{"requirement": "paloautot", "qty": "8"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "poliisiautot", "qty": "3"}], "credits": "11000"}
+{
+ "missionId": "292",
+ "missionName": "214 Raiteilta suistunut matkustajajuna",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  }
+ ],
+ "credits": "11000",
+ "version": "199664104323699075217126105452146183673"
+}

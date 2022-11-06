@@ -1,1 +1,12 @@
-{"missionId": "171", "missionName": "Motorkár vyletel z horskej cesty", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "171",
+ "missionName": "Motorkár vyletel z horskej cesty",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "51896376495222617370445400272046595931"
+}

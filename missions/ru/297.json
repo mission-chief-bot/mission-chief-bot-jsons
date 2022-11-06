@@ -1,1 +1,12 @@
-{"missionId": "297", "missionName": "Лечение симулянта", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "297",
+ "missionName": "Лечение симулянта",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "270189341786111478402575240247684627784"
+}

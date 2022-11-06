@@ -1,1 +1,12 @@
-{"missionId": "274", "missionName": "Katt i tre", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "375"}
+{
+ "missionId": "274",
+ "missionName": "Katt i tre",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "375",
+ "version": "171708416602100005000842691715126127755"
+}

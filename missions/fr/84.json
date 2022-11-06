@@ -1,1 +1,24 @@
-{"missionId": "84", "missionName": "Accident de tracteur", "requirements": [{"requirement": "fourgons d’incendie", "qty": "3"}, {"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "ambulances es", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "84",
+ "missionName": "Accident de tracteur",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "3"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances es",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "78056477945243111941145542916416549498"
+}

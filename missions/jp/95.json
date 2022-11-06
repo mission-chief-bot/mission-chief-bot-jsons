@@ -1,1 +1,24 @@
-{"missionId": "95", "missionName": "クレーンに乗ったイースターバニー", "requirements": [{"requirement": "プラットフォームトラック", "qty": "1"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "警察車両", "qty": "1"}, {"requirement": "消防車", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "95",
+ "missionName": "クレーンに乗ったイースターバニー",
+ "requirements": [
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "215093647840137744054079490776456920067"
+}

@@ -1,1 +1,16 @@
-{"missionId": "369", "missionName": "Panikk på diskotek", "requirements": [{"requirement": "politibiler", "qty": "6"}, {"requirement": "maks pasienter", "qty": "10"}], "credits": "3000"}
+{
+ "missionId": "369",
+ "missionName": "Panikk på diskotek",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "6"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "10"
+  }
+ ],
+ "credits": "3000",
+ "version": "155320505544379636520135915753116460492"
+}

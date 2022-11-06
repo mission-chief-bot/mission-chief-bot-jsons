@@ -1,1 +1,12 @@
-{"missionId": "375", "missionName": "Roubo dos trajes do baile", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "375",
+ "missionName": "Roubo dos trajes do baile",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "188401158383456682877122439888419151764"
+}

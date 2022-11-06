@@ -1,1 +1,12 @@
-{"missionId": "116", "missionName": "Травматическая ампутация конечности", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "116",
+ "missionName": "Травматическая ампутация конечности",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "113916795803747228758431182219000858684"
+}

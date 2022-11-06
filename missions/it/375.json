@@ -1,1 +1,12 @@
-{"missionId": "375", "missionName": "Rissa al campo sportivo", "requirements": [{"requirement": "pattuglie", "qty": "3"}], "credits": "1000"}
+{
+ "missionId": "375",
+ "missionName": "Rissa al campo sportivo",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  }
+ ],
+ "credits": "1000",
+ "version": "241521660714488041079849488867881792549"
+}

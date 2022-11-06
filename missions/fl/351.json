@@ -1,1 +1,12 @@
-{"missionId": "351", "missionName": "113 Hämärämiehiä varastolla", "requirements": [{"requirement": "poliisiautot", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "351",
+ "missionName": "113 Hämärämiehiä varastolla",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "338340321295933526143146325757707117842"
+}

@@ -1,1 +1,32 @@
-{"missionId": "98", "missionName": "Resgate na vala", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "1"}, {"requirement": "caminhões de bombeiro necessários", "qty": "3"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "veículos de resgate pesado necessários", "qty": "2"}, {"requirement": "máx. de pacientes", "qty": "4"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "20"}], "credits": "2500"}
+{
+ "missionId": "98",
+ "missionName": "Resgate na vala",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "4"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "20"
+  }
+ ],
+ "credits": "2500",
+ "version": "78153916491482424708471374694475158168"
+}

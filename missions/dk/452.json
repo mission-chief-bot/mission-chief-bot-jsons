@@ -1,1 +1,12 @@
-{"missionId": "452", "missionName": "Tyveri af kunst", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "452",
+ "missionName": "Tyveri af kunst",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "318041488946763289726715070926156026622"
+}

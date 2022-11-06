@@ -1,1 +1,12 @@
-{"missionId": "13", "missionName": "Płonąca ciężarówka", "requirements": [{"requirement": "samochody pożarnicze", "qty": "2"}], "credits": "980"}
+{
+ "missionId": "13",
+ "missionName": "Płonąca ciężarówka",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "credits": "980",
+ "version": "234518744196915083993177364882423603781"
+}

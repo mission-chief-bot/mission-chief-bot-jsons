@@ -1,1 +1,16 @@
-{"missionId": "204", "missionName": "불법 폭죽 사용", "requirements": [{"requirement": "경찰차", "qty": "2"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "204",
+ "missionName": "불법 폭죽 사용",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "2"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "82330680268166107745913520589030878200"
+}

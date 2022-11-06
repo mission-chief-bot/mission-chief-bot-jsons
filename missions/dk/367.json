@@ -1,1 +1,12 @@
-{"missionId": "367", "missionName": "Stormafløb stoppet af blade", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "367",
+ "missionName": "Stormafløb stoppet af blade",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "119923115552252887455861535426445473859"
+}

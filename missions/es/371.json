@@ -1,1 +1,12 @@
-{"missionId": "371", "missionName": "Cesta de pícnic en llamas", "requirements": [{"requirement": "camiones de bomberos", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "371",
+ "missionName": "Cesta de pícnic en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "191551229040172232829595413184740082310"
+}

@@ -1,1 +1,28 @@
-{"missionId": "627", "missionName": "Kind vast in hek", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1420"}
+{
+ "missionId": "627",
+ "missionName": "Kind vast in hek",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1420",
+ "version": "178523957170809011599189770003333328413"
+}

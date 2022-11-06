@@ -1,1 +1,12 @@
-{"missionId": "157", "missionName": "Yrsel", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "157",
+ "missionName": "Yrsel",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "120718129036276207348752237583167025371"
+}

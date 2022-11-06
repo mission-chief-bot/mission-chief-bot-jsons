@@ -1,1 +1,16 @@
-{"missionId": "433", "missionName": "fumos visíveis", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "433",
+ "missionName": "fumos visíveis",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "291575309171718329839729308513145226824"
+}

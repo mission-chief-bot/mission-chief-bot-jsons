@@ -1,1 +1,12 @@
-{"missionId": "158", "missionName": "Burning easter basket", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "158",
+ "missionName": "Burning easter basket",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "312634393518829959451790321314892671455"
+}

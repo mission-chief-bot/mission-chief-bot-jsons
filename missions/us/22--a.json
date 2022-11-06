@@ -1,1 +1,24 @@
-{"missionId": "22/a", "missionName": "Roof fire", "requirements": [{"requirement": "platform trucks", "qty": "1"}, {"requirement": "firetrucks", "qty": "3"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "fire investigation units", "qty": "1"}], "credits": "3200"}
+{
+ "missionId": "22/a",
+ "missionName": "Roof fire",
+ "requirements": [
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "1"
+  }
+ ],
+ "credits": "3200",
+ "version": "216609374346610885786274837668567198803"
+}

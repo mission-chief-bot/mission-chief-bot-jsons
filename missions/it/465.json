@@ -1,1 +1,16 @@
-{"missionId": "465", "missionName": "Animale incastrato tra le mura", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "465",
+ "missionName": "Animale incastrato tra le mura",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "78088182250402165704423594905919200590"
+}

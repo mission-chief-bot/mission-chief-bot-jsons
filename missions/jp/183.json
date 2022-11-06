@@ -1,1 +1,12 @@
-{"missionId": "183", "missionName": "花火によるバス待合所の炎上", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "183",
+ "missionName": "花火によるバス待合所の炎上",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "184416309392268287496414881210746761421"
+}

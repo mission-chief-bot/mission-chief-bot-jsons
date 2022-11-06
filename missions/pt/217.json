@@ -1,1 +1,12 @@
-{"missionId": "217", "missionName": "Utilização de fogo-de-artifício perto da estrada", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "217",
+ "missionName": "Utilização de fogo-de-artifício perto da estrada",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "209874992715923994326356897194222082502"
+}

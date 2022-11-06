@@ -1,1 +1,12 @@
-{"missionId": "335", "missionName": "Drunk driver after New Year's Eve party", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "335",
+ "missionName": "Drunk driver after New Year's Eve party",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "332784465862298118508869747421013305575"
+}

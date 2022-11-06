@@ -1,1 +1,12 @@
-{"missionId": "58", "missionName": "Malý požár v kuchyni", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "58",
+ "missionName": "Malý požár v kuchyni",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "116238125845947011137049383433166833663"
+}

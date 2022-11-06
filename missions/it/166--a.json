@@ -1,1 +1,40 @@
-{"missionId": "166/a", "missionName": "Incendio cisterna chimica (MEDIA)", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "kilolitriche", "qty": "1"}, {"requirement": "vigili del fuoco", "qty": "25"},  {"requirement": "max pazienti", "qty": "10"}], "credits": "6200"}
+{
+ "missionId": "166/a",
+ "missionName": "Incendio cisterna chimica (MEDIA)",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "3"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "1"
+  },
+  {
+   "requirement": "vigili del fuoco",
+   "qty": "25"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "10"
+  }
+ ],
+ "credits": "6200",
+ "version": "176337388064782788417299628946857673816"
+}

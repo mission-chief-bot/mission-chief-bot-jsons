@@ -1,1 +1,20 @@
-{"missionId": "369", "missionName": "Medium Wildfire", "requirements": [{"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "water tankers", "qty": "2"}, {"requirement": "wildland fire engines", "qty": "4"}], "credits": "4000"}
+{
+ "missionId": "369",
+ "missionName": "Medium Wildfire",
+ "requirements": [
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "4"
+  }
+ ],
+ "credits": "4000",
+ "version": "176848753381938108605564086752355910225"
+}

@@ -1,1 +1,24 @@
-{"missionId": "671", "missionName": "Toezicht Horeca", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "hondengeleider", "qty": "1"}, {"requirement": "biketeams", "qty": "1"}, {"requirement": "biketeams, indien beschikbaar", "qty": "Ja"}], "credits": "7245"}
+{
+ "missionId": "671",
+ "missionName": "Toezicht Horeca",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "1"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "1"
+  },
+  {
+   "requirement": "biketeams, indien beschikbaar",
+   "qty": "Ja"
+  }
+ ],
+ "credits": "7245",
+ "version": "219600177582249097444282727664641572669"
+}

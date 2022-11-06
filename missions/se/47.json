@@ -1,1 +1,12 @@
-{"missionId": "47", "missionName": "Trafikolycka", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "47",
+ "missionName": "Trafikolycka",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "245079049299806074114601630948988982701"
+}

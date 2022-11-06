@@ -1,1 +1,12 @@
-{"missionId": "216", "missionName": "690 Epäillyn seuranta", "requirements": [{"requirement": "poliisiautot", "qty": "2"}], "credits": "3000"}
+{
+ "missionId": "216",
+ "missionName": "690 Epäillyn seuranta",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "3000",
+ "version": "77096032104377730741317344201195482005"
+}

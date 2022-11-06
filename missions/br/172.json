@@ -1,1 +1,12 @@
-{"missionId": "172", "missionName": "Patrulha do mercado de rua", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "172",
+ "missionName": "Patrulha do mercado de rua",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "53204345210625361478126849870698454943"
+}

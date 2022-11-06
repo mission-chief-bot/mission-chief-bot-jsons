@@ -1,1 +1,20 @@
-{"missionId": "866", "missionName": "Duinbrand", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "strandvoertuigen (dat-rb of khv)", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "1170"}
+{
+ "missionId": "866",
+ "missionName": "Duinbrand",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "strandvoertuigen (dat-rb of khv)",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "1170",
+ "version": "229316441722727764998083958727210727946"
+}

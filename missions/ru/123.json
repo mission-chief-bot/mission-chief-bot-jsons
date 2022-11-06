@@ -1,1 +1,24 @@
-{"missionId": "123", "missionName": "Пропажа человека", "requirements": [{"requirement": "полицейские автомобили", "qty": "5"}, {"requirement": "пожарные машины", "qty": "2"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "123",
+ "missionName": "Пропажа человека",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "5"
+  },
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "279002400658021476072649680870143841222"
+}

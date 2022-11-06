@@ -1,1 +1,12 @@
-{"missionId": "55", "missionName": "Brennender Tannenbaum", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "870"}
+{
+ "missionId": "55",
+ "missionName": "Brennender Tannenbaum",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "870",
+ "version": "99504338889876189740726712718399549344"
+}

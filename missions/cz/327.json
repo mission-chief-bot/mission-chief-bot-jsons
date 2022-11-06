@@ -1,1 +1,28 @@
-{"missionId": "327", "missionName": "Zasypaný dělník", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "6200"}
+{
+ "missionId": "327",
+ "missionName": "Zasypaný dělník",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "4"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "6200",
+ "version": "244564130504703877635196074053316900656"
+}

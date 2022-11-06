@@ -1,1 +1,12 @@
-{"missionId": "252", "missionName": "低血糖症", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "252",
+ "missionName": "低血糖症",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "336474138081006470655249668664554166423"
+}

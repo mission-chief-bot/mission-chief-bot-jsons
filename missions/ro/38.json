@@ -1,1 +1,12 @@
-{"missionId": "38", "missionName": "Convulsii", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "38",
+ "missionName": "Convulsii",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "160728524910722323347195659470440355260"
+}

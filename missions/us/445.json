@@ -1,1 +1,16 @@
-{"missionId": "445", "missionName": "Restaurant Investigation", "requirements": [{"requirement": "fbi units", "qty": "1"}, {"requirement": "fbi investigation wagons", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "445",
+ "missionName": "Restaurant Investigation",
+ "requirements": [
+  {
+   "requirement": "fbi units",
+   "qty": "1"
+  },
+  {
+   "requirement": "fbi investigation wagons",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "178682183002223116734823136819592568689"
+}

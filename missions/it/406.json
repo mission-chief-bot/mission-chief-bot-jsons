@@ -1,1 +1,12 @@
-{"missionId": "406", "missionName": "Puntura di Imenottero", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "406",
+ "missionName": "Puntura di Imenottero",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "35529749849537929161879502749881320645"
+}

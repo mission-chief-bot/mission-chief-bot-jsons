@@ -1,1 +1,16 @@
-{"missionId": "302", "missionName": "Hoguera ilegal en parque", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}, {"requirement": "coches patrulla", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "302",
+ "missionName": "Hoguera ilegal en parque",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "262182011022358952513758502083600654717"
+}

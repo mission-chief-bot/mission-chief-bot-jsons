@@ -1,1 +1,12 @@
-{"missionId": "391", "missionName": "Животное в ловушке в колодце", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "391",
+ "missionName": "Животное в ловушке в колодце",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "169081724822284496148540446538192270073"
+}

@@ -1,1 +1,12 @@
-{"missionId": "343", "missionName": "Attività di spaccio al parco", "requirements": [{"requirement": "pattuglie", "qty": "3"}], "credits": "3"}
+{
+ "missionId": "343",
+ "missionName": "Attività di spaccio al parco",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  }
+ ],
+ "credits": "3",
+ "version": "249365838353633200221598997331053343964"
+}

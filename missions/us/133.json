@@ -1,1 +1,12 @@
-{"missionId": "133", "missionName": "Stolen Credit Card", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "133",
+ "missionName": "Stolen Credit Card",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "309433566909844338594086694817480020146"
+}

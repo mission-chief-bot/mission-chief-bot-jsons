@@ -1,1 +1,12 @@
-{"missionId": "451", "missionName": "Disturbance of peace", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "451",
+ "missionName": "Disturbance of peace",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "34749211953163990027792279652574906612"
+}

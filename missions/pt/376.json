@@ -1,1 +1,16 @@
-{"missionId": "376", "missionName": "Abastecimento de água", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}, {"requirement": "veículos tanque necessários:", "qty": "2"}], "credits": "750"}
+{
+ "missionId": "376",
+ "missionName": "Abastecimento de água",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos tanque necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "750",
+ "version": "212373613672737929059160289106748777957"
+}

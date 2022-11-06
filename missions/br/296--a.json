@@ -1,1 +1,48 @@
-{"missionId": "296/a", "missionName": "Incêndio principal no estádio", "requirements": [ {"requirement": "caminhões de bombeiro necessários", "qty": "15"}, {"requirement": "caminhões plataforma necessários", "qty": "3"}, {"requirement": "viaturas de batalhão necessárias", "qty": "3"}, {"requirement": "veículos de resgate pesado necessários", "qty": "4"}, {"requirement": "caminhões pipa necessários", "qty": "5"}, {"requirement": "viaturas de polícia necessárias", "qty": "5"}, {"requirement": "viaturas de produtos perigosos necessárias", "qty": "3"}, {"requirement": "veículos aéreos móveis necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "50"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "10"}], "credits": "9900"}
+{
+ "missionId": "296/a",
+ "missionName": "Incêndio principal no estádio",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "15"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "5"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "5"
+  },
+  {
+   "requirement": "viaturas de produtos perigosos necessárias",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos aéreos móveis necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "50"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "10"
+  }
+ ],
+ "credits": "9900",
+ "version": "233295651398246398133062449895885636320"
+}

@@ -1,1 +1,28 @@
-{"missionId": "389", "missionName": "Vyproštění kamionu z příkopu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "2800"}
+{
+ "missionId": "389",
+ "missionName": "Vyproštění kamionu z příkopu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "2800",
+ "version": "6184246719177074750073717596132649870"
+}

@@ -1,1 +1,12 @@
-{"missionId": "24", "missionName": "431 Linja-autokatoksen palo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "24",
+ "missionName": "431 Linja-autokatoksen palo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "4023174247624911846161705797855119270"
+}

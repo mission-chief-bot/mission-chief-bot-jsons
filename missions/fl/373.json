@@ -1,1 +1,24 @@
-{"missionId": "373", "missionName": "H32 Suuronnettomuusharjoitus", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "poliisiautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "ambulanssit", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "373",
+ "missionName": "H32 Suuronnettomuusharjoitus",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulanssit",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "269726931291131845298168612319082561158"
+}

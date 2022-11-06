@@ -1,1 +1,16 @@
-{"missionId": "273", "missionName": "Brand orsakad av middag med levande ljus har spridit sig", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "273",
+ "missionName": "Brand orsakad av middag med levande ljus har spridit sig",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "3187662518677442075737759338785389396"
+}

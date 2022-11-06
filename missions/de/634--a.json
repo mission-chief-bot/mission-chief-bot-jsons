@@ -1,1 +1,24 @@
-{"missionId": "634/a", "missionName": "Einbruch in Wohnhaus - Täter am Ort", "requirements": [{"requirement": "dhufükw", "qty": "1"}, {"requirement": "streifenwagen", "qty": "4"}, {"requirement": "zivilstreifenwagen", "qty": "1"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "1700"}
+{
+ "missionId": "634/a",
+ "missionName": "Einbruch in Wohnhaus - Täter am Ort",
+ "requirements": [
+  {
+   "requirement": "dhufükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "zivilstreifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "1700",
+ "version": "72871563203354459919540627304626952737"
+}

@@ -1,1 +1,12 @@
-{"missionId": "87", "missionName": "Anafilaxie", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "87",
+ "missionName": "Anafilaxie",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "281234822106919739086150688254385699835"
+}

@@ -1,1 +1,24 @@
-{"missionId": "146", "missionName": "Кролик на подъёмном кране", "requirements": [{"requirement": "платформы", "qty": "1"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "полицейские автомобили", "qty": "1"}, {"requirement": "пожарные машины", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "146",
+ "missionName": "Кролик на подъёмном кране",
+ "requirements": [
+  {
+   "requirement": "платформы",
+   "qty": "1"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "1"
+  },
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "6823279762356491172007471147439696833"
+}

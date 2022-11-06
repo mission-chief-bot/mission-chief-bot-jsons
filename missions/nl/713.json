@@ -1,1 +1,36 @@
-{"missionId": "713", "missionName": "Brand in hooischuur", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "voorlichters", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "maximale patiënten aantal", "qty": "2"}], "credits": "4515"}
+{
+ "missionId": "713",
+ "missionName": "Brand in hooischuur",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "voorlichters",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "2"
+  }
+ ],
+ "credits": "4515",
+ "version": "60070086153479120954025241529893542838"
+}

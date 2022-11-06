@@ -1,1 +1,16 @@
-{"missionId": "196", "missionName": "Injured Hiker", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "196",
+ "missionName": "Injured Hiker",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "252447647276532010151655789969657301468"
+}

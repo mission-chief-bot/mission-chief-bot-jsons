@@ -1,1 +1,40 @@
-{"missionId": "182/a", "missionName": "Rozległy pożar wysypiska śmieci", "requirements": [{"requirement": "rozbudowy dla pojazdów proszkowych", "qty": "2"}, {"requirement": "samochody wężowe", "qty": "1"}, {"requirement": "samochody pożarnicze", "qty": "17"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "cysterny z wodą", "qty": "1"}, {"requirement": "samochody dowodzenia i łączności", "qty": "1"}, {"requirement": "sp rchem", "qty": "1"}, {"requirement": "samochody ze zbiornikiem na piane", "qty": "2"}], "credits": "10900"}
+{
+ "missionId": "182/a",
+ "missionName": "Rozległy pożar wysypiska śmieci",
+ "requirements": [
+  {
+   "requirement": "rozbudowy dla pojazdów proszkowych",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody wężowe",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "17"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ze zbiornikiem na piane",
+   "qty": "2"
+  }
+ ],
+ "credits": "10900",
+ "version": "192765225689703430794292215084685787165"
+}

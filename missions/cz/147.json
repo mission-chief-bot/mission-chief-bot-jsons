@@ -1,1 +1,28 @@
-{"missionId": "147", "missionName": "Požár vlakové soupravy", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "velitelské automobily", "qty": "3"}, {"requirement": "kombinované hasící automobily", "qty": "1"}, {"requirement": "mobilní operační střediska", "qty": "1"}, {"requirement": "protiplynové automobily", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "147",
+ "missionName": "Požár vlakové soupravy",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "4"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "kombinované hasící automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobilní operační střediska",
+   "qty": "1"
+  },
+  {
+   "requirement": "protiplynové automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "209859951213322895505813460397074607339"
+}

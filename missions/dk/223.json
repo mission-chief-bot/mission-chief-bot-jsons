@@ -1,1 +1,12 @@
-{"missionId": "223", "missionName": "Beruset person til julemarked", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "223",
+ "missionName": "Beruset person til julemarked",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "333330675401000753358139879460568074094"
+}

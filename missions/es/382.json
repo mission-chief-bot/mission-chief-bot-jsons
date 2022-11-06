@@ -1,1 +1,16 @@
-{"missionId": "382", "missionName": "Búsqueda de huevos submarina", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}, {"requirement": "coches patrulla", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "382",
+ "missionName": "Búsqueda de huevos submarina",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "285069926514296222304946766742604050567"
+}

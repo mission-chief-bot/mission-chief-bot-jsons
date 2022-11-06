@@ -1,1 +1,12 @@
-{"missionId": "101", "missionName": "Børste stjålet fra værksted", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "101",
+ "missionName": "Børste stjålet fra værksted",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "191163065485421135609057800217511245518"
+}

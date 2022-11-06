@@ -1,1 +1,44 @@
-{"missionId": "171-0", "missionName": "Brann i kontorbygg", "requirements": [{"requirement": "brannbiler", "qty": "10"}, {"requirement": "tungredningsbiler", "qty": "2"}, {"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "politibiler", "qty": "3"}, {"requirement": "tankbiler", "qty": "1"}, {"requirement": "stigebil", "qty": "4"}, {"requirement": "slangebiler", "qty": "1"}, {"requirement": "tilhengerpumper", "qty": "1"}, {"requirement": "maks pasienter", "qty": "4"}], "credits": "8000"}
+{
+ "missionId": "171-0",
+ "missionName": "Brann i kontorbygg",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "2"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "stigebil",
+   "qty": "4"
+  },
+  {
+   "requirement": "slangebiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "tilhengerpumper",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "8000",
+ "version": "48620234642307532848484250542163932952"
+}

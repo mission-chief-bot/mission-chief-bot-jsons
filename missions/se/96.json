@@ -1,1 +1,12 @@
-{"missionId": "96", "missionName": "Alkoholpåverkad förare efter nyårsfest", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "96",
+ "missionName": "Alkoholpåverkad förare efter nyårsfest",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "248223773017062473520084404417205781735"
+}

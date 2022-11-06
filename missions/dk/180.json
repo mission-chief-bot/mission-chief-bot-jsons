@@ -1,1 +1,12 @@
-{"missionId": "180", "missionName": "Kemikalie Forbranding Uheld", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "180",
+ "missionName": "Kemikalie Forbranding Uheld",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "257581845383864933803872330005855673232"
+}

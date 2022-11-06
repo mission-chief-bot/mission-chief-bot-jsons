@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Yangin detektör alarmi", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Yangin detektör alarmi",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "79257968491645575515643821190397633882"
+}

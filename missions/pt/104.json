@@ -1,1 +1,12 @@
-{"missionId": "104", "missionName": "Lesões cerebrais graves", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "104",
+ "missionName": "Lesões cerebrais graves",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "194556497886175554845865927521165069939"
+}

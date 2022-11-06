@@ -1,1 +1,12 @@
-{"missionId": "199", "missionName": "Pequeno incêndio rural causado por fogo-de-artifício", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "199",
+ "missionName": "Pequeno incêndio rural causado por fogo-de-artifício",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "7182100458473691955712233003743463247"
+}

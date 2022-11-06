@@ -1,1 +1,12 @@
-{"missionId": "352", "missionName": "Person falt i løvhaug", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "352",
+ "missionName": "Person falt i løvhaug",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "123787953238506914726791503064807998972"
+}

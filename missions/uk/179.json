@@ -1,1 +1,16 @@
-{"missionId": "179", "missionName": "Hare Coursing", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "dog support units (dsus)", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "179",
+ "missionName": "Hare Coursing",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "dog support units (dsus)",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "314805934138574976135334958570111078182"
+}

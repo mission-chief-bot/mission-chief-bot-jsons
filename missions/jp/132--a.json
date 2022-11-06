@@ -1,1 +1,36 @@
-{"missionId": "132/a", "missionName": "工場の小規模火災", "requirements": [{"requirement": "消火サポート拡張", "qty": "1"}, {"requirement": "消防車", "qty": "4"}, {"requirement": "水", "qty": "10000"}, {"requirement": "消防隊長車両", "qty": "2"}, {"requirement": "指令車", "qty": "1"}, {"requirement": "ポンプ積載車", "qty": "1"}, {"requirement": "最大患者", "qty": "3"}], "credits": "2200"}
+{
+ "missionId": "132/a",
+ "missionName": "工場の小規模火災",
+ "requirements": [
+  {
+   "requirement": "消火サポート拡張",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "4"
+  },
+  {
+   "requirement": "水",
+   "qty": "10000"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "指令車",
+   "qty": "1"
+  },
+  {
+   "requirement": "ポンプ積載車",
+   "qty": "1"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "3"
+  }
+ ],
+ "credits": "2200",
+ "version": "324025308909366244272490364426840421237"
+}

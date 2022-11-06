@@ -1,1 +1,12 @@
-{"missionId": "589", "missionName": "Verkehrsunsicherer Rentierschlitten", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "589",
+ "missionName": "Verkehrsunsicherer Rentierschlitten",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "328408752532953272671780752124810440267"
+}

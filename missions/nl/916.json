@@ -1,1 +1,12 @@
-{"missionId": "916", "missionName": "Feestkleding gestolen", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "916",
+ "missionName": "Feestkleding gestolen",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "156799907468628086659812469353487137049"
+}

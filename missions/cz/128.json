@@ -1,1 +1,12 @@
-{"missionId": "128", "missionName": "Neoprávněné držení zbraní", "requirements": [{"requirement": "policejní automobily", "qty": "4"}], "credits": "2500"}
+{
+ "missionId": "128",
+ "missionName": "Neoprávněné držení zbraní",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  }
+ ],
+ "credits": "2500",
+ "version": "132604351419653186353128137968035853633"
+}

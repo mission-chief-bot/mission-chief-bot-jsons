@@ -1,1 +1,12 @@
-{"missionId": "242", "missionName": "Skade fra defekt fyrverkeri", "requirements": [{"requirement": "maks pasienter", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "242",
+ "missionName": "Skade fra defekt fyrverkeri",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "307170852487638273129953214142228271967"
+}

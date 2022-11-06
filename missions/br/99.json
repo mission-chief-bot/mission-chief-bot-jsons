@@ -1,1 +1,12 @@
-{"missionId": "99", "missionName": "Choque anafilático", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "99",
+ "missionName": "Choque anafilático",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "239449556498498435910969437114625900541"
+}

@@ -1,1 +1,12 @@
-{"missionId": "468", "missionName": "Abandoned luggage", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "468",
+ "missionName": "Abandoned luggage",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "122577084620555735782365726600150250560"
+}

@@ -1,1 +1,24 @@
-{"missionId": "286", "missionName": "Carbon monoxide poisoning", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "ambulances", "qty": "2"}, {"requirement": "max. patients", "qty": "6"}], "credits": "1500"}
+{
+ "missionId": "286",
+ "missionName": "Carbon monoxide poisoning",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "1500",
+ "version": "12831742228455709766750427926711426528"
+}

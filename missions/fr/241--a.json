@@ -1,1 +1,52 @@
-{"missionId": "241/a", "missionName": "Atelier de menuiserie en feu", "requirements": [{"requirement": "postes de secours", "qty": "2"}, {"requirement": "fourgons d\u2019incendie", "qty": "10"}, {"requirement": "camion dévidoir", "qty": "2"}, {"requirement": "vlhr", "qty": "4"}, {"requirement": "moyen el\u00e9vateur a\u00e9rien", "qty": "2"}, {"requirement": "CCF", "qty": "1"}, {"requirement": "assistance respiratoire e", "qty": "1"}, {"requirement": "v\u00e9hicules poste de commandement", "qty": "1"}, {"requirement": "voitures de police es", "qty": "2"}, {"requirement": "max. patients", "qty": "3"}, {"requirement": "MEDECIN", "qty": "1"}], "credits": "5200"}
+{
+ "missionId": "241/a",
+ "missionName": "Atelier de menuiserie en feu",
+ "requirements": [
+  {
+   "requirement": "postes de secours",
+   "qty": "2"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "10"
+  },
+  {
+   "requirement": "camion dévidoir",
+   "qty": "2"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "4"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "2"
+  },
+  {
+   "requirement": "CCF",
+   "qty": "1"
+  },
+  {
+   "requirement": "assistance respiratoire e",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  },
+  {
+   "requirement": "MEDECIN",
+   "qty": "1"
+  }
+ ],
+ "credits": "5200",
+ "version": "195067573107039709100480158840174832257"
+}

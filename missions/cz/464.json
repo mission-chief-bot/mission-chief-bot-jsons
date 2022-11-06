@@ -1,1 +1,24 @@
-{"missionId": "464", "missionName": "Únik paliva na čerpací stanici", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "ta", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "2"}, {"requirement": "policejní automobily", "qty": "3"}], "credits": "4300"}
+{
+ "missionId": "464",
+ "missionName": "Únik paliva na čerpací stanici",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "4"
+  },
+  {
+   "requirement": "ta",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  }
+ ],
+ "credits": "4300",
+ "version": "12200548714896193391158399440872990189"
+}

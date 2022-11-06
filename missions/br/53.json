@@ -1,1 +1,12 @@
-{"missionId": "53", "missionName": "Passageiro caloteiro", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "53",
+ "missionName": "Passageiro caloteiro",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "75764189158978827114035625355768649472"
+}

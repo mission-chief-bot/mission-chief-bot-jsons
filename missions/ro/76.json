@@ -1,1 +1,12 @@
-{"missionId": "76", "missionName": "Perie furată din Atelier", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "76",
+ "missionName": "Perie furată din Atelier",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "74278061101918256681092466206764160346"
+}

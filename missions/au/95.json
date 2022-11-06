@@ -1,1 +1,16 @@
-{"missionId": "95", "missionName": "Damaged Roof", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "turntable ladder trucks", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "95",
+ "missionName": "Damaged Roof",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "turntable ladder trucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "140040743837112221535188452082620465359"
+}

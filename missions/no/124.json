@@ -1,1 +1,16 @@
-{"missionId": "124", "missionName": "Bensinstasjonsran", "requirements": [{"requirement": "politibiler", "qty": "4"}, {"requirement": "politihelikoptere", "qty": "1"}], "credits": "1250"}
+{
+ "missionId": "124",
+ "missionName": "Bensinstasjonsran",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "politihelikoptere",
+   "qty": "1"
+  }
+ ],
+ "credits": "1250",
+ "version": "21093964467747476719292712941044623587"
+}

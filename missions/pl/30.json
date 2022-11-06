@@ -1,1 +1,12 @@
-{"missionId": "30", "missionName": "Wyciek paliwa", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "30",
+ "missionName": "Wyciek paliwa",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "58294432672472630986842728911796246319"
+}

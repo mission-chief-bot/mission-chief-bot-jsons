@@ -1,1 +1,20 @@
-{"missionId": "310", "missionName": "Verkeersongeval met scooter en fietser", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "2"}, {"requirement": "mmt-arts", "qty": "2"}], "credits": "750"}
+{
+ "missionId": "310",
+ "missionName": "Verkeersongeval met scooter en fietser",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "2"
+  },
+  {
+   "requirement": "mmt-arts",
+   "qty": "2"
+  }
+ ],
+ "credits": "750",
+ "version": "11456759151098213214855120504375793739"
+}

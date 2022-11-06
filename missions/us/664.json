@@ -1,1 +1,12 @@
-{"missionId": "664", "missionName": "Fire at the carnival ball", "requirements": [{"requirement": "firetrucks", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "664",
+ "missionName": "Fire at the carnival ball",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "303867801958343634899300802784146653394"
+}

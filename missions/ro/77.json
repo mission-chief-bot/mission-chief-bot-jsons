@@ -1,1 +1,24 @@
-{"missionId": "77", "missionName": "Gaură de iepure prăbușită", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "4"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "2"}, {"requirement": "vehicule grele de salvare necesare", "qty": "1"}, {"requirement": "mașini de poliție necesare", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "77",
+ "missionName": "Gaură de iepure prăbușită",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "4"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "vehicule grele de salvare necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "127437323549974076019839642547560289868"
+}

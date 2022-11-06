@@ -1,1 +1,12 @@
-{"missionId": "423", "missionName": "132 Polttoainevarkaus huoltoasemalla", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "423",
+ "missionName": "132 Polttoainevarkaus huoltoasemalla",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "304308148827352015323153641163114248406"
+}

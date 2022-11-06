@@ -1,1 +1,32 @@
-{"missionId": "415", "missionName": "Gruvekollaps", "requirements": [{"requirement": "brannbiler", "qty": "10"}, {"requirement": "tungredningsbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "4"}, {"requirement": "politibiler", "qty": "3"}, {"requirement": "cbrne enheter", "qty": "2"}, {"requirement": "maks pasienter", "qty": "25"}], "credits": "9000"}
+{
+ "missionId": "415",
+ "missionName": "Gruvekollaps",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "4"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "cbrne enheter",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "25"
+  }
+ ],
+ "credits": "9000",
+ "version": "100243706652268745220474094433738965974"
+}

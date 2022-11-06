@@ -1,1 +1,24 @@
-{"missionId": "425", "missionName": "Disparos Contra Agente", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "8"}, {"requirement": "equipas operacionais cinotécnicas necessárias:", "qty": "2"}, {"requirement": "veículos do corpo/unidade de intervenção necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "2"}], "credits": "4100"}
+{
+ "missionId": "425",
+ "missionName": "Disparos Contra Agente",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "8"
+  },
+  {
+   "requirement": "equipas operacionais cinotécnicas necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos do corpo/unidade de intervenção necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "2"
+  }
+ ],
+ "credits": "4100",
+ "version": "275874438120784101792860310996718677289"
+}

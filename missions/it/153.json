@@ -1,1 +1,12 @@
-{"missionId": "153", "missionName": "Mandato di arresto", "requirements": [{"requirement": "pattuglie", "qty": "3"}], "credits": "2000"}
+{
+ "missionId": "153",
+ "missionName": "Mandato di arresto",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  }
+ ],
+ "credits": "2000",
+ "version": "224239823194907231491732669599948419127"
+}

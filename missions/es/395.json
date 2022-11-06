@@ -1,1 +1,12 @@
-{"missionId": "395", "missionName": "Propiedad dañada", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "395",
+ "missionName": "Propiedad dañada",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "111073878178580810492962754245667952915"
+}

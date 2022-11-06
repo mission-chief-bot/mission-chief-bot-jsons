@@ -1,1 +1,12 @@
-{"missionId": "40", "missionName": "Chute", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "40",
+ "missionName": "Chute",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "36175572485206031357227796327227071310"
+}

@@ -1,1 +1,12 @@
-{"missionId": "224", "missionName": "Back Pain", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "224",
+ "missionName": "Back Pain",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "13045777700050032524947658998716223179"
+}

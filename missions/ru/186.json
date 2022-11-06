@@ -1,1 +1,12 @@
-{"missionId": "186", "missionName": "Провоз контрабанды", "requirements": [{"requirement": "полицейские автомобили", "qty": "3"}], "credits": "Грузовой порт"}
+{
+ "missionId": "186",
+ "missionName": "Провоз контрабанды",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "3"
+  }
+ ],
+ "credits": "Грузовой порт",
+ "version": "107893275472949622245681316311477878850"
+}

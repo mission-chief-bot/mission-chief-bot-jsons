@@ -1,1 +1,12 @@
-{"missionId": "389", "missionName": "Smell of burning (Commercial)", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "3000"}
+{
+ "missionId": "389",
+ "missionName": "Smell of burning (Commercial)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "3000",
+ "version": "314654332716376869145977866010915102466"
+}

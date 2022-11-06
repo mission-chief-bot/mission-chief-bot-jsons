@@ -1,1 +1,20 @@
-{"missionId": "729", "missionName": "Fahndung nach Kälberdieb", "requirements": [{"requirement": "streifenwagen", "qty": "5"}, {"requirement": "dhufükw", "qty": "2"}, {"requirement": "polizeihubschrauber", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "729",
+ "missionName": "Fahndung nach Kälberdieb",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "5"
+  },
+  {
+   "requirement": "dhufükw",
+   "qty": "2"
+  },
+  {
+   "requirement": "polizeihubschrauber",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "182681834635676797958800135236562370565"
+}

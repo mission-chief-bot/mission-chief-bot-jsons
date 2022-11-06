@@ -1,1 +1,24 @@
-{"missionId": "176", "missionName": "Terremoto (PICCOLO)", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "5"}], "credits": "2"}
+{
+ "missionId": "176",
+ "missionName": "Terremoto (PICCOLO)",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "5"
+  }
+ ],
+ "credits": "2",
+ "version": "258639174700810216449347562550758870187"
+}

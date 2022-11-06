@@ -1,1 +1,16 @@
-{"missionId": "313", "missionName": "Brand in passagierstrein", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "313",
+ "missionName": "Brand in passagierstrein",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "272352833038808203574611635712762381014"
+}

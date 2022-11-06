@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Brand ute - telefonkiosk", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Brand ute - telefonkiosk",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "116857419739766899592367229176514701135"
+}

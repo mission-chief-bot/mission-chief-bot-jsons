@@ -1,1 +1,16 @@
-{"missionId": "345", "missionName": "Fuite de Gaz - Procédure commune", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "voitures de police es", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "345",
+ "missionName": "Fuite de Gaz - Procédure commune",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "326246107460490430358079779042252937197"
+}

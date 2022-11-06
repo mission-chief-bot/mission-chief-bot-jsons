@@ -1,1 +1,20 @@
-{"missionId": "26", "missionName": "Incêndio num Supermercado", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "4"}, {"requirement": "veículos de comando tático necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "26",
+ "missionName": "Incêndio num Supermercado",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos de comando tático necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "99695053411119250155258228797742764144"
+}

@@ -1,1 +1,12 @@
-{"missionId": "292", "missionName": "Heatstroke", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "292",
+ "missionName": "Heatstroke",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "334714067887031439835517346727201827317"
+}

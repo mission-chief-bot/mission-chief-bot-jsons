@@ -1,1 +1,36 @@
-{"missionId": "253", "missionName": "Queda de pequena estrutura metálica", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "2"}, {"requirement": "caminhões plataforma necessários", "qty": "1"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "veículos de resgate pesado necessários", "qty": "1"}, {"requirement": "viaturas de polícia necessárias", "qty": "2"}, {"requirement": "máx. de pacientes", "qty": "4"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "25"}], "credits": "3500"}
+{
+ "missionId": "253",
+ "missionName": "Queda de pequena estrutura metálica",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "4"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "25"
+  }
+ ],
+ "credits": "3500",
+ "version": "129724412420639298624411844220115835412"
+}

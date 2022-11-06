@@ -1,1 +1,12 @@
-{"missionId": "133", "missionName": "Trabalho de Parto", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "133",
+ "missionName": "Trabalho de Parto",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "131181156070500853411856290475092732032"
+}

@@ -1,1 +1,24 @@
-{"missionId": "485", "missionName": "Karambol na moście", "requirements": [{"requirement": "samochody pożarnicze", "qty": "6"}, {"requirement": "slop lub slrr", "qty": "2"}, {"requirement": "samochody ratownictwa technicznego", "qty": "2"}, {"requirement": "maks. pacjenci", "qty": "6"}], "credits": "4100"}
+{
+ "missionId": "485",
+ "missionName": "Karambol na moście",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "6"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "6"
+  }
+ ],
+ "credits": "4100",
+ "version": "317864560207740829578735454724901461080"
+}

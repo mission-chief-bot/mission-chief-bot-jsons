@@ -1,1 +1,12 @@
-{"missionId": "230", "missionName": "Champ de citrouilles en feu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "230",
+ "missionName": "Champ de citrouilles en feu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "228242124325282289992094648647536564700"
+}

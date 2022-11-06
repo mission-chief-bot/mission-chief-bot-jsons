@@ -1,1 +1,12 @@
-{"missionId": "255", "missionName": "Ugryzienie zombie", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "255",
+ "missionName": "Ugryzienie zombie",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "291750051519988768960402396245571858101"
+}

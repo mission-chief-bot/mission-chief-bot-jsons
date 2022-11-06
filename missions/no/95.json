@@ -1,1 +1,16 @@
-{"missionId": "95", "missionName": "Vold mot offentlig tjenesteperson", "requirements": [{"requirement": "politibiler", "qty": "2"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "95",
+ "missionName": "Vold mot offentlig tjenesteperson",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "26877781479038977613515813147426805021"
+}

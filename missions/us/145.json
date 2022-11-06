@@ -1,1 +1,12 @@
-{"missionId": "145", "missionName": "Burning Garbage Truck", "requirements": [{"requirement": "firetrucks", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "145",
+ "missionName": "Burning Garbage Truck",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "196573780557942772575826617992055669435"
+}

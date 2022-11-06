@@ -1,1 +1,12 @@
-{"missionId": "262", "missionName": "Burenruzie", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "430"}
+{
+ "missionId": "262",
+ "missionName": "Burenruzie",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "430",
+ "version": "57167414441413466394148630215155258642"
+}

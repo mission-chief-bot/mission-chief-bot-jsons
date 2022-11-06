@@ -1,1 +1,16 @@
-{"missionId": "139", "missionName": "291 Ajoneuvon tarkastus", "requirements": [{"requirement": "poliisiautot", "qty": "2"}, {"requirement": "koirapartiot", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "139",
+ "missionName": "291 Ajoneuvon tarkastus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "329959503067960547892514863359811103407"
+}

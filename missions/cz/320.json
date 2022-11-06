@@ -1,1 +1,16 @@
-{"missionId": "320", "missionName": "Hořící kuchyň", "requirements": [ {"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "320",
+ "missionName": "Hořící kuchyň",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "248056644520374312076452997303404824573"
+}

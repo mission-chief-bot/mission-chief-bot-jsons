@@ -1,1 +1,12 @@
-{"missionId": "103", "missionName": "Marquesina en llamas a causa de los fuegos artificiales", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "103",
+ "missionName": "Marquesina en llamas a causa de los fuegos artificiales",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "78088703721189073027143163207831181093"
+}

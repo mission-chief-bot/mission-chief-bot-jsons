@@ -1,1 +1,12 @@
-{"missionId": "330", "missionName": "Hipotermia tras nadar en aguas frías", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "330",
+ "missionName": "Hipotermia tras nadar en aguas frías",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "188626157552249720184323851521318615985"
+}

@@ -1,1 +1,12 @@
-{"missionId": "35", "missionName": "Алкогольне отруєння", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "35",
+ "missionName": "Алкогольне отруєння",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "32112373157160447776043663025172243248"
+}

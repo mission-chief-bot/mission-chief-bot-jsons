@@ -1,1 +1,16 @@
-{"missionId": "501", "missionName": "Anniversary party guest unconscious", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "minimum number of patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "501",
+ "missionName": "Anniversary party guest unconscious",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "225166426183429244268196838774105494769"
+}

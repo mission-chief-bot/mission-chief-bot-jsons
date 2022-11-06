@@ -1,1 +1,16 @@
-{"missionId": "640", "missionName": "Brand in hangaar", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "afo/osc", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "640",
+ "missionName": "Brand in hangaar",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "afo/osc",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "23209489867691667332357089380476306968"
+}

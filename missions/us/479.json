@@ -1,1 +1,32 @@
-{"missionId": "479", "missionName": "Train station collapse (Medium)", "requirements": [{"requirement": "firetrucks", "qty": "6"}, {"requirement": "battalion chief vehicles", "qty": "2"}, {"requirement": "heavy rescue vehicles", "qty": "4"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "ems chief", "qty": "1"}, {"requirement": "max. patients", "qty": "10"}], "credits": "6000"}
+{
+ "missionId": "479",
+ "missionName": "Train station collapse (Medium)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "6"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "ems chief",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "credits": "6000",
+ "version": "39123041806116364637073727046971625131"
+}

@@ -1,1 +1,16 @@
-{"missionId": "312", "missionName": "Pojazd w rowie", "requirements": [{"requirement": "samochody pożarnicze", "qty": "2"}, {"requirement": "samochody ratownictwa technicznego", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "312",
+ "missionName": "Pojazd w rowie",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "263943660656454847177391416563161667733"
+}

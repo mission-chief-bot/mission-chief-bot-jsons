@@ -1,1 +1,16 @@
-{"missionId": "299", "missionName": "Des papillons dans le ventre", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "299",
+ "missionName": "Des papillons dans le ventre",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "125931638199751991612184427547374826927"
+}

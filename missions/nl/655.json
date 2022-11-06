@@ -1,1 +1,12 @@
-{"missionId": "655", "missionName": "Koperdiefstal", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "840"}
+{
+ "missionId": "655",
+ "missionName": "Koperdiefstal",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "840",
+ "version": "301065583162492459688378190868519416190"
+}

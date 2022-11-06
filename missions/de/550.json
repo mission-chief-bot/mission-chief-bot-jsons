@@ -1,1 +1,48 @@
-{"missionId": "550", "missionName": "LKW auf PKW gestürzt", "requirements": [{"requirement": "löschfahrzeuge", "qty": "5"}, {"requirement": "rüstwagen", "qty": "3"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "gw-öl", "qty": "1"}, {"requirement": "feuerwehrkräne (fwk)", "qty": "1"}, {"requirement": "gkw", "qty": "1"}, {"requirement": "streifenwagen", "qty": "4"}, {"requirement": "rtw", "qty": "6"}, {"requirement": "nef", "qty": "5"}, {"requirement": "lna", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "550",
+ "missionName": "LKW auf PKW gestürzt",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "5"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "3"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-öl",
+   "qty": "1"
+  },
+  {
+   "requirement": "feuerwehrkräne (fwk)",
+   "qty": "1"
+  },
+  {
+   "requirement": "gkw",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "6"
+  },
+  {
+   "requirement": "nef",
+   "qty": "5"
+  },
+  {
+   "requirement": "lna",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "288203333601751795148993953211899477302"
+}

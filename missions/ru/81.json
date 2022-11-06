@@ -1,1 +1,16 @@
-{"missionId": "81", "missionName": "Драка на рождественском рынке", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}, {"requirement": "макс. пациенты", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "81",
+ "missionName": "Драка на рождественском рынке",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "225786679567018092910560093648317815234"
+}

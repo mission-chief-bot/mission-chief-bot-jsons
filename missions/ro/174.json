@@ -1,1 +1,12 @@
-{"missionId": "174", "missionName": "Mașină incendiată de artificii", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "370"}
+{
+ "missionId": "174",
+ "missionName": "Mașină incendiată de artificii",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "370",
+ "version": "96949084310748365645065829943188094289"
+}

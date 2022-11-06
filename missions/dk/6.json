@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Ild i haveskur", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Ild i haveskur",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "235396578784060418209816510782398376057"
+}

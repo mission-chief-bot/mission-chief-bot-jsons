@@ -1,1 +1,12 @@
-{"missionId": "186", "missionName": "Leziune la mână provocată de artificii", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "186",
+ "missionName": "Leziune la mână provocată de artificii",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "257644617528653338810427174237600577374"
+}

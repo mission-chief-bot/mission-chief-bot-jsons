@@ -1,1 +1,12 @@
-{"missionId": "199", "missionName": "道路近くでの花火使用", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "199",
+ "missionName": "道路近くでの花火使用",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "97123151743936381566216352832231797786"
+}

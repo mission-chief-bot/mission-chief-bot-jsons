@@ -1,1 +1,20 @@
-{"missionId": "355", "missionName": "Vol avec violence", "requirements": [{"requirement": "voitures de police es", "qty": "3"}, {"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "355",
+ "missionName": "Vol avec violence",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "171475821162276341932126070292428882749"
+}

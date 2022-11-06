@@ -1,1 +1,20 @@
-{"missionId": "66", "missionName": "Witch in tree", "requirements": [{"requirement": "platform trucks", "qty": "1"}, {"requirement": "firetrucks", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "66",
+ "missionName": "Witch in tree",
+ "requirements": [
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "30296125669675392458171853002005041859"
+}

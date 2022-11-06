@@ -1,1 +1,32 @@
-{"missionId": "500", "missionName": "Kettingbotsing", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "500",
+ "missionName": "Kettingbotsing",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "58981906941226925864497900038904032702"
+}

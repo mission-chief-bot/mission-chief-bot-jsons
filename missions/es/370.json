@@ -1,1 +1,12 @@
-{"missionId": "370", "missionName": "Intoxicación alimentaria de bayas silvestres", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "800"}
+{
+ "missionId": "370",
+ "missionName": "Intoxicación alimentaria de bayas silvestres",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "800",
+ "version": "155926971644538521002051687022011350053"
+}

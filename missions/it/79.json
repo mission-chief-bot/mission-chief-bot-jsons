@@ -1,1 +1,12 @@
-{"missionId": "79", "missionName": "Albero di Natale in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "870"}
+{
+ "missionId": "79",
+ "missionName": "Albero di Natale in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "870",
+ "version": "157971672026204764378438930273452759813"
+}

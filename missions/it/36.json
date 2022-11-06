@@ -1,1 +1,12 @@
-{"missionId": "36", "missionName": "Dolore toracico", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "36",
+ "missionName": "Dolore toracico",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "135080183409245212678650564682036160280"
+}

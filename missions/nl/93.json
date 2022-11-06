@@ -1,1 +1,12 @@
-{"missionId": "93", "missionName": "Gebroken rib", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "93",
+ "missionName": "Gebroken rib",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "228054561266865772377493785190020579238"
+}

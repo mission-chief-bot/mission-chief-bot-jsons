@@ -1,1 +1,12 @@
-{"missionId": "391", "missionName": "Escaped dog", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "391",
+ "missionName": "Escaped dog",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "34228298514879652713971572237377987246"
+}

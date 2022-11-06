@@ -1,1 +1,12 @@
-{"missionId": "208/a", "missionName": "不審な箱", "requirements": [{"requirement": "警察車両", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "208/a",
+ "missionName": "不審な箱",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "172341402283211135554413335679576970374"
+}

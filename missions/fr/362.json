@@ -1,1 +1,32 @@
-{"missionId": "362", "missionName": "Chute d'un petit échafaudage", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}, {"requirement": "véhicule de secours routier", "qty": "1"}, {"requirement": "voitures de police es", "qty": "2"}, {"requirement": "max. patients", "qty": "4"}], "credits": "3500"}
+{
+ "missionId": "362",
+ "missionName": "Chute d'un petit échafaudage",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicule de secours routier",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "3500",
+ "version": "269530112593374900353474374915145914213"
+}

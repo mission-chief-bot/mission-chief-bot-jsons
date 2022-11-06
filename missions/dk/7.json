@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Ild i blade", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Ild i blade",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "6643095219008367278721679818150678586"
+}

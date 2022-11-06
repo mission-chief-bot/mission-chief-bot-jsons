@@ -1,1 +1,16 @@
-{"missionId": "377", "missionName": "Illegal Street Vendor", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "max. patients", "qty": "2"}], "credits": "3500"}
+{
+ "missionId": "377",
+ "missionName": "Illegal Street Vendor",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "3500",
+ "version": "65156607969466109047521836662476400477"
+}

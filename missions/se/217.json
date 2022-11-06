@@ -1,1 +1,16 @@
-{"missionId": "217", "missionName": "Inbrottslarm, Höghus", "requirements": [{"requirement": "polisbilar", "qty": "2"}, {"requirement": "hundenheter", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "217",
+ "missionName": "Inbrottslarm, Höghus",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "151509359100101696782936401022586172487"
+}

@@ -1,1 +1,16 @@
-{"missionId": "237", "missionName": "Výroční balónek hosta uvízl ve stromě", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "automobilové žebříky", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "237",
+ "missionName": "Výroční balónek hosta uvízl ve stromě",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "293565729032986600866538814838692088068"
+}

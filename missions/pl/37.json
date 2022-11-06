@@ -1,1 +1,12 @@
-{"missionId": "37", "missionName": "Zaostrzenie astmy", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "37",
+ "missionName": "Zaostrzenie astmy",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "172261797822147188252100507009128811174"
+}

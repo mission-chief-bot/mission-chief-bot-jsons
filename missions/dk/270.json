@@ -1,1 +1,12 @@
-{"missionId": "270", "missionName": "Stor Vej Blokade", "requirements": [{"requirement": "påkrævede politibiler", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "270",
+ "missionName": "Stor Vej Blokade",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "201722700753899266885595947201634339317"
+}

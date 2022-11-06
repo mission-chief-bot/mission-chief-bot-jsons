@@ -1,1 +1,16 @@
-{"missionId": "522", "missionName": "Medizinischer Notfall in Flugzeug", "requirements": [{"requirement": "drehleitern", "qty": "1"}, {"requirement": "rtw, naw", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "522",
+ "missionName": "Medizinischer Notfall in Flugzeug",
+ "requirements": [
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "324156021410704591572570864468396495856"
+}

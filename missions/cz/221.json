@@ -1,1 +1,12 @@
-{"missionId": "221", "missionName": "Opilý řidič po silvestrovské oslavě", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "221",
+ "missionName": "Opilý řidič po silvestrovské oslavě",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "66116698999832719970376405951522917130"
+}

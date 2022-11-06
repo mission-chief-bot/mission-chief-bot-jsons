@@ -1,1 +1,16 @@
-{"missionId": "266", "missionName": "Grande protesta violenta", "requirements": [{"requirement": "pattuglie", "qty": "6"}, {"requirement": "max pazienti", "qty": "20"}], "credits": "7"}
+{
+ "missionId": "266",
+ "missionName": "Grande protesta violenta",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "6"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "20"
+  }
+ ],
+ "credits": "7",
+ "version": "130326912784742700528808743134919269301"
+}

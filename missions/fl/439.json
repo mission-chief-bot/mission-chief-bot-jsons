@@ -1,1 +1,32 @@
-{"missionId": "439", "missionName": "570 Suurmielenosoitus", "requirements": [{"requirement": "poliisihelikopteritukikohta", "qty": "1"}, {"requirement": "poliisiautot", "qty": "14"}, {"requirement": "koirapartiot", "qty": "4"}, {"requirement": "poliisihelikopterit", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "8"}, {"requirement": "vati-henkilöt", "qty": "16"}], "credits": "7000"}
+{
+ "missionId": "439",
+ "missionName": "570 Suurmielenosoitus",
+ "requirements": [
+  {
+   "requirement": "poliisihelikopteritukikohta",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "14"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "4"
+  },
+  {
+   "requirement": "poliisihelikopterit",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "8"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "16"
+  }
+ ],
+ "credits": "7000",
+ "version": "80059465307701480639459902789943209664"
+}

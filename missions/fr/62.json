@@ -1,1 +1,12 @@
-{"missionId": "62", "missionName": "Tapage", "requirements": [{"requirement": "voitures de police es", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "62",
+ "missionName": "Tapage",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "147953359641291664068065882000960376752"
+}

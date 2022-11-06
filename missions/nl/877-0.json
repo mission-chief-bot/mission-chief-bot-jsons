@@ -1,1 +1,16 @@
-{"missionId": "877-0", "missionName": "Nablussen", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "840"}
+{
+ "missionId": "877-0",
+ "missionName": "Nablussen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "840",
+ "version": "285000516258762054271737927714274677194"
+}

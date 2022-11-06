@@ -1,1 +1,24 @@
-{"missionId": "171", "missionName": "Nález nabouraného vozidla", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}, {"requirement": "rzp", "qty": "1"}, {"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "171",
+ "missionName": "Nález nabouraného vozidla",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "rzp",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "38774464879789969906114408954227285836"
+}

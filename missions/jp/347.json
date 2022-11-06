@@ -1,1 +1,12 @@
-{"missionId": "347", "missionName": "井戸に閉じ込められた動物", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "347",
+ "missionName": "井戸に閉じ込められた動物",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "30207578703761431661005268725204747164"
+}

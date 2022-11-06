@@ -1,1 +1,40 @@
-{"missionId": "723", "missionName": "Explosie in woonhuis", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "2"}, {"requirement": "voorlichters", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "maximale patiënten aantal", "qty": "3"}], "credits": "5490"}
+{
+ "missionId": "723",
+ "missionName": "Explosie in woonhuis",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "2"
+  },
+  {
+   "requirement": "voorlichters",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "3"
+  }
+ ],
+ "credits": "5490",
+ "version": "265275215553353535394429347476395515775"
+}

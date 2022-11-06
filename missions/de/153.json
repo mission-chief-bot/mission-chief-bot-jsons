@@ -1,1 +1,12 @@
-{"missionId": "153", "missionName": "Hilflose Person", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "153",
+ "missionName": "Hilflose Person",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "131415308280852185193229074448581171889"
+}

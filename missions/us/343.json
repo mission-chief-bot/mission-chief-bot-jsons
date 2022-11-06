@@ -1,1 +1,12 @@
-{"missionId": "343", "missionName": "Residential burglar alarm triggered", "requirements": [{"requirement": "police cars", "qty": "3"}], "credits": "600"}
+{
+ "missionId": "343",
+ "missionName": "Residential burglar alarm triggered",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  }
+ ],
+ "credits": "600",
+ "version": "9417522525764982522030673871186063415"
+}

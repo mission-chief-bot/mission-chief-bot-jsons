@@ -1,1 +1,20 @@
-{"missionId": "331", "missionName": "422 Metsäpalo, keskisuuri", "requirements": [{"requirement": "paloautot", "qty": "3"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "letkuajoneuvot", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "331",
+ "missionName": "422 Metsäpalo, keskisuuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "218160869616689705565592606428481133913"
+}

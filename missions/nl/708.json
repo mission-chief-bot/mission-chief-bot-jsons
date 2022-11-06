@@ -1,1 +1,12 @@
-{"missionId": "708", "missionName": "ANPR hit: Gesignaleerd persoon", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "840"}
+{
+ "missionId": "708",
+ "missionName": "ANPR hit: Gesignaleerd persoon",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "840",
+ "version": "216851588254805387704958495533174272195"
+}

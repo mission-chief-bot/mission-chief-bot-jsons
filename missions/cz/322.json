@@ -1,1 +1,32 @@
-{"missionId": "322", "missionName": "Požár ve škole", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "inspektor provozu", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "10"}], "credits": "5000"}
+{
+ "missionId": "322",
+ "missionName": "Požár ve škole",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "4"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "inspektor provozu",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "10"
+  }
+ ],
+ "credits": "5000",
+ "version": "30037489209436527171793177517465169862"
+}

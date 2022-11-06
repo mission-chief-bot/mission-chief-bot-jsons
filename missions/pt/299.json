@@ -1,1 +1,12 @@
-{"missionId": "299", "missionName": "Queda de Relâmpagos na Floresta", "requirements": [{"requirement": "veículos florestais", "qty": "2" }], "credits": "700"}
+{
+ "missionId": "299",
+ "missionName": "Queda de Relâmpagos na Floresta",
+ "requirements": [
+  {
+   "requirement": "veículos florestais",
+   "qty": "2"
+  }
+ ],
+ "credits": "700",
+ "version": "99304606378042604663368160531587870759"
+}

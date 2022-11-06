@@ -1,1 +1,12 @@
-{"missionId": "334", "missionName": "Hipotermia após nadar em água gelada", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "334",
+ "missionName": "Hipotermia após nadar em água gelada",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "313429338791773052071530792935243029894"
+}

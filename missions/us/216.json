@@ -1,1 +1,24 @@
-{"missionId": "216", "missionName": "Home Invasion", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "k-9 units", "qty": "1"}, {"requirement": "swat armoured vehicle", "qty": "1"}], "credits": "1250"}
+{
+ "missionId": "216",
+ "missionName": "Home Invasion",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  },
+  {
+   "requirement": "swat armoured vehicle",
+   "qty": "1"
+  }
+ ],
+ "credits": "1250",
+ "version": "325871549589225338663050257642805625100"
+}

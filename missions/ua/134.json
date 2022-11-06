@@ -1,1 +1,16 @@
-{"missionId": "134", "missionName": "Пожежа у люці", "requirements": [{"requirement": "штабні автомобілі", "qty": "1"}, {"requirement": "пожежні машини", "qty": "2"}], "credits": "210"}
+{
+ "missionId": "134",
+ "missionName": "Пожежа у люці",
+ "requirements": [
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежні машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "210",
+ "version": "272463893726675353642225060638725605640"
+}

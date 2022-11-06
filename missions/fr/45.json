@@ -1,1 +1,12 @@
-{"missionId": "45", "missionName": "Vol à l’étalage", "requirements": [{"requirement": "voitures de police es", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "45",
+ "missionName": "Vol à l’étalage",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "221457968973120885279131491192057921628"
+}

@@ -1,1 +1,12 @@
-{"missionId": "496", "missionName": "Debris on runway", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "496",
+ "missionName": "Debris on runway",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "273772798126413455385561984356366342396"
+}

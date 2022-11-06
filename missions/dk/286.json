@@ -1,1 +1,12 @@
-{"missionId": "286", "missionName": "Røveri hos guldsmed", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "286",
+ "missionName": "Røveri hos guldsmed",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "219047855576647296155589459906908402308"
+}

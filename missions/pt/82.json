@@ -1,1 +1,24 @@
-{"missionId": "82", "missionName": "Ferido num poste de alta tensão", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "1"}, {"requirement": "veículos escada necessários", "qty": "1"}, {"requirement": "veículos de socorro e assistência tático necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "82",
+ "missionName": "Ferido num poste de alta tensão",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos escada necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "284697678398449413079632684939120911517"
+}

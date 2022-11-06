@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "Innbrudd", "requirements": [ {"requirement": "politibiler", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "Innbrudd",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "65514001455360605949647154571468797200"
+}

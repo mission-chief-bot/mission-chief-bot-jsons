@@ -1,1 +1,12 @@
-{"missionId": "408", "missionName": "Smeltet sjokoladekanin", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "408",
+ "missionName": "Smeltet sjokoladekanin",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "246124521528561857483267051848738122891"
+}

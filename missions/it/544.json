@@ -1,1 +1,12 @@
-{"missionId": "544", "missionName": "Operazione Anti-Riciclaggio", "requirements": [{"requirement": "pattuglie", "qty": "8"}], "credits": "2400"}
+{
+ "missionId": "544",
+ "missionName": "Operazione Anti-Riciclaggio",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "8"
+  }
+ ],
+ "credits": "2400",
+ "version": "105258594266316658546183980496355388190"
+}

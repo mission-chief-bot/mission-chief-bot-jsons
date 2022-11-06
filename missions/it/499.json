@@ -1,1 +1,12 @@
-{"missionId": "499", "missionName": "Controllo Soggetto ai Domiciliari", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "499",
+ "missionName": "Controllo Soggetto ai Domiciliari",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "248483468863524915823852628270755225322"
+}

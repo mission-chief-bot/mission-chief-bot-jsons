@@ -1,1 +1,12 @@
-{"missionId": "902", "missionName": "Verhoog bewustzijn van het bestaan van 112 onder kinderen", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "902",
+ "missionName": "Verhoog bewustzijn van het bestaan van 112 onder kinderen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "156187604374686137057020049544353386534"
+}

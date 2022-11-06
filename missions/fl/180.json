@@ -1,1 +1,12 @@
-{"missionId": "180", "missionName": "753 Sähköisku", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "180",
+ "missionName": "753 Sähköisku",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "226815770803967186371007314635754078224"
+}

@@ -1,1 +1,12 @@
-{"missionId": "206", "missionName": "200 Polkupyöräonnettomuus", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "206",
+ "missionName": "200 Polkupyöräonnettomuus",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "278167864000857773188926402083364794069"
+}

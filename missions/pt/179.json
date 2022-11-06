@@ -1,1 +1,16 @@
-{"missionId": "179", "missionName": "Luta no mercado de Natal", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}, {"requirement": "máx. de pacientes:", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "179",
+ "missionName": "Luta no mercado de Natal",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "229466211015343388390960898422743618818"
+}

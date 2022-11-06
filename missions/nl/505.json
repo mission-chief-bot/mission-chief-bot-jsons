@@ -1,1 +1,28 @@
-{"missionId": "505", "missionName": "Brand in fabriekshal", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "505",
+ "missionName": "Brand in fabriekshal",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "35960789527825038173898266449386364452"
+}

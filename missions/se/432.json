@@ -1,1 +1,12 @@
-{"missionId": "432", "missionName": "Händelse - stopp i trafiken", "requirements": [{"requirement": "polisbilar", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "432",
+ "missionName": "Händelse - stopp i trafiken",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "301041212408582024750829073136255977956"
+}

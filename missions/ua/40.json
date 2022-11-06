@@ -1,1 +1,12 @@
-{"missionId": "40", "missionName": "Падіння людини", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "40",
+ "missionName": "Падіння людини",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "300338977037415312517656055535733419935"
+}

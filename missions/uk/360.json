@@ -1,1 +1,12 @@
-{"missionId": "360", "missionName": "Careline activation", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "360",
+ "missionName": "Careline activation",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "18696951508614674233222558125406124643"
+}

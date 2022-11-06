@@ -1,1 +1,24 @@
-{"missionId": "74", "missionName": "Велике займання", "requirements": [{"requirement": "пожежні машини", "qty": "10"}, {"requirement": "штабні автомобілі", "qty": "3"}, {"requirement": "пожежні автодрабини", "qty": "2"}, {"requirement": "пожежно-рятувальні автомобілі", "qty": "2"}], "credits": "10210"}
+{
+ "missionId": "74",
+ "missionName": "Велике займання",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "10"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "3"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "2"
+  },
+  {
+   "requirement": "пожежно-рятувальні автомобілі",
+   "qty": "2"
+  }
+ ],
+ "credits": "10210",
+ "version": "202146569046687985352468388437947564122"
+}

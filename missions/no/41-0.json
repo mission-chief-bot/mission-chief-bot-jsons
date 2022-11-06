@@ -1,1 +1,48 @@
-{"missionId": "41-0", "missionName": "Brann i verksted", "requirements": [ {"requirement": "brannbiler", "qty": "8"}, {"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "tankbiler", "qty": "1"}, {"requirement": "cbrne enheter", "qty": "1"}, {"requirement": "politibiler", "qty": "2"}, {"requirement": "stigebil", "qty": "2"}, {"requirement": "slangebiler", "qty": "1"}, {"requirement": "skum tankbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "4"}], "credits": "7000"}
+{
+ "missionId": "41-0",
+ "missionName": "Brann i verksted",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "8"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "2"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "cbrne enheter",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "stigebil",
+   "qty": "2"
+  },
+  {
+   "requirement": "slangebiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "skum tankbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "7000",
+ "version": "327579031360983502497826365376329512496"
+}

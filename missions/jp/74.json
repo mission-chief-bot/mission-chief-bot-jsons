@@ -1,1 +1,24 @@
-{"missionId": "74", "missionName": "大火事", "requirements": [{"requirement": "消防車", "qty": "10"}, {"requirement": "指令ユニット", "qty": "3"}, {"requirement": "プラットフォームトラック", "qty": "2"}, {"requirement": "大型救助車両", "qty": "2"}], "credits": "10210"}
+{
+ "missionId": "74",
+ "missionName": "大火事",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "10"
+  },
+  {
+   "requirement": "指令ユニット",
+   "qty": "3"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "2"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "2"
+  }
+ ],
+ "credits": "10210",
+ "version": "189054374153967082094474275898971518182"
+}

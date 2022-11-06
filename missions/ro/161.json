@@ -1,1 +1,12 @@
-{"missionId": "161", "missionName": "Persoană suspectă", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "161",
+ "missionName": "Persoană suspectă",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "112294290647932405396204219883732846154"
+}

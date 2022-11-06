@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "화재 현장(잔디밭)", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "화재 현장(잔디밭)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "126132473348573678027722831811544033534"
+}

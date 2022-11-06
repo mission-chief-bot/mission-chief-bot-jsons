@@ -1,1 +1,12 @@
-{"missionId": "136", "missionName": "Misión prioritaria: Caza de huevos de Pascua", "requirements": [{"requirement": "coches patrulla", "qty": "6"}], "credits": "1000"}
+{
+ "missionId": "136",
+ "missionName": "Misión prioritaria: Caza de huevos de Pascua",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "6"
+  }
+ ],
+ "credits": "1000",
+ "version": "326411844889319322858083984298053390613"
+}

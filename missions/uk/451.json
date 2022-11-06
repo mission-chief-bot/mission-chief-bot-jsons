@@ -1,1 +1,32 @@
-{"missionId": "451", "missionName": "Bridge Strike (Double Decker Bus) (Persons reported)", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "fire officers", "qty": "4"}, {"requirement": "rescue support vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "6"}, {"requirement": "traffic cars", "qty": "2"}, {"requirement": "max. patients", "qty": "40"}], "credits": "8000"}
+{
+ "missionId": "451",
+ "missionName": "Bridge Strike (Double Decker Bus) (Persons reported)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "4"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "traffic cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "40"
+  }
+ ],
+ "credits": "8000",
+ "version": "14853129364125794879271681928595743000"
+}

@@ -1,1 +1,16 @@
-{"missionId": "81", "missionName": "Væpnet ran", "requirements": [{"requirement": "politibiler", "qty": "5"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1300"}
+{
+ "missionId": "81",
+ "missionName": "Væpnet ran",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "221956394608796078963596385568651105767"
+}

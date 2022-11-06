@@ -1,1 +1,24 @@
-{"missionId": "958", "missionName": "Voetbalwedstrijd", "requirements": [{"requirement": "bereden brigade (paarden)", "qty": "4"}, {"requirement": "ambulances", "qty": "1"}, {"requirement": "me flexbussen", "qty": "3"}, {"requirement": "me commandovoertuigen", "qty": "1"}], "credits": "10200"}
+{
+ "missionId": "958",
+ "missionName": "Voetbalwedstrijd",
+ "requirements": [
+  {
+   "requirement": "bereden brigade (paarden)",
+   "qty": "4"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  },
+  {
+   "requirement": "me flexbussen",
+   "qty": "3"
+  },
+  {
+   "requirement": "me commandovoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "10200",
+ "version": "844869506149433040873777383823592536"
+}

@@ -1,1 +1,12 @@
-{"missionId": "100", "missionName": "Lesão na coluna vertebral", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "100",
+ "missionName": "Lesão na coluna vertebral",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "1813904363163709795841760850941712436"
+}

@@ -1,1 +1,20 @@
-{"missionId": "175", "missionName": "Landfill fire", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "fire officers", "qty": "3"}, {"requirement": "water carriers", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "175",
+ "missionName": "Landfill fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "3"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "98542118970632842835026495494897179806"
+}

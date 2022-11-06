@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "Hořící motocykl", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "Hořící motocykl",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "156316409436053817768184421987917479476"
+}

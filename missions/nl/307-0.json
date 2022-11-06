@@ -1,1 +1,40 @@
-{"missionId": "307-0", "missionName": "Verkeersongeval met touringcar", "requirements": [{"requirement": "tankautospuiten", "qty": "6"}, {"requirement": "hulpverleningsvoertuigen", "qty": "3"}, {"requirement": "ovd-b's", "qty": "3"}, {"requirement": "hovd's", "qty": "2"}, {"requirement": "commandowagen", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "10"}, {"requirement": "officiers van dienst politie", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "10470"}
+{
+ "missionId": "307-0",
+ "missionName": "Verkeersongeval met touringcar",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "6"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "3"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "3"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "2"
+  },
+  {
+   "requirement": "commandowagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "10"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "10470",
+ "version": "122135763415160364069872987242997572073"
+}

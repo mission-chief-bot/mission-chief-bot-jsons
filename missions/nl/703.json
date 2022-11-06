@@ -1,1 +1,12 @@
-{"missionId": "703", "missionName": "Plotselinge verlammingsverschijnselen", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "703",
+ "missionName": "Plotselinge verlammingsverschijnselen",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "281978332733971548780430947635475759895"
+}

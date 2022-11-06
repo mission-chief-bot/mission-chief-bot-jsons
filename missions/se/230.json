@@ -1,1 +1,12 @@
-{"missionId": "230", "missionName": "Jubileumsgäst drabbad av smärta i lederna efter dans", "requirements": [{"requirement": "mest patienter", "qty": "5"}], "credits": "100"}
+{
+ "missionId": "230",
+ "missionName": "Jubileumsgäst drabbad av smärta i lederna efter dans",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "100",
+ "version": "43407219848636975892853475170360902113"
+}

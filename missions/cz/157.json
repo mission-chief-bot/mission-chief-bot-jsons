@@ -1,1 +1,12 @@
-{"missionId": "157", "missionName": "Řízení dopravy", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "157",
+ "missionName": "Řízení dopravy",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "20174854787673503673405669679759427744"
+}

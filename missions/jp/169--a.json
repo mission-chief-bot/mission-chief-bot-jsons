@@ -1,1 +1,44 @@
-{"missionId": "169/a", "missionName": "トンネル内での多重車両火災", "requirements": [{"requirement": "消火サポート拡張", "qty": "2"}, {"requirement": "消防車", "qty": "6"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "大型救助車両", "qty": "1"}, {"requirement": "水", "qty": "21000"}, {"requirement": "空気充填照明車", "qty": "1"}, {"requirement": "指令車", "qty": "1"}, {"requirement": "ポンプ積載車", "qty": "2"}, {"requirement": "最大患者", "qty": "8"}], "credits": "5400"}
+{
+ "missionId": "169/a",
+ "missionName": "トンネル内での多重車両火災",
+ "requirements": [
+  {
+   "requirement": "消火サポート拡張",
+   "qty": "2"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "6"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "水",
+   "qty": "21000"
+  },
+  {
+   "requirement": "空気充填照明車",
+   "qty": "1"
+  },
+  {
+   "requirement": "指令車",
+   "qty": "1"
+  },
+  {
+   "requirement": "ポンプ積載車",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "8"
+  }
+ ],
+ "credits": "5400",
+ "version": "7526370901049869011829048923421703857"
+}

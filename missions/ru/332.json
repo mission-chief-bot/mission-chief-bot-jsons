@@ -1,1 +1,12 @@
-{"missionId": "332", "missionName": "Человек упал в груду листьев", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "332",
+ "missionName": "Человек упал в груду листьев",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "219915610366593518811800828051811788290"
+}

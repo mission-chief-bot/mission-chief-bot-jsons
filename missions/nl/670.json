@@ -1,1 +1,12 @@
-{"missionId": "670", "missionName": "Toezicht Winkelcentrum", "requirements": [{"requirement": "biketeams", "qty": "1"}], "credits": "2210"}
+{
+ "missionId": "670",
+ "missionName": "Toezicht Winkelcentrum",
+ "requirements": [
+  {
+   "requirement": "biketeams",
+   "qty": "1"
+  }
+ ],
+ "credits": "2210",
+ "version": "124937678889770974961629568643068373738"
+}

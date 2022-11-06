@@ -1,1 +1,16 @@
-{"missionId": "216", "missionName": "Slagsmål til julemarked", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}, {"requirement": "maks. antal patienter", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "216",
+ "missionName": "Slagsmål til julemarked",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "314754218007927556238876917238597611347"
+}

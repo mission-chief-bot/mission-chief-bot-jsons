@@ -1,1 +1,40 @@
-{"missionId": "446", "missionName": "Scrapyard Fire (Large)", "requirements": [{"requirement": "fire engines", "qty": "14"}, {"requirement": "support vehicles", "qty": "3"}, {"requirement": "ladder platform trucks", "qty": "2"}, {"requirement": "bulk water tankers", "qty": "2"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "hazmat units", "qty": "1"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "basu", "qty": "1"}], "credits": "9200"}
+{
+ "missionId": "446",
+ "missionName": "Scrapyard Fire (Large)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "14"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "ladder platform trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "bulk water tankers",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "hazmat units",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "basu",
+   "qty": "1"
+  }
+ ],
+ "credits": "9200",
+ "version": "80808493200269135506096022523769360127"
+}

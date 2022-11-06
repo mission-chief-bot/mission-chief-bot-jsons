@@ -1,1 +1,36 @@
-{"missionId": "104", "missionName": "403 Hotellipalo, erittäin suuri", "requirements": [{"requirement": "paloautot", "qty": "14"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "nostolava-autot", "qty": "2"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "paineilmahuoltoautot", "qty": "1"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "6"}], "credits": "12000"}
+{
+ "missionId": "104",
+ "missionName": "403 Hotellipalo, erittäin suuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "14"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "6"
+  }
+ ],
+ "credits": "12000",
+ "version": "205937923557922243178759266795729467350"
+}

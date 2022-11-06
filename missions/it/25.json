@@ -1,1 +1,20 @@
-{"missionId": "25", "missionName": "Incidente stradale", "requirements": [{"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "aps/abp", "qty": "1"}, {"requirement": "max pazienti", "qty": "4"}], "credits": "1000"}
+{
+ "missionId": "25",
+ "missionName": "Incidente stradale",
+ "requirements": [
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  }
+ ],
+ "credits": "1000",
+ "version": "270696731109402608838706716113429375743"
+}

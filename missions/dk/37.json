@@ -1,1 +1,12 @@
-{"missionId": "37", "missionName": "Akut astma", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "37",
+ "missionName": "Akut astma",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "270990190687551753959614306058327728942"
+}

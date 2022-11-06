@@ -1,1 +1,32 @@
-{"missionId": "687", "missionName": "Brand zonnepanelen", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "voorlichters", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "2"}], "credits": "2030"}
+{
+ "missionId": "687",
+ "missionName": "Brand zonnepanelen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "voorlichters",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "2"
+  }
+ ],
+ "credits": "2030",
+ "version": "181291042182974708100264277886932288417"
+}

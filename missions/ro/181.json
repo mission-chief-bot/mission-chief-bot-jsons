@@ -1,1 +1,12 @@
-{"missionId": "181", "missionName": "Gard viu incendiat de o petardă", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "181",
+ "missionName": "Gard viu incendiat de o petardă",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "1585321083304810048954364202699769972"
+}

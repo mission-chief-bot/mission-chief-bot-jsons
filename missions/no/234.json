@@ -1,1 +1,12 @@
-{"missionId": "234", "missionName": "Brann i pappconteiner som følge av fyrverkeri", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "234",
+ "missionName": "Brann i pappconteiner som følge av fyrverkeri",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "262638544807690416178948087872744055636"
+}

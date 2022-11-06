@@ -1,1 +1,16 @@
-{"missionId": "349", "missionName": "Contrabando de animais exóticos", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "5"}, {"requirement": "máx. de pacientes:", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "349",
+ "missionName": "Contrabando de animais exóticos",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "206955451277763892428570102393207268403"
+}

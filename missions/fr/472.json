@@ -1,1 +1,24 @@
-{"missionId": "472", "missionName": "Inondation dans une grande maison suite à intempéries", "requirements": [{"requirement": "vtu", "qty": "3"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}, {"requirement": "vlhr", "qty": "1"}, {"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "2520"}
+{
+ "missionId": "472",
+ "missionName": "Inondation dans une grande maison suite à intempéries",
+ "requirements": [
+  {
+   "requirement": "vtu",
+   "qty": "3"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "2520",
+ "version": "146413853008681112681197454980400023369"
+}

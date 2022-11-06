@@ -1,1 +1,12 @@
-{"missionId": "377", "missionName": "Überzuckerung", "requirements": [{"requirement": "rtw, naw", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "377",
+ "missionName": "Überzuckerung",
+ "requirements": [
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "23496590854865154460206203744253114473"
+}

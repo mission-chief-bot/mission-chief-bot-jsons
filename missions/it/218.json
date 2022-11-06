@@ -1,1 +1,12 @@
-{"missionId": "218", "missionName": "Caduta da bicicletta", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "550"}
+{
+ "missionId": "218",
+ "missionName": "Caduta da bicicletta",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "550",
+ "version": "71675892083708865998995045491561992975"
+}

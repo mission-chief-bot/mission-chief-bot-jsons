@@ -1,1 +1,16 @@
-{"missionId": "165", "missionName": "Queimaduras de 3º grau", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "100"}], "credits": "100"}
+{
+ "missionId": "165",
+ "missionName": "Queimaduras de 3º grau",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "100"
+  }
+ ],
+ "credits": "100",
+ "version": "110194253792172629323741190587198812906"
+}

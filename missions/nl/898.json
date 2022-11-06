@@ -1,1 +1,20 @@
-{"missionId": "898", "missionName": "Accu ontploft", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "898",
+ "missionName": "Accu ontploft",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "207847798170383024483916978223155822056"
+}

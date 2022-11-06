@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "Возгорание трактора", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "Возгорание трактора",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "138401790785274744214889557230844985697"
+}

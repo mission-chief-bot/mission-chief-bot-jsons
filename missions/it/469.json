@@ -1,1 +1,12 @@
-{"missionId": "469", "missionName": "Sensibilizzare i ragazzi delle scuole sull'utilizzo del 112", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "469",
+ "missionName": "Sensibilizzare i ragazzi delle scuole sull'utilizzo del 112",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "11944768694861853906489215368972153689"
+}

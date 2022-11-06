@@ -1,1 +1,16 @@
-{"missionId": "109", "missionName": "Assèchement de locaux", "requirements": [{"requirement": "vtu", "qty": "1"}, {"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "109",
+ "missionName": "Assèchement de locaux",
+ "requirements": [
+  {
+   "requirement": "vtu",
+   "qty": "1"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "275482572230486674806247622784046729775"
+}

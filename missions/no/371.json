@@ -1,1 +1,12 @@
-{"missionId": "371", "missionName": "Mistanke om Blindtarmbetennelse", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "371",
+ "missionName": "Mistanke om Blindtarmbetennelse",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "313880055552785016085129661116750014424"
+}

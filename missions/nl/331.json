@@ -1,1 +1,16 @@
-{"missionId": "331", "missionName": "Inbraak in bedrijfspand", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "hondengeleider", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "331",
+ "missionName": "Inbraak in bedrijfspand",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "125565744508888337208429789363260948191"
+}

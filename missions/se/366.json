@@ -1,1 +1,40 @@
-{"missionId": "366", "missionName": "Brand ute - järnväg", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "stegbilar", "qty": "1"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "lastväxlare", "qty": "2"}, {"requirement": "tankbilar", "qty": "1"}, {"requirement": "polisbilar", "qty": "1"}, {"requirement": "kemskyddsenhet", "qty": "1"}, {"requirement": "mest patienter", "qty": "5"}], "credits": "1540"}
+{
+ "missionId": "366",
+ "missionName": "Brand ute - järnväg",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "kemskyddsenhet",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "1540",
+ "version": "193211212284324149945178525105410752760"
+}

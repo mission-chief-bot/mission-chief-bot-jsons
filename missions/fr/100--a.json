@@ -1,1 +1,24 @@
-{"missionId": "100/a", "missionName": "Camion poubelle en feu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "3"}, {"requirement": "vlhr", "qty": "2"}, {"requirement": "voitures de police es", "qty": "1"}, {"requirement": "fmogp", "qty": "1"}], "credits": "2200"}
+{
+ "missionId": "100/a",
+ "missionName": "Camion poubelle en feu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "3"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "2"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "fmogp",
+   "qty": "1"
+  }
+ ],
+ "credits": "2200",
+ "version": "186235440867770453856453891710707574176"
+}

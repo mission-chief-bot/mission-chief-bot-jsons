@@ -1,1 +1,11 @@
-{"missionId": "154", "missionName": "Varmekrampe", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}]}
+{
+ "missionId": "154",
+ "missionName": "Varmekrampe",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "52290290530561737427594551131058875436"
+}

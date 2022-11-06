@@ -1,1 +1,20 @@
-{"missionId": "182", "missionName": "Dykkerulykke", "requirements": [{"requirement": "for lett redningsbåt", "qty": "1"}, {"requirement": "for dykkerbil", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "182",
+ "missionName": "Dykkerulykke",
+ "requirements": [
+  {
+   "requirement": "for lett redningsbåt",
+   "qty": "1"
+  },
+  {
+   "requirement": "for dykkerbil",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "91113433194623381849238448581591235441"
+}

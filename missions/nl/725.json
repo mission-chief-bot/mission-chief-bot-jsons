@@ -1,1 +1,12 @@
-{"missionId": "725", "missionName": "Hartritmestoornissen", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "725",
+ "missionName": "Hartritmestoornissen",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "196694912893020391420706499186869170132"
+}

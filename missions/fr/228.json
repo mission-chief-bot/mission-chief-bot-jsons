@@ -1,1 +1,20 @@
-{"missionId": "228", "missionName": "Feu en sous-sol", "requirements": [{"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "fourgons d’incendie", "qty": "3"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1900"}
+{
+ "missionId": "228",
+ "missionName": "Feu en sous-sol",
+ "requirements": [
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1900",
+ "version": "172486479243694138092180082997852018023"
+}

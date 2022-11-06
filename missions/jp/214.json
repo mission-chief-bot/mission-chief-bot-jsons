@@ -1,1 +1,12 @@
-{"missionId": "214", "missionName": "お腹に蝶々", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "214",
+ "missionName": "お腹に蝶々",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "228806313965149333299246092800213792138"
+}

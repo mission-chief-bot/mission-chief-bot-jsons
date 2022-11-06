@@ -1,1 +1,12 @@
-{"missionId": "164", "missionName": "Komplikovaný porod", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "164",
+ "missionName": "Komplikovaný porod",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "323428934531028688302179776814665360272"
+}

@@ -1,1 +1,12 @@
-{"missionId": "13", "missionName": "Палаюча вантажівка", "requirements": [{"requirement": "пожежні машини", "qty": "2"}], "credits": "980"}
+{
+ "missionId": "13",
+ "missionName": "Палаюча вантажівка",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "980",
+ "version": "107072140647213345428830375862472440253"
+}

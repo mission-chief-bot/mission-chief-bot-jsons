@@ -1,1 +1,12 @@
-{"missionId": "115", "missionName": "Zombiebiss", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "115",
+ "missionName": "Zombiebiss",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "288147295270004208368103977792114669034"
+}

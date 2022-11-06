@@ -1,1 +1,12 @@
-{"missionId": "100", "missionName": "Burning advent wreath", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "100",
+ "missionName": "Burning advent wreath",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "251889535976696070978702824085970661900"
+}

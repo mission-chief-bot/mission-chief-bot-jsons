@@ -1,1 +1,12 @@
-{"missionId": "248", "missionName": "Bruk av fyrverkeri nær vei", "requirements": [{"requirement": "politibiler", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "248",
+ "missionName": "Bruk av fyrverkeri nær vei",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "202419484509953106996524170591706399736"
+}

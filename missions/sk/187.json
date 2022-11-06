@@ -1,1 +1,12 @@
-{"missionId": "187", "missionName": "Prepadnutie klenotníctva", "requirements": [{"requirement": "policajné vozidlá", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "187",
+ "missionName": "Prepadnutie klenotníctva",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "224626045949541704888632957475857050466"
+}

@@ -1,1 +1,12 @@
-{"missionId": "88", "missionName": "Bilbrand orsakad av fyrverkerier", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "370"}
+{
+ "missionId": "88",
+ "missionName": "Bilbrand orsakad av fyrverkerier",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "370",
+ "version": "1563948125798706190191765168389804053"
+}

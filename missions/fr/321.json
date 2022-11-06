@@ -1,1 +1,12 @@
-{"missionId": "321", "missionName": "Débris sur piste d'aterrissage", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "321",
+ "missionName": "Débris sur piste d'aterrissage",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "335734112545097842152522710721605733980"
+}

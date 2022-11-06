@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "소매치기 사건", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "소매치기 사건",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "245682334734215732393116106536733697661"
+}

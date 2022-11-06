@@ -1,1 +1,16 @@
-{"missionId": "177", "missionName": "Massepanik på diskotek", "requirements": [{"requirement": "påkrævede politibiler", "qty": "9"}, {"requirement": "maks. antal patienter", "qty": "17"}], "credits": "0"}
+{
+ "missionId": "177",
+ "missionName": "Massepanik på diskotek",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "9"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "17"
+  }
+ ],
+ "credits": "0",
+ "version": "300902495528763514336188416879274598678"
+}

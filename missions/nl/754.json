@@ -1,1 +1,12 @@
-{"missionId": "754", "missionName": "Overlast foutparkeren", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "754",
+ "missionName": "Overlast foutparkeren",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "2046934251296391050283450776634134128"
+}

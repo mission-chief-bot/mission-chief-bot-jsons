@@ -1,1 +1,12 @@
-{"missionId": "8", "missionName": "Çöp yığını yangını", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "8",
+ "missionName": "Çöp yığını yangını",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "197382067642914421069610908267257681394"
+}

@@ -1,1 +1,16 @@
-{"missionId": "691", "missionName": "Illegaal vuurwerk in huis", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "hondengeleider", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "691",
+ "missionName": "Illegaal vuurwerk in huis",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "326297996826283011941128951873623349832"
+}

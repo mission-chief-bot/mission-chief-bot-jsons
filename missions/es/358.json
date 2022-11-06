@@ -1,1 +1,12 @@
-{"missionId": "358", "missionName": "Dar a conocer el 112 a los niños", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "358",
+ "missionName": "Dar a conocer el 112 a los niños",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "90085162914965097559856148542468683662"
+}

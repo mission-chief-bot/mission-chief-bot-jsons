@@ -1,1 +1,12 @@
-{"missionId": "203", "missionName": "Natural gas odor", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "203",
+ "missionName": "Natural gas odor",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "183220272940338952852295791524147390976"
+}

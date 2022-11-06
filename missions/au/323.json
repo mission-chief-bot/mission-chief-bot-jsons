@@ -1,1 +1,20 @@
-{"missionId": "323", "missionName": "Medium Bushfire", "requirements": [{"requirement": "support vehicles", "qty": "1"}, {"requirement": "water carriers", "qty": "2"}, {"requirement": "brush trucks", "qty": "4"}], "credits": "4000"}
+{
+ "missionId": "323",
+ "missionName": "Medium Bushfire",
+ "requirements": [
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "2"
+  },
+  {
+   "requirement": "brush trucks",
+   "qty": "4"
+  }
+ ],
+ "credits": "4000",
+ "version": "112687597623373088995329287371366008106"
+}

@@ -1,1 +1,40 @@
-{"missionId": "361", "missionName": "Feu de discothèque", "requirements": [{"requirement": "fourgons d’incendie", "qty": "6"}, {"requirement": "moyen elévateur aérien", "qty": "2"}, {"requirement": "chefs de groupe ou vlhr", "qty": "3"}, {"requirement": "véhicules poste de commandement", "qty": "1"}, {"requirement": "assistance respiratoire e", "qty": "1"}, {"requirement": "camions-citernes", "qty": "1"}, {"requirement": "voitures de police es", "qty": "4"}, {"requirement": "max. patients", "qty": "15"}], "credits": "6000"}
+{
+ "missionId": "361",
+ "missionName": "Feu de discothèque",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "6"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "2"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "3"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "assistance respiratoire e",
+   "qty": "1"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "15"
+  }
+ ],
+ "credits": "6000",
+ "version": "74824088714621678198740576579647605568"
+}

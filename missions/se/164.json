@@ -1,1 +1,16 @@
-{"missionId": "164", "missionName": "Drunkning", "requirements": [{"requirement": "båtar", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "164",
+ "missionName": "Drunkning",
+ "requirements": [
+  {
+   "requirement": "båtar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "74495400365870609046040653016982101974"
+}

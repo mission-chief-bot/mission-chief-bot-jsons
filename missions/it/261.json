@@ -1,1 +1,12 @@
-{"missionId": "261", "missionName": "Frankenstein avvistato", "requirements": [{"requirement": "pattuglie", "qty": "3"}], "credits": "550"}
+{
+ "missionId": "261",
+ "missionName": "Frankenstein avvistato",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  }
+ ],
+ "credits": "550",
+ "version": "35765523333687264106329338653518717200"
+}

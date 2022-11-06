@@ -1,1 +1,12 @@
-{"missionId": "197", "missionName": "Incêndio num veículo causado por fogo-de-artifício", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}], "credits": "370"}
+{
+ "missionId": "197",
+ "missionName": "Incêndio num veículo causado por fogo-de-artifício",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "370",
+ "version": "330792452427102352338022980502628725249"
+}

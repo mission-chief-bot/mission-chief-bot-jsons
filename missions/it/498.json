@@ -1,1 +1,16 @@
-{"missionId": "498", "missionName": "Assalto al Portavalori", "requirements": [{"requirement": "pattuglie", "qty": "8"}, {"requirement": "max pazienti", "qty": "4"}], "credits": "8000"}
+{
+ "missionId": "498",
+ "missionName": "Assalto al Portavalori",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "8"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  }
+ ],
+ "credits": "8000",
+ "version": "241618181411600119813639997596746814912"
+}

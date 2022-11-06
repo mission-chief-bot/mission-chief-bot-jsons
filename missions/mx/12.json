@@ -1,1 +1,12 @@
-{"missionId": "12", "missionName": "Árbol en la carretera", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "12",
+ "missionName": "Árbol en la carretera",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "203484969109826247134689055014910268216"
+}

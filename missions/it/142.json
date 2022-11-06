@@ -1,1 +1,12 @@
-{"missionId": "142", "missionName": "Caldaia per uova in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "142",
+ "missionName": "Caldaia per uova in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "12733084266412154880925090748327406698"
+}

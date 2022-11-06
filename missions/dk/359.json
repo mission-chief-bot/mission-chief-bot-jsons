@@ -1,1 +1,16 @@
-{"missionId": "359", "missionName": "Person fanget i elevator", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "359",
+ "missionName": "Person fanget i elevator",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "32193826426825037633516792998537845134"
+}

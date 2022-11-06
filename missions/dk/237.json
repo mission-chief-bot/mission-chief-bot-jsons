@@ -1,1 +1,12 @@
-{"missionId": "237", "missionName": "Spritkørsel efter nytårs fest", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "237",
+ "missionName": "Spritkørsel efter nytårs fest",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "237523485144783333216928534726821267356"
+}

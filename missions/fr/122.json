@@ -1,1 +1,12 @@
-{"missionId": "122", "missionName": "Aggression de cloche de Pâques", "requirements": [{"requirement": "voitures de police es", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "122",
+ "missionName": "Aggression de cloche de Pâques",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "124024419508769144381754297909547198155"
+}

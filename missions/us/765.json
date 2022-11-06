@@ -1,1 +1,36 @@
-{"missionId": "765", "missionName": "Sinkhole - Structural Damage", "requirements": [{"requirement": "firetrucks", "qty": "4"}, {"requirement": "platform trucks", "qty": "3"}, {"requirement": "heavy rescue vehicles", "qty": "3"}, {"requirement": "battalion chief vehicles", "qty": "2"}, {"requirement": "police cars", "qty": "3"}, {"requirement": "minimum number of patients", "qty": "0"}, {"requirement": "max. patients", "qty": "5"}], "credits": "2750"}
+{
+ "missionId": "765",
+ "missionName": "Sinkhole - Structural Damage",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "0"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "2750",
+ "version": "255716341683424832603391410238612150712"
+}

@@ -1,1 +1,12 @@
-{"missionId": "388", "missionName": "Trespasser on Tracks", "requirements": [{"requirement": "police cars", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "388",
+ "missionName": "Trespasser on Tracks",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "226919910146355895534415822483059893989"
+}

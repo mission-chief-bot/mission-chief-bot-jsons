@@ -1,1 +1,24 @@
-{"missionId": "515", "missionName": "Prison Wing Fire (Persons Reported)", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "fire officers", "qty": "3"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "4"}], "credits": "7000"}
+{
+ "missionId": "515",
+ "missionName": "Prison Wing Fire (Persons Reported)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "3"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "7000",
+ "version": "234246338538458494257789081437193216735"
+}

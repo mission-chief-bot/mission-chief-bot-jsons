@@ -1,1 +1,12 @@
-{"missionId": "50", "missionName": "161 Maksamatta jättänyt matkustaja", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "50",
+ "missionName": "161 Maksamatta jättänyt matkustaja",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "270731884738257692207881020274906530335"
+}

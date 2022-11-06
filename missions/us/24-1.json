@@ -1,1 +1,16 @@
-{"missionId": "24-1", "missionName": "Burning bus shelter", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "fire investigation unit", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "24-1",
+ "missionName": "Burning bus shelter",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "262509534472708986312433383154875683037"
+}

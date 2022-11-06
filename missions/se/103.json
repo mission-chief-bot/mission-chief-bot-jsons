@@ -1,1 +1,24 @@
-{"missionId": "103", "missionName": "Trafikolycka - motorcykel", "requirements": [{"requirement": "släckbilar", "qty": "3"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "polisbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "2"}], "credits": "2300"}
+{
+ "missionId": "103",
+ "missionName": "Trafikolycka - motorcykel",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "2300",
+ "version": "36746518526146641540286098766950069686"
+}

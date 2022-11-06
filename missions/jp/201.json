@@ -1,1 +1,12 @@
-{"missionId": "201", "missionName": "花火妨害", "requirements": [{"requirement": "警察車両", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "201",
+ "missionName": "花火妨害",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "332909289689412715679731710156257544383"
+}

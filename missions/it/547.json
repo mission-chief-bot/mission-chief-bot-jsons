@@ -1,1 +1,24 @@
-{"missionId": "547", "missionName": "Grande Natante Capovolto", "requirements": [{"requirement": "max pazienti", "qty": "8"}, {"requirement": "motovedetta costiera", "qty": "2"}, {"requirement": "elicottero guardia costiera", "qty": "1"}, {"requirement": "motovedetta d'altura", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "547",
+ "missionName": "Grande Natante Capovolto",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "8"
+  },
+  {
+   "requirement": "motovedetta costiera",
+   "qty": "2"
+  },
+  {
+   "requirement": "elicottero guardia costiera",
+   "qty": "1"
+  },
+  {
+   "requirement": "motovedetta d'altura",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "285242016157756887647198007125492919853"
+}

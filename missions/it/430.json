@@ -1,1 +1,28 @@
-{"missionId": "430", "missionName": "Intossicazione di Massa", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "pattuglie", "qty": "6"}, {"requirement": "max pazienti", "qty": "60"}], "credits": "6000"}
+{
+ "missionId": "430",
+ "missionName": "Intossicazione di Massa",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "6"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "60"
+  }
+ ],
+ "credits": "6000",
+ "version": "103522238449840908448669420008526220322"
+}

@@ -1,1 +1,48 @@
-{"missionId": "403", "missionName": "Brand i byggnad - hotell", "requirements": [{"requirement": "släckbilar", "qty": "4"}, {"requirement": "stegbilar", "qty": "2"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "tankbilar", "qty": "1"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "ambulanser", "qty": "4"}, {"requirement": "fordon med luftapparater", "qty": "1"}, {"requirement": "räddningsledningsfordon", "qty": "1"}, {"requirement": "mest patienter", "qty": "45"}], "credits": "870"}
+{
+ "missionId": "403",
+ "missionName": "Brand i byggnad - hotell",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulanser",
+   "qty": "4"
+  },
+  {
+   "requirement": "fordon med luftapparater",
+   "qty": "1"
+  },
+  {
+   "requirement": "räddningsledningsfordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "45"
+  }
+ ],
+ "credits": "870",
+ "version": "200445295256772818318141230371368853517"
+}

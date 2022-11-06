@@ -1,1 +1,20 @@
-{"missionId": "77", "missionName": "Incêndio no refeitório", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "3"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "2"}], "credits": "1300"}
+{
+ "missionId": "77",
+ "missionName": "Incêndio no refeitório",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "2"
+  }
+ ],
+ "credits": "1300",
+ "version": "12165237551463945002133855618469556303"
+}

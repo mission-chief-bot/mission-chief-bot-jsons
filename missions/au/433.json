@@ -1,1 +1,20 @@
-{"missionId": "433", "missionName": "Ring Stuck on Finger", "requirements": [{"requirement": "major rescue vehicles", "qty": "1"}, {"requirement": "ambulances", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1300"}
+{
+ "missionId": "433",
+ "missionName": "Ring Stuck on Finger",
+ "requirements": [
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "30815675778025734815533678445060958878"
+}

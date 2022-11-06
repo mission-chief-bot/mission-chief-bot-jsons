@@ -1,1 +1,36 @@
-{"missionId": "170", "missionName": "Dopravní nehoda cisterny", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "5"}, {"requirement": "ta", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "vozidla pro práci s nebezpečnými látkami", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "vozidla vyšetřovatelů dn", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "4"}], "credits": "5000"}
+{
+ "missionId": "170",
+ "missionName": "Dopravní nehoda cisterny",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "5"
+  },
+  {
+   "requirement": "ta",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla pro práci s nebezpečnými látkami",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "4"
+  }
+ ],
+ "credits": "5000",
+ "version": "281570890412194309934886228025489224577"
+}

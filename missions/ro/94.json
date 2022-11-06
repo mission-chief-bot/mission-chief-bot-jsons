@@ -1,1 +1,12 @@
-{"missionId": "94", "missionName": "Mână fracturată", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "94",
+ "missionName": "Mână fracturată",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "187010200268024686348016518057052576206"
+}

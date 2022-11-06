@@ -1,1 +1,12 @@
-{"missionId": "1", "missionName": "Konteyner yangını", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "1"}], "credits": "170"}
+{
+ "missionId": "1",
+ "missionName": "Konteyner yangını",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "1"
+  }
+ ],
+ "credits": "170",
+ "version": "166945083850257434581987791418695242427"
+}

@@ -1,1 +1,12 @@
-{"missionId": "281", "missionName": "Søk etter savnet kjæreste", "requirements": [{"requirement": "politibiler", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "281",
+ "missionName": "Søk etter savnet kjæreste",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "26255541686800700997751885189905226697"
+}

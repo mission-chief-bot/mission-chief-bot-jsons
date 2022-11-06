@@ -1,1 +1,12 @@
-{"missionId": "92", "missionName": "Rygsmerter", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "92",
+ "missionName": "Rygsmerter",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "184239134058160912211200385968633055075"
+}

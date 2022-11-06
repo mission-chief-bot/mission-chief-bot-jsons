@@ -1,1 +1,16 @@
-{"missionId": "374", "missionName": "Smuggling of exotic animals", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "374",
+ "missionName": "Smuggling of exotic animals",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "97784073586105373555701261480848738932"
+}

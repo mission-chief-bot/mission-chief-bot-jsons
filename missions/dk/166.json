@@ -1,1 +1,16 @@
-{"missionId": "166", "missionName": "Person faldet i vandet", "requirements": [{"requirement": "påkrævede både", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "166",
+ "missionName": "Person faldet i vandet",
+ "requirements": [
+  {
+   "requirement": "påkrævede både",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "333275536269946023355544379862848712812"
+}

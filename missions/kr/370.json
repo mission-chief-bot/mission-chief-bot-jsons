@@ -1,1 +1,12 @@
-{"missionId": "370", "missionName": "의약품 도난", "requirements": [{"requirement": "경찰차", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "370",
+ "missionName": "의약품 도난",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "160814361551714219084464249776896539783"
+}

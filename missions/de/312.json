@@ -1,1 +1,16 @@
-{"missionId": "312", "missionName": "Verunglückter Fallschirmspringer", "requirements": [ {"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "312",
+ "missionName": "Verunglückter Fallschirmspringer",
+ "requirements": [
+  {
+   "requirement": "nef",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "317672483734501659872262974961070422919"
+}

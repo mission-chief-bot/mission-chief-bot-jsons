@@ -1,1 +1,20 @@
-{"missionId": "711", "missionName": "Zwischenfall beim Karnevalsumzug", "requirements": [{"requirement": "streifenwagen", "qty": "4"}, {"requirement": "rtw", "qty": "6"}, {"requirement": "lna", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "711",
+ "missionName": "Zwischenfall beim Karnevalsumzug",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "6"
+  },
+  {
+   "requirement": "lna",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "154568134601105476473657610360763427638"
+}

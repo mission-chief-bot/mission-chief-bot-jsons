@@ -1,1 +1,12 @@
-{"missionId": "278", "missionName": "772 Kouristelu", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "250"}
+{
+ "missionId": "278",
+ "missionName": "772 Kouristelu",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "250",
+ "version": "99240532117861775689867827994412895846"
+}

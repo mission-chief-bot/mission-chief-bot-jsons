@@ -1,1 +1,12 @@
-{"missionId": "23", "missionName": "Hořící olej", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "Hořící olej",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "331306584798498184488894999991431487791"
+}

@@ -1,1 +1,20 @@
-{"missionId": "405", "missionName": "Supervisión en festival de música", "requirements": [{"requirement": "coches patrulla", "qty": "8"}, {"requirement": "unidad canina", "qty": "1"}, {"requirement": "n.º máximo de presos", "qty": "4"}], "credits": "8200"}
+{
+ "missionId": "405",
+ "missionName": "Supervisión en festival de música",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "8"
+  },
+  {
+   "requirement": "unidad canina",
+   "qty": "1"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "4"
+  }
+ ],
+ "credits": "8200",
+ "version": "220598431747584844213024202076509934440"
+}

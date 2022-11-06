@@ -1,1 +1,16 @@
-{"missionId": "246", "missionName": "Ivareta sikkerhet for Nyttårsfeiring", "requirements": [{"requirement": "ambulanser", "qty": "2"}, {"requirement": "politibiler", "qty": "4"}], "credits": "15000"}
+{
+ "missionId": "246",
+ "missionName": "Ivareta sikkerhet for Nyttårsfeiring",
+ "requirements": [
+  {
+   "requirement": "ambulanser",
+   "qty": "2"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  }
+ ],
+ "credits": "15000",
+ "version": "42531744825002517465282537323193166258"
+}

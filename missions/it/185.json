@@ -1,1 +1,11 @@
-{"missionId": "185", "missionName": "Colpo di calore", "requirements": [{"requirement": "max pazienti", "qty": "1"}]}
+{
+ "missionId": "185",
+ "missionName": "Colpo di calore",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "version": "97304930577961091966119944790346918021"
+}

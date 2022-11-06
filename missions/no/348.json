@@ -1,1 +1,32 @@
-{"missionId": "348", "missionName": "Helikopterstyrt", "requirements": [ {"requirement": "brannbiler", "qty": "4"}, {"requirement": "tungredningsbiler", "qty": "2"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "cbrne enheter", "qty": "1"}, {"requirement": "politibiler", "qty": "4"}, {"requirement": "maks pasienter", "qty": "6"}], "credits": "3400"}
+{
+ "missionId": "348",
+ "missionName": "Helikopterstyrt",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "cbrne enheter",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "3400",
+ "version": "46175375964209685653742635947328796068"
+}

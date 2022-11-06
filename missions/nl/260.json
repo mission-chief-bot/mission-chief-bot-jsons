@@ -1,1 +1,12 @@
-{"missionId": "260", "missionName": "Brandend speeltoestel", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "260",
+ "missionName": "Brandend speeltoestel",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "31904602464475518726141358417348757848"
+}

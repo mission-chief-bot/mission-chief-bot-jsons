@@ -1,1 +1,12 @@
-{"missionId": "395", "missionName": "Allergisk reaksjon til bistikk", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "550"}
+{
+ "missionId": "395",
+ "missionName": "Allergisk reaksjon til bistikk",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "550",
+ "version": "133322789360360189196967254818714170796"
+}

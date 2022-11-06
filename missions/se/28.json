@@ -1,1 +1,24 @@
-{"missionId": "28", "missionName": "Brand i byggnad - industri, maskin", "requirements": [{"requirement": "släckbilar", "qty": "3"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "tankbilar", "qty": "1"}], "credits": "2470"}
+{
+ "missionId": "28",
+ "missionName": "Brand i byggnad - industri, maskin",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "2470",
+ "version": "119979444053184723348919966755949206222"
+}

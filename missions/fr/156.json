@@ -1,1 +1,20 @@
-{"missionId": "156", "missionName": "Rupture de canalisation", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}, {"requirement": "véhicule de secours routier", "qty": "1"}, {"requirement": "chefs de groupe", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "156",
+ "missionName": "Rupture de canalisation",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  },
+  {
+   "requirement": "véhicule de secours routier",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "38684421218447023274243207204028989119"
+}

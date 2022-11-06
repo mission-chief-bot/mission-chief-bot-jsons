@@ -1,1 +1,20 @@
-{"missionId": "423", "missionName": "VIP besök", "requirements": [{"requirement": "polisbilar", "qty": "6"}, {"requirement": "polishelikoptrar", "qty": "1"}, {"requirement": "hundenheter", "qty": "2"}], "credits": "4000"}
+{
+ "missionId": "423",
+ "missionName": "VIP besök",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "6"
+  },
+  {
+   "requirement": "polishelikoptrar",
+   "qty": "1"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "2"
+  }
+ ],
+ "credits": "4000",
+ "version": "10654782387374544071373248696833777967"
+}

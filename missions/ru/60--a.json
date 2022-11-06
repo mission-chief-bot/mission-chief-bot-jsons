@@ -1,1 +1,28 @@
-{"missionId": "60/a", "missionName": "Возгорание в спортзале", "requirements": [{"requirement": "расширения поддержки пожаротушения", "qty": "1"}, {"requirement": "пожарные машины", "qty": "5"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "платформы", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "4"}], "credits": "2200"}
+{
+ "missionId": "60/a",
+ "missionName": "Возгорание в спортзале",
+ "requirements": [
+  {
+   "requirement": "расширения поддержки пожаротушения",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожарные машины",
+   "qty": "5"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "1"
+  },
+  {
+   "requirement": "платформы",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "4"
+  }
+ ],
+ "credits": "2200",
+ "version": "125007992738704078954385738450158644632"
+}

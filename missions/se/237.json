@@ -1,1 +1,16 @@
-{"missionId": "237", "missionName": "Lägenhetsundersökning", "requirements": [{"requirement": "polisbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "237",
+ "missionName": "Lägenhetsundersökning",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "9412244325208968988402585162669421933"
+}

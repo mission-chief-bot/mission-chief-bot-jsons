@@ -1,1 +1,12 @@
-{"missionId": "148", "missionName": "Assalto a um Banco", "requirements": [{"requirement": "carros de patrulha necessários", "qty": "5"}], "credits": "2500"}
+{
+ "missionId": "148",
+ "missionName": "Assalto a um Banco",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "5"
+  }
+ ],
+ "credits": "2500",
+ "version": "55939925061440299991538867158464304642"
+}

@@ -1,1 +1,16 @@
-{"missionId": "360", "missionName": "Ketoacidos", "requirements": [{"requirement": "ambulanser", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "360",
+ "missionName": "Ketoacidos",
+ "requirements": [
+  {
+   "requirement": "ambulanser",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "100818978749427076681353136866942313791"
+}

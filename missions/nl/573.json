@@ -1,1 +1,12 @@
-{"missionId": "573", "missionName": "Vlam in de pan", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "370"}
+{
+ "missionId": "573",
+ "missionName": "Vlam in de pan",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "370",
+ "version": "26542733996221829366657176942763462706"
+}

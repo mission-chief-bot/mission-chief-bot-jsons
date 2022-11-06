@@ -1,1 +1,24 @@
-{"missionId": "28", "missionName": "Hořící stroj", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "ta", "qty": "1"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "kombinované hasící automobily", "qty": "1"}], "credits": "2470"}
+{
+ "missionId": "28",
+ "missionName": "Hořící stroj",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "kombinované hasící automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "2470",
+ "version": "28319352462852254756121777752106496395"
+}

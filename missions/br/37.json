@@ -1,1 +1,12 @@
-{"missionId": "37", "missionName": "Asma aguda", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "37",
+ "missionName": "Asma aguda",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "255115001621638752630044584824748143755"
+}

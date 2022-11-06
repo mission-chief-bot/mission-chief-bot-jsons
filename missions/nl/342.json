@@ -1,1 +1,12 @@
-{"missionId": "342", "missionName": "Nacontrole brand", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "342",
+ "missionName": "Nacontrole brand",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "231151316059194809749325690337015902038"
+}

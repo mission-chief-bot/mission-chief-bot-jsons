@@ -1,1 +1,28 @@
-{"missionId": "316", "missionName": "Feu d'embarcation à quai", "requirements": [ {"requirement": "fourgons d’incendie", "qty": "4"}, {"requirement": "chefs de groupe ou vlhr", "qty": "2"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "vpl", "qty": "1"}, {"requirement": "voitures de police es", "qty": "2"}], "credits": "1411"}
+{
+ "missionId": "316",
+ "missionName": "Feu d'embarcation à quai",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "4"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "2"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "vpl",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "1411",
+ "version": "113910728490042937266291303744823235450"
+}

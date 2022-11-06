@@ -1,1 +1,20 @@
-{"missionId": "126", "missionName": "VIP oppdrag", "requirements": [{"requirement": "politibiler", "qty": "6"}, {"requirement": "hundepatruljer", "qty": "2"}, {"requirement": "politihelikoptere", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "126",
+ "missionName": "VIP oppdrag",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "6"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "2"
+  },
+  {
+   "requirement": "politihelikoptere",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "47553786813773019008548793396949361871"
+}

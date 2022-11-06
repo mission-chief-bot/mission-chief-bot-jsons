@@ -1,1 +1,12 @@
-{"missionId": "340", "missionName": "Pánico en la discoteca", "requirements": [{"requirement": "coches patrulla", "qty": "6"}], "credits": "3000"}
+{
+ "missionId": "340",
+ "missionName": "Pánico en la discoteca",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "6"
+  }
+ ],
+ "credits": "3000",
+ "version": "62571280526268088491112760348963798198"
+}

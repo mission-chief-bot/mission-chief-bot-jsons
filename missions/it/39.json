@@ -1,1 +1,12 @@
-{"missionId": "39", "missionName": "Febbre", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "39",
+ "missionName": "Febbre",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "146640246369836256901337259213793821221"
+}

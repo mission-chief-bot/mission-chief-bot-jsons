@@ -1,1 +1,24 @@
-{"missionId": "776", "missionName": "Person in Rolltreppe eingeklemmt", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "776",
+ "missionName": "Person in Rolltreppe eingeklemmt",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "255016695345188105829056032208158749675"
+}

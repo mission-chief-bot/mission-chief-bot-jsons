@@ -1,1 +1,12 @@
-{"missionId": "747", "missionName": "Verjaardagsgast met gewrichtspijn na dansen", "requirements": [{"requirement": "ambulance", "qty": 3}], "credits": "100"}
+{
+ "missionId": "747",
+ "missionName": "Verjaardagsgast met gewrichtspijn na dansen",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 3
+  }
+ ],
+ "credits": "100",
+ "version": "66266667862811783674995278038215842167"
+}

@@ -1,1 +1,28 @@
-{"missionId": "234/a", "missionName": "Entschärfung von Weltkriegsbombe", "requirements": [{"requirement": "streifenwagen", "qty": "5"}, {"requirement": "löschfahrzeuge", "qty": "10"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "elw 2", "qty": "1"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "6400"}
+{
+ "missionId": "234/a",
+ "missionName": "Entschärfung von Weltkriegsbombe",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "5"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "10"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 2",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "6400",
+ "version": "210002782070303071170699828209769837880"
+}

@@ -1,1 +1,12 @@
-{"missionId": "287", "missionName": "Dehydration", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "810"}
+{
+ "missionId": "287",
+ "missionName": "Dehydration",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "810",
+ "version": "85282026612842307990330511070906131190"
+}

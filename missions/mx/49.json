@@ -1,1 +1,16 @@
-{"missionId": "49", "missionName": "Carterista", "requirements": [{"requirement": "coches patrulla", "qty": "1"}, {"requirement": "n.º máximo de presos", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Carterista",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "184960073419613240172085606041493437665"
+}

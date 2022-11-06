@@ -1,1 +1,12 @@
-{"missionId": "329", "missionName": "Stjålet trofæ", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "329",
+ "missionName": "Stjålet trofæ",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "140522101109893634017543356171823839029"
+}

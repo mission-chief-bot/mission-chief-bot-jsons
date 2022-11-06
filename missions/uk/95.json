@@ -1,1 +1,12 @@
-{"missionId": "95", "missionName": "Theft at christmas market", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "95",
+ "missionName": "Theft at christmas market",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "332804205818981034869990653121936175603"
+}

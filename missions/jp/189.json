@@ -1,1 +1,12 @@
-{"missionId": "189", "missionName": "花火による自動車破損", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "189",
+ "missionName": "花火による自動車破損",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "259757216428129134490453829733454605149"
+}

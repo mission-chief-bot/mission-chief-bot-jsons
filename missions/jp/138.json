@@ -1,1 +1,16 @@
-{"missionId": "138", "missionName": "木の下敷き", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "救急車", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "138",
+ "missionName": "木の下敷き",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "80180107999243870817538626367234430977"
+}

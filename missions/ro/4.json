@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Iarbă în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "Iarbă în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "162790261245719338783569204413411931747"
+}

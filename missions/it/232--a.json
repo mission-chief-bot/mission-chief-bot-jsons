@@ -1,1 +1,40 @@
-{"missionId": "232/a", "missionName": "Incendio centrale elettrica (GRANDE)", "requirements": [{"requirement": "aps/abp", "qty": "8"}, {"requirement": "unità polisoccorso", "qty": "4"}, {"requirement": "autoscale", "qty": "2"}, {"requirement": "funzionari", "qty": "2"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "kilolitriche", "qty": "1"}, {"requirement": "pattuglie", "qty": "4"},  {"requirement": "max pazienti", "qty": "20"}], "credits": "8300"}
+{
+ "missionId": "232/a",
+ "missionName": "Incendio centrale elettrica (GRANDE)",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "8"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "4"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "2"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "2"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "20"
+  }
+ ],
+ "credits": "8300",
+ "version": "328018636165232754718289183752434372164"
+}

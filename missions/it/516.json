@@ -1,1 +1,16 @@
-{"missionId": "516", "missionName": "Controlli Autostradali", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "polizia stradale", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "516",
+ "missionName": "Controlli Autostradali",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "polizia stradale",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "36132396553007342343668259519194536350"
+}

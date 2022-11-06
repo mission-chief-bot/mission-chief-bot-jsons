@@ -1,1 +1,12 @@
-{"missionId": "199", "missionName": "Grande Bloqueio de Estrada", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "199",
+ "missionName": "Grande Bloqueio de Estrada",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "325059839003734125220972962261431487991"
+}

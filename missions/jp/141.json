@@ -1,1 +1,12 @@
-{"missionId": "141", "missionName": "燃える亡霊", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "141",
+ "missionName": "燃える亡霊",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "101151930722257962381589405593852132713"
+}

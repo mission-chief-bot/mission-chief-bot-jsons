@@ -1,1 +1,12 @@
-{"missionId": "32", "missionName": "Combină agricolă în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "32",
+ "missionName": "Combină agricolă în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "315885348484455823152194912819825171810"
+}

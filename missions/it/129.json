@@ -1,1 +1,12 @@
-{"missionId": "129", "missionName": "Blitz attività commerciale illegale", "requirements": [{"requirement": "pattuglie", "qty": "6"}], "credits": "4"}
+{
+ "missionId": "129",
+ "missionName": "Blitz attività commerciale illegale",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "6"
+  }
+ ],
+ "credits": "4",
+ "version": "34462397194908608630630121992023665297"
+}

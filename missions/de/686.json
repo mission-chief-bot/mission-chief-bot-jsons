@@ -1,1 +1,24 @@
-{"missionId": "686", "missionName": "Kind in Spielgerät eingeklemmt", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "686",
+ "missionName": "Kind in Spielgerät eingeklemmt",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "34263985987744461968391059149814119475"
+}

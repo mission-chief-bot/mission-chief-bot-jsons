@@ -1,1 +1,12 @@
-{"missionId": "106", "missionName": "Braço partido", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "106",
+ "missionName": "Braço partido",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "144651060019996993775014837658951044658"
+}

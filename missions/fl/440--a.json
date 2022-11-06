@@ -1,1 +1,12 @@
-{"missionId": "440/a", "missionName": "570 Suurmielenosoituksen hajottaminen", "requirements": [{"requirement": "poliisiautot", "qty": "12"}], "credits": "6000"}
+{
+ "missionId": "440/a",
+ "missionName": "570 Suurmielenosoituksen hajottaminen",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "12"
+  }
+ ],
+ "credits": "6000",
+ "version": "218901140860048045449538391356344509761"
+}

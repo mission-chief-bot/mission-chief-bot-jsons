@@ -1,1 +1,12 @@
-{"missionId": "305", "missionName": "アニバーサリープレゼント盗難", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "305",
+ "missionName": "アニバーサリープレゼント盗難",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "325058342065879083473360991314898507000"
+}

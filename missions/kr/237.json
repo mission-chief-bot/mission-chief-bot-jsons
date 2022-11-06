@@ -1,1 +1,28 @@
-{"missionId": "237", "missionName": "나무에 끼인 낙하산", "requirements": [{"requirement": "고가 사다리(TL)", "qty": "1"}, {"requirement": "지휘차", "qty": "1"}, {"requirement": "소방차", "qty": "2"}, {"requirement": "구조공작차(MRU)", "qty": "1"}, {"requirement": "구급차", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "237",
+ "missionName": "나무에 끼인 낙하산",
+ "requirements": [
+  {
+   "requirement": "고가 사다리(TL)",
+   "qty": "1"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "1"
+  },
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  },
+  {
+   "requirement": "구조공작차(MRU)",
+   "qty": "1"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "119794361371773595751491196490606338225"
+}

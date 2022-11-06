@@ -1,1 +1,12 @@
-{"missionId": "333", "missionName": "Montón de hojas ardiendo", "requirements": [{"requirement": "camiones de bomberos", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "333",
+ "missionName": "Montón de hojas ardiendo",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "235427899117044572498709104405983439494"
+}

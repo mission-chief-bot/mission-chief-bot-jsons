@@ -1,1 +1,12 @@
-{"missionId": "213", "missionName": "Laserkontrol", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "213",
+ "missionName": "Laserkontrol",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "19466690207519077451850838989901567753"
+}

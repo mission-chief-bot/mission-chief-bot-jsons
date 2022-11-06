@@ -1,1 +1,16 @@
-{"missionId": "103", "missionName": "Вооруженное ограбление", "requirements": [{"requirement": "полицейские автомобили", "qty": "5"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "103",
+ "missionName": "Вооруженное ограбление",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "5"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "20144867839206239694461968059112614653"
+}

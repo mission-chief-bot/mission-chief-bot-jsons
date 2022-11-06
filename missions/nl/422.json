@@ -1,1 +1,12 @@
-{"missionId": "422", "missionName": "Overval bankkantoor", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "2200"}
+{
+ "missionId": "422",
+ "missionName": "Overval bankkantoor",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "2200",
+ "version": "162773068842984572750175418197684317060"
+}

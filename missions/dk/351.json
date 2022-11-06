@@ -1,1 +1,12 @@
-{"missionId": "351", "missionName": "Akut sygdom ombord", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "351",
+ "missionName": "Akut sygdom ombord",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "258099694395071204941904723617303972694"
+}

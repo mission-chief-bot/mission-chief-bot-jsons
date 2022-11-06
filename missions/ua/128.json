@@ -1,1 +1,12 @@
-{"missionId": "128", "missionName": "Хімічні опіки", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "128",
+ "missionName": "Хімічні опіки",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "303956907350989965298730369541845457948"
+}

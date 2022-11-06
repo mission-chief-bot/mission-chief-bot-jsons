@@ -1,1 +1,12 @@
-{"missionId": "257", "missionName": "Осколок стекла в руке", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "257",
+ "missionName": "Осколок стекла в руке",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "139997264231494219710401919748166530496"
+}

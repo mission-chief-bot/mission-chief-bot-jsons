@@ -1,1 +1,12 @@
-{"missionId": "734", "missionName": "Geschmolzener Schokohase", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "734",
+ "missionName": "Geschmolzener Schokohase",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "164409157566618926630878996465007281436"
+}

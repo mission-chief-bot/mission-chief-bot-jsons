@@ -1,1 +1,12 @@
-{"missionId": "165", "missionName": "Gehirnerschütterung", "requirements": [ {"requirement": "rtw, naw", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "165",
+ "missionName": "Gehirnerschütterung",
+ "requirements": [
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "117253126897307861154453802727467601548"
+}

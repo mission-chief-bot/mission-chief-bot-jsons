@@ -1,1 +1,28 @@
-{"missionId": "473", "missionName": "Zatrucie siarkowodorem", "requirements": [{"requirement": "samochody pożarnicze", "qty": "4"}, {"requirement": "slop lub slrr", "qty": "2"}, {"requirement": "samochody spgaz", "qty": "1"}, {"requirement": "sp rchem", "qty": "2"}, {"requirement": "maks. pacjenci", "qty": "6"}], "credits": "4200"}
+{
+ "missionId": "473",
+ "missionName": "Zatrucie siarkowodorem",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "1"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "6"
+  }
+ ],
+ "credits": "4200",
+ "version": "311985773855195176542325290255358989082"
+}

@@ -1,1 +1,12 @@
-{"missionId": "493", "missionName": "Sabotage at the anniversary jukeboxes", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "493",
+ "missionName": "Sabotage at the anniversary jukeboxes",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "117774723025385251882389758028479252129"
+}

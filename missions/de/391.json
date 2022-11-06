@@ -1,1 +1,16 @@
-{"missionId": "391", "missionName": "Vergiftung", "requirements": [ {"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "391",
+ "missionName": "Vergiftung",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "2624901350068542344369420783259435300"
+}

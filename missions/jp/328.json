@@ -1,1 +1,12 @@
-{"missionId": "328", "missionName": "子牛泥棒", "requirements": [{"requirement": "警察車両", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "328",
+ "missionName": "子牛泥棒",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "280231175152372621312030887125472451820"
+}

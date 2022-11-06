@@ -1,1 +1,12 @@
-{"missionId": "161", "missionName": "Bulk Easter Egg pile fire", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "161",
+ "missionName": "Bulk Easter Egg pile fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "235441284359905836533664697816571680732"
+}

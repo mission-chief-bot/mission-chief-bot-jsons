@@ -1,1 +1,12 @@
-{"missionId": "177", "missionName": "Accident de feu d'artifice", "requirements": [{"requirement": "max. patients", "qty": "4"}], "credits": "2"}
+{
+ "missionId": "177",
+ "missionName": "Accident de feu d'artifice",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "2",
+ "version": "167154047220952069123889692872474636997"
+}

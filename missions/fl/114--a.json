@@ -1,1 +1,36 @@
-{"missionId": "114/a", "missionName": "403 Teollisuusrakennuspalo", "requirements": [{"requirement": "paloautot", "qty": "5"}, {"requirement": "nostolava-autot", "qty": "2"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "kemikaalitorjunta-autot", "qty": "1"}, {"requirement": "letkuajoneuvot", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "4"}], "credits": "5900"}
+{
+ "missionId": "114/a",
+ "missionName": "403 Teollisuusrakennuspalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "5"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "4"
+  }
+ ],
+ "credits": "5900",
+ "version": "230971345329010968995270785816760087660"
+}

@@ -1,1 +1,12 @@
-{"missionId": "122", "missionName": "Pessoa a atravessar a linha de comboio", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "122",
+ "missionName": "Pessoa a atravessar a linha de comboio",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "43206470937851843758760473691111663191"
+}

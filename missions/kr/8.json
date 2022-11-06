@@ -1,1 +1,12 @@
-{"missionId": "8", "missionName": "화재 현장(쓰레기더미)", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "8",
+ "missionName": "화재 현장(쓰레기더미)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "119881432979955218437017144575718631570"
+}

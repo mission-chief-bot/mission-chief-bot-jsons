@@ -1,1 +1,28 @@
-{"missionId": "107/a", "missionName": "Massenschlägerei", "requirements": [{"requirement": "streifenwagen", "qty": "5"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}, {"requirement": "rtw", "qty": "6"}, {"requirement": "nef", "qty": "1"}, {"requirement": "lna", "qty": "1"}], "credits": "2200"}
+{
+ "missionId": "107/a",
+ "missionName": "Massenschlägerei",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "5"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "6"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  },
+  {
+   "requirement": "lna",
+   "qty": "1"
+  }
+ ],
+ "credits": "2200",
+ "version": "225699450442013258497585172399262393215"
+}

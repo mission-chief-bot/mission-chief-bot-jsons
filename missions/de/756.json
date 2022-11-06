@@ -1,1 +1,12 @@
-{"missionId": "756", "missionName": "Unfall beim Backen des Jubiläumskuchens", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "756",
+ "missionName": "Unfall beim Backen des Jubiläumskuchens",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "232051555990896633094063941986084261825"
+}

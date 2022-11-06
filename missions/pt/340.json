@@ -1,1 +1,12 @@
-{"missionId": "340", "missionName": "Roubo de arte", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "340",
+ "missionName": "Roubo de arte",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "141240296917981192455584392497984090435"
+}

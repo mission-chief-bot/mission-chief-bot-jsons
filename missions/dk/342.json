@@ -1,1 +1,16 @@
-{"missionId": "342", "missionName": "Overophedet bremser", "requirements": [{"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "342",
+ "missionName": "Overophedet bremser",
+ "requirements": [
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "269009843473658250724874754695895823497"
+}

@@ -1,1 +1,16 @@
-{"missionId": "220", "missionName": "Brand til julemarked", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "220",
+ "missionName": "Brand til julemarked",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "64048825129675456158758776599248906155"
+}

@@ -1,1 +1,12 @@
-{"missionId": "390", "missionName": "Нападение на ювелирный магазин", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "390",
+ "missionName": "Нападение на ювелирный магазин",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "102393769826691730972245328384896779710"
+}

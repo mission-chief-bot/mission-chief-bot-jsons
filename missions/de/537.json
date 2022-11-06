@@ -1,1 +1,16 @@
-{"missionId": "537", "missionName": "Einbruch in Supermarkt", "requirements": [{"requirement": "streifenwagen", "qty": "4"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "537",
+ "missionName": "Einbruch in Supermarkt",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "5473926424751235222065742256672434944"
+}

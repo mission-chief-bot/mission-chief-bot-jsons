@@ -1,1 +1,16 @@
-{"missionId": "338", "missionName": "Blessure par choc avec la barre", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "338",
+ "missionName": "Blessure par choc avec la barre",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "113596947788468489669920350567071370570"
+}

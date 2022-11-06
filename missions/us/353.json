@@ -1,1 +1,12 @@
-{"missionId": "353", "missionName": "Residential police raid", "requirements": [{"requirement": "police cars", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "353",
+ "missionName": "Residential police raid",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "200925074847272523088621456453817179045"
+}

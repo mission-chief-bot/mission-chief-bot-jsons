@@ -1,1 +1,36 @@
-{"missionId": "527", "missionName": "Verschüttete Person", "requirements": [{"requirement": "rettungshundestaffeln", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "gkw", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "527",
+ "missionName": "Verschüttete Person",
+ "requirements": [
+  {
+   "requirement": "rettungshundestaffeln",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "gkw",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "194915418262744589499878896471240495945"
+}

@@ -1,1 +1,32 @@
-{"missionId": "395", "missionName": "Major Forest Fire", "requirements": [{"requirement": "wildland fire engines", "qty": "10"}, {"requirement": "battalion chief vehicles", "qty": "7"}, {"requirement": "mobile command vehicles", "qty": "2"}, {"requirement": "airborne firefighting vehicles", "qty": "1"}, {"requirement": "water tankers", "qty": "4"}, {"requirement": "police cars", "qty": "4"}], "credits": "11000"}
+{
+ "missionId": "395",
+ "missionName": "Major Forest Fire",
+ "requirements": [
+  {
+   "requirement": "wildland fire engines",
+   "qty": "10"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "7"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "airborne firefighting vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  }
+ ],
+ "credits": "11000",
+ "version": "304328543294642680902418873339891221186"
+}

@@ -1,1 +1,12 @@
-{"missionId": "689", "missionName": "Vuurwerkoverlast", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "840"}
+{
+ "missionId": "689",
+ "missionName": "Vuurwerkoverlast",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "840",
+ "version": "111609037981701884859317408078968903101"
+}

@@ -1,1 +1,44 @@
-{"missionId": "906", "missionName": "Nationale 112 award ceremonie", "requirements": [{"requirement": "ovd-b's", "qty": "3"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "tankautospuiten", "qty": "4"}, {"requirement": "redvoertuigen", "qty": "2"}, {"requirement": "ambulances", "qty": "2"}, {"requirement": "adviseurs gevaarlijke stoffen", "qty": "1"}, {"requirement": "slangenwagens", "qty": "1"}, {"requirement": "adembeschermingsvoertuigen", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "6"}], "credits": "7500"}
+{
+ "missionId": "906",
+ "missionName": "Nationale 112 award ceremonie",
+ "requirements": [
+  {
+   "requirement": "ovd-b's",
+   "qty": "3"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankautospuiten",
+   "qty": "4"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "2"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "1"
+  },
+  {
+   "requirement": "slangenwagens",
+   "qty": "1"
+  },
+  {
+   "requirement": "adembeschermingsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "6"
+  }
+ ],
+ "credits": "7500",
+ "version": "209165765675197505962836493889847739931"
+}

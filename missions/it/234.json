@@ -1,1 +1,12 @@
-{"missionId": "234", "missionName": "Assideramento", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "234",
+ "missionName": "Assideramento",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "116868708240778977876734371768675197132"
+}

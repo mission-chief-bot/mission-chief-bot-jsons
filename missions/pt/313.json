@@ -1,1 +1,24 @@
-{"missionId": "313", "missionName": "Explosão numa caixa de multibanco", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}, {"requirement": "carros de patrulha necessários:", "qty": "5"}, {"requirement": "veículos de inativação de explosivos e segurança em subsolo necessários:", "qty": "2"}, {"requirement": "máx. de pacientes:", "qty": "4"}], "credits": "5000"}
+{
+ "missionId": "313",
+ "missionName": "Explosão numa caixa de multibanco",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "veículos de inativação de explosivos e segurança em subsolo necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "4"
+  }
+ ],
+ "credits": "5000",
+ "version": "26925358280820200436321532260807992520"
+}

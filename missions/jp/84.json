@@ -1,1 +1,12 @@
-{"missionId": "84", "missionName": "駐在警察の襲撃", "requirements": [{"requirement": "警察車両", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "84",
+ "missionName": "駐在警察の襲撃",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "332053145948496365456777674622618973739"
+}

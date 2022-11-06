@@ -1,1 +1,12 @@
-{"missionId": "349", "missionName": "Smoke Inhalation", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "349",
+ "missionName": "Smoke Inhalation",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "103564693799934334666858281031263880780"
+}

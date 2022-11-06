@@ -1,1 +1,12 @@
-{"missionId": "200", "missionName": "Frattura di femore", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "200",
+ "missionName": "Frattura di femore",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "79063926972288544297267106720104492442"
+}

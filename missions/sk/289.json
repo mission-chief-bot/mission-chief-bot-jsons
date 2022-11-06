@@ -1,1 +1,12 @@
-{"missionId": "289", "missionName": "Predávkovanie", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1100"}
+{
+ "missionId": "289",
+ "missionName": "Predávkovanie",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1100",
+ "version": "306157367009478875881431214044208704421"
+}

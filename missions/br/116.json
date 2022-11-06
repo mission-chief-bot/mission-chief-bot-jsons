@@ -1,1 +1,24 @@
-{"missionId": "116", "missionName": "Incêndio médio num hotel", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "6"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "caminhões plataforma necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "10"}], "credits": "5000"}
+{
+ "missionId": "116",
+ "missionName": "Incêndio médio num hotel",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "6"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "10"
+  }
+ ],
+ "credits": "5000",
+ "version": "230936814687095352511068672682863572476"
+}

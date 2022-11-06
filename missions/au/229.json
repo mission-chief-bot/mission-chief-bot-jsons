@@ -1,1 +1,12 @@
-{"missionId": "229", "missionName": "Fire caused by anniversary-party electrics (small)", "requirements": [{"requirement": "fire engines", "qty": 2}], "credits": "1850"}
+{
+ "missionId": "229",
+ "missionName": "Fire caused by anniversary-party electrics (small)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": 2
+  }
+ ],
+ "credits": "1850",
+ "version": "153076842020231171982814690880080816566"
+}

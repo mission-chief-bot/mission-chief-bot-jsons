@@ -1,1 +1,12 @@
-{"missionId": "432", "missionName": "Posse ilegal de armas", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "432",
+ "missionName": "Posse ilegal de armas",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "70821394605741399480413140954270955273"
+}

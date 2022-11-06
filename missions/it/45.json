@@ -1,1 +1,12 @@
-{"missionId": "45", "missionName": "Taccheggio", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "45",
+ "missionName": "Taccheggio",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "193444173998935531629467987265150661302"
+}

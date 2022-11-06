@@ -1,1 +1,28 @@
-{"missionId": "286/a", "missionName": "Eingestürzter Hasenbau", "requirements": [{"requirement": "gkw", "qty": "1"}, {"requirement": "mtw-tz", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}, {"requirement": "radlader", "qty": "1"}], "credits": "1420"}
+{
+ "missionId": "286/a",
+ "missionName": "Eingestürzter Hasenbau",
+ "requirements": [
+  {
+   "requirement": "gkw",
+   "qty": "1"
+  },
+  {
+   "requirement": "mtw-tz",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "radlader",
+   "qty": "1"
+  }
+ ],
+ "credits": "1420",
+ "version": "264840227464987736833180376369870404688"
+}

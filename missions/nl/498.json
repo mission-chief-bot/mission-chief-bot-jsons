@@ -1,1 +1,16 @@
-{"missionId": "498", "missionName": "Verkeersongeval materieel", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "550"}
+{
+ "missionId": "498",
+ "missionName": "Verkeersongeval materieel",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "550",
+ "version": "305372805201879549464113127842892577405"
+}

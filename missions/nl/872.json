@@ -1,1 +1,12 @@
-{"missionId": "872", "missionName": "Gedrogeerd persoon", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "872",
+ "missionName": "Gedrogeerd persoon",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "40063905513790972928865642143459237220"
+}

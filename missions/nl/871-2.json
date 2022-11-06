@@ -1,1 +1,20 @@
-{"missionId": "871-2", "missionName": "Brandende tankwagen", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "2940"}
+{
+ "missionId": "871-2",
+ "missionName": "Brandende tankwagen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "2940",
+ "version": "49958965371296411600730394796232802557"
+}

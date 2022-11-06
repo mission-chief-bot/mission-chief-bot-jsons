@@ -1,1 +1,20 @@
-{"missionId": "482/a", "missionName": "Fire in turbine (Nuclear Power station)", "requirements": [{"requirement": "fire engines", "qty": "6"}, {"requirement": "fire officers", "qty": "3"}, {"requirement": "foam units", "qty": "1"}], "credits": "8400"}
+{
+ "missionId": "482/a",
+ "missionName": "Fire in turbine (Nuclear Power station)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "3"
+  },
+  {
+   "requirement": "foam units",
+   "qty": "1"
+  }
+ ],
+ "credits": "8400",
+ "version": "54180698334673700701068423600759841638"
+}

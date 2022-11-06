@@ -1,1 +1,24 @@
-{"missionId": "303", "missionName": "Caída desde acantilado", "requirements": [{"requirement": "camiones de bomberos", "qty": "9"}, {"requirement": "unidades de mando y comunicaciones", "qty": "2"}, {"requirement": "furgones de útiles varios", "qty": "4"}, {"requirement": "coches patrulla", "qty": "2"}], "credits": "9500"}
+{
+ "missionId": "303",
+ "missionName": "Caída desde acantilado",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "9"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "2"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "4"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "9500",
+ "version": "202216557536199987346371695196853129910"
+}

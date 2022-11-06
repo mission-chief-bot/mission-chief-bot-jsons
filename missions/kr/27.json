@@ -1,1 +1,12 @@
-{"missionId": "27", "missionName": "화재 현장(차고)", "requirements": [{"requirement": "소방차", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "27",
+ "missionName": "화재 현장(차고)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "48448621781280634920436054315400854454"
+}

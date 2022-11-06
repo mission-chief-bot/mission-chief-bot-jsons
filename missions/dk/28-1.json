@@ -1,1 +1,28 @@
-{"missionId": "28-1", "missionName": "Brændende maskine", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "3"}, {"requirement": "påkrævede redningsvogn", "qty": "1"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede vandtankvogne", "qty": "1"}, { "requirement": "skum tender påkrævet", "qty": "1" }], "credits": "2470"}
+{
+ "missionId": "28-1",
+ "missionName": "Brændende maskine",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede vandtankvogne",
+   "qty": "1"
+  },
+  {
+   "requirement": "skum tender påkrævet",
+   "qty": "1"
+  }
+ ],
+ "credits": "2470",
+ "version": "61147576692884485999736142764814093834"
+}

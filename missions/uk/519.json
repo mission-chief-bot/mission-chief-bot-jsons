@@ -1,1 +1,16 @@
-{"missionId": "519", "missionName": "Youths Setting Fire", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "police cars", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "519",
+ "missionName": "Youths Setting Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "24528928664044264943446059414040984027"
+}

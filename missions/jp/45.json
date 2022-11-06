@@ -1,1 +1,12 @@
-{"missionId": "45", "missionName": "万引き", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "45",
+ "missionName": "万引き",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "48995578190799047044857442551065866871"
+}

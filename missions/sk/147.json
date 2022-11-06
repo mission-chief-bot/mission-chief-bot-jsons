@@ -1,1 +1,12 @@
-{"missionId": "147", "missionName": "Zosuv pôdy", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}], "credits": "1500"}
+{
+ "missionId": "147",
+ "missionName": "Zosuv pôdy",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  }
+ ],
+ "credits": "1500",
+ "version": "164789890428587754724950586845147309829"
+}

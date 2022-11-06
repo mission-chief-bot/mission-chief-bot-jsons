@@ -1,1 +1,12 @@
-{"missionId": "304", "missionName": "Vigilia di Capodanno in centro città", "requirements": [{"requirement": "pattuglie", "qty": "4"}], "credits": "15000"}
+{
+ "missionId": "304",
+ "missionName": "Vigilia di Capodanno in centro città",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  }
+ ],
+ "credits": "15000",
+ "version": "107006874281005885680424716894970647110"
+}

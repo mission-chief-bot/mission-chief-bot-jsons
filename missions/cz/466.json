@@ -1,1 +1,12 @@
-{"missionId": "466", "missionName": "Krádež léků", "requirements": [{"requirement": "policejní automobily", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "466",
+ "missionName": "Krádež léků",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "14188996074597584421856965657224603127"
+}

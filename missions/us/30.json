@@ -1,1 +1,12 @@
-{"missionId": "30", "missionName": "Wastebin fire", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "30",
+ "missionName": "Wastebin fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "197481723685903632353165373282519973937"
+}

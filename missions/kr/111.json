@@ -1,1 +1,12 @@
-{"missionId": "111", "missionName": "열 경련", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "111",
+ "missionName": "열 경련",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "50960595724797979172768166077024810059"
+}

@@ -1,1 +1,12 @@
-{"missionId": "197", "missionName": "Regalo de aniversario robado", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "197",
+ "missionName": "Regalo de aniversario robado",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "253457020422270363355835108807582785091"
+}

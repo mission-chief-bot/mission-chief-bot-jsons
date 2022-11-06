@@ -1,1 +1,12 @@
-{"missionId": "190", "missionName": "Brennende fugleskremsel", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "190",
+ "missionName": "Brennende fugleskremsel",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "105874261886609368630833460634909942797"
+}

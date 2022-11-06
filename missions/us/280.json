@@ -1,1 +1,12 @@
-{"missionId": "280", "missionName": "Smoking Electrical Equipment", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "280",
+ "missionName": "Smoking Electrical Equipment",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "315709041658782399688854102884000312921"
+}

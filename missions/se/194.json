@@ -1,1 +1,16 @@
-{"missionId": "194", "missionName": "IVPA - I väntan på ambulans", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "194",
+ "missionName": "IVPA - I väntan på ambulans",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "172201531683492775092278091444839068738"
+}

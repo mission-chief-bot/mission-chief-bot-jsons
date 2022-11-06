@@ -1,1 +1,12 @@
-{"missionId": "426", "missionName": "Person fell on ice", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "426",
+ "missionName": "Person fell on ice",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "208840916343951240888402663472784537854"
+}

@@ -1,1 +1,16 @@
-{"missionId": "55", "missionName": "Încăierare", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "3"}, {"requirement": "max. pacienți", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "55",
+ "missionName": "Încăierare",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "243867495181846906306447325643329307630"
+}

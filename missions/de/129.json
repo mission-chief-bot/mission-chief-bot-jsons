@@ -1,1 +1,12 @@
-{"missionId": "129", "missionName": "Brennender Adventskranz", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "129",
+ "missionName": "Brennender Adventskranz",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "306815448788739737376291947248603751395"
+}

@@ -1,1 +1,12 @@
-{"missionId": "86", "missionName": "Brand ute - fordon, lastbil", "requirements": [{"requirement": "släckbilar", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "86",
+ "missionName": "Brand ute - fordon, lastbil",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "275366436960767373586989597537929811210"
+}

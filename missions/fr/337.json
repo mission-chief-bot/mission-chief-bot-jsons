@@ -1,1 +1,16 @@
-{"missionId": "337", "missionName": "Traitement après plongée", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "337",
+ "missionName": "Traitement après plongée",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "93679285858375255649541947586563198901"
+}

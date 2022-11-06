@@ -1,1 +1,24 @@
-{"missionId": "549", "missionName": "Person started brushfire (small)", "requirements": [{"requirement": "police car", "qty": "1"}, {"requirement": "firetrucks", "qty": "1"}, {"requirement": "wildland fire engines", "qty": "1"}, {"requirement": "fire investigation unit", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "549",
+ "missionName": "Person started brushfire (small)",
+ "requirements": [
+  {
+   "requirement": "police car",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "60644798382631189818026551102574966540"
+}

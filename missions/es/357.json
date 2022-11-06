@@ -1,1 +1,12 @@
-{"missionId": "357", "missionName": "Dar a conocer el 112 a los niños", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "357",
+ "missionName": "Dar a conocer el 112 a los niños",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "284397888866822195553003270046124674032"
+}

@@ -1,1 +1,12 @@
-{"missionId": "339", "missionName": "Передозировка", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "339",
+ "missionName": "Передозировка",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "232280865484334184908580070626758677145"
+}

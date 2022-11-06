@@ -1,1 +1,16 @@
-{"missionId": "439", "missionName": "Ohlášení poškozených zaparkovaných vozidel", "requirements": [{"requirement": "vozidla vyšetřovatelů dn", "qty": "2"}, {"requirement": "policejní automobily", "qty": "3"}], "credits": "2000"}
+{
+ "missionId": "439",
+ "missionName": "Ohlášení poškozených zaparkovaných vozidel",
+ "requirements": [
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "2"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  }
+ ],
+ "credits": "2000",
+ "version": "294314034634078674143613095855875339088"
+}

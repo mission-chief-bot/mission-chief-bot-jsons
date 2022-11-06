@@ -1,1 +1,12 @@
-{"missionId": "679", "missionName": "Heling", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "679",
+ "missionName": "Heling",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "284608630745956705139088746931035612999"
+}

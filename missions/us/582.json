@@ -1,1 +1,12 @@
-{"missionId": "582", "missionName": "Burning cake in oven", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "582",
+ "missionName": "Burning cake in oven",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "258190550269720948676501907441443816164"
+}

@@ -1,1 +1,12 @@
-{"missionId": "438", "missionName": "Dyr fanget i en brønd", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "438",
+ "missionName": "Dyr fanget i en brønd",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "283586474844687468986124084172729282331"
+}

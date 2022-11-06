@@ -1,1 +1,32 @@
-{"missionId": "89/a", "missionName": "Road Traffic Collision (Major)", "requirements": [ {"requirement": "fire engines", "qty": "8"}, {"requirement": "rescue support vehicles", "qty": "4"}, {"requirement": "fire officers", "qty": "6"}, {"requirement": "police cars", "qty": "8"}, {"requirement": "ambulance officers", "qty": "1"}, {"requirement": "max. patients", "qty": "20"}], "credits": "16500"}
+{
+ "missionId": "89/a",
+ "missionName": "Road Traffic Collision (Major)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "8"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "6"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "8"
+  },
+  {
+   "requirement": "ambulance officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "20"
+  }
+ ],
+ "credits": "16500",
+ "version": "260773005071435932777591245634932684382"
+}

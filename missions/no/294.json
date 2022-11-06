@@ -1,1 +1,12 @@
-{"missionId": "294", "missionName": "Rusk på rullebanen", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "294",
+ "missionName": "Rusk på rullebanen",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "193518360032962356381340992853875698235"
+}

@@ -1,1 +1,12 @@
-{"missionId": "338", "missionName": "401 Palovaroitin soi huoneessa", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "338",
+ "missionName": "401 Palovaroitin soi huoneessa",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "82123314882299595850681208159521949732"
+}

@@ -1,1 +1,20 @@
-{"missionId": "438", "missionName": "Odchyt uniklého skotu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "policejní automobily", "qty": "5"}, {"requirement": "da", "qty": "3"}], "credits": "3800"}
+{
+ "missionId": "438",
+ "missionName": "Odchyt uniklého skotu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "4"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "5"
+  },
+  {
+   "requirement": "da",
+   "qty": "3"
+  }
+ ],
+ "credits": "3800",
+ "version": "93157956962659702428010141305643789778"
+}

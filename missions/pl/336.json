@@ -1,1 +1,12 @@
-{"missionId": "336", "missionName": "Odwodnienie", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "810"}
+{
+ "missionId": "336",
+ "missionName": "Odwodnienie",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "810",
+ "version": "282251554628845729291679107587075387791"
+}

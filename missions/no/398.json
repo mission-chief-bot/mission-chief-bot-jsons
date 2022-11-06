@@ -1,1 +1,16 @@
-{"missionId": "398", "missionName": "Ville dyr angrep under vårpiknik", "requirements": [{"requirement": "politibiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "3"}], "credits": "600"}
+{
+ "missionId": "398",
+ "missionName": "Ville dyr angrep under vårpiknik",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "600",
+ "version": "121410767353607215858357756363033783933"
+}

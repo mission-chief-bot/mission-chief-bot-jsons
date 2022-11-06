@@ -1,1 +1,12 @@
-{"missionId": "665", "missionName": "Acute buikpijn door val", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "665",
+ "missionName": "Acute buikpijn door val",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "235344852054374496634107077704585066733"
+}

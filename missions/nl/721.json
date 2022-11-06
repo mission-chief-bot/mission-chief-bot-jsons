@@ -1,1 +1,44 @@
-{"missionId": "721", "missionName": "Spontane opstand", "requirements": [{"requirement": "noodhulpeenheden", "qty": "10"}, {"requirement": "hondengeleider", "qty": "2"}, {"requirement": "biketeams", "qty": "2"}, {"requirement": "me flexbussen", "qty": "6"}, {"requirement": "db-av", "qty": "1"}, {"requirement": "me commandovoertuigen", "qty": "1"}, {"requirement": "aanhoudingseenheden", "qty": "1"}, {"requirement": "officiers van dienst politie", "qty": "1"}, {"requirement": "biketeams, indien beschikbaar", "qty": "Ja"}], "credits": "8580"}
+{
+ "missionId": "721",
+ "missionName": "Spontane opstand",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "10"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "2"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "2"
+  },
+  {
+   "requirement": "me flexbussen",
+   "qty": "6"
+  },
+  {
+   "requirement": "db-av",
+   "qty": "1"
+  },
+  {
+   "requirement": "me commandovoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "aanhoudingseenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "biketeams, indien beschikbaar",
+   "qty": "Ja"
+  }
+ ],
+ "credits": "8580",
+ "version": "301238251626181580892929532931256011530"
+}

@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "Ild i campingvogn", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "Ild i campingvogn",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "264830215184885726213932855549982664795"
+}

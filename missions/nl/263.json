@@ -1,1 +1,12 @@
-{"missionId": "263", "missionName": "Brandende personenauto in parkeergarage", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "263",
+ "missionName": "Brandende personenauto in parkeergarage",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "329873597166264437531449120063274316298"
+}

@@ -1,1 +1,12 @@
-{"missionId": "285", "missionName": "Assalto a banco", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "5"}], "credits": "2500"}
+{
+ "missionId": "285",
+ "missionName": "Assalto a banco",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "5"
+  }
+ ],
+ "credits": "2500",
+ "version": "266047625370143534675719380461606098713"
+}

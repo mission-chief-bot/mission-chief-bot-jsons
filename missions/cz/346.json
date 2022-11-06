@@ -1,1 +1,32 @@
-{"missionId": "346", "missionName": "Požár na diskotéce", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "6"}, {"requirement": "automobilové žebříky", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "kombinované hasící automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "3"}, {"requirement": "maximum pacientů", "qty": "15"}], "credits": "5500"}
+{
+ "missionId": "346",
+ "missionName": "Požár na diskotéce",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "6"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "kombinované hasící automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "15"
+  }
+ ],
+ "credits": "5500",
+ "version": "307147216027182570473189346333272445504"
+}

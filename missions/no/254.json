@@ -1,1 +1,12 @@
-{"missionId": "254", "missionName": "Liten brann startet av jubileumsfestutstyr", "requirements": [{"requirement": "brannbiler", "qty": "2"}], "credits": "1850"}
+{
+ "missionId": "254",
+ "missionName": "Liten brann startet av jubileumsfestutstyr",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1850",
+ "version": "148994756039084599440059699718085296482"
+}

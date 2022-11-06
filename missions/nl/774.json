@@ -1,1 +1,12 @@
-{"missionId": "774", "missionName": "Ongeval hooivork", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "774",
+ "missionName": "Ongeval hooivork",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "147097899487831689224725611591325347910"
+}

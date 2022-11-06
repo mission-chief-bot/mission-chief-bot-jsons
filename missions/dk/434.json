@@ -1,1 +1,12 @@
-{"missionId": "434", "missionName": "Patruljering i park", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "434",
+ "missionName": "Patruljering i park",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "202039602622069759147333279688971541918"
+}

@@ -1,1 +1,12 @@
-{"missionId": "483", "missionName": "Scolded by hot liquid", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "483",
+ "missionName": "Scolded by hot liquid",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "83525641905839204190908274310114079437"
+}

@@ -1,1 +1,16 @@
-{"missionId": "459", "missionName": "Horse riding accident with vehicle", "requirements": [{"requirement": "police cars", "qty": "1"}, {"requirement": "max. patients", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "459",
+ "missionName": "Horse riding accident with vehicle",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "105577303028888844161138610772467197660"
+}

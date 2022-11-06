@@ -1,1 +1,16 @@
-{"missionId": "97", "missionName": "Blessure à la main causée par des feux d'artifice", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "97",
+ "missionName": "Blessure à la main causée par des feux d'artifice",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "7339809439119653905303710238440221522"
+}

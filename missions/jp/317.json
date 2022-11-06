@@ -1,1 +1,20 @@
-{"missionId": "317", "missionName": "アニバーサリーパーティでゲストが毒入りドリンク誤飲", "requirements": [{"requirement": "警察車両", "qty": "3"}, {"requirement": "消防隊長車両", "qty": "2"}, {"requirement": "最大患者", "qty": "18"}], "credits": "1200"}
+{
+ "missionId": "317",
+ "missionName": "アニバーサリーパーティでゲストが毒入りドリンク誤飲",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "18"
+  }
+ ],
+ "credits": "1200",
+ "version": "2875514304643614633468666690044362144"
+}

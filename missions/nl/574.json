@@ -1,1 +1,12 @@
-{"missionId": "574", "missionName": "Assistentie handhaving", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "574",
+ "missionName": "Assistentie handhaving",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "113082720069730862450009494182467871384"
+}

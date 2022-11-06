@@ -1,1 +1,16 @@
-{"missionId": "510", "missionName": "Zwangseinweisung", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "rtw, naw", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "510",
+ "missionName": "Zwangseinweisung",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "170704862179369052013446789992273025937"
+}

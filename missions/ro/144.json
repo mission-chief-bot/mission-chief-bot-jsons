@@ -1,1 +1,12 @@
-{"missionId": "144", "missionName": "Monstru dezlănțuit", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "144",
+ "missionName": "Monstru dezlănțuit",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "227690765073608181251158073282648005187"
+}

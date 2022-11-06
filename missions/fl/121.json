@@ -1,1 +1,16 @@
-{"missionId": "121", "missionName": "414 Liikennevälinepalo tunnelissa, pieni", "requirements": [{"requirement": "paloautot", "qty": "3"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "121",
+ "missionName": "414 Liikennevälinepalo tunnelissa, pieni",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "250897517266005572772948831002164636100"
+}

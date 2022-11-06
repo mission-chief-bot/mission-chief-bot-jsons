@@ -1,1 +1,12 @@
-{"missionId": "276", "missionName": "702 Tajuttomuus", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "700"}
+{
+ "missionId": "276",
+ "missionName": "702 Tajuttomuus",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "700",
+ "version": "5086620917766299983716410289121591382"
+}

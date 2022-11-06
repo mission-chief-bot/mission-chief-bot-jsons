@@ -1,1 +1,16 @@
-{"missionId": "174", "missionName": "Apertura porta", "requirements": [{"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "aps/abp", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "174",
+ "missionName": "Apertura porta",
+ "requirements": [
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "256891886070850688585070317379358526633"
+}

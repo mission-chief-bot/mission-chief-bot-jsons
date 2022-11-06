@@ -1,1 +1,28 @@
-{"missionId": "290", "missionName": "217 Metroliikenneonnettomuus asemalla", "requirements": [{"requirement": "paloautot", "qty": "7"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "4"}, {"requirement": "paineilmahuoltoautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "5"}], "credits": "8200"}
+{
+ "missionId": "290",
+ "missionName": "217 Metroliikenneonnettomuus asemalla",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "7"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "5"
+  }
+ ],
+ "credits": "8200",
+ "version": "82820893668833473218873729414283137722"
+}

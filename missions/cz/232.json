@@ -1,1 +1,12 @@
-{"missionId": "232", "missionName": "Použití zábavní pyrotechniky u silnice", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "232",
+ "missionName": "Použití zábavní pyrotechniky u silnice",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "2982288355445508849071218722761392104"
+}

@@ -1,1 +1,20 @@
-{"missionId": "728", "missionName": "Overturned Small Vessel", "requirements": [{"requirement": "small coastal boats", "qty": "1"}, {"requirement": "coastal helicopter", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "8000"}
+{
+ "missionId": "728",
+ "missionName": "Overturned Small Vessel",
+ "requirements": [
+  {
+   "requirement": "small coastal boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "coastal helicopter",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "8000",
+ "version": "289846637780029821934197723659864853403"
+}

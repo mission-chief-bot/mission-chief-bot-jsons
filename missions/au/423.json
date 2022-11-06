@@ -1,1 +1,16 @@
-{"missionId": "423", "missionName": "Campfire sets woodshed on fire", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "423",
+ "missionName": "Campfire sets woodshed on fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "188904152900354397585328853600632443443"
+}

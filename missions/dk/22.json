@@ -1,1 +1,20 @@
-{"missionId": "22", "missionName": "Ild i tag", "requirements": [{"requirement": "påkrævede stigevogn", "qty": "1"}, {"requirement": "påkrævede brandbiler", "qty": "3"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}], "credits": "2700"}
+{
+ "missionId": "22",
+ "missionName": "Ild i tag",
+ "requirements": [
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  }
+ ],
+ "credits": "2700",
+ "version": "331769619335104338778276116705026545575"
+}

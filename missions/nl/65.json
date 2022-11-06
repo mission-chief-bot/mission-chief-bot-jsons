@@ -1,1 +1,12 @@
-{"missionId": "65", "missionName": "Takken op de weg", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "65",
+ "missionName": "Takken op de weg",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "295728729677555641769683710823865913558"
+}

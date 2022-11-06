@@ -1,1 +1,20 @@
-{"missionId": "918", "missionName": "Kinderreanimatie", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "ambulances", "qty": "2"}], "credits": "2180"}
+{
+ "missionId": "918",
+ "missionName": "Kinderreanimatie",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "2"
+  }
+ ],
+ "credits": "2180",
+ "version": "203243234078119694218847993759797924768"
+}

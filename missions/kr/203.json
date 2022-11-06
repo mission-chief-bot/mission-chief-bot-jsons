@@ -1,1 +1,16 @@
-{"missionId": "203", "missionName": "새해 전날 파티 시 도심 지역 보호", "requirements": [{"requirement": "구급차", "qty": "2"}, {"requirement": "경찰차", "qty": "4"}], "credits": "15000"}
+{
+ "missionId": "203",
+ "missionName": "새해 전날 파티 시 도심 지역 보호",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "2"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "4"
+  }
+ ],
+ "credits": "15000",
+ "version": "281196698120190043143602490804496969682"
+}

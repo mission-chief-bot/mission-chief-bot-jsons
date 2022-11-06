@@ -1,1 +1,16 @@
-{"missionId": "311-1", "missionName": "Traumatic limb amputation", "requirements": [{"requirement": "atv carriers", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "311-1",
+ "missionName": "Traumatic limb amputation",
+ "requirements": [
+  {
+   "requirement": "atv carriers",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "110301015581251414767738137749939510306"
+}

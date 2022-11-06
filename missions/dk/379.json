@@ -1,1 +1,28 @@
-{"missionId": "379", "missionName": "Væltet autotransport", "requirements": [{"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "påkrævede redningsvogn", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "2"}, {"requirement": "maks. antal patienter", "qty": "2"}], "credits": "2750"}
+{
+ "missionId": "379",
+ "missionName": "Væltet autotransport",
+ "requirements": [
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "2750",
+ "version": "214203735351520031793895672566157805923"
+}

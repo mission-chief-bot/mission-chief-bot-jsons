@@ -1,1 +1,16 @@
-{"missionId": "518", "missionName": "Controllo con Autovelox", "requirements": [{"requirement": "pattuglie", "qty": "2"}, {"requirement": "polizia stradale", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "518",
+ "missionName": "Controllo con Autovelox",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "polizia stradale",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "217745475774257999354685831548990569616"
+}

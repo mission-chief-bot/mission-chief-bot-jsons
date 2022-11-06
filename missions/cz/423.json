@@ -1,1 +1,36 @@
-{"missionId": "423", "missionName": "Potápění hausbotu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "velitelské automobily", "qty": "2"}, {"requirement": "ta", "qty": "2"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "mobilní operační střediska", "qty": "1"}, {"requirement": "přívěs se člunem", "qty": "2"}, {"requirement": "potápěčský automobil", "qty": "1"}], "credits": "6000"}
+{
+ "missionId": "423",
+ "missionName": "Potápění hausbotu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "4"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "ta",
+   "qty": "2"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobilní operační střediska",
+   "qty": "1"
+  },
+  {
+   "requirement": "přívěs se člunem",
+   "qty": "2"
+  },
+  {
+   "requirement": "potápěčský automobil",
+   "qty": "1"
+  }
+ ],
+ "credits": "6000",
+ "version": "206772027836757069018826222608191379765"
+}

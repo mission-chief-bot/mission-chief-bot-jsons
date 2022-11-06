@@ -1,1 +1,12 @@
-{"missionId": "330", "missionName": "공원 순찰", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "330",
+ "missionName": "공원 순찰",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "184398542758480549514073806812067456764"
+}

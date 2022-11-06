@@ -1,1 +1,20 @@
-{"missionId": "432-1", "missionName": "Small Wildfire", "requirements": [{"requirement": "water tankers", "qty": "1"}, {"requirement": "wildland fire engines", "qty": "2"}, {"requirement": "fire investigation unit", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "432-1",
+ "missionName": "Small Wildfire",
+ "requirements": [
+  {
+   "requirement": "water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "29255472890070006021042030703885982438"
+}

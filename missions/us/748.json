@@ -1,1 +1,36 @@
-{"missionId": "748", "missionName": "Jetbridge Collapse (Large)", "requirements": [{"requirement": "firetrucks", "qty": "5"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "2"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "2"}, {"requirement": "arff", "qty": "1"}, {"requirement": "max. patients", "qty": "30"}], "credits": "6000"}
+{
+ "missionId": "748",
+ "missionName": "Jetbridge Collapse (Large)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "5"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "arff",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "30"
+  }
+ ],
+ "credits": "6000",
+ "version": "225939432130725773687081131408175498549"
+}

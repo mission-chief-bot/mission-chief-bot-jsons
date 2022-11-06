@@ -1,1 +1,16 @@
-{"missionId": "75", "missionName": "Olaga hot", "requirements": [{"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "75",
+ "missionName": "Olaga hot",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "322656088330561469853695918627784296095"
+}

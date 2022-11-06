@@ -1,1 +1,20 @@
-{"missionId": "85", "missionName": "403 Maatilan tulipalo, suuri", "requirements": [{"requirement": "paloautot", "qty": "9"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "nostolava-autot", "qty": "3"}], "credits": "9000"}
+{
+ "missionId": "85",
+ "missionName": "403 Maatilan tulipalo, suuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "9"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "3"
+  }
+ ],
+ "credits": "9000",
+ "version": "187307537360338149271845434240181351028"
+}

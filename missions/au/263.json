@@ -1,1 +1,12 @@
-{"missionId": "263", "missionName": "Sabotaged firework", "requirements": [{"requirement": "police cars", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "263",
+ "missionName": "Sabotaged firework",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "160427201576784577263838804647326716591"
+}

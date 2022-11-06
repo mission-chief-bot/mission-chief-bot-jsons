@@ -1,1 +1,12 @@
-{"missionId": "181", "missionName": "612 Kauppakeskusvalvonta", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "181",
+ "missionName": "612 Kauppakeskusvalvonta",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "182067665209479066345086868987430183549"
+}

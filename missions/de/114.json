@@ -1,1 +1,20 @@
-{"missionId": "114", "missionName": "Hexe hängt in Baum", "requirements": [{"requirement": "drehleitern", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "114",
+ "missionName": "Hexe hängt in Baum",
+ "requirements": [
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "83927887530861318238072884995878488335"
+}

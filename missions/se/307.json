@@ -1,1 +1,20 @@
-{"missionId": "307", "missionName": "Första Hjälpen-utbildning", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "ambulanser", "qty": "1"}, {"requirement": "polisbilar", "qty": "1"}], "credits": "5400"}
+{
+ "missionId": "307",
+ "missionName": "Första Hjälpen-utbildning",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulanser",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "5400",
+ "version": "223174864408470562334125799330656237051"
+}

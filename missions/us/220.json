@@ -1,1 +1,12 @@
-{"missionId": "220", "missionName": "Difficulty Breathing", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "220",
+ "missionName": "Difficulty Breathing",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "264398893383448678599562251505501460739"
+}

@@ -1,1 +1,12 @@
-{"missionId": "83", "missionName": "Грузовик с полуприцепом в огне", "requirements": [{"requirement": "пожарные машины", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "83",
+ "missionName": "Грузовик с полуприцепом в огне",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "338914253185638285705967115703909134723"
+}

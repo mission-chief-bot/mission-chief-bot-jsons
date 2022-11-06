@@ -1,1 +1,20 @@
-{"missionId": "659", "missionName": "Brand in hoogspanningsruimte", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}], "credits": "1250"}
+{
+ "missionId": "659",
+ "missionName": "Brand in hoogspanningsruimte",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  }
+ ],
+ "credits": "1250",
+ "version": "90506440635174454059848354253811043213"
+}

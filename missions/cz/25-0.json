@@ -1,1 +1,24 @@
-{"missionId": "25-0", "missionName": "Dopravní nehoda", "requirements": [{"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}, {"requirement": "vya nebo aj", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "25-0",
+ "missionName": "Dopravní nehoda",
+ "requirements": [
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  },
+  {
+   "requirement": "vya nebo aj",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "243962996006698667910689378464300356236"
+}

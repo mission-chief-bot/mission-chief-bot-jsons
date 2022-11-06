@@ -1,1 +1,12 @@
-{"missionId": "439", "missionName": "Persona scivolata sulle foglie bagnate", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "439",
+ "missionName": "Persona scivolata sulle foglie bagnate",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "74888521553662360255269381739816519772"
+}

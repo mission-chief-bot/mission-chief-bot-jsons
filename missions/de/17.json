@@ -1,1 +1,12 @@
-{"missionId": "17", "missionName": "Brand in Briefkasten", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "17",
+ "missionName": "Brand in Briefkasten",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "171161609419337719655028462585527483348"
+}

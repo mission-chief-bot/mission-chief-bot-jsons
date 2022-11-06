@@ -1,1 +1,12 @@
-{"missionId": "122", "missionName": "Amenaza a un oficial", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "750"}
+{
+ "missionId": "122",
+ "missionName": "Amenaza a un oficial",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "750",
+ "version": "296710849061547070397345918179616353552"
+}

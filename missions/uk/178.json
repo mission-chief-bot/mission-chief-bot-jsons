@@ -1,1 +1,20 @@
-{"missionId": "178", "missionName": "Medium forest fire", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "water carriers", "qty": "1"}, {"requirement": "fire officers", "qty": "2"}], "credits": "4000"}
+{
+ "missionId": "178",
+ "missionName": "Medium forest fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "2"
+  }
+ ],
+ "credits": "4000",
+ "version": "13393217146712650903844093392551472833"
+}

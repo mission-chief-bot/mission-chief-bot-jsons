@@ -1,1 +1,12 @@
-{"missionId": "193", "missionName": "Infraction au décret n° 90-897 sur les artifices de divertissement", "requirements": [{"requirement": "voitures de police es", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "193",
+ "missionName": "Infraction au décret n° 90-897 sur les artifices de divertissement",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "218720606380711749949743913553313778937"
+}

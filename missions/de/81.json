@@ -1,1 +1,12 @@
-{"missionId": "81", "missionName": "Einbruch in Keller", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "81",
+ "missionName": "Einbruch in Keller",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "175261311209583714065490760134772999191"
+}

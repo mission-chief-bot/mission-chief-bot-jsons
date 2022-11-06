@@ -1,1 +1,12 @@
-{"missionId": "304", "missionName": "Горящий флаг углового судьи", "requirements": [{"requirement": "пожарные машины", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "304",
+ "missionName": "Горящий флаг углового судьи",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "230955874960267535567340677295848872828"
+}

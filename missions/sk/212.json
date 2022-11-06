@@ -1,1 +1,12 @@
-{"missionId": "212", "missionName": "Parašutista na strome", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "212",
+ "missionName": "Parašutista na strome",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "173876776499102353853986557422088450242"
+}

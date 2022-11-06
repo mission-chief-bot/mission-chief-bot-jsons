@@ -1,1 +1,36 @@
-{"missionId": "692", "missionName": "Strip Mall Fire (Large)", "requirements": [{"requirement": "firetrucks", "qty": "15"}, {"requirement": "platform trucks", "qty": "6"}, {"requirement": "battalion chief vehicles", "qty": "3"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "mobile air vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "15"}], "credits": "9000"}
+{
+ "missionId": "692",
+ "missionName": "Strip Mall Fire (Large)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "15"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "6"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "15"
+  }
+ ],
+ "credits": "9000",
+ "version": "258093057874469208722724028922565962748"
+}

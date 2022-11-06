@@ -1,1 +1,12 @@
-{"missionId": "329", "missionName": "Sumidero atascado con hojas", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "329",
+ "missionName": "Sumidero atascado con hojas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "309024756689263203179323825451730248104"
+}

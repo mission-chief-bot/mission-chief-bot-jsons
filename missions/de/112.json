@@ -1,1 +1,12 @@
-{"missionId": "112", "missionName": "Brennendes Kürbisfeld", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "112",
+ "missionName": "Brennendes Kürbisfeld",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "105454086155372209447194251890028339317"
+}

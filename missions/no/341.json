@@ -1,1 +1,32 @@
-{"missionId": "341", "missionName": "Fall fra stort stillas", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tungredningsbiler", "qty": "3"}, {"requirement": "politibiler", "qty": "3"}, {"requirement": "stigebil", "qty": "2"}, {"requirement": "maks pasienter", "qty": "10"}], "credits": "7000"}
+{
+ "missionId": "341",
+ "missionName": "Fall fra stort stillas",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "stigebil",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "10"
+  }
+ ],
+ "credits": "7000",
+ "version": "227739606156573376918003257143393490714"
+}

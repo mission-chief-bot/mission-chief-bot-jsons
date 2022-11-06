@@ -1,1 +1,12 @@
-{"missionId": "205", "missionName": "Porażenie słoneczne", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "205",
+ "missionName": "Porażenie słoneczne",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "126795074152039533375485841539564606128"
+}

@@ -1,1 +1,20 @@
-{"missionId": "113", "missionName": "Camión de la basura en llamas", "requirements": [{"requirement": "camiones de bomberos", "qty": "3"}, {"requirement": "unidades de mando y comunicaciones", "qty": "2"}, {"requirement": "coches patrulla", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "113",
+ "missionName": "Camión de la basura en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "3"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "2"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "208330490199983142976766239675089102389"
+}

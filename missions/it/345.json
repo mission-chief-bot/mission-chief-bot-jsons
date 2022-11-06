@@ -1,1 +1,12 @@
-{"missionId": "345", "missionName": "Avvelenamento", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "550"}
+{
+ "missionId": "345",
+ "missionName": "Avvelenamento",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "550",
+ "version": "137248965795792150940684522974434564552"
+}

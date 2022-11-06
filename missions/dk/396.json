@@ -1,1 +1,20 @@
-{"missionId": "396", "missionName": "Annoncering af nye 112-funktioner", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "påkrævede ambulancer", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "396",
+ "missionName": "Annoncering af nye 112-funktioner",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede ambulancer",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "48752866608092042861936037989670572046"
+}

@@ -1,1 +1,12 @@
-{"missionId": "339", "missionName": "바닥에 누워있는 사람", "requirements": [{"requirement": "최대 환자", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "339",
+ "missionName": "바닥에 누워있는 사람",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "126461519347728014264408783792308256665"
+}

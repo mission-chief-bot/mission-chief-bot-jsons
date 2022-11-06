@@ -1,1 +1,24 @@
-{"missionId": "109", "missionName": "Incidente con veicoli particolari", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "3"}], "credits": "4"}
+{
+ "missionId": "109",
+ "missionName": "Incidente con veicoli particolari",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "3"
+  }
+ ],
+ "credits": "4",
+ "version": "251304362580724281933554179190426377056"
+}

@@ -1,1 +1,12 @@
-{"missionId": "152", "missionName": "スピードレーダー", "requirements": [{"requirement": "警察車両", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "152",
+ "missionName": "スピードレーダー",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "125629767274894258011817919830089100444"
+}

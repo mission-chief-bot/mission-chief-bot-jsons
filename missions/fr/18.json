@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "Feu de broussailles", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "Feu de broussailles",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "327297174440311510929647679652212415406"
+}

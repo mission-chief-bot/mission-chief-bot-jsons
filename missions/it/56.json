@@ -1,1 +1,12 @@
-{"missionId": "56", "missionName": "Manifestante violento", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "56",
+ "missionName": "Manifestante violento",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "237809501756547119732633727551479316840"
+}

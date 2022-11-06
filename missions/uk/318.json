@@ -1,1 +1,12 @@
-{"missionId": "318", "missionName": "Reported fire in the open", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "318",
+ "missionName": "Reported fire in the open",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "301103953099747137079205144378847595238"
+}

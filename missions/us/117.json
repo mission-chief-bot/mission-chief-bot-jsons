@@ -1,1 +1,20 @@
-{"missionId": "117", "missionName": "Engine Fire", "requirements": [{"requirement": "arff", "qty": "2"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "firetrucks", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "117",
+ "missionName": "Engine Fire",
+ "requirements": [
+  {
+   "requirement": "arff",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "177143500275605756435331733059705503216"
+}

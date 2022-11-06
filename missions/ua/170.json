@@ -1,1 +1,12 @@
-{"missionId": "170", "missionName": "Патрулювання величного ринку", "requirements": [{"requirement": "поліцейські машини", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "170",
+ "missionName": "Патрулювання величного ринку",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "178334806160157584911147686666062013243"
+}

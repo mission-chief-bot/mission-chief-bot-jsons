@@ -1,1 +1,12 @@
-{"missionId": "125", "missionName": "Масова паніка на дискотеці", "requirements": [{"requirement": "поліцейські машини", "qty": "9"}], "credits": "3500"}
+{
+ "missionId": "125",
+ "missionName": "Масова паніка на дискотеці",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "9"
+  }
+ ],
+ "credits": "3500",
+ "version": "330292361669500317104434293983840018309"
+}

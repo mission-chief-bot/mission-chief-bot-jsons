@@ -1,1 +1,28 @@
-{"missionId": "69", "missionName": "452 Tuntematon säiliövuoto", "requirements": [{"requirement": "paloautot", "qty": "4"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "poliisiautot", "qty": "3"}, {"requirement": "kemikaalitorjunta-autot", "qty": "1"}], "credits": "4300"}
+{
+ "missionId": "69",
+ "missionName": "452 Tuntematon säiliövuoto",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "1"
+  }
+ ],
+ "credits": "4300",
+ "version": "203523058385181055276987723177133485504"
+}

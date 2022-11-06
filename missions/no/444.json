@@ -1,1 +1,24 @@
-{"missionId": "444", "missionName": "Kidnappet kjendis", "requirements": [{"requirement": "politibiler", "qty": "4"}, {"requirement": "hundepatruljer", "qty": "2"}, {"requirement": "kjøretøy fra demonstrasjonspolitiet", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "7500"}
+{
+ "missionId": "444",
+ "missionName": "Kidnappet kjendis",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "2"
+  },
+  {
+   "requirement": "kjøretøy fra demonstrasjonspolitiet",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "7500",
+ "version": "63668431879772040713818517216575098256"
+}

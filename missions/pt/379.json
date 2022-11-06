@@ -1,1 +1,12 @@
-{"missionId": "379", "missionName": "Astenia", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "379",
+ "missionName": "Astenia",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "185658363116957164155551357966693172121"
+}

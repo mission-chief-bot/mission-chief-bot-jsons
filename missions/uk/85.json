@@ -1,1 +1,12 @@
-{"missionId": "85", "missionName": "Monster broke loose", "requirements": [{"requirement": "police cars", "qty": "4"}], "credits": "1600"}
+{
+ "missionId": "85",
+ "missionName": "Monster broke loose",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  }
+ ],
+ "credits": "1600",
+ "version": "305813875639215853247538369559339200852"
+}

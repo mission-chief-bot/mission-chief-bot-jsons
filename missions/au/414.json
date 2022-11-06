@@ -1,1 +1,32 @@
-{"missionId": "414", "missionName": "Medium Mining Accident", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "turntable ladder trucks", "qty": "1"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "basu", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "2"}, {"requirement": "max. patients", "qty": "5"}], "credits": "5000"}
+{
+ "missionId": "414",
+ "missionName": "Medium Mining Accident",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "turntable ladder trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "basu",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "5000",
+ "version": "204279451031069131031411758659805289324"
+}

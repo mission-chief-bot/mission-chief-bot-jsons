@@ -1,1 +1,28 @@
-{"missionId": "433", "missionName": "Neznámá látka v obálce", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "3"}, {"requirement": "vozidla pro práci s nebezpečnými látkami", "qty": "1"}, {"requirement": "vozidla kynologů pčr", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "433",
+ "missionName": "Neznámá látka v obálce",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "vozidla pro práci s nebezpečnými látkami",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla kynologů pčr",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "315356712194266040969106296008266612879"
+}

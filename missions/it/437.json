@@ -1,1 +1,16 @@
-{"missionId": "437", "missionName": "Gatto Sull'Albero", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "437",
+ "missionName": "Gatto Sull'Albero",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "129079632824517875941474153230960377671"
+}

@@ -1,1 +1,12 @@
-{"missionId": "393", "missionName": "Zvyšme povědomí školáků o lince 112", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "393",
+ "missionName": "Zvyšme povědomí školáků o lince 112",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "110863782551655553459851744074709457967"
+}

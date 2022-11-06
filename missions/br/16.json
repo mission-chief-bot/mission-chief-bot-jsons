@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "Fogo em caravana", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "Fogo em caravana",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "25934692804145536293169456461917497582"
+}

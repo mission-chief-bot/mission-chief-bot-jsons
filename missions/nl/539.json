@@ -1,1 +1,12 @@
-{"missionId": "539", "missionName": "Auto beschadigd door vuurwerk", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "539",
+ "missionName": "Auto beschadigd door vuurwerk",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "103493367560656781726523266614840736006"
+}

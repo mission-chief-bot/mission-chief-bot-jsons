@@ -1,1 +1,12 @@
-{"missionId": "236", "missionName": "Nehoda při pečení výročního dortu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "236",
+ "missionName": "Nehoda při pečení výročního dortu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "238731360787560954233214367735765938092"
+}

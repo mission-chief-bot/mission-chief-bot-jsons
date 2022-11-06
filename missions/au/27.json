@@ -1,1 +1,12 @@
-{"missionId": "27", "missionName": "Garage fire", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "27",
+ "missionName": "Garage fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "208650850325020673472796395727060197414"
+}

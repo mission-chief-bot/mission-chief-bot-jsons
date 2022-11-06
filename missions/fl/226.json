@@ -1,1 +1,24 @@
-{"missionId": "226", "missionName": "432 Laituripalo", "requirements": [{"requirement": "paloautot", "qty": "4"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "nostolava-autot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "226",
+ "missionName": "432 Laituripalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "22015095830927603271744767802905578755"
+}

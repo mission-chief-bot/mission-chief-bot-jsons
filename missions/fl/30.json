@@ -1,1 +1,12 @@
-{"missionId": "30", "missionName": "451 Kaasuvuoto, pieni", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "30",
+ "missionName": "451 Kaasuvuoto, pieni",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "203111363437714363066985232730107422135"
+}

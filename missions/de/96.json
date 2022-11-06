@@ -1,1 +1,16 @@
-{"missionId": "96", "missionName": "Feuer in Schnellrestaurant", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "rtw, naw", "qty": "1"}], "credits": "2900"}
+{
+ "missionId": "96",
+ "missionName": "Feuer in Schnellrestaurant",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "2900",
+ "version": "128424000282171929985509973129053773434"
+}

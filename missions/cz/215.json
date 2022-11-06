@@ -1,1 +1,12 @@
-{"missionId": "215", "missionName": "Malý požár pole způsobený zábavní pyrotechnikou", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "215",
+ "missionName": "Malý požár pole způsobený zábavní pyrotechnikou",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "111583241627700349515719259262599682488"
+}

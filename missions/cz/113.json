@@ -1,1 +1,16 @@
-{"missionId": "113", "missionName": "Postřelený policista", "requirements": [{"requirement": "policejní automobily", "qty": "6"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "113",
+ "missionName": "Postřelený policista",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "6"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "321504403530185588754747850032766198892"
+}

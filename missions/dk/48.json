@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "Metaltyveri", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "Metaltyveri",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "133893214569995333463131636267843605625"
+}

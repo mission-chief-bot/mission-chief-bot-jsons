@@ -1,1 +1,12 @@
-{"missionId": "98", "missionName": "744 Nestehukkainen henkilö", "requirements": [{"requirement": "potilaita enint.", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "98",
+ "missionName": "744 Nestehukkainen henkilö",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "147057847375964001239075364711513905191"
+}

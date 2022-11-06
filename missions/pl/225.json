@@ -1,1 +1,24 @@
-{"missionId": "225", "missionName": "Podejrzany pakunek w autobusie/tramwaju", "requirements": [{"requirement": "samochody pożarnicze", "qty": "2"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "radiowozy", "qty": "3"}, {"requirement": "jednostki k-9", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "225",
+ "missionName": "Podejrzany pakunek w autobusie/tramwaju",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "188962919244041524294035166798178410881"
+}

@@ -1,1 +1,36 @@
-{"missionId": "68", "missionName": "Feu d'ERP - Supermarché", "requirements": [{"requirement": "fourgons d’incendie", "qty": "6"}, {"requirement": "chefs de groupe", "qty": "3"}, {"requirement": "véhicules poste de commandement", "qty": "1"},{"requirement": "moyen elévateur aérien", "qty": "2"}, {"requirement": "camions-citernes", "qty": "1"}, {"requirement": "voitures de police es", "qty": "3"}, {"requirement": "max. patients", "qty": "6"}], "credits": "4300"}
+{
+ "missionId": "68",
+ "missionName": "Feu d'ERP - Supermarché",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "6"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "3"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "2"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "4300",
+ "version": "139610913068895407080193175443787324168"
+}

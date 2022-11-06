@@ -1,1 +1,16 @@
-{"missionId": "218", "missionName": "Brændende julemarkedsbod", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "1"}], "credits": "610"}
+{
+ "missionId": "218",
+ "missionName": "Brændende julemarkedsbod",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "610",
+ "version": "78427008977562144734940461808021042066"
+}

@@ -1,1 +1,12 @@
-{"missionId": "327", "missionName": "ピクニックかご火災", "requirements": [{"requirement": "消防車", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "327",
+ "missionName": "ピクニックかご火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "283921492081350894575245711633897110283"
+}

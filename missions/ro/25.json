@@ -1,1 +1,16 @@
-{"missionId": "25", "missionName": "Accident rutier", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "25",
+ "missionName": "Accident rutier",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "238500792742298504487068966905349075604"
+}

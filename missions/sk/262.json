@@ -1,1 +1,16 @@
-{"missionId": "262", "missionName": "Pád z malej kovovej konštrukcie", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}, {"requirement": "policajné vozidlá", "qty": "2"}], "credits": "3500"}
+{
+ "missionId": "262",
+ "missionName": "Pád z malej kovovej konštrukcie",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "3500",
+ "version": "118644157538874615771669938821270018835"
+}

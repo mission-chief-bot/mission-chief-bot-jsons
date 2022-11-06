@@ -1,1 +1,12 @@
-{"missionId": "924", "missionName": "Voedselvergiftiging van wilde bessen", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "800"}
+{
+ "missionId": "924",
+ "missionName": "Voedselvergiftiging van wilde bessen",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "800",
+ "version": "220393885809447307198978586355392026941"
+}

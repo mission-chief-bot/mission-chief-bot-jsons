@@ -1,1 +1,44 @@
-{"missionId": "264", "missionName": "Grande acidente de carro num túnel", "requirements": [ {"requirement": "caminhões de bombeiro necessários", "qty": "6"}, {"requirement": "viaturas de batalhão necessárias", "qty": "2"}, {"requirement": "veículos de resgate pesado necessários", "qty": "3"}, {"requirement": "caminhões pipa necessários", "qty": "1"}, {"requirement": "bombas motorizadas necessárias", "qty": "2"}, {"requirement": "veículos aéreos móveis necessários", "qty": "1"}, {"requirement": "viaturas de produtos perigosos necessárias", "qty": "1"}, {"requirement": "viaturas de polícia necessárias", "qty": "3"}, {"requirement": "máx. de pacientes", "qty": "14"}], "credits": "7400"}
+{
+ "missionId": "264",
+ "missionName": "Grande acidente de carro num túnel",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "6"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "bombas motorizadas necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos aéreos móveis necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de produtos perigosos necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "3"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "14"
+  }
+ ],
+ "credits": "7400",
+ "version": "90066649760690087341208174492243877565"
+}

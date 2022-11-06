@@ -1,1 +1,12 @@
-{"missionId": "23", "missionName": "油から出火", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "油から出火",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "148755818411223295462658303439208573077"
+}

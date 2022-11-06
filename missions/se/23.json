@@ -1,1 +1,12 @@
-{"missionId": "23", "missionName": "Brinnande fett", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "Brinnande fett",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "199498555438514245730731059341330980050"
+}

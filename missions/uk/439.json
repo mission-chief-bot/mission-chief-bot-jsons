@@ -1,1 +1,16 @@
-{"missionId": "439", "missionName": "Egg hunt under water", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "police cars", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "439",
+ "missionName": "Egg hunt under water",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "243039831001877517577437111756643458071"
+}

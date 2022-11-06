@@ -1,1 +1,16 @@
-{"missionId": "133", "missionName": "Zagrożenie dla urzędnika państwowego", "requirements": [{"requirement": "radiowozy", "qty": "2"}, {"requirement": "maks. pacjenci", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "133",
+ "missionName": "Zagrożenie dla urzędnika państwowego",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "50470209968318270192323445224003635042"
+}

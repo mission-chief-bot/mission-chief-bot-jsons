@@ -1,1 +1,12 @@
-{"missionId": "385", "missionName": "Trofeo rubato", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "385",
+ "missionName": "Trofeo rubato",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "273663485271966025553593406763921172802"
+}

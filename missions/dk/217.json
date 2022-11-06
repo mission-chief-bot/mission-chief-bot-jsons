@@ -1,1 +1,12 @@
-{"missionId": "217", "missionName": "Brændende adventskrans", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "217",
+ "missionName": "Brændende adventskrans",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "263699893388788517411111946773172320967"
+}

@@ -1,1 +1,24 @@
-{"missionId": "438", "missionName": "570 Mielenosoituksen hajottaminen voimakeinoin", "requirements": [{"requirement": "poliisiautot", "qty": "8"}, {"requirement": "koirapartiot", "qty": "2"}, {"requirement": "potilaita enint.", "qty": "4"}, {"requirement": "vati-henkilöt", "qty": "4"}], "credits": "3500"}
+{
+ "missionId": "438",
+ "missionName": "570 Mielenosoituksen hajottaminen voimakeinoin",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "2"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "4"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "4"
+  }
+ ],
+ "credits": "3500",
+ "version": "69351709720997523959904665376114298456"
+}

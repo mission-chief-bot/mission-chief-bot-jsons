@@ -1,1 +1,12 @@
-{"missionId": "371", "missionName": "武器不法所持", "requirements": [{"requirement": "警察車両", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "371",
+ "missionName": "武器不法所持",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "98778855403827659412355877272876981029"
+}

@@ -1,1 +1,12 @@
-{"missionId": "8", "missionName": "Depozit de deșeuri în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "8",
+ "missionName": "Depozit de deșeuri în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "167731043099575516328797501296178170961"
+}

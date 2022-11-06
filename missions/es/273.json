@@ -1,1 +1,12 @@
-{"missionId": "273", "missionName": "Traumatismo craneoencefálico", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "273",
+ "missionName": "Traumatismo craneoencefálico",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "17197616535099071249863524259926745788"
+}

@@ -1,1 +1,20 @@
-{"missionId": "243", "missionName": "Reitunfall mit Pkw", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "rtw, naw", "qty": "4"}, {"requirement": "nef", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "243",
+ "missionName": "Reitunfall mit Pkw",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw, naw",
+   "qty": "4"
+  },
+  {
+   "requirement": "nef",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "311332560937771255521222248823239488068"
+}

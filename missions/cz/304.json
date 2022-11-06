@@ -1,1 +1,12 @@
-{"missionId": "304", "missionName": "Sutiny na ranveji", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "304",
+ "missionName": "Sutiny na ranveji",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "108850626963171569979323230821654964425"
+}

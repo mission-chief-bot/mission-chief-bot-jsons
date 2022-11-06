@@ -1,1 +1,12 @@
-{"missionId": "728", "missionName": "Diebstahl von Kälbern", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "728",
+ "missionName": "Diebstahl von Kälbern",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "139556110783622807855448003359618702784"
+}

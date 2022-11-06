@@ -1,1 +1,16 @@
-{"missionId": "179", "missionName": "Schädelverletzung","requirements": [ {"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "179",
+ "missionName": "Schädelverletzung",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "126174068672201786645599196100360684312"
+}

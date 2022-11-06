@@ -1,1 +1,16 @@
-{"missionId": "389", "missionName": "Pożar kotłowni", "requirements": [{"requirement": "samochody pożarnicze", "qty": "5"}, {"requirement": "slop lub slrr", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "389",
+ "missionName": "Pożar kotłowni",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "289127244295172338844496772199328243068"
+}

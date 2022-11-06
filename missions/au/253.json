@@ -1,1 +1,24 @@
-{"missionId": "253", "missionName": "Landslide", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "2"}, {"requirement": "max. patients", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "253",
+ "missionName": "Landslide",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "4744554530167438708397132022208634119"
+}

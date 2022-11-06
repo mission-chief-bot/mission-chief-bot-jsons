@@ -1,1 +1,12 @@
-{"missionId": "411", "missionName": "Mulig infektion", "requirements": [{"requirement": "maks. antal patienter", "qty": "5"}], "credits": "650"}
+{
+ "missionId": "411",
+ "missionName": "Mulig infektion",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "650",
+ "version": "310244567125605013080568346222698260066"
+}

@@ -1,1 +1,16 @@
-{"missionId": "116", "missionName": "402 Makuuhuonepalo", "requirements": [{"requirement": "paloautot", "qty": "3"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "116",
+ "missionName": "402 Makuuhuonepalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "242710544840620460558823011324612210702"
+}

@@ -1,1 +1,12 @@
-{"missionId": "421", "missionName": "Cardiac Arrest", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "10"}
+{
+ "missionId": "421",
+ "missionName": "Cardiac Arrest",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "10",
+ "version": "127928817329581821716558656964013991990"
+}

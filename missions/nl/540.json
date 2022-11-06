@@ -1,1 +1,12 @@
-{"missionId": "540", "missionName": "Overtreding op vuurwerkbesluit", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "540",
+ "missionName": "Overtreding op vuurwerkbesluit",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "79996510658728557063198687079338187386"
+}

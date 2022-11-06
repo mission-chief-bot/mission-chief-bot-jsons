@@ -1,1 +1,16 @@
-{"missionId": "252", "missionName": "Trafikolycka orsakad av fyrverkeripjäser när väg", "requirements": [{"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "252",
+ "missionName": "Trafikolycka orsakad av fyrverkeripjäser när väg",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "70887688966316800241406218640258167944"
+}

@@ -1,1 +1,12 @@
-{"missionId": "695", "missionName": "Abdominal Pain", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "695",
+ "missionName": "Abdominal Pain",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "112721516253775690725886521665389492072"
+}

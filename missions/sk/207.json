@@ -1,1 +1,12 @@
-{"missionId": "207", "missionName": "Trosky na pristávacej dráhe", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "207",
+ "missionName": "Trosky na pristávacej dráhe",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "219368429913355448601459936893981486321"
+}

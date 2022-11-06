@@ -1,1 +1,36 @@
-{"missionId": "266", "missionName": "Colapso de Viaduto", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "5"}, {"requirement": "veículos escada necessários:", "qty": "1"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "3"}, {"requirement": "veículos de socorro e assistência especial necessários:", "qty": "2"}, {"requirement": "carros de patrulha necessários:", "qty": "3"}, {"requirement": "máx. de pacientes:", "qty": "25"}], "credits": "7500"}
+{
+ "missionId": "266",
+ "missionName": "Colapso de Viaduto",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "veículos escada necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos de socorro e assistência especial necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "25"
+  }
+ ],
+ "credits": "7500",
+ "version": "234235720802818618703992990838892818959"
+}

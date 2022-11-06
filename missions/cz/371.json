@@ -1,1 +1,16 @@
-{"missionId": "371", "missionName": "Panika na diskotéce", "requirements": [{"requirement": "policejní automobily", "qty": "6"}, {"requirement": "maximum pacientů", "qty": "10"}], "credits": "3000"}
+{
+ "missionId": "371",
+ "missionName": "Panika na diskotéce",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "6"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "10"
+  }
+ ],
+ "credits": "3000",
+ "version": "239738592814294795913914863670577468419"
+}

@@ -1,1 +1,20 @@
-{"missionId": "271", "missionName": "462 Irronnut kattopelti, keskisuuri", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "nostolava-autot", "qty": "1"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1250"}
+{
+ "missionId": "271",
+ "missionName": "462 Irronnut kattopelti, keskisuuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1250",
+ "version": "258412940546196169426035493815055592998"
+}

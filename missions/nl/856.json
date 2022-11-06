@@ -1,1 +1,12 @@
-{"missionId": "856", "missionName": "Persoon uitgegleden over natte bladeren", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "856",
+ "missionName": "Persoon uitgegleden over natte bladeren",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "334229939441458149028819848570659079055"
+}

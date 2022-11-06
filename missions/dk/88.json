@@ -1,1 +1,12 @@
-{"missionId": "88", "missionName": "3 grads forbrænding", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "88",
+ "missionName": "3 grads forbrænding",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "330038008969463604498671807300201569505"
+}

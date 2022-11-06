@@ -1,1 +1,12 @@
-{"missionId": "744", "missionName": "Stalker", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "744",
+ "missionName": "Stalker",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "146287174656789347230340010200378345402"
+}

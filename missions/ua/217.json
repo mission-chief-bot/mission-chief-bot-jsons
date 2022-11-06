@@ -1,1 +1,12 @@
-{"missionId": "217", "missionName": "Панічна атака", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "250"}
+{
+ "missionId": "217",
+ "missionName": "Панічна атака",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "250",
+ "version": "29737914920527263797561241217651496239"
+}

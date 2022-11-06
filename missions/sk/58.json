@@ -1,1 +1,12 @@
-{"missionId": "58", "missionName": "Požiar v kuchyni", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "58",
+ "missionName": "Požiar v kuchyni",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "46473975378315929630855403668861586266"
+}

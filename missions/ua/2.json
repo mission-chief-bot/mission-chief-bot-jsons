@@ -1,1 +1,12 @@
-{"missionId": "2", "missionName": "Палаючий автомобіль", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "370"}
+{
+ "missionId": "2",
+ "missionName": "Палаючий автомобіль",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "370",
+ "version": "26327822318958945396723767363353043067"
+}

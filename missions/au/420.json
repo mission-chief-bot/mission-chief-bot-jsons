@@ -1,1 +1,44 @@
-{"missionId": "420", "missionName": "Major Bushfire Staging Area", "requirements": [{"requirement": "support vehicles", "qty": "6"}, {"requirement": "bulk water tankers", "qty": "6"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "mobile command vehicles", "qty": "2"}, {"requirement": "ambulances", "qty": "2"}, {"requirement": "paramedic supervisor", "qty": "1"}, {"requirement": "brush trucks", "qty": "10"}, {"requirement": "senior sergeants", "qty": "1"}, {"requirement": "fire engines", "qty": "1"}], "credits": "12500"}
+{
+ "missionId": "420",
+ "missionName": "Major Bushfire Staging Area",
+ "requirements": [
+  {
+   "requirement": "support vehicles",
+   "qty": "6"
+  },
+  {
+   "requirement": "bulk water tankers",
+   "qty": "6"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "2"
+  },
+  {
+   "requirement": "paramedic supervisor",
+   "qty": "1"
+  },
+  {
+   "requirement": "brush trucks",
+   "qty": "10"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "12500",
+ "version": "81155628572964439136717274027342886003"
+}

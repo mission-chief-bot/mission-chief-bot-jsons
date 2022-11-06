@@ -1,1 +1,16 @@
-{"missionId": "513", "missionName": "Verifiche Ambientali", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "pattuglia forestale", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "513",
+ "missionName": "Verifiche Ambientali",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglia forestale",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "13172632881111794772026218976699015906"
+}

@@ -1,1 +1,12 @@
-{"missionId": "355", "missionName": "Clandestini a Bordo", "requirements": [{"requirement": "pattuglie", "qty": "4"}], "credits": "1400"}
+{
+ "missionId": "355",
+ "missionName": "Clandestini a Bordo",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  }
+ ],
+ "credits": "1400",
+ "version": "98551570603471942462054512582526727557"
+}

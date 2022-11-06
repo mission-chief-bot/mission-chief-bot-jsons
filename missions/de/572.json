@@ -1,1 +1,20 @@
-{"missionId": "572", "missionName": "Überfall auf Spielhalle", "requirements": [{"requirement": "streifenwagen", "qty": "9"}, {"requirement": "zivilstreifenwagen, streifenwagen", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "1700"}
+{
+ "missionId": "572",
+ "missionName": "Überfall auf Spielhalle",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "9"
+  },
+  {
+   "requirement": "zivilstreifenwagen, streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "1700",
+ "version": "240847703590878420129962275365295477584"
+}

@@ -1,1 +1,16 @@
-{"missionId": "159", "missionName": "Požár automobilu na LPG", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "1300"}
+{
+ "missionId": "159",
+ "missionName": "Požár automobilu na LPG",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "208818790795063044695993627718877489597"
+}

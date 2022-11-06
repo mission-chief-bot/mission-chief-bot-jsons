@@ -1,1 +1,16 @@
-{"missionId": "725", "missionName": "Angriff eines Wildtiers während eines Frühlingspicknicks", "requirements": [{"requirement": "streifenwagen", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "3"}], "credits": "600"}
+{
+ "missionId": "725",
+ "missionName": "Angriff eines Wildtiers während eines Frühlingspicknicks",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "3"
+  }
+ ],
+ "credits": "600",
+ "version": "338139580792287781208023012073750861312"
+}

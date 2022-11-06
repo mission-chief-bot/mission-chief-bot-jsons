@@ -1,1 +1,12 @@
-{"missionId": "166", "missionName": "Easter egg hunt", "requirements": [{"requirement": "police cars", "qty": "6"}], "credits": "1000"}
+{
+ "missionId": "166",
+ "missionName": "Easter egg hunt",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  }
+ ],
+ "credits": "1000",
+ "version": "74613321760229948988404071210928290670"
+}

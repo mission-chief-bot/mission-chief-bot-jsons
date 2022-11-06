@@ -1,1 +1,24 @@
-{"missionId": "351", "missionName": "Rozsáhlý požár pole", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "30"}, {"requirement": "velitelské automobily", "qty": "3"}, {"requirement": "mobilní operační střediska", "qty": "1"}, {"requirement": "policejní automobily", "qty": "4"}], "credits": "19000"}
+{
+ "missionId": "351",
+ "missionName": "Rozsáhlý požár pole",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "30"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "mobilní operační střediska",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  }
+ ],
+ "credits": "19000",
+ "version": "6945725340423170911168292577005319898"
+}

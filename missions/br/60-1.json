@@ -1,1 +1,28 @@
-{"missionId": "60-1", "missionName": "Fogo em salão de esportes", "requirements": [ {"requirement": "caminhões de bombeiro necessários", "qty": "5"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "caminhões plataforma necessários", "qty": "1"}, {"requirement": "bombas motorizadas necessárias", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "4"}], "credits": "2200"}
+{
+ "missionId": "60-1",
+ "missionName": "Fogo em salão de esportes",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "5"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "bombas motorizadas necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "4"
+  }
+ ],
+ "credits": "2200",
+ "version": "18042720379151008072189869915247624849"
+}

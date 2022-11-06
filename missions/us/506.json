@@ -1,1 +1,16 @@
-{"missionId": "506", "missionName": "Usage of illegal firework", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "506",
+ "missionName": "Usage of illegal firework",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "213281926343265180880051667841025390455"
+}

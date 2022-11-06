@@ -1,1 +1,16 @@
-{"missionId": "35", "missionName": "Intoxicație alcoolică", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "35",
+ "missionName": "Intoxicație alcoolică",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "140169202948783996332241174999717607279"
+}

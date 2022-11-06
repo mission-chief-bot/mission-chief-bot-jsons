@@ -1,1 +1,12 @@
-{"missionId": "404", "missionName": "Sensibilisation des écoliers au 112", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "404",
+ "missionName": "Sensibilisation des écoliers au 112",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "91625811038045270336898419766138221224"
+}

@@ -1,1 +1,12 @@
-{"missionId": "175", "missionName": "Brandende kerstmarktkraam", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "175",
+ "missionName": "Brandende kerstmarktkraam",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "303027037232737660014810685004388157415"
+}

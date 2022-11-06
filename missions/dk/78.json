@@ -1,1 +1,12 @@
-{"missionId": "78", "missionName": "Hjertestop", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "78",
+ "missionName": "Hjertestop",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "99992332997881290045875251536694727321"
+}

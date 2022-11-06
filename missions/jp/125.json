@@ -1,1 +1,28 @@
-{"missionId": "125", "missionName": "鉄道人身事故", "requirements": [{"requirement": "消防車", "qty": "2"}, {"requirement": "指令ユニット", "qty": "2"}, {"requirement": "大型救助車両", "qty": "1"}, {"requirement": "警察車両", "qty": "2"}, {"requirement": "救急車", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "125",
+ "missionName": "鉄道人身事故",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  },
+  {
+   "requirement": "指令ユニット",
+   "qty": "2"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "220905149973798096150179031712703372430"
+}

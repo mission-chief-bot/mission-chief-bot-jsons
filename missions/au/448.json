@@ -1,1 +1,28 @@
-{"missionId": "448", "missionName": "Home Invasion", "requirements": [{"requirement": "police cars", "qty": "6"}, {"requirement": "k-9 units", "qty": "1"}, {"requirement": "riot police group vehicles", "qty": "1"}, {"requirement": "senior sergeants", "qty": "1"}, {"requirement": "' swat personnel (in swat vehicles)", "qty": "6"}], "credits": "5500"}
+{
+ "missionId": "448",
+ "missionName": "Home Invasion",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "1"
+  },
+  {
+   "requirement": "' swat personnel (in swat vehicles)",
+   "qty": "6"
+  }
+ ],
+ "credits": "5500",
+ "version": "105258330552134516881732173621067862706"
+}

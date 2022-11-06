@@ -1,1 +1,32 @@
-{"missionId": "306", "missionName": "Great St. Patricks Day parade", "requirements": [{"requirement": "fire officers", "qty": "5"}, {"requirement": "rescue support vehicles", "qty": "2"}, {"requirement": "fire engines", "qty": "6"}, {"requirement": "aerial appliance trucks", "qty": "3"}, {"requirement": "ambulances", "qty": "4"}, {"requirement": "police cars", "qty": "8"}], "credits": "20000"}
+{
+ "missionId": "306",
+ "missionName": "Great St. Patricks Day parade",
+ "requirements": [
+  {
+   "requirement": "fire officers",
+   "qty": "5"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "8"
+  }
+ ],
+ "credits": "20000",
+ "version": "169809728928038072806088102798483460113"
+}

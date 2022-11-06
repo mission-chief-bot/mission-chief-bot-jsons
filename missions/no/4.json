@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Gressbrann", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "Gressbrann",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "183834952634400672999640907888126815509"
+}

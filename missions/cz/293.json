@@ -1,1 +1,12 @@
-{"missionId": "293", "missionName": "Hledání ztraceného přítele", "requirements": [{"requirement": "policejní automobily", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "293",
+ "missionName": "Hledání ztraceného přítele",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "338638806936093387575529600398391258181"
+}

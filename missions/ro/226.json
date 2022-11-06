@@ -1,1 +1,12 @@
-{"missionId": "226", "missionName": "Stop respirator", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "226",
+ "missionName": "Stop respirator",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "155160930794502310930897774549616571891"
+}

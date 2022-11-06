@@ -1,1 +1,16 @@
-{"missionId": "149", "missionName": "Heks vast in boom", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "149",
+ "missionName": "Heks vast in boom",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "77717057444008398203925062606461555413"
+}

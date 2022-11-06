@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "Возгорание в автодоме", "requirements": [{"requirement": "пожарные машины", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "Возгорание в автодоме",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "268037606560606263270954755623072109684"
+}

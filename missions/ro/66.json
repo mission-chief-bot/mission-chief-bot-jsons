@@ -1,1 +1,20 @@
-{"missionId": "66", "missionName": "Cameră în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "2"}, {"requirement": "camioane cu platformă necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "66",
+ "missionName": "Cameră în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "camioane cu platformă necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "61114874663122466341080178144466959232"
+}

@@ -1,1 +1,12 @@
-{"missionId": "37", "missionName": "Ataque de asma", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "37",
+ "missionName": "Ataque de asma",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "290153430402028193077960972887846857148"
+}

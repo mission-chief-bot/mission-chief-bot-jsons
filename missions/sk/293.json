@@ -1,1 +1,20 @@
-{"missionId": "293", "missionName": "Požiar v mrakodrape", "requirements": [{"requirement": "hasičské automobily", "qty": "8"}, {"requirement": "ppla", "qty": "1"}, {"requirement": "policajné vozidlá", "qty": "3"}], "credits": "7500"}
+{
+ "missionId": "293",
+ "missionName": "Požiar v mrakodrape",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "8"
+  },
+  {
+   "requirement": "ppla",
+   "qty": "1"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "3"
+  }
+ ],
+ "credits": "7500",
+ "version": "236924494882630223803011879939801573378"
+}

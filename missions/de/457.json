@@ -1,1 +1,12 @@
-{"missionId": "457", "missionName": "Brennender Bollerwagen", "requirements": [{"requirement": "löschfahrzeuge", "qty": 1}], "credits": "500"}
+{
+ "missionId": "457",
+ "missionName": "Brennender Bollerwagen",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": 1
+  }
+ ],
+ "credits": "500",
+ "version": "251615466396453366395103804366706040271"
+}

@@ -1,1 +1,24 @@
-{"missionId": "250", "missionName": "Пожар в высотном здании", "requirements": [{"requirement": "пожарные машины", "qty": "10"}, {"requirement": "платформы", "qty": "1"}, {"requirement": "машины командира батальона", "qty": "4"}, {"requirement": "макс. пациенты", "qty": "20"}], "credits": "1500"}
+{
+ "missionId": "250",
+ "missionName": "Пожар в высотном здании",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "10"
+  },
+  {
+   "requirement": "платформы",
+   "qty": "1"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "4"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "20"
+  }
+ ],
+ "credits": "1500",
+ "version": "76895301109219182865583983257998582163"
+}

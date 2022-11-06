@@ -1,1 +1,12 @@
-{"missionId": "600", "missionName": "Tanken zonder betalen", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "600",
+ "missionName": "Tanken zonder betalen",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "336677452976154385730255172065921473428"
+}

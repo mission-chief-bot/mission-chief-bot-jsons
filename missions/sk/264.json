@@ -1,1 +1,12 @@
-{"missionId": "264", "missionName": "Vážne zranenia spôsobené sklom", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "264",
+ "missionName": "Vážne zranenia spôsobené sklom",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "233581877215919134846940162971709358262"
+}

@@ -1,1 +1,16 @@
-{"missionId": "136", "missionName": "Концерт", "requirements": [{"requirement": "пожежні машини", "qty": "2"}, {"requirement": "поліцейські машини", "qty": "7"}], "credits": "7000"}
+{
+ "missionId": "136",
+ "missionName": "Концерт",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "2"
+  },
+  {
+   "requirement": "поліцейські машини",
+   "qty": "7"
+  }
+ ],
+ "credits": "7000",
+ "version": "55475732864005930174938490257156315119"
+}

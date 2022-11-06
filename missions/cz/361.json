@@ -1,1 +1,12 @@
-{"missionId": "361", "missionName": "Podchlazení po plavání ve studené vodě", "requirements": [ {"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "361",
+ "missionName": "Podchlazení po plavání ve studené vodě",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "175769140209071618211347518903324118359"
+}

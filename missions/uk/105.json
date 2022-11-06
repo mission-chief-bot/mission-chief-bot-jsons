@@ -1,1 +1,16 @@
-{"missionId": "105", "missionName": "Concern for welfare", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "105",
+ "missionName": "Concern for welfare",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "12342213013168329410391964128156384511"
+}

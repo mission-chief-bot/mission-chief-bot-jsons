@@ -1,1 +1,16 @@
-{"missionId": "324", "missionName": "차에 갇힌 초콜릿 토끼", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "경찰차", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "324",
+ "missionName": "차에 갇힌 초콜릿 토끼",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "248111386920242721896592561586850074573"
+}

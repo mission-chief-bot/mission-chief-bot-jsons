@@ -1,1 +1,12 @@
-{"missionId": "15", "missionName": "Небольшой лесной пожар", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "1010"}
+{
+ "missionId": "15",
+ "missionName": "Небольшой лесной пожар",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "1010",
+ "version": "72251229959222742105955945347214959560"
+}

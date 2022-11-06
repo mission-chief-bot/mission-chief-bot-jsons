@@ -1,1 +1,12 @@
-{"missionId": "331", "missionName": "Zranění po nárazu na tyč", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "331",
+ "missionName": "Zranění po nárazu na tyč",
+ "requirements": [
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "55127885749706230889065234411745147324"
+}

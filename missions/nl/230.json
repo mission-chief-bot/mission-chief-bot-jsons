@@ -1,1 +1,12 @@
-{"missionId": "230", "missionName": "Onwelwording", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "230",
+ "missionName": "Onwelwording",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "257227851320219011237135569018599138267"
+}

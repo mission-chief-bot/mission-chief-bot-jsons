@@ -1,1 +1,12 @@
-{"missionId": "95", "missionName": "755 Auringonpistos", "requirements": [{"requirement": "potilaita enint.", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "95",
+ "missionName": "755 Auringonpistos",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "299805398298525251073168570745193589510"
+}

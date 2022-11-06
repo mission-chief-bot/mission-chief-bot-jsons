@@ -1,1 +1,20 @@
-{"missionId": "100", "missionName": "Veicolo della nettezza urbana in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "100",
+ "missionName": "Veicolo della nettezza urbana in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "305911060830433149786857217059296319421"
+}

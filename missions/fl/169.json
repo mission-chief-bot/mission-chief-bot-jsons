@@ -1,1 +1,32 @@
-{"missionId": "169", "missionName": "403 Puutyöpajapalo", "requirements": [{"requirement": "paloautot", "qty": "8"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "nostolava-autot", "qty": "2"}, {"requirement": "paineilmahuoltoautot", "qty": "1"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "2"}], "credits": "4200"}
+{
+ "missionId": "169",
+ "missionName": "403 Puutyöpajapalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "4200",
+ "version": "287952148493428371045958246630946124661"
+}

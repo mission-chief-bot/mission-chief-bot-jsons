@@ -1,1 +1,12 @@
-{"missionId": "526", "missionName": "Animale intrappolato in un pozzo", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "526",
+ "missionName": "Animale intrappolato in un pozzo",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "272017284644384253148257961332415473028"
+}

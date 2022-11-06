@@ -1,1 +1,12 @@
-{"missionId": "307", "missionName": "Intensivoverflytning", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "307",
+ "missionName": "Intensivoverflytning",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "301759849402597423267515084101728900829"
+}

@@ -1,1 +1,24 @@
-{"missionId": "94", "missionName": "Klatrer sidder fast", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "påkrævede redningsvogn", "qty": "1"}, {"requirement": "påkrævede stigevogn", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "94",
+ "missionName": "Klatrer sidder fast",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "270943999774711861518827108979011197883"
+}

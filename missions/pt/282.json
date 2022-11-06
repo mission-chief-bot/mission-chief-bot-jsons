@@ -1,1 +1,12 @@
-{"missionId": "282", "missionName": "Autocarro da Equipa Estacionado em Zona de Paragem Inexistente", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "282",
+ "missionName": "Autocarro da Equipa Estacionado em Zona de Paragem Inexistente",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "120572893990465570253215647396093850678"
+}

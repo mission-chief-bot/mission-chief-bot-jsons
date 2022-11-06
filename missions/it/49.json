@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "Borseggio", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Borseggio",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "292139847843964512955222184974578990822"
+}

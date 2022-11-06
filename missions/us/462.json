@@ -1,1 +1,20 @@
-{"missionId": "462", "missionName": "Illegal gun withdrawal", "requirements": [{"requirement": "fbi units", "qty": "4"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "sheriffs", "qty": "1"}], "credits": "1700"}
+{
+ "missionId": "462",
+ "missionName": "Illegal gun withdrawal",
+ "requirements": [
+  {
+   "requirement": "fbi units",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  }
+ ],
+ "credits": "1700",
+ "version": "176987869241668030533048864423711068342"
+}

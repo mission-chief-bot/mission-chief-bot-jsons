@@ -1,1 +1,28 @@
-{"missionId": "142", "missionName": "Malaise dans une grue", "requirements": [{"requirement": "spécialistes imp", "qty": "1"}, {"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "voitures de police es", "qty": "1"}, {"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "142",
+ "missionName": "Malaise dans une grue",
+ "requirements": [
+  {
+   "requirement": "spécialistes imp",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "213197581351911043119241132431091968167"
+}

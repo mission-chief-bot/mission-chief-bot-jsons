@@ -1,1 +1,12 @@
-{"missionId": "140", "missionName": "Cesto di Pasqua in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "140",
+ "missionName": "Cesto di Pasqua in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "36510701824281485882462295821466670649"
+}

@@ -1,1 +1,12 @@
-{"missionId": "239", "missionName": "Uso de fuegos artificiales ilegales", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "239",
+ "missionName": "Uso de fuegos artificiales ilegales",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "162750828634665068333328129074411556717"
+}

@@ -1,1 +1,12 @@
-{"missionId": "56", "missionName": "Výtržník", "requirements": [{"requirement": "policajné vozidlá", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "56",
+ "missionName": "Výtržník",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "171126281687637434576102012220475242722"
+}

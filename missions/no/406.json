@@ -1,1 +1,12 @@
-{"missionId": "406", "missionName": "Ulovlig gateløp", "requirements": [{"requirement": "politibiler", "qty": "6"}], "credits": "2450"}
+{
+ "missionId": "406",
+ "missionName": "Ulovlig gateløp",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "6"
+  }
+ ],
+ "credits": "2450",
+ "version": "49719568497179053195578702950262931947"
+}

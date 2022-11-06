@@ -1,1 +1,12 @@
-{"missionId": "13", "missionName": "Camion în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "2"}], "credits": "980"}
+{
+ "missionId": "13",
+ "missionName": "Camion în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "2"
+  }
+ ],
+ "credits": "980",
+ "version": "331823031391445984663243481783588565196"
+}

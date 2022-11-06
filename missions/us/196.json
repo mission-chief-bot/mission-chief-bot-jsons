@@ -1,1 +1,12 @@
-{"missionId": "196", "missionName": "Kitchen Fire", "requirements": [{"requirement": "firetrucks", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "196",
+ "missionName": "Kitchen Fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "320597076264905861138815772503588399575"
+}

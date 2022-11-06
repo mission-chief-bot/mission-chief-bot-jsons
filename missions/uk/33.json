@@ -1,1 +1,20 @@
-{"missionId": "33", "missionName": "Small Supermarket Fire", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "fire officers", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "33",
+ "missionName": "Small Supermarket Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "19094093665112044493627451182646519158"
+}

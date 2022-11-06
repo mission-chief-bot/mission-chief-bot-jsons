@@ -1,1 +1,12 @@
-{"missionId": "47", "missionName": "Uheld med parkeret bil", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "47",
+ "missionName": "Uheld med parkeret bil",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "229870286195863696471635608248336246898"
+}

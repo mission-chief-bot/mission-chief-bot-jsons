@@ -1,1 +1,12 @@
-{"missionId": "338", "missionName": "Горящая груда листьев", "requirements": [{"requirement": "пожарные машины", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "338",
+ "missionName": "Горящая груда листьев",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "115990341435867625418319862562259898865"
+}

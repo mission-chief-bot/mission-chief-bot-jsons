@@ -1,1 +1,12 @@
-{"missionId": "318", "missionName": "Brinnande hörnflagga", "requirements": [{"requirement": "släckbilar", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "318",
+ "missionName": "Brinnande hörnflagga",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "301700907000999886840823767344118506720"
+}

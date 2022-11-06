@@ -1,1 +1,32 @@
-{"missionId": "163", "missionName": "Light Aircraft Crash", "requirements": [{"requirement": "firetrucks", "qty": "4"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "water tankers", "qty": "1"}, {"requirement": "hazmat vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "4"}], "credits": "4000"}
+{
+ "missionId": "163",
+ "missionName": "Light Aircraft Crash",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "4000",
+ "version": "72737117797155956671049755772316835178"
+}

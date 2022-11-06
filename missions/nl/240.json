@@ -1,1 +1,12 @@
-{"missionId": "240", "missionName": "Vergiftiging", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "240",
+ "missionName": "Vergiftiging",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "31709536270370873657709053887621355161"
+}

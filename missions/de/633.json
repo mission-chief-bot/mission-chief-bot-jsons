@@ -1,1 +1,20 @@
-{"missionId": "633", "missionName": "Einbruch in Wohnhaus", "requirements": [{"requirement": "dhufükw", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "zivilstreifenwagen", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "633",
+ "missionName": "Einbruch in Wohnhaus",
+ "requirements": [
+  {
+   "requirement": "dhufükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "zivilstreifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "63018471739239072647307324144398387436"
+}

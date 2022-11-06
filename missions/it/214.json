@@ -1,1 +1,12 @@
-{"missionId": "214", "missionName": "Trasporto secondario", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "214",
+ "missionName": "Trasporto secondario",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "4358573826667454409070130227262522757"
+}

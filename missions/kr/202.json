@@ -1,1 +1,12 @@
-{"missionId": "202", "missionName": "불꽃놀이 관람으로 인한 발작", "requirements": [{"requirement": "최대 환자", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "202",
+ "missionName": "불꽃놀이 관람으로 인한 발작",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "340163922882828038043829583184787899406"
+}

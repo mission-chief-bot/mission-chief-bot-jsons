@@ -1,1 +1,12 @@
-{"missionId": "391", "missionName": "Animal atrapado en un pozo", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "391",
+ "missionName": "Animal atrapado en un pozo",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "52735578907382748948896790602621453433"
+}

@@ -1,1 +1,12 @@
-{"missionId": "333", "missionName": "違法公道レース", "requirements": [{"requirement": "警察車両", "qty": "6"}], "credits": "2450"}
+{
+ "missionId": "333",
+ "missionName": "違法公道レース",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "6"
+  }
+ ],
+ "credits": "2450",
+ "version": "179934182587196238569588183909720924613"
+}

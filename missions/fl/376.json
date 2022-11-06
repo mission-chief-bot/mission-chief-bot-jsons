@@ -1,1 +1,12 @@
-{"missionId": "376", "missionName": "202 Henkilöauto osunut lyhtypylvääseen", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "1350"}
+{
+ "missionId": "376",
+ "missionName": "202 Henkilöauto osunut lyhtypylvääseen",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1350",
+ "version": "272014884967444240045047612786292321467"
+}

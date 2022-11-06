@@ -1,1 +1,12 @@
-{"missionId": "56", "missionName": "Indivíduo desordeiro", "requirements": [{"requirement": "carros de patrulha necessários", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "56",
+ "missionName": "Indivíduo desordeiro",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "62208314916943060731161974829329714894"
+}

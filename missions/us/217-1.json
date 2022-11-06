@@ -1,1 +1,44 @@
-{"missionId": "217-1", "missionName": "Museum Fire", "requirements": [{"requirement": "firetrucks", "qty": "6"}, {"requirement": "battalion chief vehicles", "qty": "2"}, {"requirement": "platform trucks", "qty": "2"}, {"requirement": "heavy rescue vehicles", "qty": "4"}, {"requirement": "water tankers", "qty": "1"}, {"requirement": "mobile air vehicles", "qty": "2"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "2"},{"requirement": "fire investigation unit", "qty": "1"}], "credits": "8000"}
+{
+ "missionId": "217-1",
+ "missionName": "Museum Fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "6"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "1"
+  }
+ ],
+ "credits": "8000",
+ "version": "157846777802645742236799837994664287490"
+}

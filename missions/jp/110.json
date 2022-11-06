@@ -1,1 +1,12 @@
-{"missionId": "110", "missionName": "食中毒", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "110",
+ "missionName": "食中毒",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "32378218761983706455934637543552924560"
+}

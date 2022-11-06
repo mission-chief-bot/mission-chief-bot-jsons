@@ -1,1 +1,12 @@
-{"missionId": "225", "missionName": "Försvunnen jubileumsgäst", "requirements": [{"requirement": "polisbilar", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "225",
+ "missionName": "Försvunnen jubileumsgäst",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "81291614629740177737179290955329449012"
+}

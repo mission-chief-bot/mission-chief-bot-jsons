@@ -1,1 +1,16 @@
-{"missionId": "150", "missionName": "Carro de carga queimando", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "5"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "150",
+ "missionName": "Carro de carga queimando",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "5"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "299225364531161994611617735867967563592"
+}

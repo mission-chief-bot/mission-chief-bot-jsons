@@ -1,1 +1,44 @@
-{"missionId": "485-0", "missionName": "Vat met gevaarlijke stoffen omgevallen", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "verkenningseenheden", "qty": "1"}, {"requirement": "adviseurs gevaarlijke stoffen", "qty": "1"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "commandowagen", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "officiers van dienst politie", "qty": "1"}], "credits": "7510"}
+{
+ "missionId": "485-0",
+ "missionName": "Vat met gevaarlijke stoffen omgevallen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "verkenningseenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "commandowagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "credits": "7510",
+ "version": "172103337646400758959526837453523438366"
+}

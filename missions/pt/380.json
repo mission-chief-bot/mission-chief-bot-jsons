@@ -1,1 +1,12 @@
-{"missionId": "380", "missionName": "Reakcja alergiczna po użądleniu", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "380",
+ "missionName": "Reakcja alergiczna po użądleniu",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "89105453666107129320268422366306009220"
+}

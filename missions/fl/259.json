@@ -1,1 +1,20 @@
-{"missionId": "259", "missionName": "103 Automaattihälytys hoitolaitoksesta", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "nostolava-autot", "qty": "1"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "259",
+ "missionName": "103 Automaattihälytys hoitolaitoksesta",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "63459654033714416525217112131644198731"
+}

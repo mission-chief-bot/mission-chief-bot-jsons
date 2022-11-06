@@ -1,1 +1,28 @@
-{"missionId": "74", "missionName": "Stor brand", "requirements": [{"requirement": "släckbilar", "qty": "10"}, {"requirement": "brandbefäl", "qty": "3"}, {"requirement": "stegbilar", "qty": "2"}, {"requirement": "tankbilar", "qty": "2"}, {"requirement": "lastväxlare", "qty": "2"}], "credits": "10210"}
+{
+ "missionId": "74",
+ "missionName": "Stor brand",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "10"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "3"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  }
+ ],
+ "credits": "10210",
+ "version": "330427574088313257559812608459444742945"
+}

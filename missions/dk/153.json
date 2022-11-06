@@ -1,1 +1,11 @@
-{"missionId": "153", "missionName": "Hedeslag", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}]}
+{
+ "missionId": "153",
+ "missionName": "Hedeslag",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "57536589968859096653423046022660737419"
+}

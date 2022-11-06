@@ -1,1 +1,16 @@
-{"missionId": "226", "missionName": "Pessoa presa em equipamento de parque de recreio", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "226",
+ "missionName": "Pessoa presa em equipamento de parque de recreio",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "262277932718654373787465615612056396476"
+}

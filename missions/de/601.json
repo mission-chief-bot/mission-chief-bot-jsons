@@ -1,1 +1,24 @@
-{"missionId": "601", "missionName": "Valentinsdekoration in Restaurant brennt", "requirements": [{"requirement": "löschfahrzeuge", "qty": "5"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "8"}], "credits": "2000"}
+{
+ "missionId": "601",
+ "missionName": "Valentinsdekoration in Restaurant brennt",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "5"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "8"
+  }
+ ],
+ "credits": "2000",
+ "version": "309412967764111312663530122415889564384"
+}

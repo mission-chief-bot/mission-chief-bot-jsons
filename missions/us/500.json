@@ -1,1 +1,12 @@
-{"missionId": "500", "missionName": "Panicking animal caused by fireworks", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "500",
+ "missionName": "Panicking animal caused by fireworks",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "54270473721417702211974203243220089645"
+}

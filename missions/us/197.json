@@ -1,1 +1,20 @@
-{"missionId": "197", "missionName": "Small boat fire", "requirements": [{"requirement": "firetrucks", "qty": "3"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "boats", "qty": "1"}], "credits": "1250"}
+{
+ "missionId": "197",
+ "missionName": "Small boat fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "boats",
+   "qty": "1"
+  }
+ ],
+ "credits": "1250",
+ "version": "233305252284594502241572381975880016946"
+}

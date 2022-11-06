@@ -1,1 +1,12 @@
-{"missionId": "207", "missionName": "Monster slap løs", "requirements": [{"requirement": "påkrævede politibiler", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "207",
+ "missionName": "Monster slap løs",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "300963388056194579032670934473827211008"
+}

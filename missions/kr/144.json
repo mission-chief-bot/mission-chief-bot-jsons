@@ -1,1 +1,12 @@
-{"missionId": "144", "missionName": "불법 화물 밀수", "requirements": [{"requirement": "경찰차", "qty": "3"}], "credits": "800"}
+{
+ "missionId": "144",
+ "missionName": "불법 화물 밀수",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "3"
+  }
+ ],
+ "credits": "800",
+ "version": "293266403058454805864898449872562528311"
+}

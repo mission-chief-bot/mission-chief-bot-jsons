@@ -1,1 +1,28 @@
-{"missionId": "293", "missionName": "Ongeval met trein en vrachtwagen", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "2"}], "credits": "2450"}
+{
+ "missionId": "293",
+ "missionName": "Ongeval met trein en vrachtwagen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "2"
+  }
+ ],
+ "credits": "2450",
+ "version": "324799756765537643299874974259085275310"
+}

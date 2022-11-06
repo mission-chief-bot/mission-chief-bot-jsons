@@ -1,1 +1,12 @@
-{"missionId": "350", "missionName": "Person gled på vått løv", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "350",
+ "missionName": "Person gled på vått løv",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "195060699530698048198652511190457777701"
+}

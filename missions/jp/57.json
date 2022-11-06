@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "未許可のデモ", "requirements": [{"requirement": "警察車両", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "57",
+ "missionName": "未許可のデモ",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "153363000869233558642852461848666522041"
+}

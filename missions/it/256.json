@@ -1,1 +1,12 @@
-{"missionId": "256", "missionName": "Zuppa bruciata", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "256",
+ "missionName": "Zuppa bruciata",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "121131200375190563089567720021007610082"
+}

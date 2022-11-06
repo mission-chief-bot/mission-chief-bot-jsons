@@ -1,1 +1,20 @@
-{"missionId": "5", "missionName": "Brann i rom", "requirements": [{"requirement": "brannbiler", "qty": "2"}, {"requirement": "stigebil", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "5",
+ "missionName": "Brann i rom",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "stigebil",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "285667588253779244684488969710629581959"
+}

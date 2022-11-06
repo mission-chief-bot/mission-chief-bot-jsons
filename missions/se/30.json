@@ -1,1 +1,12 @@
-{"missionId": "30", "missionName": "Utsläpp farligt ämne - gas", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "30",
+ "missionName": "Utsläpp farligt ämne - gas",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "8412121901874552514327199238584289486"
+}

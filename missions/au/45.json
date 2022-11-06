@@ -1,1 +1,12 @@
-{"missionId": "45", "missionName": "Shoplifting", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "45",
+ "missionName": "Shoplifting",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "119575188876833765614495530215530802381"
+}

@@ -1,1 +1,12 @@
-{"missionId": "374", "missionName": "Prellung nach Lattenpraller", "requirements": [ {"requirement": "rtw", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "374",
+ "missionName": "Prellung nach Lattenpraller",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "249534721472132461914500481709416601284"
+}

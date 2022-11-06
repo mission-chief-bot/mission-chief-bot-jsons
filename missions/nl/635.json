@@ -1,1 +1,12 @@
-{"missionId": "635", "missionName": "Ladingdiefstal", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "0"}
+{
+ "missionId": "635",
+ "missionName": "Ladingdiefstal",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "0",
+ "version": "255532726986328414317371696265631124676"
+}

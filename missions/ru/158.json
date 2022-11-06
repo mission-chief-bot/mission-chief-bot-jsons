@@ -1,1 +1,12 @@
-{"missionId": "158", "missionName": "Перелом руки", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "158",
+ "missionName": "Перелом руки",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "125902721526916003169354160996310767627"
+}

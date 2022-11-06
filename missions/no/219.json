@@ -1,1 +1,12 @@
-{"missionId": "219", "missionName": "Full person på julemarked", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "219",
+ "missionName": "Full person på julemarked",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "184161232806879479722536546695156252446"
+}

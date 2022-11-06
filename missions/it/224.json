@@ -1,1 +1,12 @@
-{"missionId": "224", "missionName": "Frodi sul carburante", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "224",
+ "missionName": "Frodi sul carburante",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "283402886598887875296408529092103805776"
+}

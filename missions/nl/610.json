@@ -1,1 +1,12 @@
-{"missionId": "610", "missionName": "Brand in nachtclub", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "610",
+ "missionName": "Brand in nachtclub",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "186585537138353436575163758134098524697"
+}

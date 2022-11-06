@@ -1,1 +1,16 @@
-{"missionId": "753", "missionName": "Sports Fan Brawl (Small)", "requirements": [{"requirement": "police cars", "qty": "10"}, {"requirement": "max. patients", "qty": "10"}], "credits": "3000"}
+{
+ "missionId": "753",
+ "missionName": "Sports Fan Brawl (Small)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "10"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "credits": "3000",
+ "version": "101139968175192994949187394004533887845"
+}

@@ -1,1 +1,12 @@
-{"missionId": "88", "missionName": "Brannskade (3. grads)", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "88",
+ "missionName": "Brannskade (3. grads)",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "111124398081049823325396262730076277681"
+}

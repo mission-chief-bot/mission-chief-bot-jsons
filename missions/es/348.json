@@ -1,1 +1,12 @@
-{"missionId": "348", "missionName": "Contrabando de animales exóticos", "requirements": [{"requirement": "coches patrulla", "qty": "5"}], "credits": "1750"}
+{
+ "missionId": "348",
+ "missionName": "Contrabando de animales exóticos",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "5"
+  }
+ ],
+ "credits": "1750",
+ "version": "305512796571836650130971297132383168210"
+}

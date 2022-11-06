@@ -1,1 +1,28 @@
-{"missionId": "336", "missionName": "Fall fra klippe", "requirements": [{"requirement": "brannbiler", "qty": "9"}, {"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "4"}, {"requirement": "politibiler", "qty": "2"}, {"requirement": "maks pasienter", "qty": "10"}], "credits": "9500"}
+{
+ "missionId": "336",
+ "missionName": "Fall fra klippe",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "9"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "2"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "10"
+  }
+ ],
+ "credits": "9500",
+ "version": "15864727146071158859215413210695533986"
+}

@@ -1,1 +1,24 @@
-{"missionId": "987", "missionName": "Schipbreukeling vermist", "requirements": [{"requirement": "strandvoertuigen (quad, dat-rb of khv)", "qty": "2"}, {"requirement": "rb-k of rb-g", "qty": "3"}, {"requirement": "kw-boot", "qty": "1"}, {"requirement": "sar-heli(s)", "qty": "1"}], "credits": "5880"}
+{
+ "missionId": "987",
+ "missionName": "Schipbreukeling vermist",
+ "requirements": [
+  {
+   "requirement": "strandvoertuigen (quad, dat-rb of khv)",
+   "qty": "2"
+  },
+  {
+   "requirement": "rb-k of rb-g",
+   "qty": "3"
+  },
+  {
+   "requirement": "kw-boot",
+   "qty": "1"
+  },
+  {
+   "requirement": "sar-heli(s)",
+   "qty": "1"
+  }
+ ],
+ "credits": "5880",
+ "version": "75697808019513415363337173417323918485"
+}

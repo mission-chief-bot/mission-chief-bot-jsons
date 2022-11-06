@@ -1,1 +1,12 @@
-{"missionId": "878", "missionName": "Afzetten straat voor brandweer", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "878",
+ "missionName": "Afzetten straat voor brandweer",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "284216421054370290085541137573826408186"
+}

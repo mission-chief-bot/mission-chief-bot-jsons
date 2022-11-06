@@ -1,1 +1,11 @@
-{"missionId": "187", "missionName": "Persona disidratata", "requirements": [{"requirement": "max pazienti", "qty": "1"}]}
+{
+ "missionId": "187",
+ "missionName": "Persona disidratata",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "version": "104081025615683112090430141992389719481"
+}

@@ -1,1 +1,20 @@
-{"missionId": "638", "missionName": "Burning Wind Turbine", "requirements": [{"requirement": "firetrucks", "qty": "3"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "police cars", "qty": "2"}], "credits": "2100"}
+{
+ "missionId": "638",
+ "missionName": "Burning Wind Turbine",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "2100",
+ "version": "228468696202930086913587540869186099755"
+}

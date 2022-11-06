@@ -1,1 +1,12 @@
-{"missionId": "277", "missionName": "Sjokk fra spontan frier", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "277",
+ "missionName": "Sjokk fra spontan frier",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "107216995582417576163739624293122181631"
+}

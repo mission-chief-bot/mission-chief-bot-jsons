@@ -1,1 +1,12 @@
-{"missionId": "301", "missionName": "Tiere auf der Fahrbahn", "requirements": [ {"requirement": "streifenwagen", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "301",
+ "missionName": "Tiere auf der Fahrbahn",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "125988209691487630604046175981633752840"
+}

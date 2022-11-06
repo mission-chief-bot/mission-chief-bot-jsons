@@ -1,1 +1,12 @@
-{"missionId": "52", "missionName": "Passeggero senza biglietto", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "52",
+ "missionName": "Passeggero senza biglietto",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "260863614740254808868694574428587588577"
+}

@@ -1,1 +1,24 @@
-{"missionId": "235/a", "missionName": "Apartament în flăcări într-o locuință protejată", "requirements": [ {"requirement": "mașini de pompieri necesare", "qty": "4"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "2"}, {"requirement": "motopompe necesare", "qty": "2"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "3900"}
+{
+ "missionId": "235/a",
+ "missionName": "Apartament în flăcări într-o locuință protejată",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "4"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "motopompe necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "3900",
+ "version": "258056897083860908248633845805317913452"
+}

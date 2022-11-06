@@ -1,1 +1,12 @@
-{"missionId": "251", "missionName": "Syklist falt på sti", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "251",
+ "missionName": "Syklist falt på sti",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "59604325400096310423416025593048760761"
+}

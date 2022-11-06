@@ -1,1 +1,16 @@
-{"missionId": "334", "missionName": "Brand in schoolgebouw", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "850"}
+{
+ "missionId": "334",
+ "missionName": "Brand in schoolgebouw",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "850",
+ "version": "207587455077468368687894628680472401966"
+}

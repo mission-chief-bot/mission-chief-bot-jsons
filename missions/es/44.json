@@ -1,1 +1,12 @@
-{"missionId": "44", "missionName": "Robo", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "44",
+ "missionName": "Robo",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "44153858130806253242623162367279978179"
+}

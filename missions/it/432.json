@@ -1,1 +1,16 @@
-{"missionId": "432", "missionName": "Maxi Rissa", "requirements": [{"requirement": "pattuglie", "qty": "12"}, {"requirement": "max pazienti", "qty": "40"}], "credits": "8000"}
+{
+ "missionId": "432",
+ "missionName": "Maxi Rissa",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "12"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "40"
+  }
+ ],
+ "credits": "8000",
+ "version": "83503350297903637897172622748778639843"
+}

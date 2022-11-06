@@ -1,1 +1,12 @@
-{"missionId": "376", "missionName": "Pokal geklaut", "requirements": [ {"requirement": "zivilstreifenwagen, streifenwagen", "qty": "2"}], "credits": "300"}
+{
+ "missionId": "376",
+ "missionName": "Pokal geklaut",
+ "requirements": [
+  {
+   "requirement": "zivilstreifenwagen, streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "300",
+ "version": "314370611138052347141383000995556945439"
+}

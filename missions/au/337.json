@@ -1,1 +1,12 @@
-{"missionId": "337", "missionName": "Safeguarding a swimming competition", "requirements": [{"requirement": "ambulances", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "337",
+ "missionName": "Safeguarding a swimming competition",
+ "requirements": [
+  {
+   "requirement": "ambulances",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "106597588183886558475000171350436540102"
+}

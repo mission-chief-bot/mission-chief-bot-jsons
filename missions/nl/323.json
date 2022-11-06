@@ -1,1 +1,16 @@
-{"missionId": "323", "missionName": "Verkeersongeval met motorfiets", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "323",
+ "missionName": "Verkeersongeval met motorfiets",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "74235405607861461133356350282389530013"
+}

@@ -1,1 +1,12 @@
-{"missionId": "312", "missionName": "Skada efter träff i stolpen", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "312",
+ "missionName": "Skada efter träff i stolpen",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "24156736357694725113077392559617854431"
+}

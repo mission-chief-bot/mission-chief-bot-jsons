@@ -1,1 +1,24 @@
-{"missionId": "467", "missionName": "Incendio veicolo elettrico", "requirements": [{"requirement": "aps/abp", "qty": "4"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "1900"}
+{
+ "missionId": "467",
+ "missionName": "Incendio veicolo elettrico",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "4"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1900",
+ "version": "167837807173924338477647177264462498925"
+}

@@ -1,1 +1,16 @@
-{"missionId": "289", "missionName": "Capitão Sem a Braçadeira", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}, {"requirement": "helicópteros de polícia necessários", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "289",
+ "missionName": "Capitão Sem a Braçadeira",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "helicópteros de polícia necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "181943049127816274155936150709627465153"
+}

@@ -1,1 +1,24 @@
-{"missionId": "91", "missionName": "이스터 에그 트럭 전복", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "중장비 구조 차량", "qty": "1"}, {"requirement": "소방대장 차량", "qty": "1"}, {"requirement": "최대 환자", "qty": "2"}], "credits": "2200"}
+{
+ "missionId": "91",
+ "missionName": "이스터 에그 트럭 전복",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  },
+  {
+   "requirement": "중장비 구조 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "2"
+  }
+ ],
+ "credits": "2200",
+ "version": "299087948021010148182778683813876885955"
+}

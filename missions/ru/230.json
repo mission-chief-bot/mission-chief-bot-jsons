@@ -1,1 +1,16 @@
-{"missionId": "230", "missionName": "Человек тонет", "requirements": [{"requirement": "плавсредства", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "230",
+ "missionName": "Человек тонет",
+ "requirements": [
+  {
+   "requirement": "плавсредства",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "29537026187001826639213957761775778122"
+}

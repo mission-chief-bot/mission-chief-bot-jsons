@@ -1,1 +1,16 @@
-{"missionId": "238", "missionName": "Vigilancia de fiesta de Año Nuevo en el centro de la ciudad", "requirements": [{"requirement": "ambulancias", "qty": "2"}, {"requirement": "coches patrulla", "qty": "4"}], "credits": "15000"}
+{
+ "missionId": "238",
+ "missionName": "Vigilancia de fiesta de Año Nuevo en el centro de la ciudad",
+ "requirements": [
+  {
+   "requirement": "ambulancias",
+   "qty": "2"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  }
+ ],
+ "credits": "15000",
+ "version": "122636805430710372420762564555270948959"
+}

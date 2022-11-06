@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Cabină telefonică în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Cabină telefonică în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "229260899723937012720578667542686098224"
+}

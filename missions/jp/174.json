@@ -1,1 +1,12 @@
-{"missionId": "174", "missionName": "不審者", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "174",
+ "missionName": "不審者",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "298509792950231816127372414194802743413"
+}

@@ -1,1 +1,12 @@
-{"missionId": "825", "missionName": "Gestolen trofee", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "825",
+ "missionName": "Gestolen trofee",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "334933429032099893054055907447074765807"
+}

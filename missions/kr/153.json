@@ -1,1 +1,20 @@
-{"missionId": "153", "missionName": "나무의 마녀", "requirements": [{"requirement": "플랫폼 트럭", "qty": "1"}, {"requirement": "소방차", "qty": "1"}, {"requirement": "구급차", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "153",
+ "missionName": "나무의 마녀",
+ "requirements": [
+  {
+   "requirement": "플랫폼 트럭",
+   "qty": "1"
+  },
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "61750318535474914464676580387262645692"
+}

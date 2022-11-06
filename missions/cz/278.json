@@ -1,1 +1,32 @@
-{"missionId": "278", "missionName": "Pohřešovaná osoba v blízkosti vody", "requirements": [{"requirement": "policejní vrtulníky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "6"}, {"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "přívěs se člunem", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "278",
+ "missionName": "Pohřešovaná osoba v blízkosti vody",
+ "requirements": [
+  {
+   "requirement": "policejní vrtulníky",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "6"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "přívěs se člunem",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "102411011263843023812320666061970216459"
+}

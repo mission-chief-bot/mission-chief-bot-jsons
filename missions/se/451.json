@@ -1,1 +1,16 @@
-{"missionId": "451", "missionName": "Aggressiv tågresenär", "requirements": [{"requirement": "polisbilar", "qty": "4"}, {"requirement": "mest patienter", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "451",
+ "missionName": "Aggressiv tågresenär",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "59531988681265080979776791438022960532"
+}

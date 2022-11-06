@@ -1,1 +1,12 @@
-{"missionId": "235", "missionName": "呼吸困難", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "235",
+ "missionName": "呼吸困難",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "10608195667254390078843375264987338262"
+}

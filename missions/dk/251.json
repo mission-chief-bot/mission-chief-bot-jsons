@@ -1,1 +1,12 @@
-{"missionId": "251", "missionName": "opvisnings fyrværkeri saboteret", "requirements": [{"requirement": "påkrævede politibiler", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "251",
+ "missionName": "opvisnings fyrværkeri saboteret",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "75914388753474989376885108385101614206"
+}

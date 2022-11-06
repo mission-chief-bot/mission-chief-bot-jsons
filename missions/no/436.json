@@ -1,1 +1,32 @@
-{"missionId": "436", "missionName": "sammenstøt og angrep av risikofans", "requirements": [{"requirement": "for utrykningspolitibil", "qty": "1"}, {"requirement": "politibiler", "qty": "20"}, {"requirement": "nødvendig politihelikoptere", "qty": "1"}, {"requirement": "hundepatruljer", "qty": "4"}, {"requirement": "kjøretøy fra demonstrasjonspolitiet", "qty": "14"}, {"requirement": "maks pasienter", "qty": "25"}], "credits": "23000"}
+{
+ "missionId": "436",
+ "missionName": "sammenstøt og angrep av risikofans",
+ "requirements": [
+  {
+   "requirement": "for utrykningspolitibil",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "20"
+  },
+  {
+   "requirement": "nødvendig politihelikoptere",
+   "qty": "1"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "4"
+  },
+  {
+   "requirement": "kjøretøy fra demonstrasjonspolitiet",
+   "qty": "14"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "25"
+  }
+ ],
+ "credits": "23000",
+ "version": "23706402316113778792258646999847496382"
+}

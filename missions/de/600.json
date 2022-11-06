@@ -1,1 +1,12 @@
-{"missionId": "600", "missionName": "Gebrochenes Herz", "requirements": [{"requirement": "rtw", "qty": 1}], "credits": "250"}
+{
+ "missionId": "600",
+ "missionName": "Gebrochenes Herz",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": 1
+  }
+ ],
+ "credits": "250",
+ "version": "199608484848349885709417178240278630423"
+}

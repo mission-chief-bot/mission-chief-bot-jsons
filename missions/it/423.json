@@ -1,1 +1,12 @@
-{"missionId": "423", "missionName": "Incidente Con Motosega", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "423",
+ "missionName": "Incidente Con Motosega",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "253327602635995581439128917904726669461"
+}

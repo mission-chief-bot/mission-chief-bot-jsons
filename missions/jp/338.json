@@ -1,1 +1,16 @@
-{"missionId": "338", "missionName": "水中エッグハント", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "警察車両", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "338",
+ "missionName": "水中エッグハント",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "322865813966053100857573518519865719028"
+}

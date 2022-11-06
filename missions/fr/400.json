@@ -1,1 +1,20 @@
-{"missionId": "400", "missionName": "Défenestration", "requirements": [{"requirement": "voitures de police es", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "400",
+ "missionName": "Défenestration",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "309129394974412886714290210992770077851"
+}

@@ -1,1 +1,16 @@
-{"missionId": "264", "missionName": "Brûlage dirigé - Petit", "requirements": [{"requirement": "vlhr", "qty": "1"}, {"requirement": "ccf", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "264",
+ "missionName": "Brûlage dirigé - Petit",
+ "requirements": [
+  {
+   "requirement": "vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "ccf",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "332380277268956256632113785587094733222"
+}

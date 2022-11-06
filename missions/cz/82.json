@@ -1,1 +1,12 @@
-{"missionId": "82", "missionName": "Amputace končetiny", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "82",
+ "missionName": "Amputace končetiny",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "93663313497899174404720039883198276214"
+}

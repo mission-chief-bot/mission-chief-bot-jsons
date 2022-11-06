@@ -1,1 +1,12 @@
-{"missionId": "378", "missionName": "Viabilità", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "378",
+ "missionName": "Viabilità",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "290455413468953431510627229539813632395"
+}

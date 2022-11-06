@@ -1,1 +1,12 @@
-{"missionId": "19", "missionName": "Burning trailer", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "19",
+ "missionName": "Burning trailer",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "8634890190393536624292449616546530451"
+}

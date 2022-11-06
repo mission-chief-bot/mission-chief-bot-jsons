@@ -1,1 +1,40 @@
-{"missionId": "41-1", "missionName": "車整備店にて火災", "requirements": [{"requirement": "消防車", "qty": "8"}, {"requirement": "消防隊長車両", "qty": "2"}, {"requirement": "プラットフォームトラック", "qty": "2"}, {"requirement": "大型救助車両", "qty": "1"}, {"requirement": "水", "qty": "26000"}, {"requirement": "危険物取扱車両", "qty": "1"}, {"requirement": "警察車両", "qty": "2"}, {"requirement": "最大患者", "qty": "4"}], "credits": "7000"}
+{
+ "missionId": "41-1",
+ "missionName": "車整備店にて火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "8"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "2"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "水",
+   "qty": "26000"
+  },
+  {
+   "requirement": "危険物取扱車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "4"
+  }
+ ],
+ "credits": "7000",
+ "version": "247281385307925590987014934899053796894"
+}

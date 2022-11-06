@@ -1,1 +1,20 @@
-{"missionId": "242", "missionName": "銃撃", "requirements": [{"requirement": "警察車両", "qty": "8"}, {"requirement": "救急車", "qty": "6"}, {"requirement": "救急車指揮官", "qty": "1"}], "credits": "6000"}
+{
+ "missionId": "242",
+ "missionName": "銃撃",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "8"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "6"
+  },
+  {
+   "requirement": "救急車指揮官",
+   "qty": "1"
+  }
+ ],
+ "credits": "6000",
+ "version": "57566490748088207479602784079216525757"
+}

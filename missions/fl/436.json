@@ -1,1 +1,12 @@
-{"missionId": "436", "missionName": "570 Kadunvaltaus", "requirements": [{"requirement": "poliisiautot", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "436",
+ "missionName": "570 Kadunvaltaus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "285884985507114495130241938789257484323"
+}

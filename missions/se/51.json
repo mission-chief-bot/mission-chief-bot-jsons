@@ -1,1 +1,12 @@
-{"missionId": "51", "missionName": "Bedrägeri", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "51",
+ "missionName": "Bedrägeri",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "28430570134479681197024331262870879659"
+}

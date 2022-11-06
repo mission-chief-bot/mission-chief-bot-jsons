@@ -1,1 +1,12 @@
-{"missionId": "83", "missionName": "Buscas domiciliárias", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "83",
+ "missionName": "Buscas domiciliárias",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "249241886054579868233421327737692383704"
+}

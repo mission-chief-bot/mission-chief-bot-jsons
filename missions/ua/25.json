@@ -1,1 +1,12 @@
-{"missionId": "25", "missionName": "ДТП", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "25",
+ "missionName": "ДТП",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "239462636596406931199952726956460348059"
+}

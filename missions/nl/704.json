@@ -1,1 +1,12 @@
-{"missionId": "704", "missionName": "Acute bewustzijnsdaling", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "704",
+ "missionName": "Acute bewustzijnsdaling",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "179571476331306981298194947271503301926"
+}

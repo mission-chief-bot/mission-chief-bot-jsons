@@ -1,1 +1,12 @@
-{"missionId": "190", "missionName": "Feu de haie causé par des feux d'artifice", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "190",
+ "missionName": "Feu de haie causé par des feux d'artifice",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "27087192312457400787452157170151589511"
+}

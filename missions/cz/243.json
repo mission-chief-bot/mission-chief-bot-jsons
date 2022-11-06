@@ -1,1 +1,12 @@
-{"missionId": "243", "missionName": "Hosté na výročí ukradli výzdobu", "requirements": [{"requirement": "policejní automobily", "qty": "4"}], "credits": "3000"}
+{
+ "missionId": "243",
+ "missionName": "Hosté na výročí ukradli výzdobu",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "263828090326552748461706422884393659902"
+}

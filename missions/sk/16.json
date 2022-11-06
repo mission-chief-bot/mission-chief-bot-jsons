@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "Požiar karavanu", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "Požiar karavanu",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "97689845001603582220962988119639416183"
+}

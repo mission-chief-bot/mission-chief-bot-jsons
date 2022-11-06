@@ -1,1 +1,28 @@
-{"missionId": "162", "missionName": "Обвалення будівлі", "requirements": [{"requirement": "пожежні машини", "qty": "4"}, {"requirement": "пожежно-рятувальні автомобілі", "qty": "3"}, {"requirement": "пожежні автодрабини", "qty": "2"}, {"requirement": "штабні автомобілі", "qty": "2"}, {"requirement": "поліцейські машини", "qty": "1"}], "credits": "9000"}
+{
+ "missionId": "162",
+ "missionName": "Обвалення будівлі",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "4"
+  },
+  {
+   "requirement": "пожежно-рятувальні автомобілі",
+   "qty": "3"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "2"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "2"
+  },
+  {
+   "requirement": "поліцейські машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "9000",
+ "version": "29623775891576343192656683641221677694"
+}

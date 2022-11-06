@@ -1,1 +1,12 @@
-{"missionId": "335", "missionName": "溶けたチョコレートバニー", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "335",
+ "missionName": "溶けたチョコレートバニー",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "40092476354271935089796013189597396643"
+}

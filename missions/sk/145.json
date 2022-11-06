@@ -1,1 +1,12 @@
-{"missionId": "145", "missionName": "Hliadka na pouličnom trhu", "requirements": [{"requirement": "policajné vozidlá", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "145",
+ "missionName": "Hliadka na pouličnom trhu",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "41250821623045919220303499651770431337"
+}

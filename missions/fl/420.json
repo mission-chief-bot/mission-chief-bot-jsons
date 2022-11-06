@@ -1,1 +1,16 @@
-{"missionId": "420", "missionName": "15 Rakennusta töherrellään", "requirements": [{"requirement": "koirapartiot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "420",
+ "missionName": "15 Rakennusta töherrellään",
+ "requirements": [
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "256945657966856090569680305164470702642"
+}

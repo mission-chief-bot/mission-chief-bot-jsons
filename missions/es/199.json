@@ -1,1 +1,12 @@
-{"missionId": "199", "missionName": "Invitado de aniversario desaparecido", "requirements": [{"requirement": "coches patrulla", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "199",
+ "missionName": "Invitado de aniversario desaparecido",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "269334881140085488726733555131176061408"
+}

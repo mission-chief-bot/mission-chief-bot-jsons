@@ -1,1 +1,12 @@
-{"missionId": "266", "missionName": "Жалоба на шум из-за драки пары", "requirements": [{"requirement": "полицейские автомобили", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "266",
+ "missionName": "Жалоба на шум из-за драки пары",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "98987503188817576036197762351010771332"
+}

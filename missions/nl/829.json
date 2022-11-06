@@ -1,1 +1,12 @@
-{"missionId": "829", "missionName": "Brandende cornervlag", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "829",
+ "missionName": "Brandende cornervlag",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "120810479157255564339245716951632418737"
+}

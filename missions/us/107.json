@@ -1,1 +1,16 @@
-{"missionId": "107", "missionName": "Drug Warrant", "requirements": [{"requirement": "police cars", "qty": "1"}, {"requirement": "swat armoured vehicle", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "107",
+ "missionName": "Drug Warrant",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "swat armoured vehicle",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "119952397429944059256759856430711513239"
+}

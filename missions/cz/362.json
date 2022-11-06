@@ -1,1 +1,20 @@
-{"missionId": "362", "missionName": "Silniční nehoda v mlze", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "ta", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "362",
+ "missionName": "Silniční nehoda v mlze",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "7586613361532421810289489538060740556"
+}

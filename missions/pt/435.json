@@ -1,1 +1,16 @@
-{"missionId": "435", "missionName": "Fumo numa casa unifamiliar", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "4"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "435",
+ "missionName": "Fumo numa casa unifamiliar",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "127061851246891522661424085150600725117"
+}

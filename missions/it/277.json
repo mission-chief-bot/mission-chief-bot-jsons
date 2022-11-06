@@ -1,1 +1,12 @@
-{"missionId": "277", "missionName": "Furto del regalo di anniversario", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "277",
+ "missionName": "Furto del regalo di anniversario",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "198539748441159011988078792843884114974"
+}

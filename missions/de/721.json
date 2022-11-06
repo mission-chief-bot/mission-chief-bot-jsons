@@ -1,1 +1,16 @@
-{"missionId": "721", "missionName": "Randalierender Fluggast", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "721",
+ "missionName": "Randalierender Fluggast",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "52160634595721121122996803600875060606"
+}

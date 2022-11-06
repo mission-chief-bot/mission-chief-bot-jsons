@@ -1,1 +1,11 @@
-{"missionId": "184", "missionName": "Insolazione", "requirements": [{"requirement": "max pazienti", "qty": "1"}]}
+{
+ "missionId": "184",
+ "missionName": "Insolazione",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "version": "55116092653311974627041739963990250554"
+}

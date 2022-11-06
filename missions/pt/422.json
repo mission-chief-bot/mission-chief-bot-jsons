@@ -1,1 +1,24 @@
-{"missionId": "422", "missionName": "Protesto Violento", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "6"}, {"requirement": "veículos do corpo/unidade de intervenção necessários:", "qty": "2"}, {"requirement": "equipas operacionais cinotécnicas necessárias:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "5"}], "credits": "3000"}
+{
+ "missionId": "422",
+ "missionName": "Protesto Violento",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "6"
+  },
+  {
+   "requirement": "veículos do corpo/unidade de intervenção necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "equipas operacionais cinotécnicas necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "5"
+  }
+ ],
+ "credits": "3000",
+ "version": "48653481039468624649296729344606410076"
+}

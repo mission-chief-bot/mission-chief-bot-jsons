@@ -1,1 +1,16 @@
-{"missionId": "517", "missionName": "Prison Wing Fire", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "fire officers", "qty": "3"}], "credits": "6000"}
+{
+ "missionId": "517",
+ "missionName": "Prison Wing Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "3"
+  }
+ ],
+ "credits": "6000",
+ "version": "56969955359152767380992535156265870863"
+}

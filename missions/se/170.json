@@ -1,1 +1,12 @@
-{"missionId": "170", "missionName": "Misstänkt blindtarm", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "170",
+ "missionName": "Misstänkt blindtarm",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "134823366191410477875823491074502580513"
+}

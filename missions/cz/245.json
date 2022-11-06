@@ -1,1 +1,12 @@
-{"missionId": "245", "missionName": "Host snědl příliš výročního dortu", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "245",
+ "missionName": "Host snědl příliš výročního dortu",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "209365102375598195382594218707222058479"
+}

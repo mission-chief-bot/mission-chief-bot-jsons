@@ -1,1 +1,24 @@
-{"missionId": "547", "missionName": "Injured person on scaffolding", "requirements": [{"requirement": "platform trucks", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "firetrucks", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "547",
+ "missionName": "Injured person on scaffolding",
+ "requirements": [
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "123005153151275323345856713737974147065"
+}

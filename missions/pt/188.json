@@ -1,1 +1,16 @@
-{"missionId": "188", "missionName": "Incêndio num veículo de mercadorias", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "5"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "188",
+ "missionName": "Incêndio num veículo de mercadorias",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "301874457905434331163214807485243047821"
+}

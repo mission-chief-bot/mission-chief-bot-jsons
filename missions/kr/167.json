@@ -1,1 +1,12 @@
-{"missionId": "167", "missionName": "불타는 크리스마스 트리", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "870"}
+{
+ "missionId": "167",
+ "missionName": "불타는 크리스마스 트리",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "870",
+ "version": "227810875753309807384580547464713501458"
+}

@@ -1,1 +1,12 @@
-{"missionId": "142", "missionName": "Corredor lesionado", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "142",
+ "missionName": "Corredor lesionado",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "19242563109718474346534802901203663001"
+}

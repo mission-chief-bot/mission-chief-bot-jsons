@@ -1,1 +1,20 @@
-{"missionId": "115", "missionName": "Fange som rømmer", "requirements": [{"requirement": "hundepatruljer", "qty": "1"}, {"requirement": "politibiler", "qty": "10"}, {"requirement": "politihelikoptere", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "115",
+ "missionName": "Fange som rømmer",
+ "requirements": [
+  {
+   "requirement": "hundepatruljer",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "politihelikoptere",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "151363945932890172890269918621886106731"
+}

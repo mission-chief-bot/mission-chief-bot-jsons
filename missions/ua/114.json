@@ -1,1 +1,20 @@
-{"missionId": "114", "missionName": "Середня пожежа в готелі", "requirements": [{"requirement": "пожежні машини", "qty": "6"}, {"requirement": "штабні автомобілі", "qty": "1"}, {"requirement": "пожежні автодрабини", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "114",
+ "missionName": "Середня пожежа в готелі",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "6"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "258564403470032677783139059234886566612"
+}

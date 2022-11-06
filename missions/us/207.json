@@ -1,1 +1,12 @@
-{"missionId": "207", "missionName": "Caller Hangup", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "207",
+ "missionName": "Caller Hangup",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "128038427680656246784915012174925073822"
+}

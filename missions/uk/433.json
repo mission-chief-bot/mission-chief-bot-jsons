@@ -1,1 +1,20 @@
-{"missionId": "433", "missionName": "Cow Thief on the run", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "dog support units (dsus)", "qty": "2"}, {"requirement": "police helicopters", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "433",
+ "missionName": "Cow Thief on the run",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "dog support units (dsus)",
+   "qty": "2"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "65127745440255321362106812494752996"
+}

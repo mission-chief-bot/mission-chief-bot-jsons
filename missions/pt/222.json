@@ -1,1 +1,24 @@
-{"missionId": "222", "missionName": "Acidente de Trabalho", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "1"}, {"requirement": "carros de patrulha necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "1550"}
+{
+ "missionId": "222",
+ "missionName": "Acidente de Trabalho",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1550",
+ "version": "252431065976439156555452786949274281084"
+}

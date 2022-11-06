@@ -1,1 +1,12 @@
-{"missionId": "35", "missionName": "Intossicazione da alcol", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "35",
+ "missionName": "Intossicazione da alcol",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "50114395597989402271110962553539535860"
+}

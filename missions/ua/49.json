@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "Кишенькова крадіжка", "requirements": [{"requirement": "поліцейські машини", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Кишенькова крадіжка",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "153664513738180561370824095090067223169"
+}

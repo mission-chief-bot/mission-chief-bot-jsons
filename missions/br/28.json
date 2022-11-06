@@ -1,1 +1,24 @@
-{"missionId": "28", "missionName": "Máquina em chamas", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "3"}, {"requirement": "veículos de resgate pesado necessários", "qty": "1"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "caminhões pipa necessários", "qty": "1"}], "credits": "2470"}
+{
+ "missionId": "28",
+ "missionName": "Máquina em chamas",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "2470",
+ "version": "28358267681976271624804849718786579479"
+}

@@ -1,1 +1,12 @@
-{"missionId": "33", "missionName": "Mähdrescher Brand", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "33",
+ "missionName": "Mähdrescher Brand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "228768014991845412393898317549866572675"
+}

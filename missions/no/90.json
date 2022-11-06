@@ -1,1 +1,12 @@
-{"missionId": "90", "missionName": "Amputasjon", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "90",
+ "missionName": "Amputasjon",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "289051175403657816780948252554383774982"
+}

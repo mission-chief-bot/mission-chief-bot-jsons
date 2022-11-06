@@ -1,1 +1,32 @@
-{"missionId": "403", "missionName": "Substance in letter", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "fire officers", "qty": "2"}, {"requirement": "police cars", "qty": "3"}, {"requirement": "hazmat units or cbrn vehicles", "qty": "1"}, {"requirement": "operational team leaders", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "403",
+ "missionName": "Substance in letter",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "hazmat units or cbrn vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "operational team leaders",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "103737558021613700530352801982351318456"
+}

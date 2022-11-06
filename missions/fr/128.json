@@ -1,1 +1,20 @@
-{"missionId": "128", "missionName": "Convention des cloches de Pâques", "requirements": [{"requirement": "voitures de police es", "qty": "8"}, {"requirement": "ambulances es", "qty": "4"}, {"requirement": "fourgons d’incendie", "qty": "2"}], "credits": "7000"}
+{
+ "missionId": "128",
+ "missionName": "Convention des cloches de Pâques",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "8"
+  },
+  {
+   "requirement": "ambulances es",
+   "qty": "4"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  }
+ ],
+ "credits": "7000",
+ "version": "186646863652152399284529836860804594230"
+}

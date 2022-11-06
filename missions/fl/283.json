@@ -1,1 +1,16 @@
-{"missionId": "283", "missionName": "031 Ampumavälikohtaus", "requirements": [{"requirement": "poliisiautot", "qty": "4"}, {"requirement": "vati-henkilöt", "qty": "4"}], "credits": "900"}
+{
+ "missionId": "283",
+ "missionName": "031 Ampumavälikohtaus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "4"
+  }
+ ],
+ "credits": "900",
+ "version": "85668261036537922302020693166933250943"
+}

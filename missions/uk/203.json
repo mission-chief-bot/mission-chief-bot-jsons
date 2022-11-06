@@ -1,1 +1,12 @@
-{"missionId": "203", "missionName": "Release of an item from a person", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "203",
+ "missionName": "Release of an item from a person",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "169752770856166588011095877810879269719"
+}

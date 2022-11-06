@@ -1,1 +1,12 @@
-{"missionId": "83", "missionName": "Un camion avec une semi-remorque en feu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "83",
+ "missionName": "Un camion avec une semi-remorque en feu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "223170769972851497059764423030623146715"
+}

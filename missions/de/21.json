@@ -1,1 +1,20 @@
-{"missionId": "21", "missionName": "Schornsteinbrand", "requirements": [{"requirement": "drehleitern", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "2400"}
+{
+ "missionId": "21",
+ "missionName": "Schornsteinbrand",
+ "requirements": [
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "2400",
+ "version": "131154070283497195285947706873098066289"
+}

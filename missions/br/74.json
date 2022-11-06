@@ -1,1 +1,28 @@
-{"missionId": "74", "missionName": "Grande incêndio", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "10"}, {"requirement": "viaturas de batalhão necessárias", "qty": "3"}, {"requirement": "caminhões plataforma necessários", "qty": "2"}, {"requirement": "caminhões pipa necessários", "qty": "2"}, {"requirement": "veículos de resgate pesado necessários", "qty": "2"}], "credits": "10210"}
+{
+ "missionId": "74",
+ "missionName": "Grande incêndio",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "10"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "3"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "10210",
+ "version": "105608752091091663952851067030800246192"
+}

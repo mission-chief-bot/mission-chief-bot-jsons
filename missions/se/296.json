@@ -1,1 +1,20 @@
-{"missionId": "296", "missionName": "Brand i byggnad - skyddad bostad", "requirements": [{"requirement": "släckbilar", "qty": "4"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "296",
+ "missionName": "Brand i byggnad - skyddad bostad",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "198834416029836498168059357110343293586"
+}

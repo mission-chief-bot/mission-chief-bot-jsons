@@ -1,1 +1,12 @@
-{"missionId": "400", "missionName": "Brennende piknikkurv", "requirements": [{"requirement": "brannbiler", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "400",
+ "missionName": "Brennende piknikkurv",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "338506742732148705533914127756633187132"
+}

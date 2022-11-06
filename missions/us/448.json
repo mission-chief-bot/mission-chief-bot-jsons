@@ -1,1 +1,12 @@
-{"missionId": "448", "missionName": "Notebook stolen from school", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "448",
+ "missionName": "Notebook stolen from school",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "247727640958320806878474651918822849378"
+}

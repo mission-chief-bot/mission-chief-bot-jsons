@@ -1,1 +1,12 @@
-{"missionId": "287", "missionName": "Feu d'artifice saboté", "requirements": [{"requirement": "voitures de police es", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "287",
+ "missionName": "Feu d'artifice saboté",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "283259717210856874394352411796149084011"
+}

@@ -1,1 +1,12 @@
-{"missionId": "243", "missionName": "Verdachte situatie", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "750"}
+{
+ "missionId": "243",
+ "missionName": "Verdachte situatie",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "750",
+ "version": "16294694678026920266625345036066695254"
+}

@@ -1,1 +1,12 @@
-{"missionId": "0", "missionName": "Papelera incendiada", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "0",
+ "missionName": "Papelera incendiada",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "157729133718571770118883189012668715792"
+}

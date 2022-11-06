@@ -1,1 +1,12 @@
-{"missionId": "164", "missionName": "Uvedkommende på togbanespor", "requirements": [{"requirement": "politibiler", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "164",
+ "missionName": "Uvedkommende på togbanespor",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "121676542205012073606159388758471576428"
+}

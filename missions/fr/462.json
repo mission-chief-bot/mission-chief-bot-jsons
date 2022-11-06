@@ -1,1 +1,40 @@
-{"missionId": "462", "missionName": "Explosion dans un restaurant", "requirements": [ {"requirement": "fourgons d’incendie", "qty": "5"}, {"requirement": "moyen elévateur aérien", "qty": "2"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}, {"requirement": "véhicules risques technologiques", "qty": "1"}, {"requirement": "camions-citernes", "qty": "1"}, {"requirement": "voitures de police es", "qty": "2"}, {"requirement": "max. patients", "qty": "4"}, {"requirement": "min. patients", "qty": "0"}], "credits": "5200"}
+{
+ "missionId": "462",
+ "missionName": "Explosion dans un restaurant",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "5"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "2"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicules risques technologiques",
+   "qty": "1"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "0"
+  }
+ ],
+ "credits": "5200",
+ "version": "91604788134236206127723252853968158041"
+}

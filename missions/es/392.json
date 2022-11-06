@@ -1,1 +1,12 @@
-{"missionId": "392", "missionName": "Animal atrapado en el río", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "392",
+ "missionName": "Animal atrapado en el río",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "223170627867643887774665007534365367028"
+}

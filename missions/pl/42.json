@@ -1,1 +1,12 @@
-{"missionId": "42", "missionName": "Upadek", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "42",
+ "missionName": "Upadek",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "91604228490920280950599952615687670364"
+}

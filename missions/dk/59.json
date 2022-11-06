@@ -1,1 +1,16 @@
-{"missionId": "59", "missionName": "Hjælp til dyr", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "påkrævede redningsvogn", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "59",
+ "missionName": "Hjælp til dyr",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "146741006419888914212185477130314223115"
+}

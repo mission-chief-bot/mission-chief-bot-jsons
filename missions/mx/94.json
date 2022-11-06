@@ -1,1 +1,16 @@
-{"missionId": "94", "missionName": "Persona atrapada bajo maquinaria", "requirements": [{"requirement": "camiones de bomberos", "qty": "2"}, {"requirement": "furgones de útiles varios", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "94",
+ "missionName": "Persona atrapada bajo maquinaria",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "301433616194717438332499022522468939114"
+}

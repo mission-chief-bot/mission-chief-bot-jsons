@@ -1,1 +1,19 @@
-{"missionId": "13", "missionName": "Feu de Poids Lourd", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "camions-citernes", "qty": "1"}, {"requirement": "chefs de groupe", "qty": "1"}]}
+{
+ "missionId": "13",
+ "missionName": "Feu de Poids Lourd",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  }
+ ],
+ "version": "66007144923487781461471083811441309960"
+}

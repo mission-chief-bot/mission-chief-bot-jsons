@@ -1,1 +1,16 @@
-{"missionId": "176", "missionName": "Carga explosiva", "requirements": [{"requirement": "veículos de inativação de explosivos e segurança em subsolo necessários", "qty": "2"}, {"requirement": "carros de patrulha necessários", "qty": "5"}], "credits": "5500"}
+{
+ "missionId": "176",
+ "missionName": "Carga explosiva",
+ "requirements": [
+  {
+   "requirement": "veículos de inativação de explosivos e segurança em subsolo necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "5"
+  }
+ ],
+ "credits": "5500",
+ "version": "266201327440380002240225416384890089060"
+}

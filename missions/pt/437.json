@@ -1,1 +1,28 @@
-{"missionId": "437", "missionName": "Derrame de combustível na bomba de gasolina", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "4"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "2"}, {"requirement": "veículos de comando tático necessários:", "qty": "2"}, {"requirement": "carros de patrulha necessários:", "qty": "3"}, {"requirement": "veículos de proteção multiriscos e ambiente necessários:", "qty": "1"}], "credits": "4300"}
+{
+ "missionId": "437",
+ "missionName": "Derrame de combustível na bomba de gasolina",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos de proteção multiriscos e ambiente necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "4300",
+ "version": "280963785716894219721110718159173215972"
+}

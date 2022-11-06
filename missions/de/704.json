@@ -1,1 +1,12 @@
-{"missionId": "704", "missionName": "Schulkinder über den Notruf 112 informieren", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "704",
+ "missionName": "Schulkinder über den Notruf 112 informieren",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "234463038377385291801807169824128951666"
+}

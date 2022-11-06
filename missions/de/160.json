@@ -1,1 +1,12 @@
-{"missionId": "160", "missionName": "Umherfliegendes Baumaterial", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "160",
+ "missionName": "Umherfliegendes Baumaterial",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "111139305674901881092564475689500667565"
+}

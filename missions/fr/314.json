@@ -1,1 +1,12 @@
-{"missionId": "314", "missionName": "Arythmie cardiaque", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "314",
+ "missionName": "Arythmie cardiaque",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "218379517975725747125431300641004437032"
+}

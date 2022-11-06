@@ -1,1 +1,16 @@
-{"missionId": "404", "missionName": "Ukradená trofej za masku", "requirements": [{"requirement": "policejní automobily", "qty": "5"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "404",
+ "missionName": "Ukradená trofej za masku",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "5"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "211519885931692859349510214707240524298"
+}

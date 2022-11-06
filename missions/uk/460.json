@@ -1,1 +1,12 @@
-{"missionId": "460", "missionName": "St. James Park Monitoring", "requirements": [{"requirement": "police cars", "qty": "6"}], "credits": "3500"}
+{
+ "missionId": "460",
+ "missionName": "St. James Park Monitoring",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  }
+ ],
+ "credits": "3500",
+ "version": "36265568103881220837204361000749621782"
+}

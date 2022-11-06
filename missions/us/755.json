@@ -1,1 +1,24 @@
-{"missionId": "755", "missionName": "Sports Fan Brawl (Large)", "requirements": [{"requirement": "police cars", "qty": "25"}, {"requirement": "sheriffs", "qty": "2"}, {"requirement": "k-9 units", "qty": "2"}, {"requirement": "max. patients", "qty": "45"}], "credits": "9500"}
+{
+ "missionId": "755",
+ "missionName": "Sports Fan Brawl (Large)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "25"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "2"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "45"
+  }
+ ],
+ "credits": "9500",
+ "version": "116590232087336165079455956251451728553"
+}

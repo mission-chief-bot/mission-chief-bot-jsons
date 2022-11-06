@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Brandend gras", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "Brandend gras",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "42935565502879976466516449850213481310"
+}

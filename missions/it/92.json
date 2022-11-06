@@ -1,1 +1,16 @@
-{"missionId": "92", "missionName": "Container in fiamme a causa di fuochi d'artificio", "requirements": [{"requirement": "autoscale", "qty": "1"}, {"requirement": "aps/abp", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "92",
+ "missionName": "Container in fiamme a causa di fuochi d'artificio",
+ "requirements": [
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "62752305223567312813567910843644610300"
+}

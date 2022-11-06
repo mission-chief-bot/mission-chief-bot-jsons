@@ -1,1 +1,28 @@
-{"missionId": "447/a", "missionName": "Brann på et apotek", "requirements": [{"requirement": "brannbiler", "qty": "5"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "politibiler", "qty": "2"}, {"requirement": "skum tankbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "4"}], "credits": "3150"}
+{
+ "missionId": "447/a",
+ "missionName": "Brann på et apotek",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "skum tankbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "3150",
+ "version": "178840095778805174487557140101718018649"
+}

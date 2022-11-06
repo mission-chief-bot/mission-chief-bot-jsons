@@ -1,1 +1,12 @@
-{"missionId": "51", "missionName": "Gevallen persoon", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "51",
+ "missionName": "Gevallen persoon",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "193189580341643521583188335272875890259"
+}

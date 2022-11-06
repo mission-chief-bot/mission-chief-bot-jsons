@@ -1,1 +1,12 @@
-{"missionId": "265", "missionName": "Vegetationsbrand, liten", "requirements": [{"requirement": "tankbilar", "qty": "5"}], "credits": "0"}
+{
+ "missionId": "265",
+ "missionName": "Vegetationsbrand, liten",
+ "requirements": [
+  {
+   "requirement": "tankbilar",
+   "qty": "5"
+  }
+ ],
+ "credits": "0",
+ "version": "135632400345498162275503554881129038858"
+}

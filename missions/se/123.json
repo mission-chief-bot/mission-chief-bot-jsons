@@ -1,1 +1,20 @@
-{"missionId": "123", "missionName": "Explosion - Överhängande fara", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "polisbilar", "qty": "2"}], "credits": "1950"}
+{
+ "missionId": "123",
+ "missionName": "Explosion - Överhängande fara",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1950",
+ "version": "77473416434863065728455009392294433948"
+}

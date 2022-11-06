@@ -1,1 +1,20 @@
-{"missionId": "66", "missionName": "部屋火事", "requirements": [{"requirement": "消防車", "qty": "2"}, {"requirement": "プラットフォームトラック", "qty": "1"}, {"requirement": "救急車", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "66",
+ "missionName": "部屋火事",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "1"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "96855618561114481206838404327471164560"
+}

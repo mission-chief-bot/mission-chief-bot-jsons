@@ -1,1 +1,12 @@
-{"missionId": "443", "missionName": "Tombino ostruito dalle foglie", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "443",
+ "missionName": "Tombino ostruito dalle foglie",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "261729466268310954217235776008014027424"
+}

@@ -1,1 +1,16 @@
-{"missionId": "411", "missionName": "Manifestación segura (grande)", "requirements": [{"requirement": "coches patrulla", "qty": "8"}, {"requirement": "n.º máximo de presos", "qty": "8"}], "credits": "9500"}
+{
+ "missionId": "411",
+ "missionName": "Manifestación segura (grande)",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "8"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "8"
+  }
+ ],
+ "credits": "9500",
+ "version": "60012863369319384856734037194026259298"
+}

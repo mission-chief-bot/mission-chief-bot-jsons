@@ -1,1 +1,36 @@
-{"missionId": "516", "missionName": "Containment Breach at Lab", "requirements": [{"requirement": "firetrucks", "qty": "5"}, {"requirement": "hazmat vehicles", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "2"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "mobile air vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "5"}], "credits": "7500"}
+{
+ "missionId": "516",
+ "missionName": "Containment Breach at Lab",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "5"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "7500",
+ "version": "212070757783024825365109841248546295061"
+}

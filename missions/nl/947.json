@@ -1,1 +1,12 @@
-{"missionId": "947", "missionName": "Overlast lachgas", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "947",
+ "missionName": "Overlast lachgas",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "269782881941697457063793477931296920125"
+}

@@ -1,1 +1,12 @@
-{"missionId": "334", "missionName": "Stå for sikkerheden ved et svømmestævne", "requirements": [{"requirement": "påkrævede ambulancer", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "334",
+ "missionName": "Stå for sikkerheden ved et svømmestævne",
+ "requirements": [
+  {
+   "requirement": "påkrævede ambulancer",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "262126356100867871588194161112051336116"
+}

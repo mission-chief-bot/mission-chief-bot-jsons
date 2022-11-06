@@ -1,1 +1,12 @@
-{"missionId": "75", "missionName": "Unangemeldete Demonstration", "requirements": [{"requirement": "streifenwagen", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "75",
+ "missionName": "Unangemeldete Demonstration",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "154795950183308123831486404163178285165"
+}

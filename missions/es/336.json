@@ -1,1 +1,12 @@
-{"missionId": "336", "missionName": "Robo en oficina", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "336",
+ "missionName": "Robo en oficina",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "1641113292862582845022786893717193812"
+}

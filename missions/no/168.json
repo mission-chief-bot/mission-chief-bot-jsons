@@ -1,1 +1,12 @@
-{"missionId": "168", "missionName": "Ransakelsesordre", "requirements": [{"requirement": "politibiler", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "168",
+ "missionName": "Ransakelsesordre",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "161496993534169703499308900091357371367"
+}

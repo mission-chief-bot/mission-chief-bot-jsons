@@ -1,1 +1,12 @@
-{"missionId": "957", "missionName": "Persoon onwel in attractie", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "957",
+ "missionName": "Persoon onwel in attractie",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "22273701577095215449993237594637439775"
+}

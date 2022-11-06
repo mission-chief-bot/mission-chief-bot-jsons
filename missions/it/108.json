@@ -1,1 +1,36 @@
-{"missionId": "108", "missionName": "Tir in bilico sul cavalcavia", "requirements": [{"requirement": "autogrù", "qty": "1"}, {"requirement": "aps/abp", "qty": "2"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "2"}], "credits": "5"}
+{
+ "missionId": "108",
+ "missionName": "Tir in bilico sul cavalcavia",
+ "requirements": [
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "5",
+ "version": "180210290840244975439730776208404372948"
+}

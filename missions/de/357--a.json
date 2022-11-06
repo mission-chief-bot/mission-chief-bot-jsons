@@ -1,1 +1,16 @@
-{"missionId": "357/a", "missionName": "Bank: Stiller Alarm", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "357/a",
+ "missionName": "Bank: Stiller Alarm",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "62453004354248128575322082820501446133"
+}

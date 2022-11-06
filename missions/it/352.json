@@ -1,1 +1,28 @@
-{"missionId": "352", "missionName": "Operai bloccati in cisterna", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "nbcr", "qty": "2"}, {"requirement": "max pazienti", "qty": "3"}], "credits": "3400"}
+{
+ "missionId": "352",
+ "missionName": "Operai bloccati in cisterna",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "3"
+  }
+ ],
+ "credits": "3400",
+ "version": "131145712105299647677130245536779835801"
+}

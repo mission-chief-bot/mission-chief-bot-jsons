@@ -1,1 +1,32 @@
-{"missionId": "335", "missionName": "Flyghändelse - helikopter olycka", "requirements": [{"requirement": "släckbilar", "qty": "4"}, {"requirement": "lastväxlare", "qty": "2"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "farligt gods-fordon", "qty": "1"}, {"requirement": "polisbilar", "qty": "4"}, {"requirement": "mest patienter", "qty": "6"}], "credits": "3400"}
+{
+ "missionId": "335",
+ "missionName": "Flyghändelse - helikopter olycka",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "farligt gods-fordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "3400",
+ "version": "76687473972674445039730665049051998908"
+}

@@ -1,1 +1,12 @@
-{"missionId": "224", "missionName": "Porušení zákona o pyrotechnice", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "224",
+ "missionName": "Porušení zákona o pyrotechnice",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "179158451737283962008683712788996204481"
+}

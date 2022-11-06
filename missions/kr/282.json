@@ -1,1 +1,12 @@
-{"missionId": "282", "missionName": "과다 복용", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "282",
+ "missionName": "과다 복용",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "205877356205588105633267613030087144458"
+}

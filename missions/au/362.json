@@ -1,1 +1,12 @@
-{"missionId": "362", "missionName": "Office robbery", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "362",
+ "missionName": "Office robbery",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "305969751469511782970031263248444941824"
+}

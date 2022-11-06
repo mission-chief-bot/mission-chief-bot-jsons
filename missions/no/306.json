@@ -1,1 +1,12 @@
-{"missionId": "306", "missionName": "Pasienttransport", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "306",
+ "missionName": "Pasienttransport",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "19137177299788473449399759168111229988"
+}

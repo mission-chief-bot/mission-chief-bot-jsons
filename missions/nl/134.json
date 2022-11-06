@@ -1,1 +1,12 @@
-{"missionId": "134", "missionName": "Brandende haag", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "134",
+ "missionName": "Brandende haag",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "136133020313980491306692557335317656567"
+}

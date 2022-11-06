@@ -1,1 +1,12 @@
-{"missionId": "315", "missionName": "Frostskada efter isspray", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "315",
+ "missionName": "Frostskada efter isspray",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "33278641094454122391017846954513717565"
+}

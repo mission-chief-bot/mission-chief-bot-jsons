@@ -1,1 +1,20 @@
-{"missionId": "285", "missionName": "Brinnande transformatorstation", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "polisbilar", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "285",
+ "missionName": "Brinnande transformatorstation",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "270454911440625594510101876195725578023"
+}

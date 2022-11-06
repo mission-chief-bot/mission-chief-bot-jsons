@@ -1,1 +1,20 @@
-{"missionId": "201", "missionName": "Trafikkuhell uten personskade", "requirements": [ {"requirement": "brannbiler", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}, {"requirement": "for utrykningspolitibil", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "201",
+ "missionName": "Trafikkuhell uten personskade",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "for utrykningspolitibil",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "159829027257774986671095417365447057757"
+}

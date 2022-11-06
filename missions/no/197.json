@@ -1,1 +1,12 @@
-{"missionId": "197", "missionName": "Frankenstein observert", "requirements": [{"requirement": "politibiler", "qty": "3"}], "credits": "550"}
+{
+ "missionId": "197",
+ "missionName": "Frankenstein observert",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  }
+ ],
+ "credits": "550",
+ "version": "38789963623265493764735167470634287581"
+}

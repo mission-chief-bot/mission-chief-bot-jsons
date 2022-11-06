@@ -1,1 +1,28 @@
-{"missionId": "462/a", "missionName": "Brand i et apotek", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "5"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "2"}, {"requirement": "skum tender påkrævet", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "4"}], "credits": "3150"}
+{
+ "missionId": "462/a",
+ "missionName": "Brand i et apotek",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "skum tender påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "3150",
+ "version": "12240160338785966172857698236070504388"
+}

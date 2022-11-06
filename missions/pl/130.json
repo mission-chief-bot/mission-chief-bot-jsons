@@ -1,1 +1,12 @@
-{"missionId": "130", "missionName": "Zatrzymanie akcji serca", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "130",
+ "missionName": "Zatrzymanie akcji serca",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "259390997970442608408577471705355257381"
+}

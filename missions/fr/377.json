@@ -1,1 +1,12 @@
-{"missionId": "377", "missionName": "Bouche d'égout bloquée par des feuilles", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "377",
+ "missionName": "Bouche d'égout bloquée par des feuilles",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "280248487179553692551977883673712982397"
+}

@@ -1,1 +1,24 @@
-{"missionId": "5", "missionName": "Brand in woonkamer", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "5",
+ "missionName": "Brand in woonkamer",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "23956557029479218694408928212471064136"
+}

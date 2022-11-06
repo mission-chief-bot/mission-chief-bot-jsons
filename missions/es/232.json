@@ -1,1 +1,20 @@
-{"missionId": "232", "missionName": "Deslizamiento de tierra", "requirements": [{"requirement": "camiones de bomberos", "qty": "4"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}, {"requirement": "furgones de útiles varios", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "232",
+ "missionName": "Deslizamiento de tierra",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "4"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "92085986103316711796655086771994459087"
+}

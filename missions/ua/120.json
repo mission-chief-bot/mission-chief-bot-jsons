@@ -1,1 +1,12 @@
-{"missionId": "120", "missionName": "Людина на колії", "requirements": [{"requirement": "поліцейські машини", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "120",
+ "missionName": "Людина на колії",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "27962022476942062748074989592801283145"
+}

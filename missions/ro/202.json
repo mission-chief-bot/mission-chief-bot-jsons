@@ -1,1 +1,12 @@
-{"missionId": "202", "missionName": "Pisica blocata în copac", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "375"}
+{
+ "missionId": "202",
+ "missionName": "Pisica blocata în copac",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "375",
+ "version": "142064288759349604059521872785106555417"
+}

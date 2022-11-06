@@ -1,1 +1,12 @@
-{"missionId": "219", "missionName": "Olycka vid bakning av jubileumstårta", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "219",
+ "missionName": "Olycka vid bakning av jubileumstårta",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "19324758120135429857144716263014061565"
+}

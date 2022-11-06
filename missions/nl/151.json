@@ -1,1 +1,12 @@
-{"missionId": "151", "missionName": "Gestolen pompoenen", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "151",
+ "missionName": "Gestolen pompoenen",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "44531989820776626172931180189810774869"
+}

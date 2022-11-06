@@ -1,1 +1,12 @@
-{"missionId": "229", "missionName": "Проблеми з диханням", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "229",
+ "missionName": "Проблеми з диханням",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "224843705518838787282560550801899415154"
+}

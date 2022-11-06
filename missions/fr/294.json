@@ -1,1 +1,32 @@
-{"missionId": "294", "missionName": "Découverte d'engin explosif fuyant", "requirements": [{"requirement": "voitures de police es", "qty": "8"}, {"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}, {"requirement": "vtu", "qty": "1"}, {"requirement": "véhicules risques technologiques", "qty": "1"}, {"requirement": "ambulances es", "qty": "1"}], "credits": "2200"}
+{
+ "missionId": "294",
+ "missionName": "Découverte d'engin explosif fuyant",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "8"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "vtu",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicules risques technologiques",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances es",
+   "qty": "1"
+  }
+ ],
+ "credits": "2200",
+ "version": "218689610383984292136788010535337087279"
+}

@@ -1,1 +1,28 @@
-{"missionId": "506", "missionName": "Petrol Spill from Bowser", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "support vehicles", "qty": "2"}, {"requirement": "hazmat units", "qty": "1"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "2"}], "credits": "2200"}
+{
+ "missionId": "506",
+ "missionName": "Petrol Spill from Bowser",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "hazmat units",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "2200",
+ "version": "146896918862349439925471301536102167885"
+}

@@ -1,1 +1,48 @@
-{"missionId": "720/a", "missionName": "Mattress Factory Fire", "requirements": [ {"requirement": "firetrucks", "qty": "14"}, {"requirement": "battalion chief vehicles", "qty": "3"}, {"requirement": "platform trucks", "qty": "5"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "water tankers", "qty": "1"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "mobile air vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "fire investigation units", "qty": "3"}, {"requirement": "max. patients", "qty": "20"}], "credits": "12000"}
+{
+ "missionId": "720/a",
+ "missionName": "Mattress Factory Fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "14"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "5"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "20"
+  }
+ ],
+ "credits": "12000",
+ "version": "333046287094779851385311205863851660662"
+}

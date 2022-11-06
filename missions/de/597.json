@@ -1,1 +1,12 @@
-{"missionId": "597", "missionName": "Paar hat zu viel Schokolade gegessen", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "597",
+ "missionName": "Paar hat zu viel Schokolade gegessen",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "288563641475071593900372240084196251396"
+}

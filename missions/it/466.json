@@ -1,1 +1,16 @@
-{"missionId": "466", "missionName": "Fumo dalla macchina elettrica", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "aps/abp", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "466",
+ "missionName": "Fumo dalla macchina elettrica",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "269960227587094689612378713238309750493"
+}

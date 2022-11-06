@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "Furto", "requirements": [{"requirement": "carros de patrulha necessários", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Furto",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "111116460048700455000071581924570043756"
+}

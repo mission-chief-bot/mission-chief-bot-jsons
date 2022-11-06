@@ -1,1 +1,20 @@
-{"missionId": "64", "missionName": "Accident de bus", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}, {"requirement": "véhicule de secours routier", "qty": "1"}, {"requirement": "max. patients", "qty": "12"}], "credits": "1000"}
+{
+ "missionId": "64",
+ "missionName": "Accident de bus",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  },
+  {
+   "requirement": "véhicule de secours routier",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "12"
+  }
+ ],
+ "credits": "1000",
+ "version": "31354962265143009290896070237032454974"
+}

@@ -1,1 +1,32 @@
-{"missionId": "190", "missionName": "Car in Water", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "boats", "qty": "1"}, {"requirement": "fire engines", "qty": "2"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "190",
+ "missionName": "Car in Water",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "270482411229889571732150389755276683134"
+}

@@ -1,1 +1,12 @@
-{"missionId": "299", "missionName": "Personen ramlade på smält choklad", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "299",
+ "missionName": "Personen ramlade på smält choklad",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "205301171255229806959503739564786607911"
+}

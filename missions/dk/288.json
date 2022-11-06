@@ -1,1 +1,12 @@
-{"missionId": "288", "missionName": "Glasskår i hånd", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "288",
+ "missionName": "Glasskår i hånd",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "21410498845281763249526447109208543741"
+}

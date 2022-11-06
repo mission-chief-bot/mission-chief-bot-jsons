@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "ストローベイルから出火", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "ストローベイルから出火",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "59887265385343320907023277421757470243"
+}

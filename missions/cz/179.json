@@ -1,1 +1,20 @@
-{"missionId": "179", "missionName": "Nález opuštěného zavazadla", "requirements": [{"requirement": "policejní automobily", "qty": "2"}, {"requirement": "vozidla pyrotechniků pčr", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "179",
+ "missionName": "Nález opuštěného zavazadla",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "vozidla pyrotechniků pčr",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "269590076802532077514262490737158741475"
+}

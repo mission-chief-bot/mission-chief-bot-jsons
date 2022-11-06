@@ -1,1 +1,12 @@
-{"missionId": "403", "missionName": "Mülleimerbrand", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "403",
+ "missionName": "Mülleimerbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "273477993241893052130105035403009222126"
+}

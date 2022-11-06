@@ -1,1 +1,28 @@
-{"missionId": "427", "missionName": "452 Kaasuvuoto kaupassa", "requirements": [{"requirement": "paloautot", "qty": "3"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "kemikaalitorjunta-autot", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "4"}], "credits": "1400"}
+{
+ "missionId": "427",
+ "missionName": "452 Kaasuvuoto kaupassa",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "4"
+  }
+ ],
+ "credits": "1400",
+ "version": "229605389100164409684406704217550427199"
+}

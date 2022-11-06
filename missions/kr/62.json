@@ -1,1 +1,12 @@
-{"missionId": "62", "missionName": "소음 장애", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "62",
+ "missionName": "소음 장애",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "149548832153398433708464396242522387800"
+}

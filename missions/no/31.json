@@ -1,1 +1,16 @@
-{"missionId": "31", "missionName": "Mindre bål ute av kontroll", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "brannbiler", "qty": "1"}], "credits": "1310"}
+{
+ "missionId": "31",
+ "missionName": "Mindre bål ute av kontroll",
+ "requirements": [
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "1310",
+ "version": "123793483635423049860986608806412521881"
+}

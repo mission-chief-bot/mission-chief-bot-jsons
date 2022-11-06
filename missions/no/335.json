@@ -1,1 +1,16 @@
-{"missionId": "335", "missionName": "Ulovlig bål i parken", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "335",
+ "missionName": "Ulovlig bål i parken",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "275551030536996413123223870571618941954"
+}

@@ -1,1 +1,12 @@
-{"missionId": "310", "missionName": "Lagbuss parkerad i påbjuden stoppzon", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "310",
+ "missionName": "Lagbuss parkerad i påbjuden stoppzon",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "17120726122823579553280206692060368478"
+}

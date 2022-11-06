@@ -1,1 +1,16 @@
-{"missionId": "344", "missionName": "Vyproštění prasete z jámy", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "ta", "qty": "1"}], "credits": "2400"}
+{
+ "missionId": "344",
+ "missionName": "Vyproštění prasete z jámy",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  }
+ ],
+ "credits": "2400",
+ "version": "220412907877548762250805731299089362020"
+}

@@ -1,1 +1,12 @@
-{"missionId": "529", "missionName": "Grasbrand door vuurwerk", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "529",
+ "missionName": "Grasbrand door vuurwerk",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "103556932774672473723193888399162371560"
+}

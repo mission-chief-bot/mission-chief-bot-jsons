@@ -1,1 +1,28 @@
-{"missionId": "243", "missionName": "住宅火災", "requirements": [{"requirement": "プラットフォームトラック", "qty": "1"}, {"requirement": "指令ユニット", "qty": "1"}, {"requirement": "救急車指揮官", "qty": "1"}, {"requirement": "消防車", "qty": "4"}, {"requirement": "救急車", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "243",
+ "missionName": "住宅火災",
+ "requirements": [
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "1"
+  },
+  {
+   "requirement": "指令ユニット",
+   "qty": "1"
+  },
+  {
+   "requirement": "救急車指揮官",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "4"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "236735690751570537915802865661459066619"
+}

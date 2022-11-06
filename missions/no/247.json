@@ -1,1 +1,16 @@
-{"missionId": "247", "missionName": "Bruk av ulovlig fyrverkeri", "requirements": [{"requirement": "politibiler", "qty": "2"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "247",
+ "missionName": "Bruk av ulovlig fyrverkeri",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "213230299126509817482971642040262100309"
+}

@@ -1,1 +1,12 @@
-{"missionId": "401", "missionName": "Незаконное хранение оружия", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "401",
+ "missionName": "Незаконное хранение оружия",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "45053170801837201336436920775020232048"
+}

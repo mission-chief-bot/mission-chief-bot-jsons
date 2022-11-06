@@ -1,1 +1,20 @@
-{"missionId": "288", "missionName": "Brand in magazijn", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}], "credits": "1750"}
+{
+ "missionId": "288",
+ "missionName": "Brand in magazijn",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  }
+ ],
+ "credits": "1750",
+ "version": "138455144839517465453243146767253195397"
+}

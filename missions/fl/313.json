@@ -1,1 +1,36 @@
-{"missionId": "313", "missionName": "403 Huoltoasemapalo", "requirements": [{"requirement": "paloautot", "qty": "5"}, {"requirement": "nostolava-autot", "qty": "1"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "paineilmahuoltoautot", "qty": "1"}, {"requirement": "kemikaalitorjunta-autot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "2"}], "credits": "4500"}
+{
+ "missionId": "313",
+ "missionName": "403 Huoltoasemapalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "5"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "4500",
+ "version": "272986610046561022634097334098488941519"
+}

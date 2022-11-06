@@ -1,1 +1,16 @@
-{"missionId": "425", "missionName": "Brand in bouwmarkt", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "850"}
+{
+ "missionId": "425",
+ "missionName": "Brand in bouwmarkt",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "850",
+ "version": "141756952470499765872105254013614152057"
+}

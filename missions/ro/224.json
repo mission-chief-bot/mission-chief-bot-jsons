@@ -1,1 +1,12 @@
-{"missionId": "224", "missionName": "Obiect blocat în gât", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "224",
+ "missionName": "Obiect blocat în gât",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "78535091621928118018697099671933284884"
+}

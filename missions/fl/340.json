@@ -1,1 +1,24 @@
-{"missionId": "340", "missionName": "Pudonneiden lehtien aiheuttama tieonnettomuus", "requirements": [{"requirement": "paloautot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "2"}, {"requirement": "potilaita enint.", "qty": "3"}], "credits": "1000"}
+{
+ "missionId": "340",
+ "missionName": "Pudonneiden lehtien aiheuttama tieonnettomuus",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "3"
+  }
+ ],
+ "credits": "1000",
+ "version": "289666545753140518997084064616879427296"
+}

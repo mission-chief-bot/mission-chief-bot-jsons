@@ -1,1 +1,12 @@
-{"missionId": "345", "missionName": "Brinnande lövhög", "requirements": [{"requirement": "släckbilar", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "345",
+ "missionName": "Brinnande lövhög",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "320694000980066199392197142703213058238"
+}

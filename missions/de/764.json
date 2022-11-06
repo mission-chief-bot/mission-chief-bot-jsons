@@ -1,1 +1,12 @@
-{"missionId": "764", "missionName": "Jubiläumsgäste haben Kuchen gestohlen", "requirements": [{"requirement": "streifenwagen", "qty": "5"}], "credits": "4500"}
+{
+ "missionId": "764",
+ "missionName": "Jubiläumsgäste haben Kuchen gestohlen",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "5"
+  }
+ ],
+ "credits": "4500",
+ "version": "21980135060106621257573790698743221636"
+}

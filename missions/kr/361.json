@@ -1,1 +1,20 @@
-{"missionId": "361", "missionName": "홈 인베이전", "requirements": [{"requirement": "경찰 및 공공 안전", "qty": "1"}, {"requirement": "경찰차", "qty": "4"}, {"requirement": "swat 대원", "qty": "4"}], "credits": "1250"}
+{
+ "missionId": "361",
+ "missionName": "홈 인베이전",
+ "requirements": [
+  {
+   "requirement": "경찰 및 공공 안전",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "4"
+  },
+  {
+   "requirement": "swat 대원",
+   "qty": "4"
+  }
+ ],
+ "credits": "1250",
+ "version": "36669813675900436116518662585444282612"
+}

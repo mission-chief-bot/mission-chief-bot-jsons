@@ -1,1 +1,64 @@
-{"missionId": "929-1", "missionName": "Brand in gasverdeelstation", "requirements": [{"requirement": "tankautospuiten", "qty": "8"}, {"requirement": "redvoertuigen", "qty": "2"}, {"requirement": "ovd-b's", "qty": "2"}, {"requirement": "noodhulpeenheden", "qty": "8"}, {"requirement": "slangenwagens", "qty": "2"}, {"requirement": "adembeschermingsvoertuigen", "qty": "1"}, {"requirement": "verkenningseenheden", "qty": "3"}, {"requirement": "adviseurs gevaarlijke stoffen", "qty": "1"}, {"requirement": "voorlichters", "qty": "1"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "commandowagen", "qty": "1"}, {"requirement": "schuimblusvoertuig benodigd", "qty": "1"}, {"requirement": "biketeams", "qty": "1"}, {"requirement": "officiers van dienst politie", "qty": "1"}], "credits": "13925"}
+{
+ "missionId": "929-1",
+ "missionName": "Brand in gasverdeelstation",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "8"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "2"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "2"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "8"
+  },
+  {
+   "requirement": "slangenwagens",
+   "qty": "2"
+  },
+  {
+   "requirement": "adembeschermingsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "verkenningseenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "1"
+  },
+  {
+   "requirement": "voorlichters",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "commandowagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "schuimblusvoertuig benodigd",
+   "qty": "1"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "1"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "credits": "13925",
+ "version": "286586012225384607919470404513795252163"
+}

@@ -1,1 +1,16 @@
-{"missionId": "334", "missionName": "Détresse vitale à domicile", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "334",
+ "missionName": "Détresse vitale à domicile",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "26341881953646684086544444779086450472"
+}

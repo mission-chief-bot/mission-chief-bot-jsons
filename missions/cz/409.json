@@ -1,1 +1,12 @@
-{"missionId": "409", "missionName": "Požár karnevalového kostýmu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "409",
+ "missionName": "Požár karnevalového kostýmu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "295457080933014181259839619008529332959"
+}

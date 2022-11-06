@@ -1,1 +1,16 @@
-{"missionId": "25", "missionName": "ДТП", "requirements": [{"requirement": "пожарные машины", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "25",
+ "missionName": "ДТП",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "303528283277455857275202846912647704672"
+}

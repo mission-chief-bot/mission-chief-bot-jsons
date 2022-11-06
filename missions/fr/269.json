@@ -1,1 +1,12 @@
-{"missionId": "269", "missionName": "Feu de végétation", "requirements": [{"requirement": "ccf", "qty": 1}], "credits": "200"}
+{
+ "missionId": "269",
+ "missionName": "Feu de végétation",
+ "requirements": [
+  {
+   "requirement": "ccf",
+   "qty": 1
+  }
+ ],
+ "credits": "200",
+ "version": "174202767469534339791444229891999665053"
+}

@@ -1,1 +1,12 @@
-{"missionId": "37", "missionName": "703 Astmakohtaus", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "37",
+ "missionName": "703 Astmakohtaus",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "220360273849456568431749289482771239132"
+}

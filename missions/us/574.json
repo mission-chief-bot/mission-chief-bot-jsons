@@ -1,1 +1,24 @@
-{"missionId": "574", "missionName": "Falling Light Pole", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "6"}], "credits": "2500"}
+{
+ "missionId": "574",
+ "missionName": "Falling Light Pole",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "2500",
+ "version": "181359134624555075840127571287304184011"
+}

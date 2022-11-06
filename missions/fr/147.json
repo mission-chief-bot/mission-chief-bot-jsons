@@ -1,1 +1,28 @@
-{"missionId": "147", "missionName": "Personnes bloquées dans une attraction", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "spécialistes imp", "qty": "1"}, {"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "max. patients", "qty": "14"}], "credits": "2"}
+{
+ "missionId": "147",
+ "missionName": "Personnes bloquées dans une attraction",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "spécialistes imp",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "14"
+  }
+ ],
+ "credits": "2",
+ "version": "86383165930097482517736268471010227499"
+}

@@ -1,1 +1,16 @@
-{"missionId": "319", "missionName": "家具火災", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "最大患者", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "319",
+ "missionName": "家具火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "13103279659624721809336459735807238550"
+}

@@ -1,1 +1,20 @@
-{"missionId": "169", "missionName": "Dopravní nehoda bez zranění", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}, {"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "169",
+ "missionName": "Dopravní nehoda bez zranění",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "338015266356873147284436528900540116083"
+}

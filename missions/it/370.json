@@ -1,1 +1,12 @@
-{"missionId": "370", "missionName": "Allarme Antifurto Auto", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "370",
+ "missionName": "Allarme Antifurto Auto",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "37498245046673353568531632330498312442"
+}

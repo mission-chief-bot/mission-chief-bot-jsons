@@ -1,1 +1,12 @@
-{"missionId": "78", "missionName": "Boğucu", "requirements": [{"requirement": "maks. hastalar", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "78",
+ "missionName": "Boğucu",
+ "requirements": [
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "196635294398796715835724987278756757420"
+}

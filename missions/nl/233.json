@@ -1,1 +1,20 @@
-{"missionId": "233", "missionName": "Brand in tuinhuis", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "233",
+ "missionName": "Brand in tuinhuis",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "266635308811235500032938547964407392782"
+}

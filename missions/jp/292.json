@@ -1,1 +1,16 @@
-{"missionId": "292", "missionName": "エキゾチックアニマル密売", "requirements": [{"requirement": "警察車両", "qty": "5"}, {"requirement": "最大患者", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "292",
+ "missionName": "エキゾチックアニマル密売",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "5"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "327065008272290991680066221997544364192"
+}

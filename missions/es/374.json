@@ -1,1 +1,12 @@
-{"missionId": "374", "missionName": "Ladrón atacado por una vaca", "requirements": [{"requirement": "ambulancias", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "374",
+ "missionName": "Ladrón atacado por una vaca",
+ "requirements": [
+  {
+   "requirement": "ambulancias",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "75175024686698345515127707197857663455"
+}

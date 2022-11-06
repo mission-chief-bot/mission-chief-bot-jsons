@@ -1,1 +1,12 @@
-{"missionId": "145", "missionName": "Trunkenheitsfahrt", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "145",
+ "missionName": "Trunkenheitsfahrt",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "215005688886754408206263927954368097001"
+}

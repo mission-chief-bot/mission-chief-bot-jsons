@@ -1,1 +1,12 @@
-{"missionId": "19", "missionName": "Trailer em chamas", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "19",
+ "missionName": "Trailer em chamas",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "61532810765573710862668915305465226128"
+}

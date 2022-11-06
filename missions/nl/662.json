@@ -1,1 +1,12 @@
-{"missionId": "662", "missionName": "Verkeerscontrole", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "2205"}
+{
+ "missionId": "662",
+ "missionName": "Verkeerscontrole",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "2205",
+ "version": "139998738822794698177201267372610888412"
+}

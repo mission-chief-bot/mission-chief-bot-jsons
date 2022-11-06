@@ -1,1 +1,12 @@
-{"missionId": "192", "missionName": "Krádež sladkostí", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "192",
+ "missionName": "Krádež sladkostí",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "7176278585925857565990977635059264474"
+}

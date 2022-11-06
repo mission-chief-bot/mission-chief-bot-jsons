@@ -1,1 +1,12 @@
-{"missionId": "281", "missionName": "Search for missing boyfriend", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "281",
+ "missionName": "Search for missing boyfriend",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "267240520946045351822273493391453864880"
+}

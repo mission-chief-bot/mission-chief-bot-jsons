@@ -1,1 +1,12 @@
-{"missionId": "376", "missionName": "Person slipped on wet leaves", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "376",
+ "missionName": "Person slipped on wet leaves",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "17631951597305749469365136002862553101"
+}

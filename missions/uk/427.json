@@ -1,1 +1,12 @@
-{"missionId": "427", "missionName": "Allergic reaction to pollen", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "427",
+ "missionName": "Allergic reaction to pollen",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "330741707181002995863407092405823241449"
+}

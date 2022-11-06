@@ -1,1 +1,12 @@
-{"missionId": "238", "missionName": "Požár způsobený elektřinou na výroční párty (malý)", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "1850"}
+{
+ "missionId": "238",
+ "missionName": "Požár způsobený elektřinou na výroční párty (malý)",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  }
+ ],
+ "credits": "1850",
+ "version": "162180989642170254805932964637009744127"
+}

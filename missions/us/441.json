@@ -1,1 +1,16 @@
-{"missionId": "441", "missionName": "Office Investigation", "requirements": [{"requirement": "fbi units", "qty": "1"}, {"requirement": "fbi investigation wagons", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "441",
+ "missionName": "Office Investigation",
+ "requirements": [
+  {
+   "requirement": "fbi units",
+   "qty": "1"
+  },
+  {
+   "requirement": "fbi investigation wagons",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "276692754930034254603998537980079087023"
+}

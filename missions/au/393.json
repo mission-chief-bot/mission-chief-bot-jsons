@@ -1,1 +1,12 @@
-{"missionId": "393", "missionName": "Hypothermia after swimming in cold water", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "393",
+ "missionName": "Hypothermia after swimming in cold water",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "59899839353481457875162743399976131000"
+}

@@ -1,1 +1,12 @@
-{"missionId": "370", "missionName": "Geisterfahrer", "requirements": [ {"requirement": "streifenwagen", "qty": "4"}], "credits": "1000"}
+{
+ "missionId": "370",
+ "missionName": "Geisterfahrer",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  }
+ ],
+ "credits": "1000",
+ "version": "113558665570442522837394689751381287537"
+}

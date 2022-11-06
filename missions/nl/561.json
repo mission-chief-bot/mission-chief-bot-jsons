@@ -1,1 +1,12 @@
-{"missionId": "561", "missionName": "Rijden onder invloed van lachgas", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "400"}
+{
+ "missionId": "561",
+ "missionName": "Rijden onder invloed van lachgas",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "400",
+ "version": "92178052635044820374821911036261841881"
+}

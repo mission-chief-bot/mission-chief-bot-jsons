@@ -1,1 +1,16 @@
-{"missionId": "249", "missionName": "Trafikkulykke som følge av fyrverkeribruk nær vei", "requirements": [{"requirement": "politibiler", "qty": "2"}, {"requirement": "maks pasienter", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "249",
+ "missionName": "Trafikkulykke som følge av fyrverkeribruk nær vei",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "31575250552453085768308644786241421993"
+}

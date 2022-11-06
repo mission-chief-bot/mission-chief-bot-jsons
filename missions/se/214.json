@@ -1,1 +1,16 @@
-{"missionId": "214", "missionName": "Kommendering - torgmöte", "requirements": [{"requirement": "hundenheter", "qty": "3"}, {"requirement": "polisbilar", "qty": "4"}], "credits": "0"}
+{
+ "missionId": "214",
+ "missionName": "Kommendering - torgmöte",
+ "requirements": [
+  {
+   "requirement": "hundenheter",
+   "qty": "3"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  }
+ ],
+ "credits": "0",
+ "version": "84389682104436757145555626929190757106"
+}

@@ -1,1 +1,12 @@
-{"missionId": "180", "missionName": "허리 통증", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "180",
+ "missionName": "허리 통증",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "194978632511834825567514050538628918085"
+}

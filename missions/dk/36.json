@@ -1,1 +1,12 @@
-{"missionId": "36", "missionName": "Butiks tyveri", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "36",
+ "missionName": "Butiks tyveri",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "172489772233466605898482041118947347110"
+}

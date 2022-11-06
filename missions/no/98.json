@@ -1,1 +1,20 @@
-{"missionId": "98", "missionName": "Brann i halmballer", "requirements": [{"requirement": "brannbiler", "qty": "5"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tankbiler", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "98",
+ "missionName": "Brann i halmballer",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "59204715119440638089114500897812274548"
+}

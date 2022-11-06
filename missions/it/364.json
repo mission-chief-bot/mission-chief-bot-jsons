@@ -1,1 +1,12 @@
-{"missionId": "364", "missionName": "Bouquet infuocato", "requirements": [{"requirement": "aps/abp", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "364",
+ "missionName": "Bouquet infuocato",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "46638120040007031900350463936633415015"
+}

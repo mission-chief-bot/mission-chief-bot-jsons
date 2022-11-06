@@ -1,1 +1,24 @@
-{"missionId": "118", "missionName": "Person - svår belägenhet", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "stegbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "118",
+ "missionName": "Person - svår belägenhet",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "284775933942754594151519555424650961035"
+}

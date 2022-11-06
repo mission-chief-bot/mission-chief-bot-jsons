@@ -1,1 +1,12 @@
-{"missionId": "184", "missionName": "Mașină avariată de artificii", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "184",
+ "missionName": "Mașină avariată de artificii",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "231350087346119181343339277848517778439"
+}

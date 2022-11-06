@@ -1,1 +1,12 @@
-{"missionId": "36", "missionName": "Боли в груди", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "36",
+ "missionName": "Боли в груди",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "241227566819044717037402231600551440621"
+}

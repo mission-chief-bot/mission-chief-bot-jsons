@@ -1,1 +1,12 @@
-{"missionId": "953", "missionName": "Letsel tijdens klussen", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "953",
+ "missionName": "Letsel tijdens klussen",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "21257026871373051096515565569464238095"
+}

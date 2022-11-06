@@ -1,1 +1,12 @@
-{"missionId": "838", "missionName": "Acute hernia aanval", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "838",
+ "missionName": "Acute hernia aanval",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "97909400083349082419824459571717067562"
+}

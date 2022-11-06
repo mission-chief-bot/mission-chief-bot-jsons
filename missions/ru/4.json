@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Горящая трава", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "Горящая трава",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "269871278802566482075587086990529850036"
+}

@@ -1,1 +1,40 @@
-{"missionId": "203/a", "missionName": "Feu dans bâtiment de bureaux", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "vlhr", "qty": "1"}, {"requirement": "voitures de police es", "qty": "3"}, {"requirement": "assistance respiratoire e", "qty": "1"}, {"requirement": "camions dévidoir", "qty": "2"}, {"requirement": "motopompes", "qty": "2"}, {"requirement": "max. patients", "qty": "4"}], "credits": "8000"}
+{
+ "missionId": "203/a",
+ "missionName": "Feu dans bâtiment de bureaux",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "3"
+  },
+  {
+   "requirement": "assistance respiratoire e",
+   "qty": "1"
+  },
+  {
+   "requirement": "camions dévidoir",
+   "qty": "2"
+  },
+  {
+   "requirement": "motopompes",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "8000",
+ "version": "290722738473891642619782020988998072423"
+}

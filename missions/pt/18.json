@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "Queimada descontrolada", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "Queimada descontrolada",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "28592298264594384005569933693921132433"
+}

@@ -1,1 +1,24 @@
-{"missionId": "203", "missionName": "Överkokt pumpasoppa", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "fordon med luftapparater", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "203",
+ "missionName": "Överkokt pumpasoppa",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "fordon med luftapparater",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "89167802084354225204176539720549101146"
+}

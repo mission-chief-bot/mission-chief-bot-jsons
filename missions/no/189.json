@@ -1,1 +1,40 @@
-{"missionId": "189", "missionName": "Brann i museum", "requirements": [ {"requirement": "brannbiler", "qty": "6"}, {"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "4"}, {"requirement": "tankbiler", "qty": "1"}, {"requirement": "røykdykkere", "qty": "2"}, {"requirement": "politibiler", "qty": "2"}, {"requirement": "stigebil", "qty": "2"}, {"requirement": "innsatsstøttebil", "qty": "1"}], "credits": "7500"}
+{
+ "missionId": "189",
+ "missionName": "Brann i museum",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "6"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "2"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "røykdykkere",
+   "qty": "2"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "stigebil",
+   "qty": "2"
+  },
+  {
+   "requirement": "innsatsstøttebil",
+   "qty": "1"
+  }
+ ],
+ "credits": "7500",
+ "version": "93924550605820787151865842364074106118"
+}

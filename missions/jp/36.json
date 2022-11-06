@@ -1,1 +1,12 @@
-{"missionId": "36", "missionName": "胸部の痛み", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "36",
+ "missionName": "胸部の痛み",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "323214383093007637651109856872403415568"
+}

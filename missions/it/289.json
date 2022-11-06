@@ -1,1 +1,16 @@
-{"missionId": "289", "missionName": "Intossicazione da bevande alla festa", "requirements": [{"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "18"}], "credits": "1200"}
+{
+ "missionId": "289",
+ "missionName": "Intossicazione da bevande alla festa",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "18"
+  }
+ ],
+ "credits": "1200",
+ "version": "112191474004791786508515710772194625038"
+}

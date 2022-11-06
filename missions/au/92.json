@@ -1,1 +1,16 @@
-{"missionId": "92", "missionName": "Brawl at christmas market", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "92",
+ "missionName": "Brawl at christmas market",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "190104306030767980967811432181616407260"
+}

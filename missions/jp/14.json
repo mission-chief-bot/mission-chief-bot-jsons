@@ -1,1 +1,12 @@
-{"missionId": "14", "missionName": "小さい野原で火災", "requirements": [{"requirement": "消防車", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "14",
+ "missionName": "小さい野原で火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "124567144033328789743224024288742927675"
+}

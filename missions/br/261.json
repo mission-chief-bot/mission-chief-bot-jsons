@@ -1,1 +1,32 @@
-{"missionId": "261", "missionName": "Acidente com Helicóptero", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "4"}, {"requirement": "veículos de resgate pesado necessários", "qty": "2"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "viaturas de produtos perigosos necessárias", "qty": "1"}, {"requirement": "viaturas de polícia necessárias", "qty": "4"}, {"requirement": "máx. de pacientes", "qty": "6"}], "credits": "3400"}
+{
+ "missionId": "261",
+ "missionName": "Acidente com Helicóptero",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de produtos perigosos necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "4"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "6"
+  }
+ ],
+ "credits": "3400",
+ "version": "69230144681405253071535197490218450392"
+}

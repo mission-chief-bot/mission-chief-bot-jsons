@@ -1,1 +1,36 @@
-{"missionId": "323/a", "missionName": "Chlorine leak", "requirements": [ {"requirement": "fire engines", "qty": "6"}, {"requirement": "fire officers", "qty": "4"}, {"requirement": "hazmat units or cbrn vehicles", "qty": "1"}, {"requirement": "iccu or ambulance control units", "qty": "1"}, {"requirement": "prvs", "qty": "1"}, {"requirement": "srvs", "qty": "1"}, {"requirement": "max. patients", "qty": "12"}], "credits": "4500"}
+{
+ "missionId": "323/a",
+ "missionName": "Chlorine leak",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "4"
+  },
+  {
+   "requirement": "hazmat units or cbrn vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "iccu or ambulance control units",
+   "qty": "1"
+  },
+  {
+   "requirement": "prvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "srvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "12"
+  }
+ ],
+ "credits": "4500",
+ "version": "111017205192904699208007318694763774234"
+}

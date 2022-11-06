@@ -1,1 +1,12 @@
-{"missionId": "85", "missionName": "Konut baskını", "requirements": [{"requirement": "gerekli polis arabaları", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "85",
+ "missionName": "Konut baskını",
+ "requirements": [
+  {
+   "requirement": "gerekli polis arabaları",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "230789002295676349569986458251171384505"
+}

@@ -1,1 +1,12 @@
-{"missionId": "0", "missionName": "Coș de gunoi în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "0",
+ "missionName": "Coș de gunoi în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "223838640938125790360352435498053575656"
+}

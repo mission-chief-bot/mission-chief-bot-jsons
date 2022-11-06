@@ -1,1 +1,36 @@
-{"missionId": "373-2", "missionName": "Coach rollover RTC", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "rescue support vehicles", "qty": "2"}, {"requirement": "fire officers", "qty": "6"}, {"requirement": "police cars", "qty": "6"}, {"requirement": "ambulance officers", "qty": "1"}, {"requirement": "mass casualty equipment", "qty": "1"}, {"requirement": "max. patients", "qty": "40"}], "credits": "10800"}
+{
+ "missionId": "373-2",
+ "missionName": "Coach rollover RTC",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "6"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "ambulance officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "mass casualty equipment",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "40"
+  }
+ ],
+ "credits": "10800",
+ "version": "23588495973652216032635475977576807987"
+}

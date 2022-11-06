@@ -1,1 +1,28 @@
-{"missionId": "324", "missionName": "Incendio en refinería petrolera", "requirements": [{"requirement": "camiones de bomberos", "qty": "6"}, {"requirement": "unidades de mando y comunicaciones", "qty": "2"}, {"requirement": "vehículos de materiales peligrosos", "qty": "2"}, {"requirement": "vehículos de extinción por espuma", "qty": "2"}, {"requirement": "bombas accionadas por motor", "qty": "1"}], "credits": "7700"}
+{
+ "missionId": "324",
+ "missionName": "Incendio en refinería petrolera",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "6"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "2"
+  },
+  {
+   "requirement": "vehículos de materiales peligrosos",
+   "qty": "2"
+  },
+  {
+   "requirement": "vehículos de extinción por espuma",
+   "qty": "2"
+  },
+  {
+   "requirement": "bombas accionadas por motor",
+   "qty": "1"
+  }
+ ],
+ "credits": "7700",
+ "version": "131697273466446885361131157215147350166"
+}

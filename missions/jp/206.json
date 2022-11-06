@@ -1,1 +1,12 @@
-{"missionId": "206", "missionName": "違法なネットワーク通信", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "206",
+ "missionName": "違法なネットワーク通信",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "307532458618761585938345146164548408986"
+}

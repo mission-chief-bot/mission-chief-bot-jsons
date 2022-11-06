@@ -1,1 +1,16 @@
-{"missionId": "289", "missionName": "Атака огнестрельным оружием", "requirements": [{"requirement": "полицейские автомобили", "qty": "8"}, {"requirement": "макс. пациенты", "qty": "6"}], "credits": "6000"}
+{
+ "missionId": "289",
+ "missionName": "Атака огнестрельным оружием",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "8"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "6"
+  }
+ ],
+ "credits": "6000",
+ "version": "76324645628554902591697219921618494061"
+}

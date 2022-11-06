@@ -1,1 +1,28 @@
-{"missionId": "221", "missionName": "Grande Incêndio Rural", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "12"}, {"requirement": "veículos de comando tático necessários:", "qty": "4"}, {"requirement": "veículos de comando e comunicações necessários:", "qty": "1"}, {"requirement": "veículos tanque tático urbano necessários:", "qty": "3"}, {"requirement": "carros de patrulha necessários:", "qty": "3"}], "credits": "8500"}
+{
+ "missionId": "221",
+ "missionName": "Grande Incêndio Rural",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "12"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos de comando e comunicações necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos tanque tático urbano necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  }
+ ],
+ "credits": "8500",
+ "version": "80546559326862468648841546058164332339"
+}

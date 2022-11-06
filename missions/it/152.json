@@ -1,1 +1,12 @@
-{"missionId": "152", "missionName": "Sospetto in fuga", "requirements": [{"requirement": "pattuglie", "qty": "3"}], "credits": "3000"}
+{
+ "missionId": "152",
+ "missionName": "Sospetto in fuga",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  }
+ ],
+ "credits": "3000",
+ "version": "274628298048688649868570015117354971564"
+}

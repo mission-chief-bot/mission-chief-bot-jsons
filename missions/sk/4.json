@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Horiaca tráva", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "Horiaca tráva",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "308598249503723591260767999446383057118"
+}

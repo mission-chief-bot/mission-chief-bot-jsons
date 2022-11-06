@@ -1,1 +1,12 @@
-{"missionId": "326", "missionName": "775 Voimakas vatsatauti", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "500"}
+{
+ "missionId": "326",
+ "missionName": "775 Voimakas vatsatauti",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "500",
+ "version": "73164921260825573047156781619505655909"
+}

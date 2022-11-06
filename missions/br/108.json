@@ -1,1 +1,12 @@
-{"missionId": "108", "missionName": "Desidratação", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "108",
+ "missionName": "Desidratação",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "160511802278965571420676294105035891488"
+}

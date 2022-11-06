@@ -1,1 +1,12 @@
-{"missionId": "150", "missionName": "불타는 허수아비", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "150",
+ "missionName": "불타는 허수아비",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "335730296224380502023309250015541668694"
+}

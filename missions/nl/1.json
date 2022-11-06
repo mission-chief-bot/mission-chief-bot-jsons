@@ -1,1 +1,12 @@
-{"missionId": "1", "missionName": "Brandende container", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "170"}
+{
+ "missionId": "1",
+ "missionName": "Brandende container",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "170",
+ "version": "144970643705933957320871245613313429140"
+}

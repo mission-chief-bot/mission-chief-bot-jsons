@@ -1,1 +1,16 @@
-{"missionId": "377", "missionName": "Smugling av eksotiske dyr", "requirements": [{"requirement": "politibiler", "qty": "5"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "377",
+ "missionName": "Smugling av eksotiske dyr",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "37684590049705968700017284041632664464"
+}

@@ -1,1 +1,12 @@
-{"missionId": "313", "missionName": "Nedfallet mål", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "313",
+ "missionName": "Nedfallet mål",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "144541918743882372348378843369636467871"
+}

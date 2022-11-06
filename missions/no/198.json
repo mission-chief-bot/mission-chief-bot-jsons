@@ -1,1 +1,12 @@
-{"missionId": "198", "missionName": "Godterityveri", "requirements": [{"requirement": "politibiler", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "198",
+ "missionName": "Godterityveri",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "62837068331791952717829860660554456121"
+}

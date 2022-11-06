@@ -1,1 +1,12 @@
-{"missionId": "99", "missionName": "431 Grillipalo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "99",
+ "missionName": "431 Grillipalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "93161656470208944991806022749607246192"
+}

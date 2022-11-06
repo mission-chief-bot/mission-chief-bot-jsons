@@ -1,1 +1,16 @@
-{"missionId": "302", "missionName": "ゲストのアニバーサリーバルーンが木に引っかかる", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "プラットフォームトラック", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "302",
+ "missionName": "ゲストのアニバーサリーバルーンが木に引っかかる",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "287184170203872459883449329577758244922"
+}

@@ -1,1 +1,12 @@
-{"missionId": "378", "missionName": "Carjacking", "requirements": [{"requirement": "police cars", "qty": "5"}], "credits": "3500"}
+{
+ "missionId": "378",
+ "missionName": "Carjacking",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  }
+ ],
+ "credits": "3500",
+ "version": "288136516143050922862409624795846610504"
+}

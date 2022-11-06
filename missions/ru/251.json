@@ -1,1 +1,24 @@
-{"missionId": "251", "missionName": "Перевернувшийся грузовой автомобиль", "requirements": [{"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "пожарные машины", "qty": "1"}, {"requirement": "платформы", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "2"}], "credits": "2"}
+{
+ "missionId": "251",
+ "missionName": "Перевернувшийся грузовой автомобиль",
+ "requirements": [
+  {
+   "requirement": "машины командира батальона",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  },
+  {
+   "requirement": "платформы",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "2"
+  }
+ ],
+ "credits": "2",
+ "version": "171123538698159717434770133700690167905"
+}

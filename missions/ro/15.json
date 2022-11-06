@@ -1,1 +1,12 @@
-{"missionId": "15", "missionName": "Incendiu de vegetație mic", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "1010"}
+{
+ "missionId": "15",
+ "missionName": "Incendiu de vegetație mic",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "1010",
+ "version": "45868401236295514276134731974414109851"
+}

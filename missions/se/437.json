@@ -1,1 +1,12 @@
-{"missionId": "437", "missionName": "Händelse - skada på egendom", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "437",
+ "missionName": "Händelse - skada på egendom",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "284323212360509945275164684656578223146"
+}

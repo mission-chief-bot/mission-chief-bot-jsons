@@ -1,1 +1,16 @@
-{"missionId": "128", "missionName": "Групповая драка", "requirements": [{"requirement": "полицейские автомобили", "qty": "7"}, {"requirement": "макс. пациенты", "qty": "5"}], "credits": "7"}
+{
+ "missionId": "128",
+ "missionName": "Групповая драка",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "7"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "5"
+  }
+ ],
+ "credits": "7",
+ "version": "302544395825219031460326940129854417060"
+}

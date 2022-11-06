@@ -1,1 +1,12 @@
-{"missionId": "418", "missionName": "Picnickurv i brand", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "418",
+ "missionName": "Picnickurv i brand",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "205587518596446037862311537879881615896"
+}

@@ -1,1 +1,20 @@
-{"missionId": "103", "missionName": "Поломка водопроводу", "requirements": [{"requirement": "пожежні машини", "qty": "2"}, {"requirement": "пожежно-рятувальні автомобілі", "qty": "1"}, {"requirement": "штабні автомобілі", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "103",
+ "missionName": "Поломка водопроводу",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "2"
+  },
+  {
+   "requirement": "пожежно-рятувальні автомобілі",
+   "qty": "1"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "52254603887163835288245724526749999101"
+}

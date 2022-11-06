@@ -1,1 +1,16 @@
-{"missionId": "369", "missionName": "Malaise à domicile", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "369",
+ "missionName": "Malaise à domicile",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "141403229317826768384085508002613836775"
+}

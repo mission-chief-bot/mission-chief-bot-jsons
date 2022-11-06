@@ -1,1 +1,12 @@
-{"missionId": "154", "missionName": "Stolen easter eggs", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "154",
+ "missionName": "Stolen easter eggs",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "190396121822302657298322657617078333334"
+}

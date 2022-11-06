@@ -1,1 +1,16 @@
-{"missionId": "317", "missionName": "Saknad kaptenarmband", "requirements": [{"requirement": "polisbilar", "qty": "1"}, {"requirement": "polishelikoptrar", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "317",
+ "missionName": "Saknad kaptenarmband",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "polishelikoptrar",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "212793850873141825533109156151827704162"
+}

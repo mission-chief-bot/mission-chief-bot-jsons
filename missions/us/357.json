@@ -1,1 +1,16 @@
-{"missionId": "357", "missionName": "Vehicle lost its load", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "police cars", "qty": "2"}], "credits": "700"}
+{
+ "missionId": "357",
+ "missionName": "Vehicle lost its load",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "700",
+ "version": "264889528256053636930058158554226668658"
+}

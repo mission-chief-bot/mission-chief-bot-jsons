@@ -1,1 +1,16 @@
-{"missionId": "312", "missionName": "565 Epäillyn etsintä", "requirements": [{"requirement": "koirapartiot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "312",
+ "missionName": "565 Epäillyn etsintä",
+ "requirements": [
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "84155318164283119425356688888672215591"
+}

@@ -1,1 +1,16 @@
-{"missionId": "425", "missionName": "Brawl on frozen lake", "requirements": [{"requirement": "police cars", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "650"}
+{
+ "missionId": "425",
+ "missionName": "Brawl on frozen lake",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "650",
+ "version": "37208574672088997399097677133158363523"
+}

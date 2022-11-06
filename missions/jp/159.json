@@ -1,1 +1,16 @@
-{"missionId": "159", "missionName": "クリスマスマーケット火事", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "最大患者", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "159",
+ "missionName": "クリスマスマーケット火事",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "92633148596626212109996251594614429458"
+}

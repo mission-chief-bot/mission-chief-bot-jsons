@@ -1,1 +1,24 @@
-{"missionId": "319", "missionName": "Damaged tank car", "requirements": [{"requirement": "firetrucks", "qty": "4"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "hazmat vehicles", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "1"}], "credits": "950"}
+{
+ "missionId": "319",
+ "missionName": "Damaged tank car",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "950",
+ "version": "2497418701516838593707314573207431553"
+}

@@ -1,1 +1,12 @@
-{"missionId": "160", "missionName": "Burning egg boiler", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "160",
+ "missionName": "Burning egg boiler",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "176142721188025668668747870518097737697"
+}

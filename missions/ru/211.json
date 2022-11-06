@@ -1,1 +1,12 @@
-{"missionId": "211", "missionName": "Пропавший гость на юбилее", "requirements": [{"requirement": "полицейские автомобили", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "211",
+ "missionName": "Пропавший гость на юбилее",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "269051692774944228524024958065583627774"
+}

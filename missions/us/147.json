@@ -1,1 +1,12 @@
-{"missionId": "147", "missionName": "Keys Locked in Vehicle", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "147",
+ "missionName": "Keys Locked in Vehicle",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "325905313169847881934834521706651383010"
+}

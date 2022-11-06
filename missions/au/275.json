@@ -1,1 +1,12 @@
-{"missionId": "275", "missionName": "Couple ate too much chocolate", "requirements": [{"requirement": "max. patients", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "275",
+ "missionName": "Couple ate too much chocolate",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "186087455606329374464713512361734664862"
+}

@@ -1,1 +1,24 @@
-{"missionId": "504", "missionName": "Guest drank poisoned drinks at anniversary party", "requirements": [{"requirement": "police cars", "qty": "3"}, {"requirement": "fire officers", "qty": "2"}, {"requirement": "max. patients", "qty": "18"}, {"requirement": "minimum number of patients", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "504",
+ "missionName": "Guest drank poisoned drinks at anniversary party",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "18"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "286147496395169526151436386562615933878"
+}

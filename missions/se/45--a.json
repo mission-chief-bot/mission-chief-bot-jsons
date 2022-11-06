@@ -1,1 +1,12 @@
-{"missionId": "45/a", "missionName": "Stöld", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "45/a",
+ "missionName": "Stöld",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "53184831116673872594489358820922110971"
+}

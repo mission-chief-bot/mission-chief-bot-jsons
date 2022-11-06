@@ -1,1 +1,12 @@
-{"missionId": "32", "missionName": "Harvester fire", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "32",
+ "missionName": "Harvester fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "267495849620549139966580934203514239693"
+}

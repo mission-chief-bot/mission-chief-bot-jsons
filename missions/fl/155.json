@@ -1,1 +1,16 @@
-{"missionId": "155", "missionName": "472 Öljyvahinko tiellä, keskisuuri", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "155",
+ "missionName": "472 Öljyvahinko tiellä, keskisuuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "142732545809177680184813596298053397130"
+}

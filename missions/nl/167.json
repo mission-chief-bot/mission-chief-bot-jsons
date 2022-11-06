@@ -1,1 +1,12 @@
-{"missionId": "167", "missionName": "Schoenen dief", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "167",
+ "missionName": "Schoenen dief",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "217791932969151677252122878672007510051"
+}

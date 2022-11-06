@@ -1,1 +1,12 @@
-{"missionId": "257", "missionName": "Mega operação STOP", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "257",
+ "missionName": "Mega operação STOP",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "24483468070544002262711096896064449676"
+}

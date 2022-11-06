@@ -1,1 +1,16 @@
-{"missionId": "500", "missionName": "Anniversary party guest hit by cork stopper", "requirements": [{"requirement": "max. patients", "qty": "2"}, {"requirement": "minimum number of patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "500",
+ "missionName": "Anniversary party guest hit by cork stopper",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "32914294272541208905004349208942993107"
+}

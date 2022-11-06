@@ -1,1 +1,20 @@
-{"missionId": "439", "missionName": "Legger ned en protest", "requirements": [{"requirement": "nødvendig tilgjengelig personell", "qty": "4x Demonstrasjonsinnsatsleder"}, {"requirement": "politibiler", "qty": "12"}, {"requirement": "nødvendig personell", "qty": "2x Demonstrasjonsinnsatsleder"}], "credits": "9100"}
+{
+ "missionId": "439",
+ "missionName": "Legger ned en protest",
+ "requirements": [
+  {
+   "requirement": "nødvendig tilgjengelig personell",
+   "qty": "4x Demonstrasjonsinnsatsleder"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "12"
+  },
+  {
+   "requirement": "nødvendig personell",
+   "qty": "2x Demonstrasjonsinnsatsleder"
+  }
+ ],
+ "credits": "9100",
+ "version": "333482209687945448712511475625585764047"
+}

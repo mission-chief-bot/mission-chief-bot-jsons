@@ -1,1 +1,12 @@
-{"missionId": "270", "missionName": "Objeto atascado en la garganta", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "270",
+ "missionName": "Objeto atascado en la garganta",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "326734487375011277428306395425557799573"
+}

@@ -1,1 +1,16 @@
-{"missionId": "131", "missionName": "Ransagning af bil", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}, {"requirement": "påkrævede hundepatruljer", "qty": "1"}], "credits": "6"}
+{
+ "missionId": "131",
+ "missionName": "Ransagning af bil",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "1"
+  }
+ ],
+ "credits": "6",
+ "version": "167546974376882268399059123216601208387"
+}

@@ -1,1 +1,16 @@
-{"missionId": "411", "missionName": "Trafikolycka, lastbil - tappat gods", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "polisbilar", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "411",
+ "missionName": "Trafikolycka, lastbil - tappat gods",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "250484953520531066057307276898431074348"
+}

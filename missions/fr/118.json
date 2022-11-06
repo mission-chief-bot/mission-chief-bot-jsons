@@ -1,1 +1,24 @@
-{"missionId": "118", "missionName": "Blessé sur pylône éléctrique", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "véhicule de secours routier", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "118",
+ "missionName": "Blessé sur pylône éléctrique",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicule de secours routier",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "68919624874053513465155723740343433680"
+}

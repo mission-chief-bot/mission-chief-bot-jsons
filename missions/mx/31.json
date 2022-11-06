@@ -1,1 +1,20 @@
-{"missionId": "31", "missionName": "Incendio por parrilla", "requirements": [{"requirement": "unidades de mando y comunicaciones", "qty": "1"}, {"requirement": "camiones con plataforma", "qty": "1"}, {"requirement": "camiones de bomberos", "qty": "1"}], "credits": "1310"}
+{
+ "missionId": "31",
+ "missionName": "Incendio por parrilla",
+ "requirements": [
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "1310",
+ "version": "104237824903998070170944860185149440593"
+}

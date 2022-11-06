@@ -1,1 +1,20 @@
-{"missionId": "403", "missionName": "Bonifica Incendio Boschivo (GRANDE)", "requirements": [{"requirement": "mezzo aib", "qty": "6"}, {"requirement": "aps/abp", "qty": "4"}, {"requirement": "dos", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "403",
+ "missionName": "Bonifica Incendio Boschivo (GRANDE)",
+ "requirements": [
+  {
+   "requirement": "mezzo aib",
+   "qty": "6"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "4"
+  },
+  {
+   "requirement": "dos",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "98966187176773447175897950739743010213"
+}

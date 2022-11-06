@@ -1,1 +1,28 @@
-{"missionId": "502", "missionName": "Tram Motor on Fire", "requirements": [{"requirement": "fire engines", "qty": "6"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "2"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "max. patients", "qty": "10"}], "credits": "2500"}
+{
+ "missionId": "502",
+ "missionName": "Tram Motor on Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "credits": "2500",
+ "version": "313831074039438596181846663449325523145"
+}

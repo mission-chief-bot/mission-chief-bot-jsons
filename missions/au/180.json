@@ -1,1 +1,12 @@
-{"missionId": "180", "missionName": "Heat cramp", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "180",
+ "missionName": "Heat cramp",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "40647269250897108030341579950978594881"
+}

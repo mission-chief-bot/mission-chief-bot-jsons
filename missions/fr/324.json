@@ -1,1 +1,16 @@
-{"missionId": "324", "missionName": "Personne coincée dans un de terrain de jeu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "324",
+ "missionName": "Personne coincée dans un de terrain de jeu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "165254006117322674602597841618387914926"
+}

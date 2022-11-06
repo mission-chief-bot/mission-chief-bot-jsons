@@ -1,1 +1,16 @@
-{"missionId": "192", "missionName": "Incendio de vagón de carga", "requirements": [{"requirement": "camiones de bomberos", "qty": "5"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "192",
+ "missionName": "Incendio de vagón de carga",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "5"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "78524101385471386050072164833234045029"
+}

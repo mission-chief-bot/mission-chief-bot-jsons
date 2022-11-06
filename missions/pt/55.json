@@ -1,1 +1,16 @@
-{"missionId": "55", "missionName": "Agressões mútuas", "requirements": [{"requirement": "carros de patrulha necessários", "qty": "3"}, {"requirement": "máx. de pacientes", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "55",
+ "missionName": "Agressões mútuas",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "257535797636618732440721124263977728324"
+}

@@ -1,1 +1,20 @@
-{"missionId": "347", "missionName": "Motor brand", "requirements": [{"requirement": "påkrævede redningsvogn", "qty": "1"}, {"requirement": "påkrævede brandbiler", "qty": "2"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "347",
+ "missionName": "Motor brand",
+ "requirements": [
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "299820941283131838729427862078372202768"
+}

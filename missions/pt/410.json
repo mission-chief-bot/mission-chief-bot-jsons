@@ -1,1 +1,32 @@
-{"missionId": "410", "missionName": "Despiste de veículo ligeiro com vitimas encarceradas", "requirements": [ {"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "3"}, {"requirement": "carros de patrulha necessários:", "qty": "4"}, {"requirement": "ambulâncias de socorro necessárias:", "qty": "5"}, {"requirement": "máx. de pacientes:", "qty": "5"}], "credits": "3250"}
+{
+ "missionId": "410",
+ "missionName": "Despiste de veículo ligeiro com vitimas encarceradas",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "ambulâncias de socorro necessárias:",
+   "qty": "5"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "5"
+  }
+ ],
+ "credits": "3250",
+ "version": "130409406022777995494205790466054310206"
+}

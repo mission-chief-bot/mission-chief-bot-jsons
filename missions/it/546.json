@@ -1,1 +1,20 @@
-{"missionId": "546", "missionName": "Piccolo Natante Capovolto", "requirements": [{"requirement": "max pazienti", "qty": "4"}, {"requirement": "motovedetta costiera", "qty": "2"}, {"requirement": "elicottero guardia costiera", "qty": "1"}], "credits": "2800"}
+{
+ "missionId": "546",
+ "missionName": "Piccolo Natante Capovolto",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  },
+  {
+   "requirement": "motovedetta costiera",
+   "qty": "2"
+  },
+  {
+   "requirement": "elicottero guardia costiera",
+   "qty": "1"
+  }
+ ],
+ "credits": "2800",
+ "version": "233621048591975649466116521969842165260"
+}

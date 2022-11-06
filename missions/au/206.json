@@ -1,1 +1,28 @@
-{"missionId": "206", "missionName": "Person Hit by Train", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "support vehicles", "qty": "2"}, {"requirement": "major rescue vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "206",
+ "missionName": "Person Hit by Train",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "38590399763433605161376233361376432297"
+}

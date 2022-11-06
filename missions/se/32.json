@@ -1,1 +1,12 @@
-{"missionId": "32", "missionName": "Brand ute - fordon, skördetröska", "requirements": [{"requirement": "släckbilar", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "32",
+ "missionName": "Brand ute - fordon, skördetröska",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "78444067272923805652320414252972571678"
+}

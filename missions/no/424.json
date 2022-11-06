@@ -1,1 +1,12 @@
-{"missionId": "424", "missionName": "Skade på Eiendom", "requirements": [{"requirement": "politibiler", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "424",
+ "missionName": "Skade på Eiendom",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "26236750970607135917020112133997701847"
+}

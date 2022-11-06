@@ -1,1 +1,12 @@
-{"missionId": "369", "missionName": "マニフェストの確保（大）", "requirements": [{"requirement": "警察車両", "qty": "8"}], "credits": "9500"}
+{
+ "missionId": "369",
+ "missionName": "マニフェストの確保（大）",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "8"
+  }
+ ],
+ "credits": "9500",
+ "version": "127072082825107693275717381016045682798"
+}

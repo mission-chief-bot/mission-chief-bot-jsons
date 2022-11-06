@@ -1,1 +1,12 @@
-{"missionId": "171", "missionName": "Reacción alérgica", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "171",
+ "missionName": "Reacción alérgica",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "164153661833935342326128655401477504298"
+}

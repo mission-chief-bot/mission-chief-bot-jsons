@@ -1,1 +1,12 @@
-{"missionId": "303", "missionName": "Пропавшая капитанская повязка", "requirements": [{"requirement": "полицейские автомобили", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "303",
+ "missionName": "Пропавшая капитанская повязка",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "324042730318541122600126231511288751051"
+}

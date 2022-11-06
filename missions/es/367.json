@@ -1,1 +1,12 @@
-{"missionId": "367", "missionName": "Reacción alérgica al polen", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "650"}
+{
+ "missionId": "367",
+ "missionName": "Reacción alérgica al polen",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "650",
+ "version": "126215640874823676611825921376631731404"
+}

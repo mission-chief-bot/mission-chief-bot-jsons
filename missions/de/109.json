@@ -1,1 +1,16 @@
-{"missionId": "109", "missionName": "Beginnende Geburt", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "5"}
+{
+ "missionId": "109",
+ "missionName": "Beginnende Geburt",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "5",
+ "version": "309727466147333347861727857725638289305"
+}

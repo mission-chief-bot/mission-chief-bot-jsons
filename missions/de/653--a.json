@@ -1,1 +1,36 @@
-{"missionId": "653/a", "missionName": "Brand auf Schultoilette", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}, {"requirement": "rtw", "qty": "3"}, {"requirement": "nef", "qty": "1"}], "credits": "2400"}
+{
+ "missionId": "653/a",
+ "missionName": "Brand auf Schultoilette",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "3"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "2400",
+ "version": "21967683625389190373914877159850498663"
+}

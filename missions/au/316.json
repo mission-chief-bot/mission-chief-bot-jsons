@@ -1,1 +1,16 @@
-{"missionId": "316", "missionName": "Kitchen burning down", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "316",
+ "missionName": "Kitchen burning down",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "158466866568396533324101445852959988823"
+}

@@ -1,1 +1,16 @@
-{"missionId": "343", "missionName": "Brassard du capitaine disparu", "requirements": [{"requirement": "voitures de police es", "qty": "1"}, {"requirement": "soutien aérien fag", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "343",
+ "missionName": "Brassard du capitaine disparu",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "soutien aérien fag",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "93528766433714412977153069874459823301"
+}

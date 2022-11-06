@@ -1,1 +1,24 @@
-{"missionId": "227", "missionName": "Jordskred", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tungredningsbiler", "qty": "2"}, {"requirement": "maks pasienter", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "227",
+ "missionName": "Jordskred",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "193263534552187281125201661869298949724"
+}

@@ -1,1 +1,16 @@
-{"missionId": "76", "missionName": "Burning substation", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "battalion chief vehicles", "qty": "1"}], "credits": "1900"}
+{
+ "missionId": "76",
+ "missionName": "Burning substation",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "1900",
+ "version": "46231425635108090037561471054609146017"
+}

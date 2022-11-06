@@ -1,1 +1,12 @@
-{"missionId": "56", "missionName": "Disturbios", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "56",
+ "missionName": "Disturbios",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "58588409123600955963797914835264192878"
+}

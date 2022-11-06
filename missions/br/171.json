@@ -1,1 +1,12 @@
-{"missionId": "171", "missionName": "Eletrocussão", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "171",
+ "missionName": "Eletrocussão",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "34720915974998252380746634989812650408"
+}

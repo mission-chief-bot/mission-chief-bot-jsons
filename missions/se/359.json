@@ -1,1 +1,20 @@
-{"missionId": "359", "missionName": "Misstänkt skottlossning", "requirements": [{"requirement": "polisbilar", "qty": "4"}, {"requirement": "polishelikoptrar", "qty": "1"}, {"requirement": "hundenheter", "qty": "1"}], "credits": "1050"}
+{
+ "missionId": "359",
+ "missionName": "Misstänkt skottlossning",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "polishelikoptrar",
+   "qty": "1"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1050",
+ "version": "173731143940171148305515733042656855146"
+}

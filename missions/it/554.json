@@ -1,1 +1,12 @@
-{"missionId": "554", "missionName": "Motoscafo ad Alta Velocità", "requirements": [{"requirement": "battello litoraneo", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "554",
+ "missionName": "Motoscafo ad Alta Velocità",
+ "requirements": [
+  {
+   "requirement": "battello litoraneo",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "102616583619265250336062827820430067511"
+}

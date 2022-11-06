@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "Horiaca motorka", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "Horiaca motorka",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "47653866859108927357831870585773833862"
+}

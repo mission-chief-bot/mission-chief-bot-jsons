@@ -1,1 +1,12 @@
-{"missionId": "46", "missionName": "Ulykke med parkert bil", "requirements": [ {"requirement": "politibiler", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "46",
+ "missionName": "Ulykke med parkert bil",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "186244905658586109327836807905189321230"
+}

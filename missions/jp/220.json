@@ -1,1 +1,12 @@
-{"missionId": "220", "missionName": "痴話喧嘩の苦情", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "220",
+ "missionName": "痴話喧嘩の苦情",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "92213379123318917801888188950680313432"
+}

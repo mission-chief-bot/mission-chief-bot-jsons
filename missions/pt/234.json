@@ -1,1 +1,12 @@
-{"missionId": "234", "missionName": "Convidado comeu demasiado bolo de aniversário", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "234",
+ "missionName": "Convidado comeu demasiado bolo de aniversário",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "106843435499351924043557959402103008917"
+}

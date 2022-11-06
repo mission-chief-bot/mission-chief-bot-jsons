@@ -1,1 +1,12 @@
-{"missionId": "202", "missionName": "山道でのバイク事故", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "202",
+ "missionName": "山道でのバイク事故",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "80982164128214781598216430292223277893"
+}

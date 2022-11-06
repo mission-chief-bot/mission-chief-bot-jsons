@@ -1,1 +1,12 @@
-{"missionId": "147", "missionName": "Випадок з бензопилою", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "400"}
+{
+ "missionId": "147",
+ "missionName": "Випадок з бензопилою",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "400",
+ "version": "135502062873268586807187555946360887763"
+}

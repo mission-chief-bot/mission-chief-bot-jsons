@@ -1,1 +1,12 @@
-{"missionId": "669", "missionName": "Ball costumes robbery", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "669",
+ "missionName": "Ball costumes robbery",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "127698695814788827697376585332621493821"
+}

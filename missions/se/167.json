@@ -1,1 +1,28 @@
-{"missionId": "167", "missionName": "Explosion - utomhus", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "räddningsledning", "qty": "1"}, {"requirement": "polisbilar", "qty": "4"}, {"requirement": "mest patienter", "qty": "3"}], "credits": "2110"}
+{
+ "missionId": "167",
+ "missionName": "Explosion - utomhus",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "räddningsledning",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "2110",
+ "version": "261481715292232486136931828160186381091"
+}

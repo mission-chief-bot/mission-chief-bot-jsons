@@ -1,1 +1,12 @@
-{"missionId": "254", "missionName": "Street market patrol", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "254",
+ "missionName": "Street market patrol",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "197062614863598633917908690491458297466"
+}

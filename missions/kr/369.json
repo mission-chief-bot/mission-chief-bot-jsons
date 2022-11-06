@@ -1,1 +1,16 @@
-{"missionId": "369", "missionName": "공격적인 기차 승객", "requirements": [{"requirement": "경찰차", "qty": "4"}, {"requirement": "최대 환자", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "369",
+ "missionName": "공격적인 기차 승객",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "4"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "329234239264377797317932872868232055293"
+}

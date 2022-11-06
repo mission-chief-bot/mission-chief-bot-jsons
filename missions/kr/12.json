@@ -1,1 +1,12 @@
-{"missionId": "12", "missionName": "가로수", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "12",
+ "missionName": "가로수",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "260058529163854988704678981987905884588"
+}

@@ -1,1 +1,28 @@
-{"missionId": "395", "missionName": "Trafikolycka - singel, ravin", "requirements": [{"requirement": "släckbilar", "qty": "7"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "lastväxlare", "qty": "2"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "2"}], "credits": "5500"}
+{
+ "missionId": "395",
+ "missionName": "Trafikolycka - singel, ravin",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "7"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "5500",
+ "version": "278632884630602555624366365432865393012"
+}

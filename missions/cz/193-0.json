@@ -1,1 +1,32 @@
-{"missionId": "193-0", "missionName": "Vážná dopravní nehoda", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}, {"requirement": "vya nebo aj", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "8"}], "credits": "3600"}
+{
+ "missionId": "193-0",
+ "missionName": "Vážná dopravní nehoda",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  },
+  {
+   "requirement": "vya nebo aj",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "8"
+  }
+ ],
+ "credits": "3600",
+ "version": "272339914081264775384239681736049818529"
+}

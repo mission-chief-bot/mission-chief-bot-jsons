@@ -1,1 +1,12 @@
-{"missionId": "820", "missionName": "Opblazen wedstrijdbal", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "820",
+ "missionName": "Opblazen wedstrijdbal",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "256501941977668992945243630665919991703"
+}

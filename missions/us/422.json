@@ -1,1 +1,20 @@
-{"missionId": "422", "missionName": "Community Engagement", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "police cars", "qty": "1"}, {"requirement": "ambulances", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "422",
+ "missionName": "Community Engagement",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "206239710551562374477800040503567113498"
+}

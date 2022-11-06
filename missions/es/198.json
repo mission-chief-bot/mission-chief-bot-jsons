@@ -1,1 +1,12 @@
-{"missionId": "198", "missionName": "Sabotaje en música de fiesta de aniversario", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "198",
+ "missionName": "Sabotaje en música de fiesta de aniversario",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "212140492211643062420806283987308104140"
+}

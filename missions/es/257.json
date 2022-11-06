@@ -1,1 +1,12 @@
-{"missionId": "257", "missionName": "Corazón roto", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "257",
+ "missionName": "Corazón roto",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "56708083290408048250920311011490874023"
+}

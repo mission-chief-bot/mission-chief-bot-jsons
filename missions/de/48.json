@@ -1,1 +1,16 @@
-{"missionId": "48", "missionName": "Krampfanfall", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "48",
+ "missionName": "Krampfanfall",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "38741526370183592292729242955512585902"
+}

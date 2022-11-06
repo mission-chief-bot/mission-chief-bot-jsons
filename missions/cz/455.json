@@ -1,1 +1,28 @@
-{"missionId": "455", "missionName": "Zaklíněná osoba pod tramvají", "requirements": [ {"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "455",
+ "missionName": "Zaklíněná osoba pod tramvají",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "304631996714356662892283583482757580737"
+}

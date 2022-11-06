@@ -1,1 +1,12 @@
-{"missionId": "94", "missionName": "優先ミッション：イースターエッグハント", "requirements": [{"requirement": "警察車両", "qty": "6"}], "credits": "1000"}
+{
+ "missionId": "94",
+ "missionName": "優先ミッション：イースターエッグハント",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "6"
+  }
+ ],
+ "credits": "1000",
+ "version": "141115056369989474130492582035662792278"
+}

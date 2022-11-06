@@ -1,1 +1,11 @@
-{"missionId": "81", "missionName": "Brinnande julkrans", "requirements": [{"requirement": "släckbilar", "qty": "1"}]}
+{
+ "missionId": "81",
+ "missionName": "Brinnande julkrans",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "version": "204018803133463611685729134916578298615"
+}

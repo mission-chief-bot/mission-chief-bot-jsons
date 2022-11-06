@@ -1,1 +1,12 @@
-{"missionId": "346", "missionName": "Lussazione", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "550"}
+{
+ "missionId": "346",
+ "missionName": "Lussazione",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "550",
+ "version": "74486445616672136221367021781314980957"
+}

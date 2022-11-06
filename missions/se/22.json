@@ -1,1 +1,20 @@
-{"missionId": "22", "missionName": "Brand i byggnad - flerfamiljshus, vind", "requirements": [{"requirement": "stegbilar", "qty": "1"}, {"requirement": "släckbilar", "qty": "3"}, {"requirement": "brandbefäl", "qty": "1"}], "credits": "2700"}
+{
+ "missionId": "22",
+ "missionName": "Brand i byggnad - flerfamiljshus, vind",
+ "requirements": [
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "släckbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  }
+ ],
+ "credits": "2700",
+ "version": "286993144373452645977787591867693201734"
+}

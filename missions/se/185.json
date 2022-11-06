@@ -1,1 +1,12 @@
-{"missionId": "185", "missionName": "Misstänkt skogsbrand, undersökning", "requirements": [{"requirement": "tankbilar", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "185",
+ "missionName": "Misstänkt skogsbrand, undersökning",
+ "requirements": [
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "70204767738013313219342709887694932688"
+}

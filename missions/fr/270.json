@@ -1,1 +1,12 @@
-{"missionId": "270", "missionName": "Feu de broussailles", "requirements": [{"requirement": "ccf", "qty": 1}], "credits": "700"}
+{
+ "missionId": "270",
+ "missionName": "Feu de broussailles",
+ "requirements": [
+  {
+   "requirement": "ccf",
+   "qty": 1
+  }
+ ],
+ "credits": "700",
+ "version": "116294369139594116667143894141830685906"
+}

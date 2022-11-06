@@ -1,1 +1,24 @@
-{"missionId": "267", "missionName": "Pust balloner op til jubilæumsfest", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "3"}, {"requirement": "påkrævede ambulancer", "qty": "2"}, {"requirement": "påkrævede redningsvogn", "qty": "2"}, {"requirement": "påkrævede stigevogn", "qty": "2"}], "credits": "15000"}
+{
+ "missionId": "267",
+ "missionName": "Pust balloner op til jubilæumsfest",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede ambulancer",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "2"
+  }
+ ],
+ "credits": "15000",
+ "version": "193098766619315217613959101976816263747"
+}

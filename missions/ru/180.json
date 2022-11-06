@@ -1,1 +1,16 @@
-{"missionId": "180", "missionName": "Массовая паника на дискотеке", "requirements": [{"requirement": "полицейские автомобили", "qty": "9"}, {"requirement": "макс. пациенты", "qty": "17"}], "credits": "0"}
+{
+ "missionId": "180",
+ "missionName": "Массовая паника на дискотеке",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "9"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "17"
+  }
+ ],
+ "credits": "0",
+ "version": "7752635318197275777262929678292188343"
+}

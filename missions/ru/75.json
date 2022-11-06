@@ -1,1 +1,12 @@
-{"missionId": "75", "missionName": "Кража на рождественском рынке", "requirements": [{"requirement": "полицейские автомобили", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "75",
+ "missionName": "Кража на рождественском рынке",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "97556005842094279576108164500255263395"
+}

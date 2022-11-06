@@ -1,1 +1,20 @@
-{"missionId": "564", "missionName": "Underwater weapon stash", "requirements": [{"requirement": "patrol boats", "qty": "2"}, {"requirement": "atf units", "qty": "2"}, {"requirement": "atf lab vehicles", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "564",
+ "missionName": "Underwater weapon stash",
+ "requirements": [
+  {
+   "requirement": "patrol boats",
+   "qty": "2"
+  },
+  {
+   "requirement": "atf units",
+   "qty": "2"
+  },
+  {
+   "requirement": "atf lab vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "179260047665895115974565375473615393445"
+}

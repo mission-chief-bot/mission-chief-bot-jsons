@@ -1,1 +1,12 @@
-{"missionId": "46", "missionName": "ДТП із припаркованим автомобілем", "requirements": [{"requirement": "поліцейські машини", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "46",
+ "missionName": "ДТП із припаркованим автомобілем",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "322640943928831715748893096862573481483"
+}

@@ -1,1 +1,12 @@
-{"missionId": "156", "missionName": "Harnleiter Blutung", "requirements": [ {"requirement": "rtw, naw", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "156",
+ "missionName": "Harnleiter Blutung",
+ "requirements": [
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "167075631946585394252430812160957995790"
+}

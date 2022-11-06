@@ -1,1 +1,12 @@
-{"missionId": "416", "missionName": "Pád ze žebříku při jarním úklidu", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "416",
+ "missionName": "Pád ze žebříku při jarním úklidu",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "185403814881770761751994747173933189629"
+}

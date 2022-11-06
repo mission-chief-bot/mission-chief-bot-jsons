@@ -1,1 +1,12 @@
-{"missionId": "409", "missionName": "Sicurezza alla gara di nuoto", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "2000"}
+{
+ "missionId": "409",
+ "missionName": "Sicurezza alla gara di nuoto",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "2000",
+ "version": "280594398171627233351407975841206015740"
+}

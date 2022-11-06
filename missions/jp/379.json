@@ -1,1 +1,12 @@
-{"missionId": "379", "missionName": "医薬品の盗難", "requirements": [{"requirement": "警察車両", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "379",
+ "missionName": "医薬品の盗難",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "101792033919413708714280806781553382961"
+}

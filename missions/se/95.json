@@ -1,1 +1,12 @@
-{"missionId": "95", "missionName": "Buskbrand orsakad av smällare", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "95",
+ "missionName": "Buskbrand orsakad av smällare",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "137303866445138546163112022979058368914"
+}

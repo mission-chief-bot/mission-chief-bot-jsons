@@ -1,1 +1,12 @@
-{"missionId": "352", "missionName": "Robo de automóvil con violencia", "requirements": [{"requirement": "coches patrulla", "qty": "5"}], "credits": "3500"}
+{
+ "missionId": "352",
+ "missionName": "Robo de automóvil con violencia",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "5"
+  }
+ ],
+ "credits": "3500",
+ "version": "190378394311072346843923618003881720993"
+}

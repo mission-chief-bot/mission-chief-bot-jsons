@@ -1,1 +1,24 @@
-{"missionId": "150", "missionName": "Пожежа у столярній майстерні", "requirements": [{"requirement": "пожежні машини", "qty": "10"}, {"requirement": "штабні автомобілі", "qty": "4"}, {"requirement": "пожежні автодрабини", "qty": "2"}, {"requirement": "поліцейські машини", "qty": "2"}], "credits": "4200"}
+{
+ "missionId": "150",
+ "missionName": "Пожежа у столярній майстерні",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "10"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "4"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "2"
+  },
+  {
+   "requirement": "поліцейські машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "4200",
+ "version": "41616086433981643405265760403056607398"
+}

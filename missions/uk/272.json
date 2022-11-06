@@ -1,1 +1,32 @@
-{"missionId": "272", "missionName": "Fire in petrol station (large)", "requirements": [{"requirement": "fire engines", "qty": "6"}, {"requirement": "fire officers", "qty": "3"}, {"requirement": "aerial appliance trucks", "qty": "1"}, {"requirement": "water carriers", "qty": "1"}, {"requirement": "hazmat units", "qty": "1"}, {"requirement": "incident command and control units", "qty": "1"}], "credits": "8000"}
+{
+ "missionId": "272",
+ "missionName": "Fire in petrol station (large)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "3"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat units",
+   "qty": "1"
+  },
+  {
+   "requirement": "incident command and control units",
+   "qty": "1"
+  }
+ ],
+ "credits": "8000",
+ "version": "139595595193333187804080348076991329980"
+}

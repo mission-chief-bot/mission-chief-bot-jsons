@@ -1,1 +1,11 @@
-{"missionId": "186", "missionName": "Crampo da calore", "requirements": [{"requirement": "max pazienti", "qty": "1"}]}
+{
+ "missionId": "186",
+ "missionName": "Crampo da calore",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "version": "100198608728022070158610198130727572164"
+}

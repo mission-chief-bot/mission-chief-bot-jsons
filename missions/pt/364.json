@@ -1,1 +1,32 @@
-{"missionId": "364", "missionName": "Celebração do Dia Europeu 112", "requirements": [{"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "1"}, {"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}, {"requirement": "veículos escada necessários:", "qty": "1"}, {"requirement": "ambulância de socorro necessárias", "qty": "2"}, {"requirement": "carros de patrulha necessários:", "qty": "3"}], "credits": "4500"}
+{
+ "missionId": "364",
+ "missionName": "Celebração do Dia Europeu 112",
+ "requirements": [
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos escada necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulância de socorro necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  }
+ ],
+ "credits": "4500",
+ "version": "200069814082464121858415055786343668404"
+}

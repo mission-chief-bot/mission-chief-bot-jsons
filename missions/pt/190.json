@@ -1,1 +1,40 @@
-{"missionId": "190", "missionName": "Incêndio num Restaurante", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "4"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "veículos escada necessários:", "qty": "1"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "1"}, {"requirement": "veículos tanque tático urbano necessários:", "qty": "1"}, {"requirement": "unidades autónomas de ar respirável necessárias:", "qty": "1"}, {"requirement": "carros de patrulha necessários:", "qty": "2"}, {"requirement": "máx. de pacientes:", "qty": "5"}], "credits": "5000"}
+{
+ "missionId": "190",
+ "missionName": "Incêndio num Restaurante",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos escada necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos tanque tático urbano necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "unidades autónomas de ar respirável necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "5"
+  }
+ ],
+ "credits": "5000",
+ "version": "1942255428154904995037768180977071106"
+}

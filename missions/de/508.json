@@ -1,1 +1,28 @@
-{"missionId": "508", "missionName": "Pfählungsverletzung", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "508",
+ "missionName": "Pfählungsverletzung",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "245382888034791366847656319147529240719"
+}

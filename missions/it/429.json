@@ -1,1 +1,12 @@
-{"missionId": "429", "missionName": "Furto a Scuola", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "429",
+ "missionName": "Furto a Scuola",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "79937338748319245551137884868962858014"
+}

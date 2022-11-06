@@ -1,1 +1,24 @@
-{"missionId": "271", "missionName": "Lejligheds Brand i lejlighedskompleks", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "10"}, {"requirement": "påkrævede stigevogn", "qty": "1"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "4"}, {"requirement": "maks. antal patienter", "qty": "20"}], "credits": "1500"}
+{
+ "missionId": "271",
+ "missionName": "Lejligheds Brand i lejlighedskompleks",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "4"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "20"
+  }
+ ],
+ "credits": "1500",
+ "version": "303428524559372621137577301104249436258"
+}

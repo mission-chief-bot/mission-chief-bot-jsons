@@ -1,1 +1,20 @@
-{"missionId": "365", "missionName": "Bank robbery (Small)", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "k-9 units", "qty": "1"}, {"requirement": "tog personnel", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "365",
+ "missionName": "Bank robbery (Small)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  },
+  {
+   "requirement": "tog personnel",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "240810045470115129676674118292821664021"
+}

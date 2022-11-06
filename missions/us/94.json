@@ -1,1 +1,20 @@
-{"missionId": "94", "missionName": "Prisoner Escape", "requirements": [{"requirement": "k-9 units", "qty": "1"}, {"requirement": "police cars", "qty": "10"}, {"requirement": "police helicopters", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "94",
+ "missionName": "Prisoner Escape",
+ "requirements": [
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "10"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "337844933083616767092319312380813920050"
+}

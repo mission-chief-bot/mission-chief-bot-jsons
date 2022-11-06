@@ -1,1 +1,12 @@
-{"missionId": "146", "missionName": "Brandende vogelverschrikker", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "146",
+ "missionName": "Brandende vogelverschrikker",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "216984609399929964520294354788428350793"
+}

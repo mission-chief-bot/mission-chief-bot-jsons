@@ -1,1 +1,12 @@
-{"missionId": "339", "missionName": "Henkilö liukastui märkiin lehtiin", "requirements": [{"requirement": "potilaita enint.", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "339",
+ "missionName": "Henkilö liukastui märkiin lehtiin",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "3811970629481206244790482975755896743"
+}

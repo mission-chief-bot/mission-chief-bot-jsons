@@ -1,1 +1,12 @@
-{"missionId": "149", "missionName": "Контроль швидкості", "requirements": [{"requirement": "поліцейські машини", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "149",
+ "missionName": "Контроль швидкості",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "274655888004000747949766897341708302484"
+}

@@ -1,1 +1,24 @@
-{"missionId": "430", "missionName": "Brand i forsamlingssal", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "3"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "2"}], "credits": "1300"}
+{
+ "missionId": "430",
+ "missionName": "Brand i forsamlingssal",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "1300",
+ "version": "39305478367521064539906074761549675444"
+}

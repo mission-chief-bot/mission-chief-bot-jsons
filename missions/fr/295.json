@@ -1,1 +1,12 @@
-{"missionId": "295", "missionName": "Coupure légère / Plaie ouverte", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "295",
+ "missionName": "Coupure légère / Plaie ouverte",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "135109932352218452025043689578800194439"
+}

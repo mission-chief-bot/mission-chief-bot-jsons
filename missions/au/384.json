@@ -1,1 +1,16 @@
-{"missionId": "384", "missionName": "Furniture on fire", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "384",
+ "missionName": "Furniture on fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "93607646135051988628666572301889332588"
+}

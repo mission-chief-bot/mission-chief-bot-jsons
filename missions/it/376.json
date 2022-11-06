@@ -1,1 +1,32 @@
-{"missionId": "376", "missionName": "Crollo tribuna", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "autogrù", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "20"}], "credits": "3000"}
+{
+ "missionId": "376",
+ "missionName": "Crollo tribuna",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "3"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "20"
+  }
+ ],
+ "credits": "3000",
+ "version": "75271933106026146468492452289150992782"
+}

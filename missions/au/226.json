@@ -1,1 +1,20 @@
-{"missionId": "226", "missionName": "Peaceful Protest", "requirements": [{"requirement": "mounted police", "qty": "2"}, {"requirement": "police cars", "qty": "6"}, {"requirement": "max. patients", "qty": "2"}], "credits": "7"}
+{
+ "missionId": "226",
+ "missionName": "Peaceful Protest",
+ "requirements": [
+  {
+   "requirement": "mounted police",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "7",
+ "version": "50269374340191480129930748448011153675"
+}

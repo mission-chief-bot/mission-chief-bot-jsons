@@ -1,1 +1,12 @@
-{"missionId": "205", "missionName": "Mission de sensibilisation dans une école", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1800"}
+{
+ "missionId": "205",
+ "missionName": "Mission de sensibilisation dans une école",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1800",
+ "version": "38041268357088418892527497894206553293"
+}

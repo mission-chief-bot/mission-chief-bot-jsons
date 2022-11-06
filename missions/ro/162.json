@@ -1,1 +1,12 @@
-{"missionId": "162", "missionName": "Lovitura la coloana", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "162",
+ "missionName": "Lovitura la coloana",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "201439715823646920631323230620212065917"
+}

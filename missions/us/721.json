@@ -1,1 +1,52 @@
-{"missionId": "721", "missionName": "Refinery Fire (Small)", "requirements": [ {"requirement": "firetrucks", "qty": "10"}, {"requirement": "platform trucks", "qty": "4"}, {"requirement": "heavy rescue vehicles", "qty": "4"}, {"requirement": "hazmat vehicles", "qty": "2"}, {"requirement": "battalion chief vehicles", "qty": "4"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "mobile air vehicles", "qty": "1"}, {"requirement": "foam tenders", "qty": "1"}, {"requirement": "water tankers", "qty": "1"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "max. patients", "qty": "15"}], "credits": "10000"}
+{
+ "missionId": "721",
+ "missionName": "Refinery Fire (Small)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "10"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "foam tenders",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "15"
+  }
+ ],
+ "credits": "10000",
+ "version": "301527635255442716450625595016382505448"
+}

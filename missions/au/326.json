@@ -1,1 +1,20 @@
-{"missionId": "326", "missionName": "Small Forest Fire", "requirements": [{"requirement": "brush trucks", "qty": "3"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "water carriers", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "326",
+ "missionName": "Small Forest Fire",
+ "requirements": [
+  {
+   "requirement": "brush trucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "2972002816836640392354898344182095507"
+}

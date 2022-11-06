@@ -1,1 +1,12 @@
-{"missionId": "362", "missionName": "Ожесточенная ссора", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "362",
+ "missionName": "Ожесточенная ссора",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "309652802230408651688618303887927589850"
+}

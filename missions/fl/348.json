@@ -1,1 +1,12 @@
-{"missionId": "348", "missionName": "172 Alaikäinen baarissa", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "348",
+ "missionName": "172 Alaikäinen baarissa",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "232106276659187107970192076076287465805"
+}

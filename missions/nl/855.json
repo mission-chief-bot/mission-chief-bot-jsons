@@ -1,1 +1,12 @@
-{"missionId": "855", "missionName": "Observatie", "requirements": [{"requirement": "at operators", "qty": "2"}], "credits": "5790"}
+{
+ "missionId": "855",
+ "missionName": "Observatie",
+ "requirements": [
+  {
+   "requirement": "at operators",
+   "qty": "2"
+  }
+ ],
+ "credits": "5790",
+ "version": "13825293200352652099764541659369138236"
+}

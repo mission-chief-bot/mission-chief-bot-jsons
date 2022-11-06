@@ -1,1 +1,12 @@
-{"missionId": "0", "missionName": "ゴミ箱から出火", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "0",
+ "missionName": "ゴミ箱から出火",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "139265605974324469500607342347179883533"
+}

@@ -1,1 +1,12 @@
-{"missionId": "307", "missionName": "감염 예상 환자", "requirements": [{"requirement": "최대 환자", "qty": "5"}], "credits": "650"}
+{
+ "missionId": "307",
+ "missionName": "감염 예상 환자",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "5"
+  }
+ ],
+ "credits": "650",
+ "version": "150572733511042670567965646796867384249"
+}

@@ -1,1 +1,12 @@
-{"missionId": "35", "missionName": "Alkol zehirlenmesi", "requirements": [{"requirement": "maks. hastalar", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "35",
+ "missionName": "Alkol zehirlenmesi",
+ "requirements": [
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "160990295158270890862262016760224479574"
+}

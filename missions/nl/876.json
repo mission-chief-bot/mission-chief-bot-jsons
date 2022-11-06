@@ -1,1 +1,12 @@
-{"missionId": "876", "missionName": "Drugsdealers in de wijk", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "876",
+ "missionName": "Drugsdealers in de wijk",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "138740592335444480661396960797913291994"
+}

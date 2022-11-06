@@ -1,1 +1,16 @@
-{"missionId": "383", "missionName": "Stor lekkasje fra kjøretøy", "requirements": [{"requirement": "brannbiler", "qty": "2"}, {"requirement": "politibiler", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "383",
+ "missionName": "Stor lekkasje fra kjøretøy",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "184868000873699400506504766068114780718"
+}

@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "Protesto não anunciado", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "57",
+ "missionName": "Protesto não anunciado",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "178840450587814755466470055665651032528"
+}

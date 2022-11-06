@@ -1,1 +1,16 @@
-{"missionId": "229", "missionName": "Nieprzytomna osoba na chodniku", "requirements": [{"requirement": "ambulanse", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "229",
+ "missionName": "Nieprzytomna osoba na chodniku",
+ "requirements": [
+  {
+   "requirement": "ambulanse",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "205696854631180161039308087892010284700"
+}

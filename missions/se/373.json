@@ -1,1 +1,12 @@
-{"missionId": "373", "missionName": "Larm om misstänkt smitta", "requirements": [{"requirement": "mest patienter", "qty": "5"}], "credits": "100"}
+{
+ "missionId": "373",
+ "missionName": "Larm om misstänkt smitta",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "100",
+ "version": "171248363134494182928665157047435084749"
+}

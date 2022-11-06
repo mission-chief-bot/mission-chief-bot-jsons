@@ -1,1 +1,12 @@
-{"missionId": "186", "missionName": "Podozrivá zásielka", "requirements": [{"requirement": "policajné vozidlá", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "186",
+ "missionName": "Podozrivá zásielka",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "44006349095160944773752714326376349385"
+}

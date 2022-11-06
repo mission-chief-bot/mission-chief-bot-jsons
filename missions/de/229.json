@@ -1,1 +1,16 @@
-{"missionId": "229", "missionName": "Absicherung Radrennen", "requirements": [ {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "rtw", "qty": "2"}], "credits": "4000"}
+{
+ "missionId": "229",
+ "missionName": "Absicherung Radrennen",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "2"
+  }
+ ],
+ "credits": "4000",
+ "version": "7059233255835534767524608893910119424"
+}

@@ -1,1 +1,12 @@
-{"missionId": "116", "missionName": "Monster ausgebrochen", "requirements": [{"requirement": "streifenwagen", "qty": "4"}], "credits": "1600"}
+{
+ "missionId": "116",
+ "missionName": "Monster ausgebrochen",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  }
+ ],
+ "credits": "1600",
+ "version": "174164930766223698796166344815948642950"
+}

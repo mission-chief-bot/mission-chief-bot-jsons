@@ -1,1 +1,16 @@
-{"missionId": "366", "missionName": "Panic at the disco", "requirements": [{"requirement": "police cars", "qty": "6"}, {"requirement": "max. patients", "qty": "10"}], "credits": "3000"}
+{
+ "missionId": "366",
+ "missionName": "Panic at the disco",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "credits": "3000",
+ "version": "4315125577139009247974875061844405021"
+}

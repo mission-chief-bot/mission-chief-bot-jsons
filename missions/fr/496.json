@@ -1,1 +1,12 @@
-{"missionId": "496", "missionName": "Navire braconnier", "requirements": [{"requirement": "vedette côtière de surveillance maritime e", "qty": "3"}], "credits": "8000"}
+{
+ "missionId": "496",
+ "missionName": "Navire braconnier",
+ "requirements": [
+  {
+   "requirement": "vedette côtière de surveillance maritime e",
+   "qty": "3"
+  }
+ ],
+ "credits": "8000",
+ "version": "104260149763272377706495769282513444396"
+}

@@ -1,1 +1,16 @@
-{"missionId": "490", "missionName": "Attacco di animali selvatici durante il picnic primaverile", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "3"}], "credits": "600"}
+{
+ "missionId": "490",
+ "missionName": "Attacco di animali selvatici durante il picnic primaverile",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "3"
+  }
+ ],
+ "credits": "600",
+ "version": "44757811945259848721041710936420161721"
+}

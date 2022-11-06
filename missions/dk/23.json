@@ -1,1 +1,12 @@
-{"missionId": "23", "missionName": "Ild i olie", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "Ild i olie",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "227502578933387625078904836358302637222"
+}

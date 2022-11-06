@@ -1,1 +1,24 @@
-{"missionId": "929", "missionName": "Brand in gasverdeelstation", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "1520"}
+{
+ "missionId": "929",
+ "missionName": "Brand in gasverdeelstation",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "1520",
+ "version": "266498016397821930207139846439974346082"
+}

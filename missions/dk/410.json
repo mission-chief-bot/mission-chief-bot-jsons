@@ -1,1 +1,16 @@
-{"missionId": "410", "missionName": "Møbler i brand", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "410",
+ "missionName": "Møbler i brand",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "327314968311101822780510863431460160133"
+}

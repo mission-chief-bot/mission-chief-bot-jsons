@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Cabine telefônica em chamas", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Cabine telefônica em chamas",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "214001495813979107053109984939757982208"
+}

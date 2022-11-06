@@ -1,1 +1,12 @@
-{"missionId": "404", "missionName": "Uheld under karnevalsfest", "requirements": [{"requirement": "maks. antal patienter", "qty": "3"}], "credits": "100"}
+{
+ "missionId": "404",
+ "missionName": "Uheld under karnevalsfest",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "100",
+ "version": "250500587089136496984900649068030106809"
+}

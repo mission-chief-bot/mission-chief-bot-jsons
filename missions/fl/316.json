@@ -1,1 +1,12 @@
-{"missionId": "316", "missionName": "770 Epäselvä sairaskohtaus", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "250"}
+{
+ "missionId": "316",
+ "missionName": "770 Epäselvä sairaskohtaus",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "250",
+ "version": "298213328717202038975296318880474250048"
+}

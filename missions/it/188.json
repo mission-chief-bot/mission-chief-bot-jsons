@@ -1,1 +1,11 @@
-{"missionId": "188", "missionName": "Barbecue in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}]}
+{
+ "missionId": "188",
+ "missionName": "Barbecue in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "version": "144566425206295148079480882514200976010"
+}

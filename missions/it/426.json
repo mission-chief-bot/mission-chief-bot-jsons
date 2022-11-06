@@ -1,1 +1,24 @@
-{"missionId": "426", "missionName": "Incidente Con Fresa", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "426",
+ "missionName": "Incidente Con Fresa",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "67506147916694999901932598928600892773"
+}

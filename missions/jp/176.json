@@ -1,1 +1,12 @@
-{"missionId": "176", "missionName": "市場通りのパトロール", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "176",
+ "missionName": "市場通りのパトロール",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "100147940870166225002251694603944695177"
+}

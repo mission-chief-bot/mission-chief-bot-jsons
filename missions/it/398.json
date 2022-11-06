@@ -1,1 +1,16 @@
-{"missionId": "398", "missionName": "Impatto fulmine nel bosco", "requirements": [{"requirement": "mezzo aib", "qty": 2}, {"requirement": "aqua", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "398",
+ "missionName": "Impatto fulmine nel bosco",
+ "requirements": [
+  {
+   "requirement": "mezzo aib",
+   "qty": 2
+  },
+  {
+   "requirement": "aqua",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "73700004296978589047863200334237986530"
+}

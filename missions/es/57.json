@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "Manifestación no anunciada", "requirements": [{"requirement": "coches patrulla", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "57",
+ "missionName": "Manifestación no anunciada",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "95932420268781124081637472342992999886"
+}

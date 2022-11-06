@@ -1,1 +1,48 @@
-{"missionId": "129/a", "missionName": "オフィスビル火災", "requirements": [{"requirement": "消火サポート拡張", "qty": "2"}, {"requirement": "消防車", "qty": "10"}, {"requirement": "水", "qty": "31000"}, {"requirement": "プラットフォームトラック", "qty": "4"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "消防隊長車両", "qty": "2"}, {"requirement": "空気充填照明車", "qty": "1"}, {"requirement": "警察車両", "qty": "3"}, {"requirement": "ポンプ積載車", "qty": "2"}, {"requirement": "最大患者", "qty": "4"}], "credits": "7400"}
+{
+ "missionId": "129/a",
+ "missionName": "オフィスビル火災",
+ "requirements": [
+  {
+   "requirement": "消火サポート拡張",
+   "qty": "2"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "10"
+  },
+  {
+   "requirement": "水",
+   "qty": "31000"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "4"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "空気充填照明車",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  },
+  {
+   "requirement": "ポンプ積載車",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "4"
+  }
+ ],
+ "credits": "7400",
+ "version": "109731648787827920958169485789406589283"
+}

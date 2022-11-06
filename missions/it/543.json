@@ -1,1 +1,12 @@
-{"missionId": "543", "missionName": "Pagamento con Denaro Falso", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "543",
+ "missionName": "Pagamento con Denaro Falso",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "194228807660035073609261188136584298187"
+}

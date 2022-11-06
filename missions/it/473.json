@@ -1,1 +1,36 @@
-{"missionId": "473", "missionName": "Cerimonia di Premiazione nazionale del 112", "requirements": [{"requirement": "funzionari", "qty": "3"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "aps/abp", "qty": "4"}, {"requirement": "autoscale", "qty": "2"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "kilolitriche", "qty": "1"}, {"requirement": "pattuglie", "qty": "6"}], "credits": "7500"}
+{
+ "missionId": "473",
+ "missionName": "Cerimonia di Premiazione nazionale del 112",
+ "requirements": [
+  {
+   "requirement": "funzionari",
+   "qty": "3"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "4"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "2"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "6"
+  }
+ ],
+ "credits": "7500",
+ "version": "94369449227941941503290103397840563990"
+}

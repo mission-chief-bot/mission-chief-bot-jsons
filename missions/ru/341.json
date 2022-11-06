@@ -1,1 +1,12 @@
-{"missionId": "341", "missionName": "Ограбление офиса", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "341",
+ "missionName": "Ограбление офиса",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "338706660700908783518257015420230697145"
+}

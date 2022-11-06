@@ -1,1 +1,28 @@
-{"missionId": "570", "missionName": "Hidden branch of drug cartell", "requirements": [{"requirement": "dea units", "qty": "5"}, {"requirement": "dea clan labs", "qty": "2"}, {"requirement": "police cars", "qty": "5"}, {"requirement": "swat armoured vehicle", "qty": "2"}, {"requirement": "max. patients", "qty": "6"}], "credits": "4500"}
+{
+ "missionId": "570",
+ "missionName": "Hidden branch of drug cartell",
+ "requirements": [
+  {
+   "requirement": "dea units",
+   "qty": "5"
+  },
+  {
+   "requirement": "dea clan labs",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "swat armoured vehicle",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "4500",
+ "version": "295109366720005639986706878748026829003"
+}

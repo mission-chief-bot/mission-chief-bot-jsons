@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "Motocicletă în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "Motocicletă în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "262795843327060712111904105828282091554"
+}

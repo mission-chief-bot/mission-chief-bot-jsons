@@ -1,1 +1,11 @@
-{"missionId": "620", "missionName": "Uitgedroogde persoon", "requirements": [{"requirement": "maximale pati\u00ebnten aantal", "qty": "1"}]}
+{
+ "missionId": "620",
+ "missionName": "Uitgedroogde persoon",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "version": "256931482903781302881193454306599247193"
+}

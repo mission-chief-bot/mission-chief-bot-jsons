@@ -1,1 +1,12 @@
-{"missionId": "94", "missionName": "Osoba v koľajisku", "requirements": [{"requirement": "policajné vozidlá", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "94",
+ "missionName": "Osoba v koľajisku",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "165115259955006007017572514922604576400"
+}

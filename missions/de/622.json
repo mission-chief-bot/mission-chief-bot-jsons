@@ -1,1 +1,16 @@
-{"missionId": "622", "missionName": "Allergischer Schock", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "622",
+ "missionName": "Allergischer Schock",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "253743417871755498010116182310266658852"
+}

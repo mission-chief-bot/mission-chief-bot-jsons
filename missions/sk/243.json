@@ -1,1 +1,16 @@
-{"missionId": "243", "missionName": "Osoba pod vlakom", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}, {"requirement": "policajné vozidlá", "qty": "5"}], "credits": "7000"}
+{
+ "missionId": "243",
+ "missionName": "Osoba pod vlakom",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "5"
+  }
+ ],
+ "credits": "7000",
+ "version": "64029549956353605537446649058793909801"
+}

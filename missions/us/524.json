@@ -1,1 +1,16 @@
-{"missionId": "524", "missionName": "Cat stuck in tree", "requirements": [{"requirement": "platform trucks", "qty": "1"}, {"requirement": "firetrucks", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "524",
+ "missionName": "Cat stuck in tree",
+ "requirements": [
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "258343068640397716914779715036716934134"
+}

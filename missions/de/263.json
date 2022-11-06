@@ -1,1 +1,12 @@
-{"missionId": "263", "missionName": "Brennendes Bus-Häuschen durch Feuerwerkskörper", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "263",
+ "missionName": "Brennendes Bus-Häuschen durch Feuerwerkskörper",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "266882206561590888736295001390163649970"
+}

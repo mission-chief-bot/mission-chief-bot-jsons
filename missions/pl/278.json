@@ -1,1 +1,12 @@
-{"missionId": "278", "missionName": "Stalking", "requirements": [{"requirement": "radiowozy", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "278",
+ "missionName": "Stalking",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "231094048833796258364476564099821522282"
+}

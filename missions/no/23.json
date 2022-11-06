@@ -1,1 +1,12 @@
-{"missionId": "23", "missionName": "Fettbrann", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "Fettbrann",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "254036252041610608793873967764482549207"
+}

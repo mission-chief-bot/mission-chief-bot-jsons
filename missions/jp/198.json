@@ -1,1 +1,16 @@
-{"missionId": "198", "missionName": "違法花火の使用", "requirements": [{"requirement": "警察車両", "qty": "2"}, {"requirement": "最大患者", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "198",
+ "missionName": "違法花火の使用",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "292694098112543636403113461201385500880"
+}

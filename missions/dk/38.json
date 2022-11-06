@@ -1,1 +1,12 @@
-{"missionId": "38", "missionName": "Anfald", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "38",
+ "missionName": "Anfald",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "49361130215699678786179207922141481448"
+}

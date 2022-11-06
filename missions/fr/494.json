@@ -1,1 +1,20 @@
-{"missionId": "494", "missionName": "Recherche et sauvetage en eaux profondes", "requirements": [{"requirement": "canot tous temps", "qty": "2"}, {"requirement": "dragon", "qty": "2"}, {"requirement": "max. patients", "qty": "3"}], "credits": "4000"}
+{
+ "missionId": "494",
+ "missionName": "Recherche et sauvetage en eaux profondes",
+ "requirements": [
+  {
+   "requirement": "canot tous temps",
+   "qty": "2"
+  },
+  {
+   "requirement": "dragon",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "credits": "4000",
+ "version": "106036787994047682730332589365949887921"
+}

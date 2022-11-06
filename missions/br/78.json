@@ -1,1 +1,24 @@
-{"missionId": "78", "missionName": "Preso a fazer escalada", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}, {"requirement": "veículos de resgate pesado necessários", "qty": "1"}, {"requirement": "caminhões plataforma necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "78",
+ "missionName": "Preso a fazer escalada",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "172999414735963578736366353300512006980"
+}

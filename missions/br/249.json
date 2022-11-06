@@ -1,1 +1,28 @@
-{"missionId": "249", "missionName": "Queda de Penhasco", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "9"}, {"requirement": "viaturas de batalhão necessárias", "qty": "2"}, {"requirement": "veículos de resgate pesado necessários", "qty": "4"}, {"requirement": "viaturas de polícia necessárias", "qty": "2"}, {"requirement": "máx. de pacientes", "qty": "10"}], "credits": "9500"}
+{
+ "missionId": "249",
+ "missionName": "Queda de Penhasco",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "9"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "10"
+  }
+ ],
+ "credits": "9500",
+ "version": "320459585652602781615148878532672265277"
+}

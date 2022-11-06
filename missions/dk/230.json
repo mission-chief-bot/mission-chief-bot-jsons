@@ -1,1 +1,12 @@
-{"missionId": "230", "missionName": "Affalds bunke aftændt af fyrværkeri", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "230",
+ "missionName": "Affalds bunke aftændt af fyrværkeri",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "52100562754901472871167394750349939712"
+}

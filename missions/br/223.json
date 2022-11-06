@@ -1,1 +1,12 @@
-{"missionId": "223", "missionName": "Detritos na pista de decolagem", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "223",
+ "missionName": "Detritos na pista de decolagem",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "259701345882985365954750980603842668092"
+}

@@ -1,1 +1,24 @@
-{"missionId": "130", "missionName": "Ferito sul traliccio dell'alta tensione", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "130",
+ "missionName": "Ferito sul traliccio dell'alta tensione",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "265204191545444106290376020116488897276"
+}

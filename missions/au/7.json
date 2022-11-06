@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Burning leaves", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Burning leaves",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "195684580836264742349301425369910136276"
+}

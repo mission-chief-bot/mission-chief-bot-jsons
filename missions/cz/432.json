@@ -1,1 +1,20 @@
-{"missionId": "432", "missionName": "Pronásledování ujíždějícího vozidla", "requirements": [{"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}, {"requirement": "policejní automobily", "qty": "14"}, {"requirement": "policejní vrtulníky", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "432",
+ "missionName": "Pronásledování ujíždějícího vozidla",
+ "requirements": [
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "14"
+  },
+  {
+   "requirement": "policejní vrtulníky",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "288983337576357562168478301228564202645"
+}

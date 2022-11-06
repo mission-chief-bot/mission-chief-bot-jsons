@@ -1,1 +1,16 @@
-{"missionId": "198", "missionName": "Výtržnost na Vánočním trhu", "requirements": [{"requirement": "policejní automobily", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "198",
+ "missionName": "Výtržnost na Vánočním trhu",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "273589190430780151039035970233927706625"
+}

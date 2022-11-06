@@ -1,1 +1,12 @@
-{"missionId": "27", "missionName": "Ild i garage", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "27",
+ "missionName": "Ild i garage",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "323677322496477255845029634388804487988"
+}

@@ -1,1 +1,12 @@
-{"missionId": "294", "missionName": "Ohlášení hluku kvůli hádajícímu se páru", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "294",
+ "missionName": "Ohlášení hluku kvůli hádajícímu se páru",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "162758068553383467649604842423574477062"
+}

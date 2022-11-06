@@ -1,1 +1,12 @@
-{"missionId": "282", "missionName": "Нарушение дыхания", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "282",
+ "missionName": "Нарушение дыхания",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "266252390387598870873800732257469908551"
+}

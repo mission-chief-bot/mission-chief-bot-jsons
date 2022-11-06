@@ -1,1 +1,24 @@
-{"missionId": "80", "missionName": "Motorsykkelulykke", "requirements": [ {"requirement": "brannbiler", "qty": "3"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "2300"}
+{
+ "missionId": "80",
+ "missionName": "Motorsykkelulykke",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "2300",
+ "version": "30782913500283354781976874806164456049"
+}

@@ -1,1 +1,16 @@
-{"missionId": "178", "missionName": "Smuglingsforsøk", "requirements": [{"requirement": "politibiler", "qty": "3"}, {"requirement": "hundepatruljer", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "178",
+ "missionName": "Smuglingsforsøk",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "299202514591742795325944861808668181699"
+}

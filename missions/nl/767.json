@@ -1,1 +1,32 @@
-{"missionId": "767", "missionName": "Ongeregeldheden in de wijk", "requirements": [{"requirement": "noodhulpeenheden", "qty": "6"}, {"requirement": "biketeams", "qty": "1"}, {"requirement": "me flexbussen", "qty": "6"}, {"requirement": "me commandovoertuigen", "qty": "1"}, {"requirement": "aanhoudingseenheden", "qty": "1"}, {"requirement": "biketeams, indien beschikbaar", "qty": "Ja"}], "credits": "5125"}
+{
+ "missionId": "767",
+ "missionName": "Ongeregeldheden in de wijk",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "6"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "1"
+  },
+  {
+   "requirement": "me flexbussen",
+   "qty": "6"
+  },
+  {
+   "requirement": "me commandovoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "aanhoudingseenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "biketeams, indien beschikbaar",
+   "qty": "Ja"
+  }
+ ],
+ "credits": "5125",
+ "version": "119154358641152693495860860220601235652"
+}

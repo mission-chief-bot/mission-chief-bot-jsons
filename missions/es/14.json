@@ -1,1 +1,12 @@
-{"missionId": "14", "missionName": "Incendio en campo pequeño", "requirements": [{"requirement": "camiones de bomberos", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "14",
+ "missionName": "Incendio en campo pequeño",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "279348839863001401188649837123333055978"
+}

@@ -1,1 +1,24 @@
-{"missionId": "465", "missionName": "Wypadek tramwaju z samochodem osobowym", "requirements": [{"requirement": "samochody pożarnicze", "qty": "6"}, {"requirement": "slop lub slrr", "qty": "2"}, {"requirement": "samochody ratownictwa technicznego", "qty": "3"}, {"requirement": "maks. pacjenci", "qty": "9"}], "credits": "8400"}
+{
+ "missionId": "465",
+ "missionName": "Wypadek tramwaju z samochodem osobowym",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "6"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "9"
+  }
+ ],
+ "credits": "8400",
+ "version": "237708902990664060099466930256208855309"
+}

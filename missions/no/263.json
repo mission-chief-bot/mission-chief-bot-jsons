@@ -1,1 +1,12 @@
-{"missionId": "263", "missionName": "Jubileumsfestgjest med leddsmerter fra dansing", "requirements": [{"requirement": "maks pasienter", "qty": "5"}], "credits": "100"}
+{
+ "missionId": "263",
+ "missionName": "Jubileumsfestgjest med leddsmerter fra dansing",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "100",
+ "version": "291267426677598567274559303617507887258"
+}

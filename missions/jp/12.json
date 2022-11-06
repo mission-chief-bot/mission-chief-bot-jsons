@@ -1,1 +1,12 @@
-{"missionId": "12", "missionName": "路上に倒木", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "12",
+ "missionName": "路上に倒木",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "153279334009764256327119437800493478133"
+}

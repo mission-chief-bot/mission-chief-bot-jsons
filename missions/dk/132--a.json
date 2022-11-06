@@ -1,1 +1,28 @@
-{"missionId": "132/a", "missionName": "Lille demonstration", "requirements": [{"requirement": "påkrævede politibiler", "qty": "4"}, {"requirement": "påkrævede hundepatruljer", "qty": "1"}, {"requirement": "gruppevogn påkrævet", "qty": "1"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "3"}], "credits": "5200"}
+{
+ "missionId": "132/a",
+ "missionName": "Lille demonstration",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "1"
+  },
+  {
+   "requirement": "gruppevogn påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "5200",
+ "version": "73252736607865384489418671564061821203"
+}

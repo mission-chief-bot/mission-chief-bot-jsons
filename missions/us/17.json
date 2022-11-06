@@ -1,1 +1,12 @@
-{"missionId": "17", "missionName": "Mailbox on fire", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "17",
+ "missionName": "Mailbox on fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "197281994420980731901250502151367445457"
+}

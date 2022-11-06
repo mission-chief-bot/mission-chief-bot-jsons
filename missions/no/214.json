@@ -1,1 +1,16 @@
-{"missionId": "214", "missionName": "Brann i bod på julemarked", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "610"}
+{
+ "missionId": "214",
+ "missionName": "Brann i bod på julemarked",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "610",
+ "version": "57383636871046593665962612042579858730"
+}

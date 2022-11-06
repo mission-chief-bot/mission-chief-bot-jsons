@@ -1,1 +1,12 @@
-{"missionId": "413", "missionName": "Incendie au bal du carnaval", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "413",
+ "missionName": "Incendie au bal du carnaval",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "37189008526192835594698146301694273848"
+}

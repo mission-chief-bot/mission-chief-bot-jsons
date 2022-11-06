@@ -1,1 +1,12 @@
-{"missionId": "385", "missionName": "Kosz piknikowy w ogniu", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "385",
+ "missionName": "Kosz piknikowy w ogniu",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "291911307630376644420530325166057860419"
+}

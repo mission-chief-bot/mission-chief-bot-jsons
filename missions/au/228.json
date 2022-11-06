@@ -1,1 +1,16 @@
-{"missionId": "228", "missionName": "Guest's anniversary balloon is stuck in tree", "requirements": [{"requirement": "fire engines", "qty": 1}, {"requirement": "turntable ladder trucks", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "228",
+ "missionName": "Guest's anniversary balloon is stuck in tree",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": 1
+  },
+  {
+   "requirement": "turntable ladder trucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "2382768748748196489861187718750852577"
+}

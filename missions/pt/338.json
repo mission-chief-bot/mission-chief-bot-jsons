@@ -1,1 +1,32 @@
-{"missionId": "338", "missionName": "Inundação no tunel do metro", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "10"}, {"requirement": "veículos de comando tático necessários:", "qty": "3"}, {"requirement": "veículos de comando e comunicações necessários:", "qty": "1"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "3"}, {"requirement": "carros de patrulha necessários:", "qty": "5"}, {"requirement": "máx. de pacientes:", "qty": "25"}], "credits": "8500"}
+{
+ "missionId": "338",
+ "missionName": "Inundação no tunel do metro",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "10"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos de comando e comunicações necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "25"
+  }
+ ],
+ "credits": "8500",
+ "version": "252188499713098702717121242689294840959"
+}

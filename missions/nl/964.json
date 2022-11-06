@@ -1,1 +1,12 @@
-{"missionId": "964", "missionName": "Racewagen brand", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "964",
+ "missionName": "Racewagen brand",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "86986427905915397106311358682900124701"
+}

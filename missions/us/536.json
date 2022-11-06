@@ -1,1 +1,12 @@
-{"missionId": "536", "missionName": "Heart stolen", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "536",
+ "missionName": "Heart stolen",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "24380011859223545590422293165008362290"
+}

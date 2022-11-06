@@ -1,1 +1,24 @@
-{"missionId": "974", "missionName": "Ontspoorde tram botst tegen gebouw", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "3110"}
+{
+ "missionId": "974",
+ "missionName": "Ontspoorde tram botst tegen gebouw",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "3110",
+ "version": "336062664267114741952281422525338490849"
+}

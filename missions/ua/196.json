@@ -1,1 +1,12 @@
-{"missionId": "196", "missionName": "Мотоаварія на гірській дорозі", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "196",
+ "missionName": "Мотоаварія на гірській дорозі",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "118140697659493145115068260243266074644"
+}

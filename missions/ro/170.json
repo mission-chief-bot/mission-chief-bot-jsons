@@ -1,1 +1,12 @@
-{"missionId": "170", "missionName": "Electrocutare", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "170",
+ "missionName": "Electrocutare",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "335685435934101566268677498931805224776"
+}

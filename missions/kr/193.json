@@ -1,1 +1,12 @@
-{"missionId": "193", "missionName": "새해 전날 파티 후의 음주운전자", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "193",
+ "missionName": "새해 전날 파티 후의 음주운전자",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "105254851270977086715542387068201911468"
+}

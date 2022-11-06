@@ -1,1 +1,12 @@
-{"missionId": "75", "missionName": "Vol au marché de Noël", "requirements": [{"requirement": "voitures de police es", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "75",
+ "missionName": "Vol au marché de Noël",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "167435891671536015123578251201217372361"
+}

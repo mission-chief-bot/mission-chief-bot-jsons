@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "Fardo de paja ardiendo", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "Fardo de paja ardiendo",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "234137405148390426243261529298955184375"
+}

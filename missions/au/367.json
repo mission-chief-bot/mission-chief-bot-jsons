@@ -1,1 +1,28 @@
-{"missionId": "367", "missionName": "Overturned stork truck", "requirements": [{"requirement": "support vehicles", "qty": "1"}, {"requirement": "fire engines", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "2"}], "credits": "2750"}
+{
+ "missionId": "367",
+ "missionName": "Overturned stork truck",
+ "requirements": [
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "2750",
+ "version": "160602607528230237535304218647851492853"
+}

@@ -1,1 +1,12 @@
-{"missionId": "324", "missionName": "Flad fodbold", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "324",
+ "missionName": "Flad fodbold",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "32529975823230937819332941969449244520"
+}

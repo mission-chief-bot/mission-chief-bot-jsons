@@ -1,1 +1,12 @@
-{"missionId": "124", "missionName": "Kramper", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "124",
+ "missionName": "Kramper",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "77361239892640086047452148449069152587"
+}

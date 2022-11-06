@@ -1,1 +1,12 @@
-{"missionId": "157", "missionName": "Easter egg stolen from basket", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "157",
+ "missionName": "Easter egg stolen from basket",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "281378136875438512324466102626383160237"
+}

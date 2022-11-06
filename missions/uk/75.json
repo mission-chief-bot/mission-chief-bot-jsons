@@ -1,1 +1,24 @@
-{"missionId": "75", "missionName": "Partial Building Collapse", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "fire officers", "qty": "2"}, {"requirement": "rescue support vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "6"}], "credits": "4800"}
+{
+ "missionId": "75",
+ "missionName": "Partial Building Collapse",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "2"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "4800",
+ "version": "200119395422883680441077124975786488970"
+}

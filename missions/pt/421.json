@@ -1,1 +1,20 @@
-{"missionId": "421", "missionName": "Pequeno Protesto Violento", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "4"}, {"requirement": "equipas operacionais cinotécnicas necessárias:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "3"}], "credits": "2200"}
+{
+ "missionId": "421",
+ "missionName": "Pequeno Protesto Violento",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "equipas operacionais cinotécnicas necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "3"
+  }
+ ],
+ "credits": "2200",
+ "version": "255665748385714075200817453819062649457"
+}

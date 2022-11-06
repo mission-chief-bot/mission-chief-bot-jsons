@@ -1,1 +1,12 @@
-{"missionId": "156", "missionName": "Espantalho flamejante", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "156",
+ "missionName": "Espantalho flamejante",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "269290200253862633314744433656616566429"
+}

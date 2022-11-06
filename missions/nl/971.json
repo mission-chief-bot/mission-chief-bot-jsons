@@ -1,1 +1,16 @@
-{"missionId": "971", "missionName": "Protest voor racecircuit", "requirements": [{"requirement": "noodhulpeenheden", "qty": "5"}, {"requirement": "hondengeleider", "qty": "1"}], "credits": "2530"}
+{
+ "missionId": "971",
+ "missionName": "Protest voor racecircuit",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "5"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "1"
+  }
+ ],
+ "credits": "2530",
+ "version": "38911382217626036710977108107130920625"
+}

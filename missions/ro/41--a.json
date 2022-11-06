@@ -1,1 +1,44 @@
-{"missionId": "41/a", "missionName": "Incendiu într-un atelier auto", "requirements": [ {"requirement": "mașini de pompieri necesare", "qty": "8"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "2"}, {"requirement": "camioane cu platformă necesare", "qty": "2"}, {"requirement": "vehicule grele de salvare necesare", "qty": "1"}, {"requirement": "cisterne de apă necesare", "qty": "1"}, {"requirement": "vehicule pentru transportul mărfurilor periculoase necesare", "qty": "1"}, {"requirement": "mașini de poliție necesare", "qty": "2"}, {"requirement": "autospeciale pompieri cu apă și spumă necesare", "qty": "2"}, {"requirement": "max. pacienți", "qty": "4"}], "credits": "7000"}
+{
+ "missionId": "41/a",
+ "missionName": "Incendiu într-un atelier auto",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "8"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "camioane cu platformă necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "vehicule grele de salvare necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisterne de apă necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "vehicule pentru transportul mărfurilor periculoase necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "autospeciale pompieri cu apă și spumă necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "4"
+  }
+ ],
+ "credits": "7000",
+ "version": "226742346152268928214813134542422439032"
+}

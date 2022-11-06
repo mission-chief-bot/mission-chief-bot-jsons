@@ -1,1 +1,12 @@
-{"missionId": "291", "missionName": "Lúpež v kancelárii", "requirements": [{"requirement": "policajné vozidlá", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "291",
+ "missionName": "Lúpež v kancelárii",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "319645143499352581393025960704882039954"
+}

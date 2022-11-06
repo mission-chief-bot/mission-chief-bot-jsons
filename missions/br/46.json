@@ -1,1 +1,12 @@
-{"missionId": "46", "missionName": "Acidente com carro estacionado", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "46",
+ "missionName": "Acidente com carro estacionado",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "326420788753292795032211900448336954412"
+}

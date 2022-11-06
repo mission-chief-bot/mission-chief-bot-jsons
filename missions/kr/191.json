@@ -1,1 +1,12 @@
-{"missionId": "191", "missionName": "폭죽으로 인한 서류 적재함 화재", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "191",
+ "missionName": "폭죽으로 인한 서류 적재함 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "3616957573796850485505616246480134047"
+}

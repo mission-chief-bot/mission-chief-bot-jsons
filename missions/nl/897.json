@@ -1,1 +1,44 @@
-{"missionId": "897", "missionName": "Rellen na stadsderby", "requirements": [{"requirement": "noodhulpeenheden", "qty": "15"}, {"requirement": "hondengeleider", "qty": "4"}, {"requirement": "biketeams", "qty": "3"}, {"requirement": "db-av", "qty": "2"}, {"requirement": "me flexbussen", "qty": "9"}, {"requirement": "me commandovoertuigen", "qty": "1"}, {"requirement": "aanhoudingseenheden", "qty": "2"}, {"requirement": "officiers van dienst politie", "qty": "2"}, {"requirement": "politie helikopters", "qty": "1"}], "credits": "15955"}
+{
+ "missionId": "897",
+ "missionName": "Rellen na stadsderby",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "15"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "4"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "3"
+  },
+  {
+   "requirement": "db-av",
+   "qty": "2"
+  },
+  {
+   "requirement": "me flexbussen",
+   "qty": "9"
+  },
+  {
+   "requirement": "me commandovoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "aanhoudingseenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "2"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "15955",
+ "version": "76471802510651935302395299322528812360"
+}

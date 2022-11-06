@@ -1,1 +1,20 @@
-{"missionId": "402", "missionName": "Kutyv på rømmen", "requirements": [{"requirement": "politibiler", "qty": "5"}, {"requirement": "hundepatruljer", "qty": "2"}, {"requirement": "nødvendig politihelikoptere", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "402",
+ "missionName": "Kutyv på rømmen",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "2"
+  },
+  {
+   "requirement": "nødvendig politihelikoptere",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "249993113616785137039435246367837562445"
+}

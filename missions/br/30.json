@@ -1,1 +1,12 @@
-{"missionId": "30", "missionName": "Vazamento de gás", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "30",
+ "missionName": "Vazamento de gás",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "286360409666252329092434954450459459312"
+}

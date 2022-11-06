@@ -1,1 +1,12 @@
-{"missionId": "133", "missionName": "Незаконное вторжение", "requirements": [{"requirement": "полицейские автомобили", "qty": "4"}], "credits": "1250"}
+{
+ "missionId": "133",
+ "missionName": "Незаконное вторжение",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "4"
+  }
+ ],
+ "credits": "1250",
+ "version": "299409340978375116312159131231215251885"
+}

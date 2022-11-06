@@ -1,1 +1,24 @@
-{"missionId": "377", "missionName": "ドラッグストアでの火災", "requirements": [{"requirement": "消防車", "qty": "5"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "警察車両", "qty": "2"}, {"requirement": "最大患者", "qty": "4"}], "credits": "2750"}
+{
+ "missionId": "377",
+ "missionName": "ドラッグストアでの火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "5"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "4"
+  }
+ ],
+ "credits": "2750",
+ "version": "326816314205634555712645926758276572541"
+}

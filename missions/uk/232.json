@@ -1,1 +1,16 @@
-{"missionId": "232", "missionName": "Manhole fire", "requirements": [{"requirement": "fire officers", "qty": "1"}, {"requirement": "fire engines", "qty": "2"}], "credits": "210"}
+{
+ "missionId": "232",
+ "missionName": "Manhole fire",
+ "requirements": [
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "210",
+ "version": "140227773726432700877889156047181081387"
+}

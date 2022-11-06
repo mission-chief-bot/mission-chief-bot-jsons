@@ -1,1 +1,20 @@
-{"missionId": "286", "missionName": "Kind vast in boom", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "286",
+ "missionName": "Kind vast in boom",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "49638710002917402925872609109600921114"
+}

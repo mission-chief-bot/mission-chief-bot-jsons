@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "Карманная кража", "requirements": [{"requirement": "полицейские автомобили", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Карманная кража",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "10442051715970984513514565424912346920"
+}

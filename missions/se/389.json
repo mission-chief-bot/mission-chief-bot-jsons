@@ -1,1 +1,12 @@
-{"missionId": "389", "missionName": "Matförgiftning orsakad av vilda bär", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "389",
+ "missionName": "Matförgiftning orsakad av vilda bär",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "292455632827821641517339391980135209756"
+}

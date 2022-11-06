@@ -1,1 +1,16 @@
-{"missionId": "429", "missionName": "Lovení vajec pod vodou", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "1670"}
+{
+ "missionId": "429",
+ "missionName": "Lovení vajec pod vodou",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "1670",
+ "version": "109470471375435493354840152067191202369"
+}

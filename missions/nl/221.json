@@ -1,1 +1,16 @@
-{"missionId": "221", "missionName": "Inval in woning", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "officiers van dienst politie", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "221",
+ "missionName": "Inval in woning",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "181393684700893586763526986314880073389"
+}

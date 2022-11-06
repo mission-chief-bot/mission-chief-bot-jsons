@@ -1,1 +1,12 @@
-{"missionId": "256", "missionName": "Jubilæumsgave stjålet", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "256",
+ "missionName": "Jubilæumsgave stjålet",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "234505483902232050591849067659594649586"
+}

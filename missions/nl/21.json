@@ -1,1 +1,16 @@
-{"missionId": "21", "missionName": "Schoorsteenbrand", "requirements": [{"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "tankautospuiten", "qty": "1"}], "credits": "2400"}
+{
+ "missionId": "21",
+ "missionName": "Schoorsteenbrand",
+ "requirements": [
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "2400",
+ "version": "243713972443847402701546416512200580034"
+}

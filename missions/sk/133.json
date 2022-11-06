@@ -1,1 +1,20 @@
-{"missionId": "133", "missionName": "Požiar stolárskej dielne", "requirements": [{"requirement": "hasičské automobily", "qty": "10"}, {"requirement": "ppla", "qty": "1"}, {"requirement": "policajné vozidlá", "qty": "2"}], "credits": "4200"}
+{
+ "missionId": "133",
+ "missionName": "Požiar stolárskej dielne",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "10"
+  },
+  {
+   "requirement": "ppla",
+   "qty": "1"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "4200",
+ "version": "223432627343448111296875591613279646887"
+}

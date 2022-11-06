@@ -1,1 +1,16 @@
-{"missionId": "222", "missionName": "Útok strelnou zbraňou", "requirements": [{"requirement": "policajné vozidlá", "qty": "8"}, {"requirement": "veliteľské vozidlo", "qty": "1"}], "credits": "6000"}
+{
+ "missionId": "222",
+ "missionName": "Útok strelnou zbraňou",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "8"
+  },
+  {
+   "requirement": "veliteľské vozidlo",
+   "qty": "1"
+  }
+ ],
+ "credits": "6000",
+ "version": "231527886277349715065136173093883798821"
+}

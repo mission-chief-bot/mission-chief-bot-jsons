@@ -1,1 +1,12 @@
-{"missionId": "76", "missionName": "773 Anafylaksia", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "76",
+ "missionName": "773 Anafylaksia",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "163367285192029807059156768263831838011"
+}

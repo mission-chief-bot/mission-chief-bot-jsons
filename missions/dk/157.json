@@ -1,1 +1,16 @@
-{"missionId": "157", "missionName": "Hotelbrand (lille)", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "4"}, {"requirement": "maks. antal patienter", "qty": "6"}], "credits": "3000"}
+{
+ "missionId": "157",
+ "missionName": "Hotelbrand (lille)",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "3000",
+ "version": "149327427852464175599776445399505548656"
+}

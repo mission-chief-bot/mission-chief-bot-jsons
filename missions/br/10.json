@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "Fogo em trator", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "Fogo em trator",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "112104163855901644704822644440086182235"
+}

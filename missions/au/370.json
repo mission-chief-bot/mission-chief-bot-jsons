@@ -1,1 +1,16 @@
-{"missionId": "370", "missionName": "Run-Over Cyclist", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "max. patients", "qty": "2"}], "credits": "2950"}
+{
+ "missionId": "370",
+ "missionName": "Run-Over Cyclist",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "2950",
+ "version": "221307742986230586027298705525535834677"
+}

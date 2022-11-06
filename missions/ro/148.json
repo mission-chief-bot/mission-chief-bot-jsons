@@ -1,1 +1,12 @@
-{"missionId": "148", "missionName": "Accident cu drujba", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "148",
+ "missionName": "Accident cu drujba",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "168556423671425688933588178124225567703"
+}

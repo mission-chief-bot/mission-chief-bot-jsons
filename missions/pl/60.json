@@ -1,1 +1,24 @@
-{"missionId": "60", "missionName": "Pożar hali sportowej", "requirements": [{"requirement": "samochody pożarnicze", "qty": "5"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "sh lub sd", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "4"}], "credits": "4000"}
+{
+ "missionId": "60",
+ "missionName": "Pożar hali sportowej",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "4"
+  }
+ ],
+ "credits": "4000",
+ "version": "54663672805012898115804688741053725403"
+}

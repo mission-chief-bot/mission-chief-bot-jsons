@@ -1,1 +1,32 @@
-{"missionId": "785", "missionName": "Train Fire With Flammable Products", "requirements": [{"requirement": "firetrucks", "qty": "5"}, {"requirement": "heavy rescue vehicles", "qty": "2"}, {"requirement": "battalion chief vehicles", "qty": "2"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "hazmat vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "3"}], "credits": "4300"}
+{
+ "missionId": "785",
+ "missionName": "Train Fire With Flammable Products",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "5"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  }
+ ],
+ "credits": "4300",
+ "version": "266926509644362136168342015257465410785"
+}

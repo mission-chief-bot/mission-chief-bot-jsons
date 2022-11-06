@@ -1,1 +1,12 @@
-{"missionId": "229", "missionName": "Bil antændt af fyrværkeri", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "370"}
+{
+ "missionId": "229",
+ "missionName": "Bil antændt af fyrværkeri",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "370",
+ "version": "150777830661493894694945749953414058599"
+}

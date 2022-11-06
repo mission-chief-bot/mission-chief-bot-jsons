@@ -1,1 +1,40 @@
-{"missionId": "563/a", "missionName": "Absicherung Staatsbesuch", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "streifenwagen", "qty": "12"}, {"requirement": "grukw", "qty": "9"}, {"requirement": "lebefkw", "qty": "3"}, {"requirement": "fükw", "qty": "1"}, {"requirement": "rtw", "qty": "3"}, {"requirement": "gw-san", "qty": "1"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "2"}], "credits": "6800"}
+{
+ "missionId": "563/a",
+ "missionName": "Absicherung Staatsbesuch",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "12"
+  },
+  {
+   "requirement": "grukw",
+   "qty": "9"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "3"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "3"
+  },
+  {
+   "requirement": "gw-san",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "2"
+  }
+ ],
+ "credits": "6800",
+ "version": "30636844417080031049304466116362246396"
+}

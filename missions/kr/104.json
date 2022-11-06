@@ -1,1 +1,20 @@
-{"missionId": "104", "missionName": "고장난 배수관", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "구조공작차(MRU)", "qty": "1"}, {"requirement": "지휘차", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "104",
+ "missionName": "고장난 배수관",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  },
+  {
+   "requirement": "구조공작차(MRU)",
+   "qty": "1"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "203720101208595678576429239552453208891"
+}

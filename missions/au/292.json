@@ -1,1 +1,12 @@
-{"missionId": "292", "missionName": "Panic attack", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "292",
+ "missionName": "Panic attack",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "287230203531543943030191913604150011881"
+}

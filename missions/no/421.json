@@ -1,1 +1,12 @@
-{"missionId": "421", "missionName": "Dyr Fanget I Elv", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "421",
+ "missionName": "Dyr Fanget I Elv",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "27407234887163944205848428408858796080"
+}

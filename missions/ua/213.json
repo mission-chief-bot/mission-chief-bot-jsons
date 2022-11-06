@@ -1,1 +1,16 @@
-{"missionId": "213", "missionName": "Травмований паркурщик", "requirements": [{"requirement": "пожежні машини", "qty": "1"}, {"requirement": "пожежно-рятувальні автомобілі", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "213",
+ "missionName": "Травмований паркурщик",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежно-рятувальні автомобілі",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "136781628483464621305048393891215328036"
+}

@@ -1,1 +1,12 @@
-{"missionId": "260", "missionName": "Busca al novio desaparecido", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "260",
+ "missionName": "Busca al novio desaparecido",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "67429325904108259387583109673677694948"
+}

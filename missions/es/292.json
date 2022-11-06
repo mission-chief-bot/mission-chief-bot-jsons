@@ -1,1 +1,12 @@
-{"missionId": "292", "missionName": "Tratamiento después de una lesión por una falta", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1"}
+{
+ "missionId": "292",
+ "missionName": "Tratamiento después de una lesión por una falta",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1",
+ "version": "306963115102786740314822211340683758146"
+}

@@ -1,1 +1,16 @@
-{"missionId": "429", "missionName": "033 Joukkotappelu", "requirements": [{"requirement": "poliisiautot", "qty": "2"}, {"requirement": "potilaita enint.", "qty": "8"}], "credits": "2200"}
+{
+ "missionId": "429",
+ "missionName": "033 Joukkotappelu",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "8"
+  }
+ ],
+ "credits": "2200",
+ "version": "197393840006754839458373504278502485935"
+}

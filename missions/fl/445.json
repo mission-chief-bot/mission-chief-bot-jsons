@@ -1,1 +1,16 @@
-{"missionId": "445", "missionName": "35 Mopomiitin hajottaminen voimakeinoin", "requirements": [{"requirement": "poliisiautot", "qty": "8"}, {"requirement": "potilaita enint.", "qty": "4"}], "credits": "1800"}
+{
+ "missionId": "445",
+ "missionName": "35 Mopomiitin hajottaminen voimakeinoin",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "4"
+  }
+ ],
+ "credits": "1800",
+ "version": "266373814862808847369072340027906826408"
+}

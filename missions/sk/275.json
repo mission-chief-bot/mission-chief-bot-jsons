@@ -1,1 +1,12 @@
-{"missionId": "275", "missionName": "Priemyselný požiar (malý)", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}], "credits": "5000"}
+{
+ "missionId": "275",
+ "missionName": "Priemyselný požiar (malý)",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  }
+ ],
+ "credits": "5000",
+ "version": "250380452015037024857291718866125540040"
+}

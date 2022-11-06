@@ -1,1 +1,12 @@
-{"missionId": "110", "missionName": "Vaginale Blutung", "requirements": [ {"requirement": "rtw, naw", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "110",
+ "missionName": "Vaginale Blutung",
+ "requirements": [
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "166554872100405649205580937720664549537"
+}

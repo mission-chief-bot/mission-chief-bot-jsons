@@ -1,1 +1,12 @@
-{"missionId": "551", "missionName": "Illegal hunting", "requirements": [{"requirement": "warden trucks", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "551",
+ "missionName": "Illegal hunting",
+ "requirements": [
+  {
+   "requirement": "warden trucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "52381869111822692331369287581816642042"
+}

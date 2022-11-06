@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "Incêndio numa caravana", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "Incêndio numa caravana",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "228958939561484478581122059429564201426"
+}

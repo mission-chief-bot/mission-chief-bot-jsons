@@ -1,1 +1,16 @@
-{"missionId": "318", "missionName": "Požár ze svíčky v ložnici", "requirements": [ {"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "318",
+ "missionName": "Požár ze svíčky v ložnici",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "94044474093663496359130183278430706338"
+}

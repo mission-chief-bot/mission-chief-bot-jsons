@@ -1,1 +1,12 @@
-{"missionId": "315", "missionName": "200 Sähköpotkulautaonnettomuus", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "250"}
+{
+ "missionId": "315",
+ "missionName": "200 Sähköpotkulautaonnettomuus",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "250",
+ "version": "163621231778674654097291920312941370023"
+}

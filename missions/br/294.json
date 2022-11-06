@@ -1,1 +1,16 @@
-{"missionId": "294", "missionName": "Contrabando de animais exóticos", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "5"}, {"requirement": "máx. de pacientes", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "294",
+ "missionName": "Contrabando de animais exóticos",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "5"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "154061353874895764223843796551659389596"
+}

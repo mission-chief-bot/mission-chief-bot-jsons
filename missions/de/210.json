@@ -1,1 +1,16 @@
-{"missionId": "210", "missionName": "Unfall mit Motorsäge", "requirements": [ {"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "210",
+ "missionName": "Unfall mit Motorsäge",
+ "requirements": [
+  {
+   "requirement": "nef",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "234052618759899820208085752171443069878"
+}

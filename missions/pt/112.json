@@ -1,1 +1,16 @@
-{"missionId": "112", "missionName": "Acidente com reboque de animal", "requirements": [{"requirement": "carros de patrulha necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "112",
+ "missionName": "Acidente com reboque de animal",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "69400180707540603179116797733942668687"
+}

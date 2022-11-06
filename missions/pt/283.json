@@ -1,1 +1,12 @@
-{"missionId": "283", "missionName": "Tratamento Após o Mergulho", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "283",
+ "missionName": "Tratamento Após o Mergulho",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "57103262751237231019665387391070930629"
+}

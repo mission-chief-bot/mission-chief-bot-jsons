@@ -1,1 +1,28 @@
-{"missionId": "60", "missionName": "Sports hall fire", "requirements": [{"requirement": "fire engines", "qty": "5"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "turntable ladder trucks", "qty": "1"}, {"requirement": "basu", "qty": "1"}, {"requirement": "max. patients", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "60",
+ "missionName": "Sports hall fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "5"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "turntable ladder trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "basu",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "102849696504740134760321509562652218138"
+}

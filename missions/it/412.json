@@ -1,1 +1,12 @@
-{"missionId": "412", "missionName": "Automobilista in difficoltà", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "412",
+ "missionName": "Automobilista in difficoltà",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "79938798967431498176114408344150890230"
+}

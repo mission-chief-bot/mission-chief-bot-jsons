@@ -1,1 +1,24 @@
-{"missionId": "299", "missionName": "Brandend plezierjacht", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams", "qty": "1"}, {"requirement": "waterongevallenaanhangers", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "299",
+ "missionName": "Brandend plezierjacht",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams",
+   "qty": "1"
+  },
+  {
+   "requirement": "waterongevallenaanhangers",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "170665842288815619465009627154823674303"
+}

@@ -1,1 +1,16 @@
-{"missionId": "57", "missionName": "Kat in boom", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "57",
+ "missionName": "Kat in boom",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "85405168011347880744637012449716371261"
+}

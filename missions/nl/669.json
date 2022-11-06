@@ -1,1 +1,12 @@
-{"missionId": "669", "missionName": "Toezicht Park", "requirements": [{"requirement": "biketeams", "qty": "1"}], "credits": "2110"}
+{
+ "missionId": "669",
+ "missionName": "Toezicht Park",
+ "requirements": [
+  {
+   "requirement": "biketeams",
+   "qty": "1"
+  }
+ ],
+ "credits": "2110",
+ "version": "51892787758720366101333790046037969655"
+}

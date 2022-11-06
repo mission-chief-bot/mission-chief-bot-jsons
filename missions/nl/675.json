@@ -1,1 +1,16 @@
-{"missionId": "675", "missionName": "Beroving met geweld", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1170"}
+{
+ "missionId": "675",
+ "missionName": "Beroving met geweld",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1170",
+ "version": "76247929201781910969078779046851082379"
+}

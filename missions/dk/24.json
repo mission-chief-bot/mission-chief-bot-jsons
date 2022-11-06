@@ -1,1 +1,12 @@
-{"missionId": "24", "missionName": "Ild i busskur", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "24",
+ "missionName": "Ild i busskur",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "183415603763158311380227549420485135664"
+}

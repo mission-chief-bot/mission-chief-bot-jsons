@@ -1,1 +1,12 @@
-{"missionId": "371", "missionName": "Fumée suspecte - végétaux", "requirements": [{"requirement": "ccf", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "371",
+ "missionName": "Fumée suspecte - végétaux",
+ "requirements": [
+  {
+   "requirement": "ccf",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "314486488519617997493750408732506231466"
+}

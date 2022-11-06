@@ -1,1 +1,16 @@
-{"missionId": "640", "missionName": "Amputationsverletzung", "requirements": [{"requirement": "rtw", "qty": "1"},{"requirement": "nef", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "640",
+ "missionName": "Amputationsverletzung",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "251895208152868764706583671095681650553"
+}

@@ -1,1 +1,12 @@
-{"missionId": "0", "missionName": "Fogo em lixeira", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "0",
+ "missionName": "Fogo em lixeira",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "190067590114647109839414791989942154113"
+}

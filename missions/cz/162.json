@@ -1,1 +1,12 @@
-{"missionId": "162", "missionName": "Epileptický záchvat", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "162",
+ "missionName": "Epileptický záchvat",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "141036404453716921372908907278845525807"
+}

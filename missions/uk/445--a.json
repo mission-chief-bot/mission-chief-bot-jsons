@@ -1,1 +1,16 @@
-{"missionId": "445/a", "missionName": "Bar Fight", "requirements": [{"requirement": "police cars", "qty": "6"}, {"requirement": "max. patients", "qty": "8"}], "credits": "4300"}
+{
+ "missionId": "445/a",
+ "missionName": "Bar Fight",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "8"
+  }
+ ],
+ "credits": "4300",
+ "version": "85635656098756524813141914864988281065"
+}

@@ -1,1 +1,12 @@
-{"missionId": "195", "missionName": "Nehoda stavebného mechanizmu", "requirements": [{"requirement": "hasičské automobily", "qty": "3"}], "credits": "950"}
+{
+ "missionId": "195",
+ "missionName": "Nehoda stavebného mechanizmu",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "3"
+  }
+ ],
+ "credits": "950",
+ "version": "188401584557817470696410969182082227402"
+}

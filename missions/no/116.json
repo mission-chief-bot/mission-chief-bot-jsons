@@ -1,1 +1,16 @@
-{"missionId": "116", "missionName": "Mistenkt som flykter", "requirements": [{"requirement": "politibiler", "qty": "5"}, {"requirement": "politihelikoptere", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "116",
+ "missionName": "Mistenkt som flykter",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "politihelikoptere",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "49866566034109516719379378706455786164"
+}

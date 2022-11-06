@@ -1,1 +1,12 @@
-{"missionId": "422", "missionName": "Scorta Trasporto Eccezionale", "requirements": [{"requirement": "pattuglie", "qty": "4"}], "credits": "7000"}
+{
+ "missionId": "422",
+ "missionName": "Scorta Trasporto Eccezionale",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  }
+ ],
+ "credits": "7000",
+ "version": "120837400540411239512532554036770535033"
+}

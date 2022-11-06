@@ -1,1 +1,16 @@
-{"missionId": "103", "missionName": "Incendiu mic în hotel", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "4"}, {"requirement": "max. pacienți", "qty": "6"}], "credits": "3000"}
+{
+ "missionId": "103",
+ "missionName": "Incendiu mic în hotel",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "6"
+  }
+ ],
+ "credits": "3000",
+ "version": "93648229271271331626818670628661894899"
+}

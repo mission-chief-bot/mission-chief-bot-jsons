@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Brennende Telefonzelle", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Brennende Telefonzelle",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "73008611225771917657856689691695858788"
+}

@@ -1,1 +1,16 @@
-{"missionId": "275", "missionName": "Sports Event", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}, {"requirement": "maks. antal patienter", "qty": "5"}], "credits": "5"}
+{
+ "missionId": "275",
+ "missionName": "Sports Event",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "5",
+ "version": "100315092503341096642947557415623965390"
+}

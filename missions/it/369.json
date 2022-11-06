@@ -1,1 +1,12 @@
-{"missionId": "369", "missionName": "Dolore arti inferiori", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "369",
+ "missionName": "Dolore arti inferiori",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "262044514844885411177503152110862760705"
+}

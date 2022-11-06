@@ -1,1 +1,48 @@
-{"missionId": "837-0", "missionName": "Gaslek bedrijventerrein", "requirements": [{"requirement": "tankautospuiten", "qty": "3"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "verkenningseenheden", "qty": "3"}, {"requirement": "adviseurs gevaarlijke stoffen", "qty": "1"}, {"requirement": "voorlichters", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "commandowagen", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "4"}, {"requirement": "officiers van dienst politie", "qty": "1"}], "credits": "11130"}
+{
+ "missionId": "837-0",
+ "missionName": "Gaslek bedrijventerrein",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "3"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "verkenningseenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "1"
+  },
+  {
+   "requirement": "voorlichters",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "commandowagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "credits": "11130",
+ "version": "80406282490303040389035108716054185734"
+}

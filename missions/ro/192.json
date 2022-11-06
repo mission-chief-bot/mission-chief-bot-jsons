@@ -1,1 +1,16 @@
-{"missionId": "192", "missionName": "Supravegherea petrecerii de Revelion din centrul orașului", "requirements": [{"requirement": "ambulanțe necesare", "qty": "2"}, {"requirement": "mașini de poliție necesare", "qty": "4"}], "credits": "15000"}
+{
+ "missionId": "192",
+ "missionName": "Supravegherea petrecerii de Revelion din centrul orașului",
+ "requirements": [
+  {
+   "requirement": "ambulanțe necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "4"
+  }
+ ],
+ "credits": "15000",
+ "version": "129960615146910750700375261192518901927"
+}

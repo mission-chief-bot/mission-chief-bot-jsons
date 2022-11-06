@@ -1,1 +1,16 @@
-{"missionId": "369", "missionName": "Smuggling - exotiska djur", "requirements": [{"requirement": "polisbilar", "qty": "5"}, {"requirement": "mest patienter", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "369",
+ "missionName": "Smuggling - exotiska djur",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "293160879817273903010218102132631663046"
+}

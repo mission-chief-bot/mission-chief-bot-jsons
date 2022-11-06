@@ -1,1 +1,12 @@
-{"missionId": "282", "missionName": "Gripande av misstänkt person", "requirements": [{"requirement": "polisbilar", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "282",
+ "missionName": "Gripande av misstänkt person",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "114741539877490690530851348196449409234"
+}

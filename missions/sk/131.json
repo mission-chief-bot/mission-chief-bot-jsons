@@ -1,1 +1,12 @@
-{"missionId": "131", "missionName": "Veľký požiar farmy", "requirements": [{"requirement": "hasičské automobily", "qty": "9"}], "credits": "9000"}
+{
+ "missionId": "131",
+ "missionName": "Veľký požiar farmy",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "9"
+  }
+ ],
+ "credits": "9000",
+ "version": "272808898238404693515672143759754791530"
+}

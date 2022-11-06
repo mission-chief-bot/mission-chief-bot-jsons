@@ -1,1 +1,12 @@
-{"missionId": "171", "missionName": "Thatched Cottage Chimney Fire", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "171",
+ "missionName": "Thatched Cottage Chimney Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "60566813145200296078969100983498072515"
+}

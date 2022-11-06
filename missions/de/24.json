@@ -1,1 +1,12 @@
-{"missionId": "24", "missionName": "Brennendes Bus-Häuschen", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "24",
+ "missionName": "Brennendes Bus-Häuschen",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "272665276275182383314930642469457381469"
+}

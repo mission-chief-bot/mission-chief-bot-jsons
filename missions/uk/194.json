@@ -1,1 +1,12 @@
-{"missionId": "194", "missionName": "Allergic reaction", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "194",
+ "missionName": "Allergic reaction",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "193891125792518019131902568946573606666"
+}

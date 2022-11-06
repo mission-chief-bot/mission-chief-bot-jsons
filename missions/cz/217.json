@@ -1,1 +1,12 @@
-{"missionId": "217", "missionName": "Požár autobusové zastávky způsobené zábavní pyrotechnikou", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "217",
+ "missionName": "Požár autobusové zastávky způsobené zábavní pyrotechnikou",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "56984742847780588372403425955464529228"
+}

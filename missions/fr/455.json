@@ -1,1 +1,16 @@
-{"missionId": "455", "missionName": "Noyade dans une piscine", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "455",
+ "missionName": "Noyade dans une piscine",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "267712047234375374215685231643667580251"
+}

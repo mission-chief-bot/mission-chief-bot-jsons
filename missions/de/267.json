@@ -1,1 +1,12 @@
-{"missionId": "267", "missionName": "Trunkenheitsfahrt nach Silvesterparty", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "267",
+ "missionName": "Trunkenheitsfahrt nach Silvesterparty",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "104480864360821296026046589520943545726"
+}

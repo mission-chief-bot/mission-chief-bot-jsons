@@ -1,1 +1,12 @@
-{"missionId": "228", "missionName": "Persona sospechosa", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "228",
+ "missionName": "Persona sospechosa",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "72612474199134914020454452351825632984"
+}

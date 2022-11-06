@@ -1,1 +1,12 @@
-{"missionId": "84", "missionName": "Misiune prioritară: vânătoarea ouălor de Paște", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "6"}], "credits": "1000"}
+{
+ "missionId": "84",
+ "missionName": "Misiune prioritară: vânătoarea ouălor de Paște",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "6"
+  }
+ ],
+ "credits": "1000",
+ "version": "1733323889297106447155263509228455424"
+}

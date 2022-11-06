@@ -1,1 +1,12 @@
-{"missionId": "417", "missionName": "Costume de carnaval en feu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "417",
+ "missionName": "Costume de carnaval en feu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "122288908674288926045244311989251071674"
+}

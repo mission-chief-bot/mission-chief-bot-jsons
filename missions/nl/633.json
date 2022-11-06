@@ -1,1 +1,12 @@
-{"missionId": "633", "missionName": "Brandwonden door frituurolie", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "633",
+ "missionName": "Brandwonden door frituurolie",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "139646085298191730382069376969225775854"
+}

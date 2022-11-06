@@ -1,1 +1,12 @@
-{"missionId": "227", "missionName": "Cacciatore ferito da un cinghiale", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "Bosco"}
+{
+ "missionId": "227",
+ "missionName": "Cacciatore ferito da un cinghiale",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "Bosco",
+ "version": "221809685826122227984711992039106586777"
+}

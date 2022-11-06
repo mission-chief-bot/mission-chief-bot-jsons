@@ -1,1 +1,24 @@
-{"missionId": "458/a", "missionName": "Schwerlastkontrolle", "requirements": [{"requirement": "streifenwagen", "qty": "3"}, {"requirement": "grukw", "qty": "3"}, {"requirement": "lebefkw", "qty": "1"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "4400"}
+{
+ "missionId": "458/a",
+ "missionName": "Schwerlastkontrolle",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  },
+  {
+   "requirement": "grukw",
+   "qty": "3"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "4400",
+ "version": "235855560335542380100975980651908971079"
+}

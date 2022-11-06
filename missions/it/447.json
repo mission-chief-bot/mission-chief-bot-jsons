@@ -1,1 +1,12 @@
-{"missionId": "447", "missionName": "Mucchio di foglie in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "447",
+ "missionName": "Mucchio di foglie in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "54298143101395600613075721350161370667"
+}

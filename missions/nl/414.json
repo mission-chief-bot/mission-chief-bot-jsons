@@ -1,1 +1,16 @@
-{"missionId": "414", "missionName": "Brand in transformatorhuisje", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "414",
+ "missionName": "Brand in transformatorhuisje",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "48813650133086763185748707888113002533"
+}

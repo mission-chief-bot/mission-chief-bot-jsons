@@ -1,1 +1,24 @@
-{"missionId": "259", "missionName": "Transportador de veículos tombado", "requirements": [{"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "259",
+ "missionName": "Transportador de veículos tombado",
+ "requirements": [
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "310996774864906994668861015185443023311"
+}

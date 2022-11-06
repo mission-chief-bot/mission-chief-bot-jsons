@@ -1,1 +1,24 @@
-{"missionId": "401", "missionName": "Escolta de aficionados de riesgo", "requirements": [{"requirement": "coches patrulla", "qty": "10"}, {"requirement": "helicóptero de la policía", "qty": "1"}, {"requirement": "unidad canina", "qty": "4"}, {"requirement": "n.º máximo de presos", "qty": "8"}], "credits": "17000"}
+{
+ "missionId": "401",
+ "missionName": "Escolta de aficionados de riesgo",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "10"
+  },
+  {
+   "requirement": "helicóptero de la policía",
+   "qty": "1"
+  },
+  {
+   "requirement": "unidad canina",
+   "qty": "4"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "8"
+  }
+ ],
+ "credits": "17000",
+ "version": "264708667537474616187892025236280619447"
+}

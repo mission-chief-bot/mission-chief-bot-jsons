@@ -1,1 +1,24 @@
-{"missionId": "137", "missionName": "Beskyttelse af VIP", "requirements": [{"requirement": "påkrævede politibiler", "qty": "6"}, {"requirement": "påkrævede politihelikoptere", "qty": "1"}, {"requirement": "påkrævede hundepatruljer", "qty": "2"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "137",
+ "missionName": "Beskyttelse af VIP",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "6"
+  },
+  {
+   "requirement": "påkrævede politihelikoptere",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "129824928506116386847421603893037241514"
+}

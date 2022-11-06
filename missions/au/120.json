@@ -1,1 +1,16 @@
-{"missionId": "120", "missionName": "Armed robbery", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1300"}
+{
+ "missionId": "120",
+ "missionName": "Armed robbery",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "184179257040194423399649813511253051356"
+}

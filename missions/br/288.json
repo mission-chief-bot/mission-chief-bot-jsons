@@ -1,1 +1,12 @@
-{"missionId": "288", "missionName": "Suspeita de apendicite", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "288",
+ "missionName": "Suspeita de apendicite",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "188129902985694365592949710928097126176"
+}

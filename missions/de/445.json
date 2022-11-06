@@ -1,1 +1,12 @@
-{"missionId": "445", "missionName": "Ei rollt in Schlangenlinien", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "445",
+ "missionName": "Ei rollt in Schlangenlinien",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "87240428867824066218989722562721777239"
+}

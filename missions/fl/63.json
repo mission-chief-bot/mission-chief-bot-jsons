@@ -1,1 +1,12 @@
-{"missionId": "63", "missionName": "706 Ohimenevä aivoverenkiertohäiriö", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "63",
+ "missionName": "706 Ohimenevä aivoverenkiertohäiriö",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "306184002149968036183524767624391904"
+}

@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Cabina ardiendo", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Cabina ardiendo",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "200418028622073211161401834100392949453"
+}

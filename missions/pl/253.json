@@ -1,1 +1,20 @@
-{"missionId": "253", "missionName": "Przegotowana zupa dyniowa", "requirements": [{"requirement": "samochody pożarnicze", "qty": 2},{"requirement": "slop lub slrr", "qty": 1},{"requirement": "spgaz", "qty": 1}], "credits": "1500"}
+{
+ "missionId": "253",
+ "missionName": "Przegotowana zupa dyniowa",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": 2
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": 1
+  },
+  {
+   "requirement": "spgaz",
+   "qty": 1
+  }
+ ],
+ "credits": "1500",
+ "version": "255427711339397506903150003751725655171"
+}

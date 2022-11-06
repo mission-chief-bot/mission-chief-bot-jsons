@@ -1,1 +1,12 @@
-{"missionId": "363", "missionName": "771 Sokeritasapainon häiriö", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "500"}
+{
+ "missionId": "363",
+ "missionName": "771 Sokeritasapainon häiriö",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "500",
+ "version": "45817895933118895694082982126984258888"
+}

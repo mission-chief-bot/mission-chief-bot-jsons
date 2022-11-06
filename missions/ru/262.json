@@ -1,1 +1,12 @@
-{"missionId": "262", "missionName": "Разбитое сердце", "requirements": [{"requirement": "макс. пациенты", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "262",
+ "missionName": "Разбитое сердце",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "66926131050352877198799609718080895729"
+}

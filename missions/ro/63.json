@@ -1,1 +1,12 @@
-{"missionId": "63", "missionName": "Atac ischemic trecător", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "63",
+ "missionName": "Atac ischemic trecător",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "334981838013303268140794969274224329478"
+}

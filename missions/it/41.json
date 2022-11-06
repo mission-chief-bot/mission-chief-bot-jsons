@@ -1,1 +1,40 @@
-{"missionId": "41", "missionName": "Incendio in officina meccanica", "requirements": [{"requirement": "aps/abp", "qty": "6"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "kilolitriche", "qty": "1"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "4"}], "credits": "5500"}
+{
+ "missionId": "41",
+ "missionName": "Incendio in officina meccanica",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "6"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "1"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  }
+ ],
+ "credits": "5500",
+ "version": "253744798749556871204069456034379865071"
+}

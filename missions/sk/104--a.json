@@ -1,1 +1,12 @@
-{"missionId": "104/a", "missionName": "Malý požiar továrne", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}], "credits": "2200"}
+{
+ "missionId": "104/a",
+ "missionName": "Malý požiar továrne",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  }
+ ],
+ "credits": "2200",
+ "version": "254530600790175017786896656860131523333"
+}

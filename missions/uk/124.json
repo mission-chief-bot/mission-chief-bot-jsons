@@ -1,1 +1,12 @@
-{"missionId": "124", "missionName": "Violation of Explosives Law", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "124",
+ "missionName": "Violation of Explosives Law",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "305177992220957688571266071853327250764"
+}

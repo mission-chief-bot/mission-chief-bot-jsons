@@ -1,1 +1,28 @@
-{"missionId": "130", "missionName": "Chokladutsläpp", "requirements": [{"requirement": "släckbilar", "qty": "4"}, {"requirement": "lastväxlare", "qty": "2"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "polisbilar", "qty": "3"}, {"requirement": "farligt gods-fordon", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "130",
+ "missionName": "Chokladutsläpp",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "farligt gods-fordon",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "270535361233524237439542429677427096729"
+}

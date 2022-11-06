@@ -1,1 +1,12 @@
-{"missionId": "393", "missionName": "Mulig infeksjon", "requirements": [{"requirement": "maks pasienter", "qty": "5"}], "credits": "650"}
+{
+ "missionId": "393",
+ "missionName": "Mulig infeksjon",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "650",
+ "version": "142836216779176698716845752084553380918"
+}

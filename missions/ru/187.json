@@ -1,1 +1,12 @@
-{"missionId": "187", "missionName": "Провоз контрабанды", "requirements": [{"requirement": "полицейские автомобили", "qty": "3"}], "credits": "0"}
+{
+ "missionId": "187",
+ "missionName": "Провоз контрабанды",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "3"
+  }
+ ],
+ "credits": "0",
+ "version": "270854845832381041598753643690417631094"
+}

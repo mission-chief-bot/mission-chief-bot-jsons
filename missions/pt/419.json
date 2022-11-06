@@ -1,1 +1,20 @@
-{"missionId": "419", "missionName": "Agente atingido", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "6"}, {"requirement": "veículos do corpo/unidade de intervenção necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "419",
+ "missionName": "Agente atingido",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "6"
+  },
+  {
+   "requirement": "veículos do corpo/unidade de intervenção necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "285237758539718392522991563054410583108"
+}

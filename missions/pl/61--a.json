@@ -1,1 +1,32 @@
-{"missionId": "61/a", "missionName": "Katastrofa lekkiego samolotu (lotnisko)", "requirements": [{"requirement": "rozbudowy dla pojazdów proszkowych", "qty": "1"}, {"requirement": "samochody pożarnicze", "qty": "3"}, {"requirement": "samochody ratownictwa technicznego", "qty": "2"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "samochody ze zbiornikiem na piane", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "4"}], "credits": "2800"}
+{
+ "missionId": "61/a",
+ "missionName": "Katastrofa lekkiego samolotu (lotnisko)",
+ "requirements": [
+  {
+   "requirement": "rozbudowy dla pojazdów proszkowych",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ze zbiornikiem na piane",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "4"
+  }
+ ],
+ "credits": "2800",
+ "version": "241743035825961735344599070266033275470"
+}

@@ -1,1 +1,24 @@
-{"missionId": "451", "missionName": "Perdita Carico Tir", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "autogrù", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "451",
+ "missionName": "Perdita Carico Tir",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "149224090547860962220923506936902654052"
+}

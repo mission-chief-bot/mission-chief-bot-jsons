@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "Furt de metal", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "Furt de metal",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "61661485362513980276017127784524034492"
+}

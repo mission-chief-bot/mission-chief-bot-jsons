@@ -1,1 +1,12 @@
-{"missionId": "178", "missionName": "Sunstroke", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "178",
+ "missionName": "Sunstroke",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "161967294133866521019196861856078041218"
+}

@@ -1,1 +1,20 @@
-{"missionId": "343", "missionName": "Olycka på dimmig väg", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "mest patienter", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "343",
+ "missionName": "Olycka på dimmig väg",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "149204543455823202109616214535971221295"
+}

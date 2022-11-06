@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "トラクター火災", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "トラクター火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "193446931621350162570489628451676888293"
+}

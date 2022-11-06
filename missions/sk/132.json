@@ -1,1 +1,12 @@
-{"missionId": "132", "missionName": "Bolesť chrbta", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "132",
+ "missionName": "Bolesť chrbta",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "139363696983326042498327414289196398821"
+}

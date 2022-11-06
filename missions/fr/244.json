@@ -1,1 +1,16 @@
-{"missionId": "244", "missionName": "Ballon d’anniversaire d’un invité coincé dans un arbre", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "moyen elévateur aérien", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "244",
+ "missionName": "Ballon d’anniversaire d’un invité coincé dans un arbre",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "40354786841734101740234124513877544237"
+}

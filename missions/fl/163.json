@@ -1,1 +1,12 @@
-{"missionId": "163", "missionName": "Kurpitsavarkaus", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "163",
+ "missionName": "Kurpitsavarkaus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "110076443748634912341988302863223082578"
+}

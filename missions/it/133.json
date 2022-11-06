@@ -1,1 +1,16 @@
-{"missionId": "133", "missionName": "Aggressione a sanitari", "requirements": [{"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "4"}], "credits": "0"}
+{
+ "missionId": "133",
+ "missionName": "Aggressione a sanitari",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  }
+ ],
+ "credits": "0",
+ "version": "146248947580314625867321937743679225978"
+}

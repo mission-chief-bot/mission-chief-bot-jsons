@@ -1,1 +1,36 @@
-{"missionId": "532", "missionName": "Incendio Chiesa", "requirements": [{"requirement": "aps/abp", "qty": "6"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "4"}, {"requirement": "kilolitriche", "qty": "1"}, {"requirement": "pattuglie", "qty": "6"}, {"requirement": "max pazienti", "qty": "40"}], "credits": "6000"}
+{
+ "missionId": "532",
+ "missionName": "Incendio Chiesa",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "6"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "4"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "6"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "40"
+  }
+ ],
+ "credits": "6000",
+ "version": "216317352391100470780803637907124810208"
+}

@@ -1,1 +1,11 @@
-{"missionId": "100", "missionName": "Crampe de la c\u0103ldur\u0103", "requirements": [{"requirement": "max. pacien\u021bi", "qty": "1"}]}
+{
+ "missionId": "100",
+ "missionName": "Crampe de la căldură",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "version": "229933392988533841267025320653427145686"
+}

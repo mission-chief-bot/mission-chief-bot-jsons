@@ -1,1 +1,20 @@
-{"missionId": "357", "missionName": "Eksplosion ved hæveautomat", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}, {"requirement": "påkrævede politibiler", "qty": "5"}, {"requirement": "maks. antal patienter", "qty": "4"}], "credits": "5000"}
+{
+ "missionId": "357",
+ "missionName": "Eksplosion ved hæveautomat",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "5000",
+ "version": "48254832787297735739745855424496306816"
+}

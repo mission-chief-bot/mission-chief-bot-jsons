@@ -1,1 +1,12 @@
-{"missionId": "224", "missionName": "Mistænkelig person", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "224",
+ "missionName": "Mistænkelig person",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "1746532085935638684631262685349320873"
+}

@@ -1,1 +1,28 @@
-{"missionId": "367", "missionName": "Brand i byggnad - idrottsarena, liten", "requirements": [{"requirement": "släckbilar", "qty": "5"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "tankbilar", "qty": "2"}, {"requirement": "polisbilar", "qty": "3"}, {"requirement": "mest patienter", "qty": "6"}], "credits": "4000"}
+{
+ "missionId": "367",
+ "missionName": "Brand i byggnad - idrottsarena, liten",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "4000",
+ "version": "222639727812958419767691429463771612013"
+}

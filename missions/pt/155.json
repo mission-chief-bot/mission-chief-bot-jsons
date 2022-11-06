@@ -1,1 +1,16 @@
-{"missionId": "155", "missionName": "Desacatos numa Discoteca", "requirements": [{"requirement": "carros de patrulha necessários", "qty": "6"}, {"requirement": "máx. de pacientes", "qty": "10"}], "credits": "3000"}
+{
+ "missionId": "155",
+ "missionName": "Desacatos numa Discoteca",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "6"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "10"
+  }
+ ],
+ "credits": "3000",
+ "version": "53684014839783899588674704172709307609"
+}

@@ -1,1 +1,16 @@
-{"missionId": "147", "missionName": "Brandend pompoenveld", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "ovd-b's", "qty": "1"}], "credits": "850"}
+{
+ "missionId": "147",
+ "missionName": "Brandend pompoenveld",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  }
+ ],
+ "credits": "850",
+ "version": "91160641171701190817295370570102689374"
+}

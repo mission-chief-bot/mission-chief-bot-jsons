@@ -1,1 +1,12 @@
-{"missionId": "172", "missionName": "Аллергическая реакция", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "172",
+ "missionName": "Аллергическая реакция",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "311490107097545664237887801573236042608"
+}

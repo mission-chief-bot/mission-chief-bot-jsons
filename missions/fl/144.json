@@ -1,1 +1,20 @@
-{"missionId": "144", "missionName": "031 Poliisia kohti ammuttu", "requirements": [{"requirement": "poliisiautot", "qty": "8"}, {"requirement": "koirapartiot", "qty": "3"}, {"requirement": "vati-henkilöt", "qty": "6"}], "credits": "4100"}
+{
+ "missionId": "144",
+ "missionName": "031 Poliisia kohti ammuttu",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "3"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "6"
+  }
+ ],
+ "credits": "4100",
+ "version": "275027840459641230922985245797956052163"
+}

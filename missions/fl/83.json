@@ -1,1 +1,12 @@
-{"missionId": "83", "missionName": "746 Vakava päävamma", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "83",
+ "missionName": "746 Vakava päävamma",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "176216162388491028804531961064333476997"
+}

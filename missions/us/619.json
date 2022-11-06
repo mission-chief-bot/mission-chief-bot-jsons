@@ -1,1 +1,20 @@
-{"missionId": "619", "missionName": "Road cleanup", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "619",
+ "missionName": "Road cleanup",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "89181071108719836533951381641231910493"
+}

@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "Roubo de metais", "requirements": [{"requirement": "carros de patrulha necessários", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "Roubo de metais",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "279781163289019877738449521614205727925"
+}

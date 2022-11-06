@@ -1,1 +1,12 @@
-{"missionId": "749", "missionName": "Verjaardagsgast flauwgevallen", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "749",
+ "missionName": "Verjaardagsgast flauwgevallen",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "310581255565748895165741822199625174794"
+}

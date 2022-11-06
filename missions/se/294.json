@@ -1,1 +1,16 @@
-{"missionId": "294", "missionName": "Brand i byggnad - skola, liten brand", "requirements": [{"requirement": "släckbilar", "qty": "4"}, {"requirement": "mest patienter", "qty": "6"}], "credits": "3000"}
+{
+ "missionId": "294",
+ "missionName": "Brand i byggnad - skola, liten brand",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "3000",
+ "version": "92315941952169322998607756686106299938"
+}

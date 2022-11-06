@@ -1,1 +1,12 @@
-{"missionId": "235", "missionName": "Brændende papirs container antændt af fyrværkeri", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "235",
+ "missionName": "Brændende papirs container antændt af fyrværkeri",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "37346884027537647195047154765312989572"
+}

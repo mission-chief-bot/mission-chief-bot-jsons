@@ -1,1 +1,16 @@
-{"missionId": "295", "missionName": "Hit and Run", "requirements": [{"requirement": "police cars", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "295",
+ "missionName": "Hit and Run",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "225991776164849234841143233407399469709"
+}

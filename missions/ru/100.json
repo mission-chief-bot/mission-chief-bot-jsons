@@ -1,1 +1,24 @@
-{"missionId": "100", "missionName": "Возгорание мусоровоза", "requirements": [{"requirement": "пожарные машины", "qty": "3"}, {"requirement": "машины командира батальона", "qty": "2"}, {"requirement": "цистерны с водой", "qty": "1"}, {"requirement": "полицейские автомобили", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "100",
+ "missionName": "Возгорание мусоровоза",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "3"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "2"
+  },
+  {
+   "requirement": "цистерны с водой",
+   "qty": "1"
+  },
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "190187883957650529194231404497283302413"
+}

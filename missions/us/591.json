@@ -1,1 +1,24 @@
-{"missionId": "591", "missionName": "Tornado touchdown in rural area", "requirements": [{"requirement": "firetrucks", "qty": "4"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "ems chief", "qty": "1"}, {"requirement": "max. patients", "qty": "10"}], "credits": "2500"}
+{
+ "missionId": "591",
+ "missionName": "Tornado touchdown in rural area",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "ems chief",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "credits": "2500",
+ "version": "170963556923261166094753294245817377842"
+}

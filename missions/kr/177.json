@@ -1,1 +1,12 @@
-{"missionId": "177", "missionName": "심각한 두부 손상", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "177",
+ "missionName": "심각한 두부 손상",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "32432506309411960097383150964627580552"
+}

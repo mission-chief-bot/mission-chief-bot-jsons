@@ -1,1 +1,12 @@
-{"missionId": "78", "missionName": "Hjertestans", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "78",
+ "missionName": "Hjertestans",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "17821786278870859365240878630802676317"
+}

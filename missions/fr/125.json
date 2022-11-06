@@ -1,1 +1,12 @@
-{"missionId": "125", "missionName": "Feu de reserve d'œufs de Pâques", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "125",
+ "missionName": "Feu de reserve d'œufs de Pâques",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "130625217184326404927909740883686356893"
+}

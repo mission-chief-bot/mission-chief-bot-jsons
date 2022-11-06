@@ -1,1 +1,40 @@
-{"missionId": "362", "missionName": "Brand in flatwoning", "requirements": [{"requirement": "tankautospuiten", "qty": "3"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "adembeschermingsvoertuigen", "qty": "1"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "6"}, {"requirement": "ovd-geneeskunde", "qty": "1"}], "credits": "2350"}
+{
+ "missionId": "362",
+ "missionName": "Brand in flatwoning",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "3"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "adembeschermingsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "6"
+  },
+  {
+   "requirement": "ovd-geneeskunde",
+   "qty": "1"
+  }
+ ],
+ "credits": "2350",
+ "version": "31616528121297356675275048449883118350"
+}

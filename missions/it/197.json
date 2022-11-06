@@ -1,1 +1,28 @@
-{"missionId": "197", "missionName": "Incendio galleria", "requirements": [{"requirement": "aps/abp", "qty": "5"}, {"requirement": "unità polisoccorso", "qty": "3"}, {"requirement": "pattuglie", "qty": "3"}, {"requirement": "kilolitriche", "qty": "1"}, {"requirement": "max pazienti", "qty": "10"}], "credits": "8"}
+{
+ "missionId": "197",
+ "missionName": "Incendio galleria",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "5"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "3"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "10"
+  }
+ ],
+ "credits": "8",
+ "version": "339450130062422912392871400087116894295"
+}

@@ -1,1 +1,12 @@
-{"missionId": "446", "missionName": "35 Mopomiitti lähtenyt käsistä", "requirements": [{"requirement": "poliisiautot", "qty": "6"}], "credits": "1700"}
+{
+ "missionId": "446",
+ "missionName": "35 Mopomiitti lähtenyt käsistä",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "6"
+  }
+ ],
+ "credits": "1700",
+ "version": "312504869402627397807978903408119372068"
+}

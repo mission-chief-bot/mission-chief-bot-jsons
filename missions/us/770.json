@@ -1,1 +1,36 @@
-{"missionId": "770", "missionName": "Collision with Jackknifed Semi-Trailer (Medium)", "requirements": [{"requirement": "firetrucks", "qty": "6"}, {"requirement": "heavy rescue vehicles", "qty": "2"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "6"}, {"requirement": "minimum number of patients", "qty": "0"}, {"requirement": "max. patients", "qty": "10"}], "credits": "4700"}
+{
+ "missionId": "770",
+ "missionName": "Collision with Jackknifed Semi-Trailer (Medium)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "6"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "0"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "credits": "4700",
+ "version": "19760464274719364397556449863198300780"
+}

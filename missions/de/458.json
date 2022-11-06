@@ -1,1 +1,20 @@
-{"missionId": "458", "missionName": "Schwerlastkontrolle", "requirements": [{"requirement": "streifenwagen", "qty": "3"}, {"requirement": "grukw", "qty": "3"}, {"requirement": "lebefkw", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "458",
+ "missionName": "Schwerlastkontrolle",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  },
+  {
+   "requirement": "grukw",
+   "qty": "3"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "179927290882793507651034356291263143098"
+}

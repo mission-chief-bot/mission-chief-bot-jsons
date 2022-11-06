@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "Moto in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "3",
+ "missionName": "Moto in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "278548095359909752196363957464078136251"
+}

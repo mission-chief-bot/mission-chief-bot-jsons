@@ -1,1 +1,28 @@
-{"missionId": "761", "missionName": "Sinkhole - No Damage", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "2"}], "credits": "750"}
+{
+ "missionId": "761",
+ "missionName": "Sinkhole - No Damage",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "750",
+ "version": "217350834485484275974333871688486015835"
+}

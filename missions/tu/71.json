@@ -1,1 +1,12 @@
-{"missionId": "71", "missionName": "Burun kanaması", "requirements": [{"requirement": "maks. hastalar", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "71",
+ "missionName": "Burun kanaması",
+ "requirements": [
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "108238925827103325181476400093539859097"
+}

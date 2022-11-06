@@ -1,1 +1,12 @@
-{"missionId": "24", "missionName": "화재 현장(버스 정류소)", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "24",
+ "missionName": "화재 현장(버스 정류소)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "190756813834287292989800712313040778022"
+}

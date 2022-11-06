@@ -1,1 +1,24 @@
-{"missionId": "272", "missionName": "Brinnande alla hjärtans-dekorationer på restaurang", "requirements": [{"requirement": "släckbilar", "qty": "5"}, {"requirement": "stegbilar", "qty": "1"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "mest patienter", "qty": "8"}], "credits": "2000"}
+{
+ "missionId": "272",
+ "missionName": "Brinnande alla hjärtans-dekorationer på restaurang",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "8"
+  }
+ ],
+ "credits": "2000",
+ "version": "146076165890498123534924212067384777897"
+}

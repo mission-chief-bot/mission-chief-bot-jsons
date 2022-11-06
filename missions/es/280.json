@@ -1,1 +1,12 @@
-{"missionId": "280", "missionName": "Accidente de motocross", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "280",
+ "missionName": "Accidente de motocross",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "340253902980497145222363050641744863432"
+}

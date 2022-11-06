@@ -1,1 +1,16 @@
-{"missionId": "506", "missionName": "Spiking incident", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "506",
+ "missionName": "Spiking incident",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "319605187928051130970975502315890244427"
+}

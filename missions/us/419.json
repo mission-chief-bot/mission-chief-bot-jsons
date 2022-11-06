@@ -1,1 +1,12 @@
-{"missionId": "419", "missionName": "Hand injury caused by fireworks", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "419",
+ "missionName": "Hand injury caused by fireworks",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "178861635861458342021396188054869384278"
+}

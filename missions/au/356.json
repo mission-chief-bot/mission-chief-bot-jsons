@@ -1,1 +1,12 @@
-{"missionId": "356", "missionName": "Fall from ladder during spring cleaning", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "356",
+ "missionName": "Fall from ladder during spring cleaning",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "110930365134824359870061340235140685388"
+}

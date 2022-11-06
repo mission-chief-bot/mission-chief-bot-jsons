@@ -1,1 +1,12 @@
-{"missionId": "376", "missionName": "Pád stromu na elektrické vedení", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "376",
+ "missionName": "Pád stromu na elektrické vedení",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "340254150592089380875429451709471201442"
+}

@@ -1,1 +1,20 @@
-{"missionId": "576", "missionName": "Zwemmer in nood", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "510"}
+{
+ "missionId": "576",
+ "missionName": "Zwemmer in nood",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "510",
+ "version": "160866927609116033399327483393773444209"
+}

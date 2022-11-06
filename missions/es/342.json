@@ -1,1 +1,12 @@
-{"missionId": "342", "missionName": "Sospecha de apendicitis", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "342",
+ "missionName": "Sospecha de apendicitis",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "106202446191312587348468215792341624930"
+}

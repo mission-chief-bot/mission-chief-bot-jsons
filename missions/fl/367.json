@@ -1,1 +1,12 @@
-{"missionId": "367", "missionName": "401 Savun hajua rappukäytävässä", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "367",
+ "missionName": "401 Savun hajua rappukäytävässä",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "308571782669773043645755217489109572510"
+}

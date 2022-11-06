@@ -1,1 +1,12 @@
-{"missionId": "310", "missionName": "Hyperglykémie", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "310",
+ "missionName": "Hyperglykémie",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "81947756779533070842507527927329509964"
+}

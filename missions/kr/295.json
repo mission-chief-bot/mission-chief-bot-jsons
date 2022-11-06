@@ -1,1 +1,28 @@
-{"missionId": "295", "missionName": "경기장 화재 (중형)", "requirements": [{"requirement": "소방차", "qty": "8"}, {"requirement": "소방대장 차량", "qty": "2"}, {"requirement": "수상 탱커", "qty": "3"}, {"requirement": "경찰차", "qty": "3"}, {"requirement": "최대 환자", "qty": "10"}], "credits": "7500"}
+{
+ "missionId": "295",
+ "missionName": "경기장 화재 (중형)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "8"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "2"
+  },
+  {
+   "requirement": "수상 탱커",
+   "qty": "3"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "3"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "10"
+  }
+ ],
+ "credits": "7500",
+ "version": "114473025473506999972019455181825045774"
+}

@@ -1,1 +1,20 @@
-{"missionId": "183", "missionName": "443 Maanvyöry", "requirements": [{"requirement": "paloautot", "qty": "4"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "183",
+ "missionName": "443 Maanvyöry",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "55524924187047369313893663355676702377"
+}

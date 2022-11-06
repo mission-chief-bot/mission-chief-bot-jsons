@@ -1,1 +1,28 @@
-{"missionId": "400", "missionName": "Пожар в пустующем здании", "requirements": [{"requirement": "пожарные машины", "qty": "2"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "цистерны с водой", "qty": "1"}, {"requirement": "полицейские автомобили", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "2750"}
+{
+ "missionId": "400",
+ "missionName": "Пожар в пустующем здании",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "1"
+  },
+  {
+   "requirement": "цистерны с водой",
+   "qty": "1"
+  },
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "2750",
+ "version": "141081546111486012970229477108087754319"
+}

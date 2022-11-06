@@ -1,1 +1,16 @@
-{"missionId": "285", "missionName": "Osoba ve vodě", "requirements": [{"requirement": "přívěs se člunem", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "285",
+ "missionName": "Osoba ve vodě",
+ "requirements": [
+  {
+   "requirement": "přívěs se člunem",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "203887126507878038773864886931664255400"
+}

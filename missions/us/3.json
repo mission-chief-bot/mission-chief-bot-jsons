@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "Burning motorbike", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "Burning motorbike",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "186163351252147503785878076753053855292"
+}

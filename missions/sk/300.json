@@ -1,1 +1,12 @@
-{"missionId": "300", "missionName": "Traumatické poranenie mozgu", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "300",
+ "missionName": "Traumatické poranenie mozgu",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "65606983618274980559443616164064363018"
+}

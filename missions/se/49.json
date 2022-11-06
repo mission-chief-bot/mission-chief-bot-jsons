@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "Personrån", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Personrån",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "57109296211061934762759839111297675909"
+}

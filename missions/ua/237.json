@@ -1,1 +1,20 @@
-{"missionId": "237", "missionName": "Пожежа в будинку", "requirements": [{"requirement": "пожежні автодрабини", "qty": "1"}, {"requirement": "штабні автомобілі", "qty": "1"}, {"requirement": "пожежні машини", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "237",
+ "missionName": "Пожежа в будинку",
+ "requirements": [
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "1"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежні машини",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "145687923098090569906511341663553056537"
+}

@@ -1,1 +1,12 @@
-{"missionId": "25", "missionName": "Accidente de tráfico", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "25",
+ "missionName": "Accidente de tráfico",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "203088510534818258695802040018306554863"
+}

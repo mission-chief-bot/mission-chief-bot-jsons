@@ -1,1 +1,16 @@
-{"missionId": "408", "missionName": "Агрессивный пассажир поезда", "requirements": [{"requirement": "полицейские автомобили", "qty": "4"}, {"requirement": "макс. пациенты", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "408",
+ "missionName": "Агрессивный пассажир поезда",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "4"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "256587792516125001716798874766836808151"
+}

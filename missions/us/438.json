@@ -1,1 +1,16 @@
-{"missionId": "438", "missionName": "Serve court order", "requirements": [{"requirement": "sheriffs", "qty": "1"}, {"requirement": "police cars", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "438",
+ "missionName": "Serve court order",
+ "requirements": [
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "306470128649523908823573595310296285526"
+}

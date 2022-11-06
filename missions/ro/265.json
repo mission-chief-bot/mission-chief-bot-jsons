@@ -1,1 +1,12 @@
-{"missionId": "265", "missionName": "Persoană care a căzut într-o grămadă de frunze", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "265",
+ "missionName": "Persoană care a căzut într-o grămadă de frunze",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "108509214877692040855141978292898527719"
+}

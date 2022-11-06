@@ -1,1 +1,12 @@
-{"missionId": "343", "missionName": "Lehtien tukkima sadevesiviemäri", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "343",
+ "missionName": "Lehtien tukkima sadevesiviemäri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "100378631051515993078048889879541664426"
+}

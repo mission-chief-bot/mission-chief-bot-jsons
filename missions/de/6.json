@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Gartenlaubenbrand", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Gartenlaubenbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "216179010451226916530995182094826115324"
+}

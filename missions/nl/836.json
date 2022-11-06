@@ -1,1 +1,36 @@
-{"missionId": "836", "missionName": "Gaslek bedrijventerrein", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "adviseurs gevaarlijke stoffen", "qty": "1"}, {"requirement": "voorlichters", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "maximale patiënten aantal", "qty": "3"}], "credits": "3770"}
+{
+ "missionId": "836",
+ "missionName": "Gaslek bedrijventerrein",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "1"
+  },
+  {
+   "requirement": "voorlichters",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "3"
+  }
+ ],
+ "credits": "3770",
+ "version": "26506946362150685902058984807625781993"
+}

@@ -1,1 +1,12 @@
-{"missionId": "289", "missionName": "Observation af mistænkt", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "289",
+ "missionName": "Observation af mistænkt",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "113547393116142057276865889022199664826"
+}

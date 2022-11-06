@@ -1,1 +1,32 @@
-{"missionId": "217", "missionName": "Crollo galleria", "requirements": [{"requirement": "aps/abp", "qty": "4"}, {"requirement": "unità polisoccorso", "qty": "5"}, {"requirement": "pattuglie", "qty": "4"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "autogrù", "qty": "1"}, {"requirement": "max pazienti", "qty": "25"}], "credits": "0"}
+{
+ "missionId": "217",
+ "missionName": "Crollo galleria",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "4"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "5"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "25"
+  }
+ ],
+ "credits": "0",
+ "version": "220654301219496506159920064322329933328"
+}

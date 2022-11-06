@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "Tractor fire", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "Tractor fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "171875372178627183793297309637714688760"
+}

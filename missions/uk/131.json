@@ -1,1 +1,20 @@
-{"missionId": "131", "missionName": "HGV Lost its load", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "police cars", "qty": "1"}, {"requirement": "traffic cars", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "131",
+ "missionName": "HGV Lost its load",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "traffic cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "134963548321673433646723227176794491063"
+}

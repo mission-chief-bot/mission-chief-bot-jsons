@@ -1,1 +1,12 @@
-{"missionId": "273", "missionName": "落ち葉による排水溝の詰まり", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "273",
+ "missionName": "落ち葉による排水溝の詰まり",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "128545967881459216513894841852027414635"
+}

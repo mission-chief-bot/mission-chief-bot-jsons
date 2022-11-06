@@ -1,1 +1,12 @@
-{"missionId": "419", "missionName": "Hořící piknikový koš", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "419",
+ "missionName": "Hořící piknikový koš",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "336794913622842329893636564643444443510"
+}

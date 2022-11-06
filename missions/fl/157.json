@@ -1,1 +1,12 @@
-{"missionId": "157", "missionName": "Variksenpelätinpalo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "157",
+ "missionName": "Variksenpelätinpalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "88387525028343823356516495692579353967"
+}

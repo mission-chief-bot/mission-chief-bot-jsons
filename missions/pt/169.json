@@ -1,1 +1,12 @@
-{"missionId": "169", "missionName": "Controlo de Velocidade", "requirements": [{"requirement": "carros de patrulha necessários", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "169",
+ "missionName": "Controlo de Velocidade",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "141152605480784683540770528528074808825"
+}

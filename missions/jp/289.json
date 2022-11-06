@@ -1,1 +1,12 @@
-{"missionId": "289", "missionName": "頭蓋・脳髄外傷", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "289",
+ "missionName": "頭蓋・脳髄外傷",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "298149689742425534175807111209088173303"
+}

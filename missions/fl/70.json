@@ -1,1 +1,28 @@
-{"missionId": "70", "missionName": "403 Valintamyymäläpalo, suuri", "requirements": [{"requirement": "paloautot", "qty": "6"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "nostolava-autot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "70",
+ "missionName": "403 Valintamyymäläpalo, suuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "6"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "330693562529038668605342151986900341375"
+}

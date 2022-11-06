@@ -1,1 +1,16 @@
-{"missionId": "239", "missionName": "Jägareolycka - civilperson", "requirements": [{"requirement": "polisbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "239",
+ "missionName": "Jägareolycka - civilperson",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "203973138197451697126760666698456110616"
+}

@@ -1,1 +1,12 @@
-{"missionId": "399", "missionName": "Matforgiftning fra skogsbær", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "399",
+ "missionName": "Matforgiftning fra skogsbær",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "47236369823171253536042879317641133255"
+}

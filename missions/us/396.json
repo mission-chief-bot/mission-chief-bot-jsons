@@ -1,1 +1,12 @@
-{"missionId": "396", "missionName": "Fire Watch", "requirements": [{"requirement": "wildland fire engines", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "396",
+ "missionName": "Fire Watch",
+ "requirements": [
+  {
+   "requirement": "wildland fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "281301096247103609321436218719201463975"
+}

@@ -1,1 +1,16 @@
-{"missionId": "108", "missionName": "Угроза насилия", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "108",
+ "missionName": "Угроза насилия",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "19746514266937437622416392837834937972"
+}

@@ -1,1 +1,12 @@
-{"missionId": "155", "missionName": "Perquisizione veicolo", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "6"}
+{
+ "missionId": "155",
+ "missionName": "Perquisizione veicolo",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "6",
+ "version": "49983755864014482779016782319311539298"
+}

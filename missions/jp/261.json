@@ -1,1 +1,16 @@
-{"missionId": "261", "missionName": "体調不良の人がエレベーターで動けなくなっている", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "救急車", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "261",
+ "missionName": "体調不良の人がエレベーターで動けなくなっている",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "35779043827204389667754625718716851626"
+}

@@ -1,1 +1,12 @@
-{"missionId": "440", "missionName": "Stöld - konstverk", "requirements": [{"requirement": "polisbilar", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "440",
+ "missionName": "Stöld - konstverk",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "239338386542318666220955708929723699895"
+}

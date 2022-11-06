@@ -1,1 +1,32 @@
-{"missionId": "533", "missionName": "Incidente con prodotti biologici", "requirements": [{"requirement": "aps/abp", "qty": "4"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "max pazienti", "qty": "10"}], "credits": "8500"}
+{
+ "missionId": "533",
+ "missionName": "Incidente con prodotti biologici",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "4"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "10"
+  }
+ ],
+ "credits": "8500",
+ "version": "113497112584292047101764883355080065027"
+}

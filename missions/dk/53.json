@@ -1,1 +1,12 @@
-{"missionId": "53", "missionName": "Manglende billet", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "53",
+ "missionName": "Manglende billet",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "170770130510050143943296751525866373680"
+}

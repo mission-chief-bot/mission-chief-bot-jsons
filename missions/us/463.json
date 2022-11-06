@@ -1,1 +1,12 @@
-{"missionId": "463", "missionName": "Silent alarm triggered inside bank", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "463",
+ "missionName": "Silent alarm triggered inside bank",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "119195383357440023322358216959256465955"
+}

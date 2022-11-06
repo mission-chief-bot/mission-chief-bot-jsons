@@ -1,1 +1,20 @@
-{"missionId": "330", "missionName": "Fire in building caused by fireworks", "requirements": [{"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "firetrucks", "qty": "3"}, {"requirement": "max. patients", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "330",
+ "missionName": "Fire in building caused by fireworks",
+ "requirements": [
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "283026964963227277900739561379736993785"
+}

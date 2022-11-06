@@ -1,1 +1,24 @@
-{"missionId": "257", "missionName": "Explosão em um caixa eletrônico", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "2"}, {"requirement": "viaturas de polícia necessárias", "qty": "5"}, {"requirement": "máx. de pacientes", "qty": "4"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "25"}], "credits": "5000"}
+{
+ "missionId": "257",
+ "missionName": "Explosão em um caixa eletrônico",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "5"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "4"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "25"
+  }
+ ],
+ "credits": "5000",
+ "version": "317560853178801354745518461025593068460"
+}

@@ -1,1 +1,12 @@
-{"missionId": "160", "missionName": "Persoană în stare de ebrietate la târgul de Crăciun", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "160",
+ "missionName": "Persoană în stare de ebrietate la târgul de Crăciun",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "316037248660937824438941294144341394712"
+}

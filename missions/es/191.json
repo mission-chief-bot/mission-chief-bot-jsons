@@ -1,1 +1,12 @@
-{"missionId": "191", "missionName": "Accidente con motosierra", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "400"}
+{
+ "missionId": "191",
+ "missionName": "Accidente con motosierra",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "400",
+ "version": "15674114338082846106585399628414336608"
+}

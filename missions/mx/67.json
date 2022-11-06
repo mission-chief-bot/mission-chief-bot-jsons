@@ -1,1 +1,16 @@
-{"missionId": "67", "missionName": "Pelea", "requirements": [{"requirement": "coches patrulla", "qty": "3"}, {"requirement": "n.º máximo de presos", "qty": "2"}], "credits": "700"}
+{
+ "missionId": "67",
+ "missionName": "Pelea",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "3"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "2"
+  }
+ ],
+ "credits": "700",
+ "version": "261089208445640417593871373394660326735"
+}

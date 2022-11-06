@@ -1,1 +1,12 @@
-{"missionId": "90", "missionName": "Porucha semafora", "requirements": [{"requirement": "policajné vozidlá", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "90",
+ "missionName": "Porucha semafora",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "234783933078517712046036008051704897539"
+}

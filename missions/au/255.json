@@ -1,1 +1,12 @@
-{"missionId": "255", "missionName": "Injury through exploding non-starter", "requirements": [{"requirement": "max. patients", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "255",
+ "missionName": "Injury through exploding non-starter",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "262409476607980219689490246120798231633"
+}

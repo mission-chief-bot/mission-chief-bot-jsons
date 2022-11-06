@@ -1,1 +1,16 @@
-{"missionId": "134", "missionName": "Narkohandel", "requirements": [{"requirement": "påkrævede politibiler", "qty": "4"}, {"requirement": "påkrævede hundepatruljer", "qty": "1"}], "credits": "6"}
+{
+ "missionId": "134",
+ "missionName": "Narkohandel",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "1"
+  }
+ ],
+ "credits": "6",
+ "version": "193731291422521862617351742131284221067"
+}

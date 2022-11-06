@@ -1,1 +1,12 @@
-{"missionId": "970", "missionName": "Racistisch gezang van fans op de tribune", "requirements": [{"requirement": "noodhulpeenheden", "qty": "4"}], "credits": "1010"}
+{
+ "missionId": "970",
+ "missionName": "Racistisch gezang van fans op de tribune",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  }
+ ],
+ "credits": "1010",
+ "version": "258854986826548330561121949074759385648"
+}

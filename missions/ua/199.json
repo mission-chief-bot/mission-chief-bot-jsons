@@ -1,1 +1,20 @@
-{"missionId": "199", "missionName": "Перекидання вантажівки", "requirements": [{"requirement": "штабні автомобілі", "qty": "1"}, {"requirement": "пожежні машини", "qty": "1"}, {"requirement": "пожежні автодрабини", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "199",
+ "missionName": "Перекидання вантажівки",
+ "requirements": [
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "207357059499964314690734659899808024710"
+}

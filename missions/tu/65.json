@@ -1,1 +1,12 @@
-{"missionId": "65", "missionName": "Mutfak yangını", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "65",
+ "missionName": "Mutfak yangını",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "1498268605467411190428078246670578620"
+}

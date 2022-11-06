@@ -1,1 +1,12 @@
-{"missionId": "163", "missionName": "Опіки 3-го ступеню", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "163",
+ "missionName": "Опіки 3-го ступеню",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "169264090140491748183580825254756934967"
+}

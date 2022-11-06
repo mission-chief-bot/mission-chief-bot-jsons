@@ -1,1 +1,12 @@
-{"missionId": "115", "missionName": "バーベキュー火災", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "115",
+ "missionName": "バーベキュー火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "298328265334592394005634101524181167495"
+}

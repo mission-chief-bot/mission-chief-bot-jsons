@@ -1,1 +1,12 @@
-{"missionId": "418", "missionName": "Störningar i grannskapet", "requirements": [{"requirement": "polisbilar", "qty": "12"}], "credits": "5125"}
+{
+ "missionId": "418",
+ "missionName": "Störningar i grannskapet",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "12"
+  }
+ ],
+ "credits": "5125",
+ "version": "140240067461769881557910122761933595306"
+}

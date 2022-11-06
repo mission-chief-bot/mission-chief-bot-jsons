@@ -1,1 +1,20 @@
-{"missionId": "687", "missionName": "Egg hunt under water", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "police cars", "qty": "1"}, {"requirement": "light boats", "qty": "2"}], "credits": "1670"}
+{
+ "missionId": "687",
+ "missionName": "Egg hunt under water",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "light boats",
+   "qty": "2"
+  }
+ ],
+ "credits": "1670",
+ "version": "76724275702258882299735559939521053457"
+}

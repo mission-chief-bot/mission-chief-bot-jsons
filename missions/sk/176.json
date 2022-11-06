@@ -1,1 +1,12 @@
-{"missionId": "176", "missionName": "Mačka na strome", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "375"}
+{
+ "missionId": "176",
+ "missionName": "Mačka na strome",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "375",
+ "version": "233507651984607549828806138627129048625"
+}

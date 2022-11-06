@@ -1,1 +1,12 @@
-{"missionId": "283", "missionName": "Furto de veículo", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "283",
+ "missionName": "Furto de veículo",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "125307809553803742043076957144901464078"
+}

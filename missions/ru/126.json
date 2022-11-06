@@ -1,1 +1,12 @@
-{"missionId": "126", "missionName": "Розыск автомобиля", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}], "credits": "6"}
+{
+ "missionId": "126",
+ "missionName": "Розыск автомобиля",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  }
+ ],
+ "credits": "6",
+ "version": "84412426596304005855003730122215747735"
+}

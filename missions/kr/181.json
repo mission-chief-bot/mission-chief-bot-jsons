@@ -1,1 +1,12 @@
-{"missionId": "181", "missionName": "감전사", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "181",
+ "missionName": "감전사",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "45025628171211557622507825072064258667"
+}

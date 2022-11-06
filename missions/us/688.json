@@ -1,1 +1,36 @@
-{"missionId": "688", "missionName": "Crane Collapse", "requirements": [{"requirement": "firetrucks", "qty": "7"}, {"requirement": "platform trucks", "qty": "3"}, {"requirement": "battalion chief vehicles", "qty": "3"}, {"requirement": "heavy rescue vehicles", "qty": "2"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "3"}, {"requirement": "max. patients", "qty": "13"}], "credits": "4250"}
+{
+ "missionId": "688",
+ "missionName": "Crane Collapse",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "7"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "13"
+  }
+ ],
+ "credits": "4250",
+ "version": "142399368155117162157916856383049204494"
+}

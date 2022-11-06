@@ -1,1 +1,20 @@
-{"missionId": "443", "missionName": "Fengselsopprør (Storn)", "requirements": [{"requirement": "kjøretøy fra demonstrasjonspolitiet", "qty": "2"}, {"requirement": "politibiler", "qty": "11"}, {"requirement": "hundepatruljer", "qty": "5"}], "credits": "9500"}
+{
+ "missionId": "443",
+ "missionName": "Fengselsopprør (Storn)",
+ "requirements": [
+  {
+   "requirement": "kjøretøy fra demonstrasjonspolitiet",
+   "qty": "2"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "11"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "5"
+  }
+ ],
+ "credits": "9500",
+ "version": "326380191631770998284850236499206266068"
+}

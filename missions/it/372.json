@@ -1,1 +1,12 @@
-{"missionId": "372", "missionName": "Trauma contundente", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "372",
+ "missionName": "Trauma contundente",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "11774160090089178511288883313139625305"
+}

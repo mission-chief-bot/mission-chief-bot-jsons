@@ -1,1 +1,16 @@
-{"missionId": "57", "missionName": "Niezapowiedziana demonstracja", "requirements": [{"requirement": "radiowozy", "qty": "8"}, {"requirement": "jednostki k-9", "qty": "2"}], "credits": "15000"}
+{
+ "missionId": "57",
+ "missionName": "Niezapowiedziana demonstracja",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "8"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "2"
+  }
+ ],
+ "credits": "15000",
+ "version": "99399922767575119914898603979045916887"
+}

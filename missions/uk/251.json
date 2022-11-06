@@ -1,1 +1,24 @@
-{"missionId": "251", "missionName": "Fire in munitions dump", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "fire officers", "qty": "1"}, {"requirement": "hazmat units", "qty": "1"}, {"requirement": "water carriers", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "251",
+ "missionName": "Fire in munitions dump",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat units",
+   "qty": "1"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "32816571730588221487012812150568076212"
+}

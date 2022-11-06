@@ -1,1 +1,12 @@
-{"missionId": "117", "missionName": "09 Luvaton radalla liikkuminen", "requirements": [{"requirement": "poliisiautot", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "117",
+ "missionName": "09 Luvaton radalla liikkuminen",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "329530956878974898129782069214778093483"
+}

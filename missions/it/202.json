@@ -1,1 +1,12 @@
-{"missionId": "202", "missionName": "Infarto", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "202",
+ "missionName": "Infarto",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "303028237466083755443580296244168396537"
+}

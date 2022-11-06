@@ -1,1 +1,12 @@
-{"missionId": "368", "missionName": "Падение с лестницы во время весенней уборки", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "368",
+ "missionName": "Падение с лестницы во время весенней уборки",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "13058665119833212537741147452444816054"
+}

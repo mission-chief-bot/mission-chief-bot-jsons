@@ -1,1 +1,16 @@
-{"missionId": "322", "missionName": "Small Bushfire", "requirements": [{"requirement": "water carriers", "qty": "1"}, {"requirement": "brush trucks", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "322",
+ "missionName": "Small Bushfire",
+ "requirements": [
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  },
+  {
+   "requirement": "brush trucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "91378399054208330127404250402763790713"
+}

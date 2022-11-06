@@ -1,1 +1,28 @@
-{"missionId": "251", "missionName": "Atropelamento e fuga", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}, {"requirement": "veículos de resgate pesado necessários", "qty": "2"}, {"requirement": "viaturas de polícia necessárias", "qty": "4"}, {"requirement": "máx. de pacientes", "qty": "1"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "75"}], "credits": "1950"}
+{
+ "missionId": "251",
+ "missionName": "Atropelamento e fuga",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "4"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "75"
+  }
+ ],
+ "credits": "1950",
+ "version": "221637157634082208146206083607412255093"
+}

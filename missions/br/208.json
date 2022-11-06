@@ -1,1 +1,12 @@
-{"missionId": "208", "missionName": "Observação de um suspeito", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "208",
+ "missionName": "Observação de um suspeito",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "339595325719885123666969363343994988270"
+}

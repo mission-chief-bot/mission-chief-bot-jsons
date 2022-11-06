@@ -1,1 +1,16 @@
-{"missionId": "129", "missionName": "Ransagning efter efterlyst", "requirements": [{"requirement": "påkrævede politibiler", "qty": "3"}, {"requirement": "påkrævede politihelikoptere", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "129",
+ "missionName": "Ransagning efter efterlyst",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede politihelikoptere",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "240047828049039089825401991934864295236"
+}

@@ -1,1 +1,11 @@
-{"missionId": "619", "missionName": "Hittekramp", "requirements": [{"requirement": "maximale pati\u00ebnten aantal", "qty": "1"}]}
+{
+ "missionId": "619",
+ "missionName": "Hittekramp",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "version": "34952401061308792576144766041951187211"
+}

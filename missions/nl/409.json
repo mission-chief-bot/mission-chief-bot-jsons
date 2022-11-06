@@ -1,1 +1,20 @@
-{"missionId": "409", "missionName": "Brand in kerkgebouw", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "409",
+ "missionName": "Brand in kerkgebouw",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "64800460842875095423118269478207128720"
+}

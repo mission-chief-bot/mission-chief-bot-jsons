@@ -1,1 +1,12 @@
-{"missionId": "287", "missionName": "Pár snědl příliš čokolády", "requirements": [{"requirement": "maximum pacientů", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "287",
+ "missionName": "Pár snědl příliš čokolády",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "246640404743938146088840680332130214255"
+}

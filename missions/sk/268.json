@@ -1,1 +1,12 @@
-{"missionId": "268", "missionName": "Indisponovaná osoba uviaznutá vo výťahu", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "268",
+ "missionName": "Indisponovaná osoba uviaznutá vo výťahu",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "102549279905519766275264481721884339108"
+}

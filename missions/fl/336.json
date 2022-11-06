@@ -1,1 +1,12 @@
-{"missionId": "336", "missionName": "401 Kuivuripalo", "requirements": [{"requirement": "paloautot", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "336",
+ "missionName": "401 Kuivuripalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "161764135490906388918766785531618612213"
+}

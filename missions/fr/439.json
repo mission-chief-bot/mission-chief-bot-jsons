@@ -1,1 +1,20 @@
-{"missionId": "439", "missionName": "Voleur attaqué par une vache", "requirements": [{"requirement": "ambulances es", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "439",
+ "missionName": "Voleur attaqué par une vache",
+ "requirements": [
+  {
+   "requirement": "ambulances es",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "327656657938264512227274201216744255602"
+}

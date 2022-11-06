@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "Fare dodger", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "57",
+ "missionName": "Fare dodger",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "69892236516998177315294909396401263330"
+}

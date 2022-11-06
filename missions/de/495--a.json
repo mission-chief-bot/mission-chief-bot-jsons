@@ -1,1 +1,20 @@
-{"missionId": "495/a", "missionName": "Massenpanik in Diskothek", "requirements": [{"requirement": "streifenwagen", "qty": "9"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "17"}], "credits": "3900"}
+{
+ "missionId": "495/a",
+ "missionName": "Massenpanik in Diskothek",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "9"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "17"
+  }
+ ],
+ "credits": "3900",
+ "version": "91786570932322876711012029267914101429"
+}

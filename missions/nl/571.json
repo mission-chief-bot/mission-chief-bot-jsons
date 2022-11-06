@@ -1,1 +1,12 @@
-{"missionId": "571", "missionName": "Voedselvergiftiging", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "571",
+ "missionName": "Voedselvergiftiging",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "325626316451367554166831070815602507528"
+}

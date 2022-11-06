@@ -1,1 +1,12 @@
-{"missionId": "285", "missionName": "Gullsmedran", "requirements": [ {"requirement": "politibiler", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "285",
+ "missionName": "Gullsmedran",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "330775514072498254030641815368860771769"
+}

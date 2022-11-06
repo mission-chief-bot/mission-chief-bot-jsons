@@ -1,1 +1,16 @@
-{"missionId": "75/a", "missionName": "Unangemeldete Demonstration", "requirements": [{"requirement": "streifenwagen", "qty": "7"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "10420"}
+{
+ "missionId": "75/a",
+ "missionName": "Unangemeldete Demonstration",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "7"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "10420",
+ "version": "29734210867813440239517317831619487382"
+}

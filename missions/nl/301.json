@@ -1,1 +1,12 @@
-{"missionId": "301", "missionName": "Inbraakalarm", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "750"}
+{
+ "missionId": "301",
+ "missionName": "Inbraakalarm",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "750",
+ "version": "207268857957925910549391378199814408970"
+}

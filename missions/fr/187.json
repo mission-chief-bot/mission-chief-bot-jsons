@@ -1,1 +1,12 @@
-{"missionId": "187", "missionName": "Abribus en feu causé par des feux d'artifice", "requirements": [{"requirement": "fourgons d\u2019incendie", "qty": 1}], "credits": "1800"}
+{
+ "missionId": "187",
+ "missionName": "Abribus en feu causé par des feux d'artifice",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": 1
+  }
+ ],
+ "credits": "1800",
+ "version": "13820812098632943668032217199095775661"
+}

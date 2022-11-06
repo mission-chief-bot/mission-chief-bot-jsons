@@ -1,1 +1,12 @@
-{"missionId": "90", "missionName": "Ontwrichting", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "90",
+ "missionName": "Ontwrichting",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "15205333075791492535910652178086365053"
+}

@@ -1,1 +1,16 @@
-{"missionId": "203", "missionName": "Brennende Weihnachtsmarktbude", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "610"}
+{
+ "missionId": "203",
+ "missionName": "Brennende Weihnachtsmarktbude",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "610",
+ "version": "168055929056685228602099581768995047559"
+}

@@ -1,1 +1,16 @@
-{"missionId": "183", "missionName": "Defective air conditioning in train", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "14"}], "credits": "1300"}
+{
+ "missionId": "183",
+ "missionName": "Defective air conditioning in train",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "14"
+  }
+ ],
+ "credits": "1300",
+ "version": "139704668113019945998577366134576339853"
+}

@@ -1,1 +1,16 @@
-{"missionId": "407", "missionName": "Morso di Cane", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "407",
+ "missionName": "Morso di Cane",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "132952168680707351690606480235535724904"
+}

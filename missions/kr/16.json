@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "화재 현장(이동 주택)", "requirements": [{"requirement": "소방차", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "화재 현장(이동 주택)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "5415947703545956834359889569180179197"
+}

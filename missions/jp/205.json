@@ -1,1 +1,24 @@
-{"missionId": "205", "missionName": "郵送車両が転落", "requirements": [{"requirement": "指令ユニット", "qty": "1"}, {"requirement": "消防車", "qty": "1"}, {"requirement": "プラットフォームトラック", "qty": "1"}, {"requirement": "救急車", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "205",
+ "missionName": "郵送車両が転落",
+ "requirements": [
+  {
+   "requirement": "指令ユニット",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "1"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "302249674913763799819455424162410951175"
+}

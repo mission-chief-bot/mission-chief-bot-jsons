@@ -1,1 +1,12 @@
-{"missionId": "448", "missionName": "601 Tekninen tutkinta", "requirements": [{"requirement": "rikostutkintayksiköt", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "448",
+ "missionName": "601 Tekninen tutkinta",
+ "requirements": [
+  {
+   "requirement": "rikostutkintayksiköt",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "171140280743951286081051533408495503357"
+}

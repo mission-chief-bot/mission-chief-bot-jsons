@@ -1,1 +1,12 @@
-{"missionId": "27", "missionName": "Пожежа у гаражі", "requirements": [{"requirement": "пожежні машини", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "27",
+ "missionName": "Пожежа у гаражі",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "263052219728864250836138993211853591807"
+}

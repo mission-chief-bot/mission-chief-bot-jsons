@@ -1,1 +1,12 @@
-{"missionId": "374", "missionName": "Roupa de Carnaval em chamas", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "374",
+ "missionName": "Roupa de Carnaval em chamas",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "339290276253407088959301295076415445471"
+}

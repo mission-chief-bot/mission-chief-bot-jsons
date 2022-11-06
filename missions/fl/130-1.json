@@ -1,1 +1,40 @@
-{"missionId": "130-1", "missionName": "403 Tehdaspalo, suuri", "requirements": [{"requirement": "paloautot", "qty": "8"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "nostolava-autot", "qty": "2"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "paineilmahuoltoautot", "qty": "1"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "2"}, {"requirement": "letkuajoneuvot", "qty": "3"}], "credits": "10400"}
+{
+ "missionId": "130-1",
+ "missionName": "403 Tehdaspalo, suuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "3"
+  }
+ ],
+ "credits": "10400",
+ "version": "89735847218945274073642565613988117493"
+}

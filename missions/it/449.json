@@ -1,1 +1,16 @@
-{"missionId": "449", "missionName": "Cattura Serpente", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "449",
+ "missionName": "Cattura Serpente",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "106038528747001261015228334797586152074"
+}

@@ -1,1 +1,12 @@
-{"missionId": "864", "missionName": "Brandende hoop bladeren", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "864",
+ "missionName": "Brandende hoop bladeren",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "217274293531826023192434476357860376848"
+}

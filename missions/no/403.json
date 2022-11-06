@@ -1,1 +1,16 @@
-{"missionId": "403", "missionName": "Tyv angrepet av ku", "requirements": [{"requirement": "ambulanser", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "403",
+ "missionName": "Tyv angrepet av ku",
+ "requirements": [
+  {
+   "requirement": "ambulanser",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "295685181018126862183946311478342169708"
+}

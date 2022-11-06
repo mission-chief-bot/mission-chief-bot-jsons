@@ -1,1 +1,12 @@
-{"missionId": "381", "missionName": "Reakcja alergiczna - pyłki", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "381",
+ "missionName": "Reakcja alergiczna - pyłki",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "207990091228898095490657315883188696186"
+}

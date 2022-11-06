@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Bahçe kulübesi yangını", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Bahçe kulübesi yangını",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "108228672947015846525111243864136467503"
+}

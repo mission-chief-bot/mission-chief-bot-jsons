@@ -1,1 +1,12 @@
-{"missionId": "154", "missionName": "Coroniță de Advent în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "154",
+ "missionName": "Coroniță de Advent în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "142567790397378526112453908097096285568"
+}

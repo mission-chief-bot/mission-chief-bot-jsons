@@ -1,1 +1,12 @@
-{"missionId": "79", "missionName": "Feu de Sapin de Noël", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "870"}
+{
+ "missionId": "79",
+ "missionName": "Feu de Sapin de Noël",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "870",
+ "version": "170988321386288565166820992299055429774"
+}

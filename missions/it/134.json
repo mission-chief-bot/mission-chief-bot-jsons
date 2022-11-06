@@ -1,1 +1,12 @@
-{"missionId": "134", "missionName": "Raid residenziale della polizia", "requirements": [{"requirement": "pattuglie", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "134",
+ "missionName": "Raid residenziale della polizia",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "227042605747264114432113076430854384346"
+}

@@ -1,1 +1,12 @@
-{"missionId": "350", "missionName": "Choking", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "350",
+ "missionName": "Choking",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "77696354295725599547902089402126725391"
+}

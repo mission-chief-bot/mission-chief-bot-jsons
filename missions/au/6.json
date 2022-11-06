@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Garden shed fire", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Garden shed fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "67596402719330162184710691212194297677"
+}

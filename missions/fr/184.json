@@ -1,1 +1,12 @@
-{"missionId": "184", "missionName": "Feu d'encombrants causé par des feux d'artifice", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "440"}
+{
+ "missionId": "184",
+ "missionName": "Feu d'encombrants causé par des feux d'artifice",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "440",
+ "version": "112119028174648890625361250065068317337"
+}

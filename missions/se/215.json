@@ -1,1 +1,12 @@
-{"missionId": "215", "missionName": "Röklukt - ute", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "215",
+ "missionName": "Röklukt - ute",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "50034271855173780663845832922554256519"
+}

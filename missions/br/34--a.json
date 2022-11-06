@@ -1,1 +1,36 @@
-{"missionId": "34/a", "missionName": "Incêndio em hospital", "requirements": [ {"requirement": "caminhões de bombeiro necessários", "qty": "10"}, {"requirement": "viaturas de batalhão necessárias", "qty": "2"}, {"requirement": "veículos de resgate pesado necessários", "qty": "2"}, {"requirement": "caminhões pipa necessários", "qty": "1"}, {"requirement": "caminhões plataforma necessários", "qty": "3"}, {"requirement": "bombas motorizadas necessárias", "qty": "2"}, {"requirement": "máx. de pacientes", "qty": "25"}], "credits": "6400"}
+{
+ "missionId": "34/a",
+ "missionName": "Incêndio em hospital",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "10"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "bombas motorizadas necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "25"
+  }
+ ],
+ "credits": "6400",
+ "version": "108347268027159300149034289020424728425"
+}

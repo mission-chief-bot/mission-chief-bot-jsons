@@ -1,1 +1,12 @@
-{"missionId": "422", "missionName": "Vepsebol i Bolig", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "422",
+ "missionName": "Vepsebol i Bolig",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "67574626433198786994721773044798149676"
+}

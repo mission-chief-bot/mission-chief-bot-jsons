@@ -1,1 +1,12 @@
-{"missionId": "338", "missionName": "Lamentela per quiete turbata da una lite di coppia", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "338",
+ "missionName": "Lamentela per quiete turbata da una lite di coppia",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "63265114505714996411553902786189345878"
+}

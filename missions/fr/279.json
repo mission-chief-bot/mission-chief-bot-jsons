@@ -1,1 +1,16 @@
-{"missionId": "279", "missionName": "Blessure suite à un artifice non déclenché", "requirements": [{"requirement": "max. patients", "qty": "2"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "279",
+ "missionName": "Blessure suite à un artifice non déclenché",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "255979956702050725816178449069313077478"
+}

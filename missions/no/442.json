@@ -1,1 +1,20 @@
-{"missionId": "442", "missionName": "Fengselsopprør (Middels)", "requirements": [{"requirement": "politibiler", "qty": "8"}, {"requirement": "hundepatruljer", "qty": "4"}, {"requirement": "kjøretøy fra demonstrasjonspolitiet", "qty": "2"}], "credits": "6500"}
+{
+ "missionId": "442",
+ "missionName": "Fengselsopprør (Middels)",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "8"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "4"
+  },
+  {
+   "requirement": "kjøretøy fra demonstrasjonspolitiet",
+   "qty": "2"
+  }
+ ],
+ "credits": "6500",
+ "version": "281100390711954939153064308106644802896"
+}

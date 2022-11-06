@@ -1,1 +1,12 @@
-{"missionId": "19", "missionName": "Dorse yangını", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "19",
+ "missionName": "Dorse yangını",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "271626249328271690662104296295607352317"
+}

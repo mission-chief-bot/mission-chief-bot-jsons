@@ -1,1 +1,24 @@
-{"missionId": "85", "missionName": "무너진 토끼굴", "requirements": [{"requirement": "소방차", "qty": "4"}, {"requirement": "소방대장 차량", "qty": "2"}, {"requirement": "중장비 구조 차량", "qty": "1"}, {"requirement": "경찰차", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "85",
+ "missionName": "무너진 토끼굴",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "4"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "2"
+  },
+  {
+   "requirement": "중장비 구조 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "95195742209954245202607310127929096986"
+}

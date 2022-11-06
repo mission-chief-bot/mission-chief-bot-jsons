@@ -1,1 +1,28 @@
-{"missionId": "435", "missionName": "Eskorte av risikable fans", "requirements": [{"requirement": "for utrykningspolitibil", "qty": "1"}, {"requirement": "politibiler", "qty": "10"}, {"requirement": "nødvendig politihelikoptere", "qty": "1"}, {"requirement": "hundepatruljer", "qty": "4"}, {"requirement": "kjøretøy fra demonstrasjonspolitiet", "qty": "10"}], "credits": "17000"}
+{
+ "missionId": "435",
+ "missionName": "Eskorte av risikable fans",
+ "requirements": [
+  {
+   "requirement": "for utrykningspolitibil",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "nødvendig politihelikoptere",
+   "qty": "1"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "4"
+  },
+  {
+   "requirement": "kjøretøy fra demonstrasjonspolitiet",
+   "qty": "10"
+  }
+ ],
+ "credits": "17000",
+ "version": "279407740835165407543863212827873626032"
+}

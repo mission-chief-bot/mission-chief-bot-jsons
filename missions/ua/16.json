@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "Займання у автодомі", "requirements": [{"requirement": "пожежні машини", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "Займання у автодомі",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "322216494112938208742472447727911107840"
+}

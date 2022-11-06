@@ -1,1 +1,12 @@
-{"missionId": "130", "missionName": "Ограбление АЗС", "requirements": [{"requirement": "полицейские автомобили", "qty": "4"}], "credits": "8"}
+{
+ "missionId": "130",
+ "missionName": "Ограбление АЗС",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "4"
+  }
+ ],
+ "credits": "8",
+ "version": "218504584918217645623596495825290901026"
+}

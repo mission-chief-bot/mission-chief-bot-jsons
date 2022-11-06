@@ -1,1 +1,12 @@
-{"missionId": "209", "missionName": "Laserkontroll", "requirements": [ {"requirement": "politibiler", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "209",
+ "missionName": "Laserkontroll",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "302313960583649093485750466806913150489"
+}

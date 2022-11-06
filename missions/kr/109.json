@@ -1,1 +1,12 @@
-{"missionId": "109", "missionName": "일사병", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "109",
+ "missionName": "일사병",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "260090024328334585597847489012031022720"
+}

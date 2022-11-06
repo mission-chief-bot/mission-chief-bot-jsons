@@ -1,1 +1,12 @@
-{"missionId": "148", "missionName": "フランケンシュタインの目撃", "requirements": [{"requirement": "警察車両", "qty": "3"}], "credits": "550"}
+{
+ "missionId": "148",
+ "missionName": "フランケンシュタインの目撃",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  }
+ ],
+ "credits": "550",
+ "version": "208591040160545040370948778934743347499"
+}

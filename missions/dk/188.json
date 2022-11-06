@@ -1,1 +1,20 @@
-{"missionId": "188", "missionName": "Koncert", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}, {"requirement": "påkrævede ambulancer", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "7"}], "credits": "0"}
+{
+ "missionId": "188",
+ "missionName": "Koncert",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede ambulancer",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "7"
+  }
+ ],
+ "credits": "0",
+ "version": "124821780108754985957516086073132519693"
+}

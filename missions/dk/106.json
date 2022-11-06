@@ -1,1 +1,12 @@
-{"missionId": "106", "missionName": "Brændende æggekoger", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "106",
+ "missionName": "Brændende æggekoger",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "259964410576226814224897264903609112642"
+}

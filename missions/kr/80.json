@@ -1,1 +1,24 @@
-{"missionId": "80", "missionName": "고압 전봇소방차에서 부상을 입은 사람", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "고가 사다리(TL)", "qty": "1"}, {"requirement": "구조공작차(MRU)", "qty": "1"}, {"requirement": "구급차", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "80",
+ "missionName": "고압 전봇소방차에서 부상을 입은 사람",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  },
+  {
+   "requirement": "고가 사다리(TL)",
+   "qty": "1"
+  },
+  {
+   "requirement": "구조공작차(MRU)",
+   "qty": "1"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "257879514448647402784561267988169699492"
+}

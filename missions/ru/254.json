@@ -1,1 +1,12 @@
-{"missionId": "254", "missionName": "Подозрительная посылка", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "254",
+ "missionName": "Подозрительная посылка",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "69488941279123615174542999347177014726"
+}

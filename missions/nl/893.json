@@ -1,1 +1,48 @@
-{"missionId": "893", "missionName": "500 Brandweerkazerne mijlpaal", "requirements": [{"requirement": "tankautospuiten", "qty": "50"}, {"requirement": "redvoertuigen", "qty": "25"}, {"requirement": "hulpverleningsvoertuigen", "qty": "10"}, {"requirement": "adembeschermingsvoertuigen", "qty": "3"}, {"requirement": "verkenningseenheden", "qty": "3"}, {"requirement": "adviseurs gevaarlijke stoffen", "qty": "3"}, {"requirement": "voorlichters", "qty": "1"}, {"requirement": "ovd-b's", "qty": "10"}, {"requirement": "hovd's", "qty": "6"}, {"requirement": "commandowagen", "qty": "3"}], "credits": "25000"}
+{
+ "missionId": "893",
+ "missionName": "500 Brandweerkazerne mijlpaal",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "50"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "25"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "10"
+  },
+  {
+   "requirement": "adembeschermingsvoertuigen",
+   "qty": "3"
+  },
+  {
+   "requirement": "verkenningseenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "3"
+  },
+  {
+   "requirement": "voorlichters",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "10"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "6"
+  },
+  {
+   "requirement": "commandowagen",
+   "qty": "3"
+  }
+ ],
+ "credits": "25000",
+ "version": "180505658207795865076812109707091110315"
+}

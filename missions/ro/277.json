@@ -1,1 +1,12 @@
-{"missionId": "277", "missionName": "Jaf bancar", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "5"}], "credits": "2500"}
+{
+ "missionId": "277",
+ "missionName": "Jaf bancar",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "5"
+  }
+ ],
+ "credits": "2500",
+ "version": "313666447435633153628609585534352424941"
+}

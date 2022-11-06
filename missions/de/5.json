@@ -1,1 +1,24 @@
-{"missionId": "5", "missionName": "Zimmerbrand", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "5",
+ "missionName": "Zimmerbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "210954654916467165609587857860726314270"
+}

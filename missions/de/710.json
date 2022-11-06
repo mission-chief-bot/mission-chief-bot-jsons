@@ -1,1 +1,28 @@
-{"missionId": "710", "missionName": "Brand auf Motivwagen", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "gw l 2 wasser", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "710",
+ "missionName": "Brand auf Motivwagen",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw l 2 wasser",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "30406584228734195567462630800162438606"
+}

@@ -1,1 +1,16 @@
-{"missionId": "354", "missionName": "Trauma torácico", "requirements": [{"requirement": "ambulância de socorro necessárias", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "354",
+ "missionName": "Trauma torácico",
+ "requirements": [
+  {
+   "requirement": "ambulância de socorro necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "188210937311123169692644051407553972584"
+}

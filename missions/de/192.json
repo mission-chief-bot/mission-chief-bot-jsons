@@ -1,1 +1,16 @@
-{"missionId": "192", "missionName": "Brennende Trafostation", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "elw 1", "qty": "1"}], "credits": "1900"}
+{
+ "missionId": "192",
+ "missionName": "Brennende Trafostation",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  }
+ ],
+ "credits": "1900",
+ "version": "2062013771424130266611766455972367029"
+}

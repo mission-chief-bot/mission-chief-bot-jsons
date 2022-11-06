@@ -1,1 +1,12 @@
-{"missionId": "267", "missionName": "Canal de scurgere înfundat cu frunze", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "267",
+ "missionName": "Canal de scurgere înfundat cu frunze",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "65813443602937487378879296276736719463"
+}

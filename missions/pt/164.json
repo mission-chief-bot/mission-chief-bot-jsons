@@ -1,1 +1,12 @@
-{"missionId": "164", "missionName": "Roubo de guloseimas", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "164",
+ "missionName": "Roubo de guloseimas",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "119339016733534790528121104608368485256"
+}

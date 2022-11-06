@@ -1,1 +1,32 @@
-{"missionId": "293", "missionName": "Incêndio no estádio", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "8"}, {"requirement": "viaturas de batalhão necessárias", "qty": "2"}, {"requirement": "caminhões pipa necessários", "qty": "3"}, {"requirement": "viaturas de polícia necessárias", "qty": "3"}, {"requirement": "máx. de pacientes", "qty": "10"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "10"}], "credits": "7500"}
+{
+ "missionId": "293",
+ "missionName": "Incêndio no estádio",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "8"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "3"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "10"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "10"
+  }
+ ],
+ "credits": "7500",
+ "version": "311853378053735237983959445251271298018"
+}

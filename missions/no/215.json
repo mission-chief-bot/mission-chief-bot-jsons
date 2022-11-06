@@ -1,1 +1,12 @@
-{"missionId": "215", "missionName": "Brennende juletre", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "870"}
+{
+ "missionId": "215",
+ "missionName": "Brennende juletre",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "870",
+ "version": "9074378258692963928123711302307258250"
+}

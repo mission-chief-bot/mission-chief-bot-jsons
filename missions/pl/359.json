@@ -1,1 +1,12 @@
-{"missionId": "359", "missionName": "Plama oleju", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "359",
+ "missionName": "Plama oleju",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "138140907215580883850569272870404027158"
+}

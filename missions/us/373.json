@@ -1,1 +1,16 @@
-{"missionId": "373", "missionName": "Large Controlled Burn", "requirements": [{"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "wildland fire engines", "qty": "4"}], "credits": "1800"}
+{
+ "missionId": "373",
+ "missionName": "Large Controlled Burn",
+ "requirements": [
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "4"
+  }
+ ],
+ "credits": "1800",
+ "version": "244749389639276201961387274776600841982"
+}

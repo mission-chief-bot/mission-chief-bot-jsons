@@ -1,1 +1,24 @@
-{"missionId": "424", "missionName": "Overval bankkantoor", "requirements": [{"requirement": "noodhulpeenheden", "qty": "5"}, {"requirement": "officiers van dienst politie", "qty": "1"}, {"requirement": "hondengeleider", "qty": "1"}, {"requirement": "politie helikopters", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "424",
+ "missionName": "Overval bankkantoor",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "5"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "1"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "148157617566181069728827642842099974583"
+}

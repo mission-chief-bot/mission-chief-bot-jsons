@@ -1,1 +1,20 @@
-{"missionId": "283/a", "missionName": "Incendio en una residencia", "requirements": [{"requirement": "camiones de bomberos", "qty": "4"}, {"requirement": "unidades de mando y comunicaciones", "qty": "2"}, {"requirement": "bombas accionadas por motor", "qty": "2"}], "credits": "3900"}
+{
+ "missionId": "283/a",
+ "missionName": "Incendio en una residencia",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "4"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "2"
+  },
+  {
+   "requirement": "bombas accionadas por motor",
+   "qty": "2"
+  }
+ ],
+ "credits": "3900",
+ "version": "48781837186757945312737813746606264330"
+}

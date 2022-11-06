@@ -1,1 +1,12 @@
-{"missionId": "128", "missionName": "Robo de pincel del taller", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "128",
+ "missionName": "Robo de pincel del taller",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "4528066912989011752947795360329457128"
+}

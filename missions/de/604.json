@@ -1,1 +1,12 @@
-{"missionId": "604", "missionName": "Lärmbeschwerde wegen streitendem Paar", "requirements": [{"requirement": "streifenwagen", "qty": 1}], "credits": "700"}
+{
+ "missionId": "604",
+ "missionName": "Lärmbeschwerde wegen streitendem Paar",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": 1
+  }
+ ],
+ "credits": "700",
+ "version": "11452246552341593746017270161636178744"
+}

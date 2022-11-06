@@ -1,1 +1,12 @@
-{"missionId": "98", "missionName": "Požiar vozidla v tuneli", "requirements": [{"requirement": "hasičské automobily", "qty": "3"}], "credits": "1500"}
+{
+ "missionId": "98",
+ "missionName": "Požiar vozidla v tuneli",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "3"
+  }
+ ],
+ "credits": "1500",
+ "version": "234304253811036690767968227819728957928"
+}

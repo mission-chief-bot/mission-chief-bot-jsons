@@ -1,1 +1,12 @@
-{"missionId": "469", "missionName": "Possession illégale d'armes", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "469",
+ "missionName": "Possession illégale d'armes",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "66813858147200164067752142019564883780"
+}

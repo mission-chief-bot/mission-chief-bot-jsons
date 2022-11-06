@@ -1,1 +1,12 @@
-{"missionId": "343", "missionName": "Roubo de Medicamentos", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "343",
+ "missionName": "Roubo de Medicamentos",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "42254248881640268106218759952311541862"
+}

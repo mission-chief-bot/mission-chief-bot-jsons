@@ -1,1 +1,12 @@
-{"missionId": "209", "missionName": "Otrava jídlem", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "209",
+ "missionName": "Otrava jídlem",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "226997637721386011037391192893653422408"
+}

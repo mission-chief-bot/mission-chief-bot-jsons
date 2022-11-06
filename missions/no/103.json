@@ -1,1 +1,16 @@
-{"missionId": "103", "missionName": "Påkjørt påskehare", "requirements": [{"requirement": "politibiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "103",
+ "missionName": "Påkjørt påskehare",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "273088785909714819293075769690087911019"
+}

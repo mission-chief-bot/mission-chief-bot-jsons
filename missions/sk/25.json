@@ -1,1 +1,12 @@
-{"missionId": "25", "missionName": "Dopravná nehoda", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "25",
+ "missionName": "Dopravná nehoda",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "8061051449474166689913285150549949563"
+}

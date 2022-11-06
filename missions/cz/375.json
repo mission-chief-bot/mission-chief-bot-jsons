@@ -1,1 +1,20 @@
-{"missionId": "375", "missionName": "Sesuv půdy", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "375",
+ "missionName": "Sesuv půdy",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "76876949543583461692216616232312189335"
+}

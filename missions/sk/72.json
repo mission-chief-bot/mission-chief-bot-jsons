@@ -1,1 +1,12 @@
-{"missionId": "72", "missionName": "Havária ľahkého lietadla", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}], "credits": "4000"}
+{
+ "missionId": "72",
+ "missionName": "Havária ľahkého lietadla",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  }
+ ],
+ "credits": "4000",
+ "version": "118133252075468240620814122329533143794"
+}

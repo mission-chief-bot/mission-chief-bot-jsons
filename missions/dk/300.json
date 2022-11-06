@@ -1,1 +1,12 @@
-{"missionId": "300", "missionName": "Angst anfald", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "300",
+ "missionName": "Angst anfald",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "192679383724681886670531371974622707622"
+}

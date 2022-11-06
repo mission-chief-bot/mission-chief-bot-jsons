@@ -1,1 +1,12 @@
-{"missionId": "36", "missionName": "704 Rintakipuja", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "36",
+ "missionName": "704 Rintakipuja",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "304760634868765431691497592751012014147"
+}

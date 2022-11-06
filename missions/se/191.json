@@ -1,1 +1,12 @@
-{"missionId": "191", "missionName": "Kontrollerad brand, utbredd", "requirements": [{"requirement": "brandbefäl", "qty": "1"}], "credits": "1800"}
+{
+ "missionId": "191",
+ "missionName": "Kontrollerad brand, utbredd",
+ "requirements": [
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  }
+ ],
+ "credits": "1800",
+ "version": "220457317701290697504848041644389087146"
+}

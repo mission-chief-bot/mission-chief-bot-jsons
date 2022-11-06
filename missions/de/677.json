@@ -1,1 +1,12 @@
-{"missionId": "677", "missionName": "Unterkühlung nach Schwimmen in kaltem Wasser", "requirements": [{"requirement": "rtw", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "677",
+ "missionName": "Unterkühlung nach Schwimmen in kaltem Wasser",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "315949248725749422888435152813142889964"
+}

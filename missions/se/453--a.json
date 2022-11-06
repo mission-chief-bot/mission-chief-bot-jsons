@@ -1,1 +1,32 @@
-{"missionId": "453/a", "missionName": "Brand i fordon - tåg med brandfarligt föremål", "requirements": [{"requirement": "släckbilar", "qty": "5"}, {"requirement": "lastväxlare", "qty": "2"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "räddningsledningsfordon", "qty": "1"}, {"requirement": "kemskyddsenhet", "qty": "1"}, {"requirement": "polisbilar", "qty": "3"}], "credits": "6800"}
+{
+ "missionId": "453/a",
+ "missionName": "Brand i fordon - tåg med brandfarligt föremål",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "räddningsledningsfordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "kemskyddsenhet",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  }
+ ],
+ "credits": "6800",
+ "version": "175870421606973747203685685002578294793"
+}

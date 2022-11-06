@@ -1,1 +1,12 @@
-{"missionId": "117", "missionName": "Nausées - Vomissements", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "117",
+ "missionName": "Nausées - Vomissements",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "331056334144477987767393471325101578141"
+}

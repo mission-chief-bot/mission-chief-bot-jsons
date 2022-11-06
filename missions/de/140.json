@@ -1,1 +1,16 @@
-{"missionId": "140", "missionName": "Flächenbrand", "requirements": [ {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "140",
+ "missionName": "Flächenbrand",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "188236185640299527257855767670080139741"
+}

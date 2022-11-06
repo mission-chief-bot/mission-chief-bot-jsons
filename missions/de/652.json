@@ -1,1 +1,12 @@
-{"missionId": "652", "missionName": "Aufgeplatzter Asphalt auf Autobahn", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "652",
+ "missionName": "Aufgeplatzter Asphalt auf Autobahn",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "63499440980061528543049685177906338318"
+}

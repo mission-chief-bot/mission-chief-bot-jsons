@@ -1,1 +1,20 @@
-{"missionId": "175", "missionName": "Erdrutsch", "requirements": [ {"requirement": "gkw", "qty": "1"}, {"requirement": "radlader (brmg r)", "qty": "1"}, {"requirement": "mtw-tz", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "175",
+ "missionName": "Erdrutsch",
+ "requirements": [
+  {
+   "requirement": "gkw",
+   "qty": "1"
+  },
+  {
+   "requirement": "radlader (brmg r)",
+   "qty": "1"
+  },
+  {
+   "requirement": "mtw-tz",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "160049454226179560402364347670814071603"
+}

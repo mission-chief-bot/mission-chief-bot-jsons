@@ -1,1 +1,12 @@
-{"missionId": "367", "missionName": "公共イベントモニタリング", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1500"}
+{
+ "missionId": "367",
+ "missionName": "公共イベントモニタリング",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1500",
+ "version": "302910629379404585766287897372764152973"
+}

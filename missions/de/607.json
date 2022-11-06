@@ -1,1 +1,12 @@
-{"missionId": "607", "missionName": "Verkehrserziehung an Schule", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "607",
+ "missionName": "Verkehrserziehung an Schule",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "185577209801419108709576920118221581326"
+}

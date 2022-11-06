@@ -1,1 +1,12 @@
-{"missionId": "294", "missionName": "Banková lúpež", "requirements": [{"requirement": "policajné vozidlá", "qty": "5"}], "credits": "2500"}
+{
+ "missionId": "294",
+ "missionName": "Banková lúpež",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "5"
+  }
+ ],
+ "credits": "2500",
+ "version": "205594685264865660861741388757187905571"
+}

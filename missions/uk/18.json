@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "Out of control bonfire", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "Out of control bonfire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "296816258542098278651423133869403211928"
+}

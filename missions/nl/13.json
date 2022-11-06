@@ -1,1 +1,20 @@
-{"missionId": "13", "missionName": "Brandende vrachtwagen", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "slangenwagens", "qty": "1"}], "credits": "980"}
+{
+ "missionId": "13",
+ "missionName": "Brandende vrachtwagen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "slangenwagens",
+   "qty": "1"
+  }
+ ],
+ "credits": "980",
+ "version": "213960125263801102888021226159841085360"
+}

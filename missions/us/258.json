@@ -1,1 +1,20 @@
-{"missionId": "258", "missionName": "Attempted Homicide", "requirements": [{"requirement": "police cars", "qty": "6"}, {"requirement": "k-9 units", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "2100"}
+{
+ "missionId": "258",
+ "missionName": "Attempted Homicide",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2100",
+ "version": "60912293221027085395597685265045669384"
+}

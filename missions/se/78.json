@@ -1,1 +1,15 @@
-{"missionId": "78", "missionName": "Brand på julmarknad", "requirements": [{"requirement": "sl\u00e4ckbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}]}
+{
+ "missionId": "78",
+ "missionName": "Brand på julmarknad",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "160522611051498933731294971575338616483"
+}

@@ -1,1 +1,16 @@
-{"missionId": "249", "missionName": "Paquete sospechoso", "requirements": [{"requirement": "coches patrulla", "qty": "2"}, {"requirement": "unidad canina", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "249",
+ "missionName": "Paquete sospechoso",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  },
+  {
+   "requirement": "unidad canina",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "211888383776997532215393060253529685581"
+}

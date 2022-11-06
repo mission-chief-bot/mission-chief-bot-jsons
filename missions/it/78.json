@@ -1,1 +1,20 @@
-{"missionId": "78", "missionName": "Incidente stradale - ghiaccio", "requirements": [{"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "aps/abp", "qty": "1"}, {"requirement": "max pazienti", "qty": "3"}], "credits": "1410"}
+{
+ "missionId": "78",
+ "missionName": "Incidente stradale - ghiaccio",
+ "requirements": [
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "3"
+  }
+ ],
+ "credits": "1410",
+ "version": "19316159675901695545499364377534489537"
+}

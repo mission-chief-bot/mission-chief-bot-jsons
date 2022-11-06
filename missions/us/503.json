@@ -1,1 +1,12 @@
-{"missionId": "503", "missionName": "Person hit by firework-explosive", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "503",
+ "missionName": "Person hit by firework-explosive",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "47783229991768051788118447868190516712"
+}

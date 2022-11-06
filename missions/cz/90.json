@@ -1,1 +1,24 @@
-{"missionId": "90", "missionName": "Požár sila", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "8"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "velitelské automobily", "qty": "2"}], "credits": "3000"}
+{
+ "missionId": "90",
+ "missionName": "Požár sila",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "8"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "3000",
+ "version": "103784576652809171352907072039935120689"
+}

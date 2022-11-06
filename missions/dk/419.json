@@ -1,1 +1,12 @@
-{"missionId": "419", "missionName": "En person stjæler kalve", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "419",
+ "missionName": "En person stjæler kalve",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "301183745740249825707996200078124092012"
+}

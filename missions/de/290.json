@@ -1,1 +1,12 @@
-{"missionId": "290", "missionName": "Eierkocherbrand", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "290",
+ "missionName": "Eierkocherbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "253700418770092303987839319349223245625"
+}

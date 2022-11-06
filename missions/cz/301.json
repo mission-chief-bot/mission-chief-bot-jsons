@@ -1,1 +1,12 @@
-{"missionId": "301", "missionName": "Panický záchvat", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "301",
+ "missionName": "Panický záchvat",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "124379661717327615333250212259431346622"
+}

@@ -1,1 +1,28 @@
-{"missionId": "180", "missionName": "Shots fired at Officer", "requirements": [{"requirement": "police cars", "qty": "8"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "k-9 units", "qty": "2"}, {"requirement": "swat armoured vehicle", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "4100"}
+{
+ "missionId": "180",
+ "missionName": "Shots fired at Officer",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "8"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "2"
+  },
+  {
+   "requirement": "swat armoured vehicle",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "4100",
+ "version": "147291418990825976334241607871165856479"
+}

@@ -1,1 +1,12 @@
-{"missionId": "360", "missionName": "Dešťová kanalizace ucpaná listím", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": 1}], "credits": "300"}
+{
+ "missionId": "360",
+ "missionName": "Dešťová kanalizace ucpaná listím",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": 1
+  }
+ ],
+ "credits": "300",
+ "version": "6072912415432333061860345224576494924"
+}

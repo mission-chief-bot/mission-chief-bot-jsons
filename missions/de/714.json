@@ -1,1 +1,12 @@
-{"missionId": "714", "missionName": "Feuer bei Prunksitzung", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "714",
+ "missionName": "Feuer bei Prunksitzung",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "69510331882827480618826789044922684672"
+}

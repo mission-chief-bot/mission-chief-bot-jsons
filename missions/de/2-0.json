@@ -1,1 +1,20 @@
-{"missionId": "2-0", "missionName": "Brennender PKW (E-Auto)", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "2-0",
+ "missionName": "Brennender PKW (E-Auto)",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "296561381326218855102706916108379584259"
+}

@@ -1,1 +1,12 @@
-{"missionId": "230", "missionName": "Probleme respiratorii", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "230",
+ "missionName": "Probleme respiratorii",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "311353865471910011520721593187407373807"
+}

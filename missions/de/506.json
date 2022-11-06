@@ -1,1 +1,16 @@
-{"missionId": "506", "missionName": "Hundeangriff", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "rtw, naw", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "506",
+ "missionName": "Hundeangriff",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "rtw, naw",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "265100212157169281601037971251749926715"
+}

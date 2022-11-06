@@ -1,1 +1,12 @@
-{"missionId": "278", "missionName": "オーバードーズ", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "278",
+ "missionName": "オーバードーズ",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "325365099631696394835635000825030769909"
+}

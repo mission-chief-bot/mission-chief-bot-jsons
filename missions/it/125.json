@@ -1,1 +1,12 @@
-{"missionId": "125", "missionName": "Ostacolo in corsia", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "125",
+ "missionName": "Ostacolo in corsia",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "291079365081304025679019579062414018919"
+}

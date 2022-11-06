@@ -1,1 +1,12 @@
-{"missionId": "366", "missionName": "Reacción alérgica a picadura de abeja", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "550"}
+{
+ "missionId": "366",
+ "missionName": "Reacción alérgica a picadura de abeja",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "550",
+ "version": "174528491578426056620050780374634081578"
+}

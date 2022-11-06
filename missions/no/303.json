@@ -1,1 +1,12 @@
-{"missionId": "303", "missionName": "Kols i forverring", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "303",
+ "missionName": "Kols i forverring",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "324000760553728455406102117878167185131"
+}

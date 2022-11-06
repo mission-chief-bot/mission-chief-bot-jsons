@@ -1,1 +1,12 @@
-{"missionId": "106", "missionName": "Seto en llamas a causa de un petardo", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "106",
+ "missionName": "Seto en llamas a causa de un petardo",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "319454785280568847225669904606277978700"
+}

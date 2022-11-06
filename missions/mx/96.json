@@ -1,1 +1,28 @@
-{"missionId": "96", "missionName": "Apilamiento de coches", "requirements": [{"requirement": "camiones de bomberos", "qty": "4"}, {"requirement": "furgones de útiles varios", "qty": "1"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}, {"requirement": "coches patrulla", "qty": "1"}, {"requirement": "ambulancias", "qty": "3"}], "credits": "1300"}
+{
+ "missionId": "96",
+ "missionName": "Apilamiento de coches",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "4"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "1"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulancias",
+   "qty": "3"
+  }
+ ],
+ "credits": "1300",
+ "version": "241589280733803850562999415429491411192"
+}

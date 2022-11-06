@@ -1,1 +1,24 @@
-{"missionId": "407", "missionName": "Brand i byggnad - matsal", "requirements": [{"requirement": "släckbilar", "qty": "3"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "polisbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "2"}], "credits": "1300"}
+{
+ "missionId": "407",
+ "missionName": "Brand i byggnad - matsal",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "1300",
+ "version": "67139964594557310881710597993700686729"
+}

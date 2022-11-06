@@ -1,1 +1,12 @@
-{"missionId": "30", "missionName": "Gas Leak", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "30",
+ "missionName": "Gas Leak",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "22172341132037662606799318036659191085"
+}

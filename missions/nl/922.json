@@ -1,1 +1,12 @@
-{"missionId": "922", "missionName": "Val van ladder tijdens voorjaarsschoonmaak", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "500"}
+{
+ "missionId": "922",
+ "missionName": "Val van ladder tijdens voorjaarsschoonmaak",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "500",
+ "version": "181997276211451054880396881006112330857"
+}

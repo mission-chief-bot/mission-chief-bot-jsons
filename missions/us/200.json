@@ -1,1 +1,16 @@
-{"missionId": "200", "missionName": "Person with a weapon", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "k-9 units", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "200",
+ "missionName": "Person with a weapon",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "288409965097824818917676476699628168377"
+}

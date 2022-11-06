@@ -1,1 +1,24 @@
-{"missionId": "113/a", "missionName": "Rebentamento de Conduta de água", "requirements": [ {"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "1"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "moto bombas necessárias:", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "113/a",
+ "missionName": "Rebentamento de Conduta de água",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "moto bombas necessárias:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "285230181298603159773446289071962660333"
+}

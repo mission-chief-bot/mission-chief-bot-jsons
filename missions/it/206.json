@@ -1,1 +1,12 @@
-{"missionId": "206", "missionName": "Decadimento in pz oncologico", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "206",
+ "missionName": "Decadimento in pz oncologico",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "316933046319765097021462790732861364826"
+}

@@ -1,1 +1,20 @@
-{"missionId": "754", "missionName": "Sports Fan Brawl (Medium)", "requirements": [{"requirement": "police cars", "qty": "15"}, {"requirement": "sheriffs", "qty": "1"}, {"requirement": "max. patients", "qty": "20"}], "credits": "6000"}
+{
+ "missionId": "754",
+ "missionName": "Sports Fan Brawl (Medium)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "15"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "20"
+  }
+ ],
+ "credits": "6000",
+ "version": "260224704128935044923501516301512698316"
+}

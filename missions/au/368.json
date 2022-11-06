@@ -1,1 +1,12 @@
-{"missionId": "368", "missionName": "Suspected appendicitis", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "368",
+ "missionName": "Suspected appendicitis",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "294524673679539268972409875276674289590"
+}

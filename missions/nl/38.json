@@ -1,1 +1,12 @@
-{"missionId": "38", "missionName": "Brandende afvalbak", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "38",
+ "missionName": "Brandende afvalbak",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "140443035839203140655684727585901471838"
+}

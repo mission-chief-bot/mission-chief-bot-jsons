@@ -1,1 +1,12 @@
-{"missionId": "394", "missionName": "Gør opmærksom om 112 for skolebørn", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "394",
+ "missionName": "Gør opmærksom om 112 for skolebørn",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "322681561338344841267767863104896019988"
+}

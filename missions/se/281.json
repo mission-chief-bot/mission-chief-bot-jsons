@@ -1,1 +1,40 @@
-{"missionId": "281", "missionName": "Farligt utsläpp - fosfor", "requirements": [{"requirement": "släckbilar", "qty": "10"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "ledningsfordon", "qty": "1"}, {"requirement": "farligt gods-fordon", "qty": "1"}, {"requirement": "fordon med luftapparater", "qty": "2"}, {"requirement": "lastväxlare", "qty": "2"}, {"requirement": "polisbilar", "qty": "4"}, {"requirement": "mest patienter", "qty": "10"}], "credits": "6500"}
+{
+ "missionId": "281",
+ "missionName": "Farligt utsläpp - fosfor",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "10"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "ledningsfordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "farligt gods-fordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "fordon med luftapparater",
+   "qty": "2"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "10"
+  }
+ ],
+ "credits": "6500",
+ "version": "66878399475613122551072114240631414471"
+}

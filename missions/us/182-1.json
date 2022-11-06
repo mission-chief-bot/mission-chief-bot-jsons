@@ -1,1 +1,24 @@
-{"missionId": "182-1", "missionName": "Cafeteria fire", "requirements": [{"requirement": "firetrucks", "qty": "3"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "fire investigation unit", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1800"}
+{
+ "missionId": "182-1",
+ "missionName": "Cafeteria fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1800",
+ "version": "299149256907966354984503086061571338504"
+}

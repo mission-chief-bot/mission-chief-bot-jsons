@@ -1,1 +1,36 @@
-{"missionId": "287/a", "missionName": "Flyghändelse - brand i flygplan, litet", "requirements": [{"requirement": "släckbilar", "qty": "8"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "räddningsledningsfordon", "qty": "1"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "tankbilar", "qty": "1"}, {"requirement": "polisbilar", "qty": "3"}, {"requirement": "mest patienter", "qty": "5"}], "credits": "6400"}
+{
+ "missionId": "287/a",
+ "missionName": "Flyghändelse - brand i flygplan, litet",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "8"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "räddningsledningsfordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "6400",
+ "version": "20190304195860142571219954188739071798"
+}

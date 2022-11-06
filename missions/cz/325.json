@@ -1,1 +1,36 @@
-{"missionId": "325", "missionName": "Požár plnírny plynu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "13"}, {"requirement": "velitelské automobily", "qty": "2"}, {"requirement": "mobilní operační střediska", "qty": "1"}, {"requirement": "vozidla pro práci s nebezpečnými látkami", "qty": "1"}, {"requirement": "protiplynové automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "4"}, {"requirement": "maximum pacientů", "qty": "5"}], "credits": "9500"}
+{
+ "missionId": "325",
+ "missionName": "Požár plnírny plynu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "13"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobilní operační střediska",
+   "qty": "1"
+  },
+  {
+   "requirement": "vozidla pro práci s nebezpečnými látkami",
+   "qty": "1"
+  },
+  {
+   "requirement": "protiplynové automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "5"
+  }
+ ],
+ "credits": "9500",
+ "version": "10954633463347262106198921548043573056"
+}

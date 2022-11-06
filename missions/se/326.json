@@ -1,1 +1,12 @@
-{"missionId": "326", "missionName": "Flygande besiktning", "requirements": [{"requirement": "polisbilar", "qty": "6"}], "credits": "6000"}
+{
+ "missionId": "326",
+ "missionName": "Flygande besiktning",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "6"
+  }
+ ],
+ "credits": "6000",
+ "version": "209766243806032300228131620639243797898"
+}

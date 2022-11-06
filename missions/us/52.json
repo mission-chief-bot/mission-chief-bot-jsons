@@ -1,1 +1,12 @@
-{"missionId": "52", "missionName": "Metal burglary", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "52",
+ "missionName": "Metal burglary",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "53330040125593806553062304010136983812"
+}

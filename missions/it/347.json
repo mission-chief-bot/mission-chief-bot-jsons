@@ -1,1 +1,12 @@
-{"missionId": "347", "missionName": "Autoraduno Illegale", "requirements": [{"requirement": "pattuglie", "qty": "4"}], "credits": "1400"}
+{
+ "missionId": "347",
+ "missionName": "Autoraduno Illegale",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  }
+ ],
+ "credits": "1400",
+ "version": "52235999625349023123408818821058803935"
+}

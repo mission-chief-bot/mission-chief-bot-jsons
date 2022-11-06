@@ -1,1 +1,12 @@
-{"missionId": "0", "missionName": "Bin fire", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "0",
+ "missionName": "Bin fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "113190179914688378786454914579091085837"
+}

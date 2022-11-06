@@ -1,1 +1,20 @@
-{"missionId": "102-1", "missionName": "Požiar recyklačného centra", "requirements": [{"requirement": "hasičské automobily", "qty": "12"}, {"requirement": "ppla", "qty": "1"}, {"requirement": "policajné vozidlá", "qty": "2"}], "credits": "11100"}
+{
+ "missionId": "102-1",
+ "missionName": "Požiar recyklačného centra",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "12"
+  },
+  {
+   "requirement": "ppla",
+   "qty": "1"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "11100",
+ "version": "224550443993803235592660016876293508918"
+}

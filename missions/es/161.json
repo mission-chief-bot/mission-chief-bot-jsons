@@ -1,1 +1,12 @@
-{"missionId": "161", "missionName": "Insolación", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1"}
+{
+ "missionId": "161",
+ "missionName": "Insolación",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1",
+ "version": "190732248418018400568960755551314721626"
+}

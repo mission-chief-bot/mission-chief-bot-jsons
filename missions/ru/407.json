@@ -1,1 +1,24 @@
-{"missionId": "407", "missionName": "Пожар в аптеке", "requirements": [{"requirement": "пожарные машины", "qty": "5"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "полицейские автомобили", "qty": "2"}, {"requirement": "макс. пациенты", "qty": "4"}], "credits": "2750"}
+{
+ "missionId": "407",
+ "missionName": "Пожар в аптеке",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "5"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "1"
+  },
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "4"
+  }
+ ],
+ "credits": "2750",
+ "version": "134772413755765117725668967743496694224"
+}

@@ -1,1 +1,32 @@
-{"missionId": "105/a", "missionName": "Najechanie na tył samochodu", "requirements": [{"requirement": "wydziały ruchu drogowego", "qty": "1"}, {"requirement": "samochody pożarnicze", "qty": "4"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "samochody ratownictwa technicznego", "qty": "1"}, {"requirement": "radiowozy wrd", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "2"}], "credits": "2405"}
+{
+ "missionId": "105/a",
+ "missionName": "Najechanie na tył samochodu",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "credits": "2405",
+ "version": "95154795010827174698741288032442906324"
+}

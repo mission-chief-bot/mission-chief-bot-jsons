@@ -1,1 +1,24 @@
-{"missionId": "351", "missionName": "Sawmilling accident", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "351",
+ "missionName": "Sawmilling accident",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "180007089360733890050465266280410129348"
+}

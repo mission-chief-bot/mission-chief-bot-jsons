@@ -1,1 +1,16 @@
-{"missionId": "319", "missionName": "Fall from height", "requirements": [{"requirement": "operational team leaders", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "319",
+ "missionName": "Fall from height",
+ "requirements": [
+  {
+   "requirement": "operational team leaders",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "22865860937515855421853474946061016961"
+}

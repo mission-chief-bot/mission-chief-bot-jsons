@@ -1,1 +1,12 @@
-{"missionId": "77", "missionName": "Poranění páteře", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "77",
+ "missionName": "Poranění páteře",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "229432307060698277997629626168120958372"
+}

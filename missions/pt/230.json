@@ -1,1 +1,12 @@
-{"missionId": "230", "missionName": "Jukebox de aniversário sabotada", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "230",
+ "missionName": "Jukebox de aniversário sabotada",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "252775846286005261206955487442007711227"
+}

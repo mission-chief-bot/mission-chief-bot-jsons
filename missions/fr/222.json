@@ -1,1 +1,12 @@
-{"missionId": "222", "missionName": "Activation d'alarme d'intrusion", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "1050"}
+{
+ "missionId": "222",
+ "missionName": "Activation d'alarme d'intrusion",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "1050",
+ "version": "146641670892751441572837971513924546537"
+}

@@ -1,1 +1,12 @@
-{"missionId": "152", "missionName": "Traumatic limb amputation", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "152",
+ "missionName": "Traumatic limb amputation",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "27084893903789442477749157437591705312"
+}

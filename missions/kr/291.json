@@ -1,1 +1,20 @@
-{"missionId": "291", "missionName": "변전소 화재", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "소방대장 차량", "qty": "1"}, {"requirement": "경찰차", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "291",
+ "missionName": "변전소 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "37545785097139776334890321827874464027"
+}

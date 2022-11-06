@@ -1,1 +1,24 @@
-{"missionId": "29", "missionName": "Fuoriuscita sconosciuta da autocisterna", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "nbcr", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "29",
+ "missionName": "Fuoriuscita sconosciuta da autocisterna",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "139384068597954233662696107410677932625"
+}

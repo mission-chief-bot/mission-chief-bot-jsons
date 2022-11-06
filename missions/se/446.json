@@ -1,1 +1,12 @@
-{"missionId": "446", "missionName": "Trafikstockning vid köpcentrum", "requirements": [{"requirement": "polisbilar", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "446",
+ "missionName": "Trafikstockning vid köpcentrum",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "130059410974591837969249065622898311914"
+}

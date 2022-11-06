@@ -1,1 +1,24 @@
-{"missionId": "549", "missionName": "Natante Scomparso", "requirements": [{"requirement": "max pazienti", "qty": "6"}, {"requirement": "motovedetta costiera", "qty": "2"}, {"requirement": "elicottero guardia costiera", "qty": "1"}, {"requirement": "motovedetta d'altura", "qty": "2"}], "credits": "7000"}
+{
+ "missionId": "549",
+ "missionName": "Natante Scomparso",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "6"
+  },
+  {
+   "requirement": "motovedetta costiera",
+   "qty": "2"
+  },
+  {
+   "requirement": "elicottero guardia costiera",
+   "qty": "1"
+  },
+  {
+   "requirement": "motovedetta d'altura",
+   "qty": "2"
+  }
+ ],
+ "credits": "7000",
+ "version": "90782191344918628993433398513414570893"
+}

@@ -1,1 +1,12 @@
-{"missionId": "99", "missionName": "Ransagning af hus", "requirements": [{"requirement": "påkrævede politibiler", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "99",
+ "missionName": "Ransagning af hus",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "92372042177766612752898195565302853849"
+}

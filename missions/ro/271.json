@@ -1,1 +1,12 @@
-{"missionId": "271", "missionName": "Grămadă de frunze în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "271",
+ "missionName": "Grămadă de frunze în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "23552379045535550789992312708973765675"
+}

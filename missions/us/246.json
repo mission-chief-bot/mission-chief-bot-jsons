@@ -1,1 +1,12 @@
-{"missionId": "246", "missionName": "Patient Transfer", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "246",
+ "missionName": "Patient Transfer",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "275145747933436965846792866340129925134"
+}

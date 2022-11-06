@@ -1,1 +1,12 @@
-{"missionId": "27", "missionName": "ガレージから出火", "requirements": [{"requirement": "消防車", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "27",
+ "missionName": "ガレージから出火",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "25082278576402025874435221087761600306"
+}

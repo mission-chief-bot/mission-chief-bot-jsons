@@ -1,1 +1,16 @@
-{"missionId": "301", "missionName": "Cœur brisé", "requirements": [{"requirement": "max. patients", "qty": "2"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "301",
+ "missionName": "Cœur brisé",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "37024706598742229510456453119033108296"
+}

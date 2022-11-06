@@ -1,1 +1,12 @@
-{"missionId": "264", "missionName": "Ataque de pánico", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "250"}
+{
+ "missionId": "264",
+ "missionName": "Ataque de pánico",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "250",
+ "version": "187052151751651726360675897689126037157"
+}

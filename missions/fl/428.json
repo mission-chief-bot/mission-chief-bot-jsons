@@ -1,1 +1,28 @@
-{"missionId": "428", "missionName": "452 Kaasuvuoto tehtaassa", "requirements": [{"requirement": "paloautot", "qty": "4"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "3"}, {"requirement": "kemikaalitorjunta-autot", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "6"}], "credits": "1600"}
+{
+ "missionId": "428",
+ "missionName": "452 Kaasuvuoto tehtaassa",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "6"
+  }
+ ],
+ "credits": "1600",
+ "version": "10644775857845935903723045103626655754"
+}

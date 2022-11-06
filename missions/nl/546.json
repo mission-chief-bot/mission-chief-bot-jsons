@@ -1,1 +1,12 @@
-{"missionId": "546", "missionName": "Donkere dagen offensief", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "546",
+ "missionName": "Donkere dagen offensief",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "63877203918021190337216511230304098452"
+}

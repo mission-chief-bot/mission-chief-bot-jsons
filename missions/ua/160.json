@@ -1,1 +1,12 @@
-{"missionId": "160", "missionName": "Пошкодження хребта", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "160",
+ "missionName": "Пошкодження хребта",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "29694298736628148447443068060264550955"
+}

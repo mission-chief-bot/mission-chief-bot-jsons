@@ -1,1 +1,12 @@
-{"missionId": "240", "missionName": "Contrôle de vitesse", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "240",
+ "missionName": "Contrôle de vitesse",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "229078562746486481731713278687821359366"
+}

@@ -1,1 +1,24 @@
-{"missionId": "121", "missionName": "Збита на колії людина", "requirements": [{"requirement": "пожежні машини", "qty": "2"}, {"requirement": "штабні автомобілі", "qty": "2"}, {"requirement": "пожежно-рятувальні автомобілі", "qty": "1"}, {"requirement": "поліцейські машини", "qty": "2"}], "credits": "3000"}
+{
+ "missionId": "121",
+ "missionName": "Збита на колії людина",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "2"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "2"
+  },
+  {
+   "requirement": "пожежно-рятувальні автомобілі",
+   "qty": "1"
+  },
+  {
+   "requirement": "поліцейські машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "3000",
+ "version": "104449534885211259312084815503869518918"
+}

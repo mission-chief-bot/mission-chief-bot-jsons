@@ -1,1 +1,24 @@
-{"missionId": "324", "missionName": "386 Metsään eksynyt aikuinen", "requirements": [{"requirement": "poliisihelikopteritukikohta", "qty": "1"}, {"requirement": "koirapartiot", "qty": "2"}, {"requirement": "poliisihelikopterit", "qty": "1"}, {"requirement": "poliisiautot", "qty": "1"}], "credits": "1300"}
+{
+ "missionId": "324",
+ "missionName": "386 Metsään eksynyt aikuinen",
+ "requirements": [
+  {
+   "requirement": "poliisihelikopteritukikohta",
+   "qty": "1"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "2"
+  },
+  {
+   "requirement": "poliisihelikopterit",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "160640906229946308296878369067033509075"
+}

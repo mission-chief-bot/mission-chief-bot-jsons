@@ -1,1 +1,11 @@
-{"missionId": "172", "missionName": "V\u00e4rmeslag", "requirements": [{"requirement": "mest patienter", "qty": "1"}]}
+{
+ "missionId": "172",
+ "missionName": "Värmeslag",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "248458408388423975170456800772872565564"
+}

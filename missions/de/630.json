@@ -1,1 +1,12 @@
-{"missionId": "630", "missionName": "Gestohlener Picknick-Korb", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "630",
+ "missionName": "Gestohlener Picknick-Korb",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "295932916677581466067856250156388320197"
+}

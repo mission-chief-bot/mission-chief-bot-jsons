@@ -1,1 +1,24 @@
-{"missionId": "178", "missionName": "地滑り", "requirements": [{"requirement": "消防車", "qty": "4"}, {"requirement": "指令ユニット", "qty": "1"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "救急車", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "178",
+ "missionName": "地滑り",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "4"
+  },
+  {
+   "requirement": "指令ユニット",
+   "qty": "1"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "321929769518812349549807259617425183240"
+}

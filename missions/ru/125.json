@@ -1,1 +1,16 @@
-{"missionId": "125", "missionName": "Полицейский ранен", "requirements": [{"requirement": "полицейские автомобили", "qty": "6"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "125",
+ "missionName": "Полицейский ранен",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "6"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "242458796370202349769584594110373258011"
+}

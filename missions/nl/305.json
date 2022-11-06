@@ -1,1 +1,32 @@
-{"missionId": "305", "missionName": "Verkeersongeval met touringcar", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "6"}, {"requirement": "ovd-geneeskunde", "qty": "1"}], "credits": "1450"}
+{
+ "missionId": "305",
+ "missionName": "Verkeersongeval met touringcar",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "6"
+  },
+  {
+   "requirement": "ovd-geneeskunde",
+   "qty": "1"
+  }
+ ],
+ "credits": "1450",
+ "version": "18834701564339881863060464944071608478"
+}

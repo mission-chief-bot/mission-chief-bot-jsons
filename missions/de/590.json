@@ -1,1 +1,12 @@
-{"missionId": "590", "missionName": "Diebstahl aus Weihnachtsbäckerei", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "590",
+ "missionName": "Diebstahl aus Weihnachtsbäckerei",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "47648269037967239674286430815916975616"
+}

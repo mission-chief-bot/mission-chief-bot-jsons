@@ -1,1 +1,12 @@
-{"missionId": "162", "missionName": "クリスマスマーケットの酔っぱらい", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "162",
+ "missionName": "クリスマスマーケットの酔っぱらい",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "325575793324628054315895749853549908668"
+}

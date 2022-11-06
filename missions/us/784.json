@@ -1,1 +1,48 @@
-{"missionId": "784", "missionName": "Library Fire (Major)", "requirements": [{"requirement": "firetrucks", "qty": "15"}, {"requirement": "battalion chief vehicles", "qty": "4"}, {"requirement": "platform trucks", "qty": "4"}, {"requirement": "water tankers", "qty": "3"}, {"requirement": "mobile air vehicles", "qty": "2"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "fire investigation units", "qty": "3"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "sheriffs", "qty": "1"}, {"requirement": "max. patients", "qty": "50"}], "credits": "20000"}
+{
+ "missionId": "784",
+ "missionName": "Library Fire (Major)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "15"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "3"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "3"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "50"
+  }
+ ],
+ "credits": "20000",
+ "version": "329617014068237288944513241604769096265"
+}

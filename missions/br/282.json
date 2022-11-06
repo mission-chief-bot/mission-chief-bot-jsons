@@ -1,1 +1,12 @@
-{"missionId": "282", "missionName": "Roubo em escritório", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "282",
+ "missionName": "Roubo em escritório",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "308156310616484234402756787824932745570"
+}

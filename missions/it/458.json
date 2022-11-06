@@ -1,1 +1,12 @@
-{"missionId": "458", "missionName": "Fumo sospetto dal bosco", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "2900"}
+{
+ "missionId": "458",
+ "missionName": "Fumo sospetto dal bosco",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "2900",
+ "version": "128589111145312613672102571235925013917"
+}

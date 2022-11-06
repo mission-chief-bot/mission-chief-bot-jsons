@@ -1,1 +1,12 @@
-{"missionId": "733", "missionName": "Absicherung Osterfeuer", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}], "credits": "1600"}
+{
+ "missionId": "733",
+ "missionName": "Absicherung Osterfeuer",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "1600",
+ "version": "205199398782076143659188408201744893467"
+}

@@ -1,1 +1,12 @@
-{"missionId": "186", "missionName": "Pessoa inebriada no mercado de Natal", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "186",
+ "missionName": "Pessoa inebriada no mercado de Natal",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "270018264863694993880806517349477327862"
+}

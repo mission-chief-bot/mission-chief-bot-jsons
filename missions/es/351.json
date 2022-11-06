@@ -1,1 +1,12 @@
-{"missionId": "351", "missionName": "Vendedor callejero ilegal", "requirements": [{"requirement": "coches patrulla", "qty": "5"}], "credits": "3500"}
+{
+ "missionId": "351",
+ "missionName": "Vendedor callejero ilegal",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "5"
+  }
+ ],
+ "credits": "3500",
+ "version": "209548939555710823726708940604965357761"
+}

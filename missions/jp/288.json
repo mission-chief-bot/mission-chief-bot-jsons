@@ -1,1 +1,16 @@
-{"missionId": "288", "missionName": "サイクリスト事故", "requirements": [{"requirement": "警察車両", "qty": "5"}, {"requirement": "最大患者", "qty": "2"}], "credits": "2950"}
+{
+ "missionId": "288",
+ "missionName": "サイクリスト事故",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "5"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "2"
+  }
+ ],
+ "credits": "2950",
+ "version": "210370767561642196178438819704790824920"
+}

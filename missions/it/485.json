@@ -1,1 +1,24 @@
-{"missionId": "485", "missionName": "Bus contro pensilina", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "6"}], "credits": "5000"}
+{
+ "missionId": "485",
+ "missionName": "Bus contro pensilina",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "6"
+  }
+ ],
+ "credits": "5000",
+ "version": "112292034720169540337288967376126637661"
+}

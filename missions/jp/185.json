@@ -1,1 +1,12 @@
-{"missionId": "185", "missionName": "花火による紙容器炎上", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "185",
+ "missionName": "花火による紙容器炎上",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "125750317445631438999826674810782623559"
+}

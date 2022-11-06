@@ -1,1 +1,12 @@
-{"missionId": "561", "missionName": "Fremdkörper in Wunde", "requirements": [{"requirement": "rtw", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "561",
+ "missionName": "Fremdkörper in Wunde",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "96855886091448660071888407963220757854"
+}

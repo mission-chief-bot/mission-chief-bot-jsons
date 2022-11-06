@@ -1,1 +1,12 @@
-{"missionId": "208", "missionName": "Razia s podozrením na falšovanie tovaru", "requirements": [{"requirement": "policajné vozidlá", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "208",
+ "missionName": "Razia s podozrením na falšovanie tovaru",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "320418196679779494019037306281615506641"
+}

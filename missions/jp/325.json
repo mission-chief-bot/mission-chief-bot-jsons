@@ -1,1 +1,16 @@
-{"missionId": "325", "missionName": "春ピクニック中の野生動物襲撃", "requirements": [{"requirement": "警察車両", "qty": "1"}, {"requirement": "最大患者", "qty": "3"}], "credits": "600"}
+{
+ "missionId": "325",
+ "missionName": "春ピクニック中の野生動物襲撃",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "3"
+  }
+ ],
+ "credits": "600",
+ "version": "261717166782310694769604599679088951890"
+}

@@ -1,1 +1,12 @@
-{"missionId": "299", "missionName": "Protecting shamrock fields from St. Patricks Day enthusiasts", "requirements": [{"requirement": "police cars", "qty": "6"}], "credits": "12000"}
+{
+ "missionId": "299",
+ "missionName": "Protecting shamrock fields from St. Patricks Day enthusiasts",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  }
+ ],
+ "credits": "12000",
+ "version": "158308116362226082016188980287103540769"
+}

@@ -1,1 +1,12 @@
-{"missionId": "58", "missionName": "Ild i køkken", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "58",
+ "missionName": "Ild i køkken",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "73337663396208496221252131690469154860"
+}

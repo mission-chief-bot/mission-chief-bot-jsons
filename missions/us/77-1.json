@@ -1,1 +1,24 @@
-{"missionId": "77-1", "missionName": "Burning substation", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "1"},{"requirement": "fire investigation unit", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "77-1",
+ "missionName": "Burning substation",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "87536208843716278016116023457542163937"
+}

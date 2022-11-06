@@ -1,1 +1,16 @@
-{"missionId": "78", "missionName": "Iepuraș de paște lovit", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "78",
+ "missionName": "Iepuraș de paște lovit",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "106423185202995356622554373156513781060"
+}

@@ -1,1 +1,12 @@
-{"missionId": "723", "missionName": "Allergische Reaktion auf Pollen", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "723",
+ "missionName": "Allergische Reaktion auf Pollen",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "94107463699637741918679943158981380097"
+}

@@ -1,1 +1,16 @@
-{"missionId": "280", "missionName": "Blessure due à l'utilisation inappropriée de feux d'artifice", "requirements": [{"requirement": "max. patients", "qty": "3"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "280",
+ "missionName": "Blessure due à l'utilisation inappropriée de feux d'artifice",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "43323195419347478492473668527317284602"
+}

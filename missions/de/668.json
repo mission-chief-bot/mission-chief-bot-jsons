@@ -1,1 +1,12 @@
-{"missionId": "668", "missionName": "Ampelausfall (Regelung erforderlich)", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "200"}
+{
+ "missionId": "668",
+ "missionName": "Ampelausfall (Regelung erforderlich)",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "200",
+ "version": "80459519626533129437221416503553711993"
+}

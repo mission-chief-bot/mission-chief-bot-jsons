@@ -1,1 +1,12 @@
-{"missionId": "531", "missionName": "Brandend bushokje door vuurwerk", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "531",
+ "missionName": "Brandend bushokje door vuurwerk",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "328438965184249057528498998168015560466"
+}

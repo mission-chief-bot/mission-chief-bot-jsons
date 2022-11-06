@@ -1,1 +1,12 @@
-{"missionId": "508", "missionName": "Perquisizione ad Alto Rischio", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "2400"}
+{
+ "missionId": "508",
+ "missionName": "Perquisizione ad Alto Rischio",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "2400",
+ "version": "313055438705980488575309165904537763501"
+}

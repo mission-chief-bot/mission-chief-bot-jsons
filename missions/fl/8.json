@@ -1,1 +1,12 @@
-{"missionId": "8", "missionName": "431 Jäteastiapalo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "8",
+ "missionName": "431 Jäteastiapalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "173277839592122103286309408674892143059"
+}

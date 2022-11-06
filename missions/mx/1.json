@@ -1,1 +1,12 @@
-{"missionId": "1", "missionName": "Contenedor incendiado", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "170"}
+{
+ "missionId": "1",
+ "missionName": "Contenedor incendiado",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "170",
+ "version": "202187846882328235775598390576361331"
+}

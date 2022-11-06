@@ -1,1 +1,12 @@
-{"missionId": "347", "missionName": "Подозрение на аппендицит", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "347",
+ "missionName": "Подозрение на аппендицит",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "188637274627937878513702540045079509781"
+}

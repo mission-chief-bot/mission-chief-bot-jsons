@@ -1,1 +1,12 @@
-{"missionId": "24", "missionName": "Feu d'abri bus", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "24",
+ "missionName": "Feu d'abri bus",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "126284524760235580051141957961268732483"
+}

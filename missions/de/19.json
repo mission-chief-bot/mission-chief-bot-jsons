@@ -1,1 +1,12 @@
-{"missionId": "19", "missionName": "Brennender Anhänger", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "19",
+ "missionName": "Brennender Anhänger",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "228449890603442302996800505299005978497"
+}

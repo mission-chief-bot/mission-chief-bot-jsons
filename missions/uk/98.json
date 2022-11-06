@@ -1,1 +1,20 @@
-{"missionId": "98", "missionName": "Traffic accident - ice", "requirements": [{"requirement": "rescue support vehicles", "qty": "1"}, {"requirement": "fire engines", "qty": "1"}, {"requirement": "max. patients", "qty": "3"}], "credits": "1410"}
+{
+ "missionId": "98",
+ "missionName": "Traffic accident - ice",
+ "requirements": [
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "credits": "1410",
+ "version": "278588010695495421100982092391407865194"
+}

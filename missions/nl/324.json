@@ -1,1 +1,20 @@
-{"missionId": "324", "missionName": "Verkeersongeval met personenauto en motorfiets", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "1"}, {"requirement": "mmt-arts", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "324",
+ "missionName": "Verkeersongeval met personenauto en motorfiets",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  },
+  {
+   "requirement": "mmt-arts",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "245496719698751026869843063781169074997"
+}

@@ -1,1 +1,12 @@
-{"missionId": "314", "missionName": "アニバーサリーパーティゲストが気絶", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "314",
+ "missionName": "アニバーサリーパーティゲストが気絶",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "238394010374258110255667344345565289293"
+}

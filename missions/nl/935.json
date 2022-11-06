@@ -1,1 +1,12 @@
-{"missionId": "935", "missionName": "Gesmolten chocolade haas", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "935",
+ "missionName": "Gesmolten chocolade haas",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "83551206248980453463428851953009719398"
+}

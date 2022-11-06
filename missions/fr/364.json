@@ -1,1 +1,12 @@
-{"missionId": "364", "missionName": "Vol de bijoux", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "364",
+ "missionName": "Vol de bijoux",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "228414248149346080133417738149284351774"
+}

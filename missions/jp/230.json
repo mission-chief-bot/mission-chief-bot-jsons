@@ -1,1 +1,16 @@
-{"missionId": "230", "missionName": "遊具に引っかかり", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "救急車", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "230",
+ "missionName": "遊具に引っかかり",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "206713004124244292244138837118285931613"
+}

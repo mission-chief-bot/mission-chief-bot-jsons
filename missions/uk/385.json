@@ -1,1 +1,12 @@
-{"missionId": "385", "missionName": "Overdose", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "385",
+ "missionName": "Overdose",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "86567967172772108130102091164865317336"
+}

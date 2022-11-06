@@ -1,1 +1,24 @@
-{"missionId": "658", "missionName": "Prisoner bus accident", "requirements": [{"requirement": "police cars", "qty": "10"}, {"requirement": "k-9 units", "qty": "2"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "max. patients", "qty": "5"}], "credits": "2000"}
+{
+ "missionId": "658",
+ "missionName": "Prisoner bus accident",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "10"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "2"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "2000",
+ "version": "162717891254410007498151339831252627618"
+}

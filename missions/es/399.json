@@ -1,1 +1,32 @@
-{"missionId": "399", "missionName": "Accidente con productos biológicos", "requirements": [{"requirement": "camiones de bomberos", "qty": "8"}, {"requirement": "unidades de mando y comunicaciones", "qty": "2"}, {"requirement": "camiones cisterna", "qty": "2"}, {"requirement": "coches patrulla", "qty": "2"}, {"requirement": "vehículos de materiales peligrosos", "qty": "2"}, {"requirement": "ambulancias", "qty": "5"}], "credits": "8500"}
+{
+ "missionId": "399",
+ "missionName": "Accidente con productos biológicos",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "8"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "2"
+  },
+  {
+   "requirement": "camiones cisterna",
+   "qty": "2"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  },
+  {
+   "requirement": "vehículos de materiales peligrosos",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulancias",
+   "qty": "5"
+  }
+ ],
+ "credits": "8500",
+ "version": "226495620884576607583974360493262076264"
+}

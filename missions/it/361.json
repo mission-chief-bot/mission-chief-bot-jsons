@@ -1,1 +1,12 @@
-{"missionId": "361", "missionName": "Taxi - allarme silenzioso", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "361",
+ "missionName": "Taxi - allarme silenzioso",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "200967329126311034282321515350966409654"
+}

@@ -1,1 +1,36 @@
-{"missionId": "669", "missionName": "Reihenhaus in Flammen", "requirements": [{"requirement": "löschfahrzeuge", "qty": "6"}, {"requirement": "drehleitern", "qty": "2"}, {"requirement": "elw 1", "qty": "2"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "nef, rtw", "qty": "2"}, {"requirement": "rtw", "qty": "2"}], "credits": "5000"}
+{
+ "missionId": "669",
+ "missionName": "Reihenhaus in Flammen",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "6"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "2"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "nef, rtw",
+   "qty": "2"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "2"
+  }
+ ],
+ "credits": "5000",
+ "version": "161356646757425301198705252608608351962"
+}

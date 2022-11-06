@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Płonące liście", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Płonące liście",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "109229126664969031488045368743853117025"
+}

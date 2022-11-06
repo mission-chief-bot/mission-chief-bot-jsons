@@ -1,1 +1,20 @@
-{"missionId": "275", "missionName": "霧による交通事故", "requirements": [{"requirement": "消防車", "qty": "2"}, {"requirement": "大型救助車両", "qty": "1"}, {"requirement": "救急車", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "275",
+ "missionName": "霧による交通事故",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "275210861971707420290371308552049943183"
+}

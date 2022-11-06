@@ -1,1 +1,12 @@
-{"missionId": "746", "missionName": "Gestohlene Schokolade", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "746",
+ "missionName": "Gestohlene Schokolade",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "50063228126133216371281910567536023476"
+}

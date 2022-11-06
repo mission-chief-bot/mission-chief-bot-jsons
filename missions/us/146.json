@@ -1,1 +1,12 @@
-{"missionId": "146", "missionName": "Child Birth", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "146",
+ "missionName": "Child Birth",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "280225477070029504825578640784177474476"
+}

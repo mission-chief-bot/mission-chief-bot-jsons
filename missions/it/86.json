@@ -1,1 +1,12 @@
-{"missionId": "86", "missionName": "Auto in fiamme a causa di fuochi d'artificio", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "370"}
+{
+ "missionId": "86",
+ "missionName": "Auto in fiamme a causa di fuochi d'artificio",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "370",
+ "version": "200613573310775058280954120880668100594"
+}

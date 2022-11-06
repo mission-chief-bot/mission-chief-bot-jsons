@@ -1,1 +1,12 @@
-{"missionId": "262", "missionName": "Furto di caramelle", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "262",
+ "missionName": "Furto di caramelle",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "295664887390978776710314247654852465362"
+}

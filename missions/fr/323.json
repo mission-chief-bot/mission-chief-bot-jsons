@@ -1,1 +1,12 @@
-{"missionId": "323", "missionName": "Objet bloqué dans la gorge", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "323",
+ "missionName": "Objet bloqué dans la gorge",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "200722335820012021346110593688928609609"
+}

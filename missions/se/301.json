@@ -1,1 +1,16 @@
-{"missionId": "301", "missionName": "Brand i sovrum efter brinnande ljus", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "301",
+ "missionName": "Brand i sovrum efter brinnande ljus",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "184514108946909238612250436108022608972"
+}

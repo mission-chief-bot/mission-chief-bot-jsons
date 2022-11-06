@@ -1,1 +1,12 @@
-{"missionId": "45", "missionName": "Nasenbluten unstillbar", "requirements": [{"requirement": "rtw", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "45",
+ "missionName": "Nasenbluten unstillbar",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "245375327569695968300998429922751101009"
+}

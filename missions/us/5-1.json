@@ -1,1 +1,24 @@
-{"missionId": "5-1", "missionName": "Room fire", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "fire investigation unit", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1900"}
+{
+ "missionId": "5-1",
+ "missionName": "Room fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1900",
+ "version": "250591186415420908210032636665022274534"
+}

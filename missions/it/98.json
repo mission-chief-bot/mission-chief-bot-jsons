@@ -1,1 +1,12 @@
-{"missionId": "98", "missionName": "Ferita alla mano provocata da fuochi d'artificio", "requirements": [{"requirement": "max pazienti", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "98",
+ "missionName": "Ferita alla mano provocata da fuochi d'artificio",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "99297518586474125028534836655378510862"
+}

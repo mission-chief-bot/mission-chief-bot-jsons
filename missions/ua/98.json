@@ -1,1 +1,12 @@
-{"missionId": "98", "missionName": "Травмований бігун", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "98",
+ "missionName": "Травмований бігун",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "165553324698422687949324054525134829471"
+}

@@ -1,1 +1,16 @@
-{"missionId": "309", "missionName": "Skole Brand (Lille)", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "4"}, {"requirement": "maks. antal patienter", "qty": "6"}], "credits": "3000"}
+{
+ "missionId": "309",
+ "missionName": "Skole Brand (Lille)",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "3000",
+ "version": "171785811906493089031444174816125538198"
+}

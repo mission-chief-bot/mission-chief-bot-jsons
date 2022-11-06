@@ -1,1 +1,12 @@
-{"missionId": "463", "missionName": "Big Jubilee Lunch bbq fire", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "463",
+ "missionName": "Big Jubilee Lunch bbq fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "89326470222883669148069315052223376786"
+}

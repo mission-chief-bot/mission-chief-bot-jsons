@@ -1,1 +1,16 @@
-{"missionId": "383", "missionName": "202 Nokkakolari", "requirements": [{"requirement": "paloautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "383",
+ "missionName": "202 Nokkakolari",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "17042006675319144163675504789875073572"
+}

@@ -1,1 +1,20 @@
-{"missionId": "26", "missionName": "Malý požár v supermarketu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "26",
+ "missionName": "Malý požár v supermarketu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "4"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "292091967165961290056744699240313253384"
+}

@@ -1,1 +1,12 @@
-{"missionId": "760", "missionName": "Jubiläumsgeschenk gestohlen", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "760",
+ "missionName": "Jubiläumsgeschenk gestohlen",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "185130484571965843681136959818422232659"
+}

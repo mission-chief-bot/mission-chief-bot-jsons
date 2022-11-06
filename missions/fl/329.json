@@ -1,1 +1,20 @@
-{"missionId": "329", "missionName": "422 Maastopalo, keskisuuri", "requirements": [{"requirement": "paloautot", "qty": "3"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "letkuajoneuvot", "qty": "1"}], "credits": "1800"}
+{
+ "missionId": "329",
+ "missionName": "422 Maastopalo, keskisuuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1800",
+ "version": "924843006014714627254105155497933810"
+}

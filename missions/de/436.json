@@ -1,1 +1,16 @@
-{"missionId": "436", "missionName": "Verschmutzte Fahrbahn", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "436",
+ "missionName": "Verschmutzte Fahrbahn",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "5132690381962945180003887873129617491"
+}

@@ -1,1 +1,12 @@
-{"missionId": "228", "missionName": "Assistentie treinconducteur", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "2"}
+{
+ "missionId": "228",
+ "missionName": "Assistentie treinconducteur",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "2",
+ "version": "300182055818876688818807250368461651664"
+}

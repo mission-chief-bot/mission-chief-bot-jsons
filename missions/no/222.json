@@ -1,1 +1,12 @@
-{"missionId": "222", "missionName": "Fotpatrulje", "requirements": [ {"requirement": "politibiler", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "222",
+ "missionName": "Fotpatrulje",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "264972130711035381851466809940746316966"
+}

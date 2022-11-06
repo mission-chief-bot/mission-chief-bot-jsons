@@ -1,1 +1,16 @@
-{"missionId": "504", "missionName": "Caccia all'Uovo sott'acqua", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}], "credits": "1670"}
+{
+ "missionId": "504",
+ "missionName": "Caccia all'Uovo sott'acqua",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "1670",
+ "version": "196025617625692165396728407740569664551"
+}

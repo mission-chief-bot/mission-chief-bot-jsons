@@ -1,1 +1,24 @@
-{"missionId": "405", "missionName": "Arbetsplatsolycka - gruva, incident", "requirements": [{"requirement": "släckbilar", "qty": "8"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "kemskyddsenhet", "qty": "1"}], "credits": "6000"}
+{
+ "missionId": "405",
+ "missionName": "Arbetsplatsolycka - gruva, incident",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "8"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "kemskyddsenhet",
+   "qty": "1"
+  }
+ ],
+ "credits": "6000",
+ "version": "143380486060702302029274492448600478037"
+}

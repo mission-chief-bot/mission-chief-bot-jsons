@@ -1,1 +1,12 @@
-{"missionId": "404", "missionName": "Persoon van laadklep gevallen", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "404",
+ "missionName": "Persoon van laadklep gevallen",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "103368174066094057829937796846554030134"
+}

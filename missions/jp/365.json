@@ -1,1 +1,12 @@
-{"missionId": "365", "missionName": "大規模な抗議行動", "requirements": [{"requirement": "警察車両", "qty": "12"}], "credits": "12500"}
+{
+ "missionId": "365",
+ "missionName": "大規模な抗議行動",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "12"
+  }
+ ],
+ "credits": "12500",
+ "version": "1156793904788440170808350246824328029"
+}

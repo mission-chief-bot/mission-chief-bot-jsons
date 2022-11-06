@@ -1,1 +1,28 @@
-{"missionId": "409", "missionName": "Incendie sur un char", "requirements": [{"requirement": "fourgons d’incendie", "qty": "3"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}, {"requirement": "camions-citernes", "qty": "1"}, {"requirement": "voitures de police es", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "409",
+ "missionName": "Incendie sur un char",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "3"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "139616691715985608164450964260398624566"
+}

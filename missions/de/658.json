@@ -1,1 +1,52 @@
-{"missionId": "658", "missionName": "Tunnel unter Wasser (Groß)", "requirements": [{"requirement": "schmutzwasserpumpen", "qty": "2"}, {"requirement": "rüstwagen", "qty": "4"}, {"requirement": "löschfahrzeuge", "qty": "4"}, {"requirement": "gkw", "qty": "2"}, {"requirement": "mzkw", "qty": "2"}, {"requirement": "mtw-tz", "qty": "1"}, {"requirement": "streifenwagen", "qty": "3"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "elw 2", "qty": "1"}, {"requirement": "gw l 2 wasser", "qty": "1"}, {"requirement": "gw-öl", "qty": "1"}], "credits": "7140"}
+{
+ "missionId": "658",
+ "missionName": "Tunnel unter Wasser (Groß)",
+ "requirements": [
+  {
+   "requirement": "schmutzwasserpumpen",
+   "qty": "2"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "4"
+  },
+  {
+   "requirement": "gkw",
+   "qty": "2"
+  },
+  {
+   "requirement": "mzkw",
+   "qty": "2"
+  },
+  {
+   "requirement": "mtw-tz",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 2",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw l 2 wasser",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-öl",
+   "qty": "1"
+  }
+ ],
+ "credits": "7140",
+ "version": "62463463662630810115975387381981763979"
+}

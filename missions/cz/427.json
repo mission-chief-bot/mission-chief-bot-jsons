@@ -1,1 +1,32 @@
-{"missionId": "427", "missionName": "Úder blesku do zaječí nory", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "ta", "qty": "1"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "427",
+ "missionName": "Úder blesku do zaječí nory",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "322756927722065820418300862244445655712"
+}

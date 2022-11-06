@@ -1,1 +1,12 @@
-{"missionId": "352", "missionName": "09 Luvaton henkilö voimalaitosalueella", "requirements": [{"requirement": "poliisiautot", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "352",
+ "missionName": "09 Luvaton henkilö voimalaitosalueella",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "252839180545707752914542632027469810797"
+}

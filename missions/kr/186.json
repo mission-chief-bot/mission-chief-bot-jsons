@@ -1,1 +1,12 @@
-{"missionId": "186", "missionName": "폭죽으로 인한 대형 폐기물 화재", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "186",
+ "missionName": "폭죽으로 인한 대형 폐기물 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "172787245496376771823344763259615472592"
+}

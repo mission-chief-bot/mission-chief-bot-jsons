@@ -1,1 +1,16 @@
-{"missionId": "428", "missionName": "Upphittad ammunition", "requirements": [{"requirement": "polisbilar", "qty": "3"}, {"requirement": "släckbilar", "qty": "2"}], "credits": "2300"}
+{
+ "missionId": "428",
+ "missionName": "Upphittad ammunition",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "2300",
+ "version": "93633176879705703327640242149400667316"
+}

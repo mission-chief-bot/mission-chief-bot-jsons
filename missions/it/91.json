@@ -1,1 +1,16 @@
-{"missionId": "91", "missionName": "Balcone in fiamme a causa di fuochi d'artificio", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "autoscale", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "91",
+ "missionName": "Balcone in fiamme a causa di fuochi d'artificio",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "59377310206971301739152650865594372006"
+}

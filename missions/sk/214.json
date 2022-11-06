@@ -1,1 +1,12 @@
-{"missionId": "214", "missionName": "Pôrod", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "214",
+ "missionName": "Pôrod",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "225498891541688508503071817802001492282"
+}

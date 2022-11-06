@@ -1,1 +1,20 @@
-{"missionId": "126", "missionName": "Fangeflugt", "requirements": [{"requirement": "påkrævede hundepatruljer", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "10"}, {"requirement": "påkrævede politihelikoptere", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "126",
+ "missionName": "Fangeflugt",
+ "requirements": [
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "påkrævede politihelikoptere",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "309118811454238957292723540269852162054"
+}

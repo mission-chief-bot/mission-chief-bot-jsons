@@ -1,1 +1,16 @@
-{"missionId": "384", "missionName": "Intoxication à domicile", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "384",
+ "missionName": "Intoxication à domicile",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "123695908021165713720708388453010120505"
+}

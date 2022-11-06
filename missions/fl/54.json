@@ -1,1 +1,12 @@
-{"missionId": "54", "missionName": "201 Pysäköintionnettomuus", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "54",
+ "missionName": "201 Pysäköintionnettomuus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "238254366651248623144038575745824043175"
+}

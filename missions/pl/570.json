@@ -1,1 +1,36 @@
-{"missionId": "570", "missionName": "Małe ekstremistyczne zamieszki", "requirements": [{"requirement": "oddziały prewencji policji", "qty": "1"},{"requirement": "samochody pożarnicze", "qty": "2"}, {"requirement": "radiowozy", "qty": "12"}, {"requirement": "specjalistyczny sprzęt opp (pickup)", "qty": "1"}, {"requirement": "armatki wodne", "qty": "1"}, {"requirement": "ambulanse opp", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "3"}], "credits": "9500"}
+{
+ "missionId": "570",
+ "missionName": "Małe ekstremistyczne zamieszki",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "12"
+  },
+  {
+   "requirement": "specjalistyczny sprzęt opp (pickup)",
+   "qty": "1"
+  },
+  {
+   "requirement": "armatki wodne",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulanse opp",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "credits": "9500",
+ "version": "90350654156040949654033293898695995106"
+}

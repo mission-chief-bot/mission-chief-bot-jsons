@@ -1,1 +1,12 @@
-{"missionId": "241", "missionName": "Wildunfall", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "241",
+ "missionName": "Wildunfall",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "164836597307199592881202279607172149816"
+}

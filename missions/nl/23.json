@@ -1,1 +1,16 @@
-{"missionId": "23", "missionName": "Brand in cafetaria", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "Brand in cafetaria",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "93627267064481057883495384617040765088"
+}

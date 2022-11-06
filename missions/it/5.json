@@ -1,1 +1,24 @@
-{"missionId": "5", "missionName": "Stanza in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "5",
+ "missionName": "Stanza in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "24919760561655693468102252633805117032"
+}

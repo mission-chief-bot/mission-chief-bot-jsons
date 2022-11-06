@@ -1,1 +1,12 @@
-{"missionId": "80", "missionName": "Corona dell'avvento in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "80",
+ "missionName": "Corona dell'avvento in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "263084436412896881279798403308432220885"
+}

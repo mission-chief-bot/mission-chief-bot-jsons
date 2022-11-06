@@ -1,1 +1,12 @@
-{"missionId": "528", "missionName": "Blocco Intestinale", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "528",
+ "missionName": "Blocco Intestinale",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "41900684849421854319029954645496483061"
+}

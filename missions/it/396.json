@@ -1,1 +1,28 @@
-{"missionId": "396", "missionName": "Incendio Foresta (GRANDE)", "requirements": [{"requirement": "mezzo aib", "qty": "8"}, {"requirement": "ucl", "qty": "1"}, {"requirement": "dos", "qty": "1"}, {"requirement": "kilolitriche", "qty": "1"}, {"requirement": "aqua", "qty": "3"}], "credits": "8000"}
+{
+ "missionId": "396",
+ "missionName": "Incendio Foresta (GRANDE)",
+ "requirements": [
+  {
+   "requirement": "mezzo aib",
+   "qty": "8"
+  },
+  {
+   "requirement": "ucl",
+   "qty": "1"
+  },
+  {
+   "requirement": "dos",
+   "qty": "1"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "1"
+  },
+  {
+   "requirement": "aqua",
+   "qty": "3"
+  }
+ ],
+ "credits": "8000",
+ "version": "250281850584104041748144844098105084915"
+}

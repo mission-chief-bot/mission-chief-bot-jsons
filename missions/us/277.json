@@ -1,1 +1,12 @@
-{"missionId": "277", "missionName": "Unknown structure fire", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "277",
+ "missionName": "Unknown structure fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "82524404762429386655165632907277712573"
+}

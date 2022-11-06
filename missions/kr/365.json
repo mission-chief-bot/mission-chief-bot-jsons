@@ -1,1 +1,16 @@
-{"missionId": "365", "missionName": "단독 주택 흡연", "requirements": [{"requirement": "소방차", "qty": "4"}, {"requirement": "소방대장 차량", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "365",
+ "missionName": "단독 주택 흡연",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "4"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "33714227940477784217261047666763857565"
+}

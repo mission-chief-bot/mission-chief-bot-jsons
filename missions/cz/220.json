@@ -1,1 +1,12 @@
-{"missionId": "220", "missionName": "Požár živého plotu způsobený zábavní pyrotechnikou", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "220",
+ "missionName": "Požár živého plotu způsobený zábavní pyrotechnikou",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "82381185112112946384209189147886232584"
+}

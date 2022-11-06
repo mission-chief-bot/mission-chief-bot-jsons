@@ -1,1 +1,12 @@
-{"missionId": "745", "missionName": "Küchenbrand am Muttertag", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "745",
+ "missionName": "Küchenbrand am Muttertag",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "331918143792561978095159012483797796783"
+}

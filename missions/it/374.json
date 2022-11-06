@@ -1,1 +1,12 @@
-{"missionId": "374", "missionName": "Trauma cranico", "requirements": [{"requirement": "max pazienti", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "374",
+ "missionName": "Trauma cranico",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "1571418125559631244948738181332065738"
+}

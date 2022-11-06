@@ -1,1 +1,20 @@
-{"missionId": "456", "missionName": "Care home fire", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "fire officers", "qty": "1"}, {"requirement": "aerial appliance trucks", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "456",
+ "missionName": "Care home fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "246384462087566865324708551120757377260"
+}

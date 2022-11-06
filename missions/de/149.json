@@ -1,1 +1,12 @@
-{"missionId": "149", "missionName": "Pannenfahrzeug", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "149",
+ "missionName": "Pannenfahrzeug",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "271170356178357484167281892379239160976"
+}

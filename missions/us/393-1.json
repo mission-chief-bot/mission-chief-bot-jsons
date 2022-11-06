@@ -1,1 +1,24 @@
-{"missionId": "393-1", "missionName": "Medium forest fire", "requirements": [{"requirement": "wildland fire engines", "qty": "5"}, {"requirement": "battalion chief vehicles", "qty": "2"}, {"requirement": "water tankers", "qty": "2"}, {"requirement": "fire investigation unit", "qty": "1"}], "credits": "6000"}
+{
+ "missionId": "393-1",
+ "missionName": "Medium forest fire",
+ "requirements": [
+  {
+   "requirement": "wildland fire engines",
+   "qty": "5"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "1"
+  }
+ ],
+ "credits": "6000",
+ "version": "78763517334627654025475502853950831259"
+}

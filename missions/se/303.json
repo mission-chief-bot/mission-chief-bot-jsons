@@ -1,1 +1,16 @@
-{"missionId": "303", "missionName": "Köket brinner ner", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "303",
+ "missionName": "Köket brinner ner",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "177642727230141965587264668513177235768"
+}

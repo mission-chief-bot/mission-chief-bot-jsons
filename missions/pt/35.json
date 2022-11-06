@@ -1,1 +1,12 @@
-{"missionId": "35", "missionName": "Indivíduo alcoolizado", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "35",
+ "missionName": "Indivíduo alcoolizado",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "115872514176502236663382373162016930418"
+}

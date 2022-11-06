@@ -1,1 +1,12 @@
-{"missionId": "262", "missionName": "Papirskade fra åbning af jubilæumsgaver", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "262",
+ "missionName": "Papirskade fra åbning af jubilæumsgaver",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "259239136554551712055558478673659465949"
+}

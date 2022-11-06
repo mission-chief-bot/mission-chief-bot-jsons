@@ -1,1 +1,12 @@
-{"missionId": "104", "missionName": "Brændende påskekurv", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "104",
+ "missionName": "Brændende påskekurv",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "275606732454753498549172277629812384148"
+}

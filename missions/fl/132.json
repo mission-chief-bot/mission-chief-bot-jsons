@@ -1,1 +1,12 @@
-{"missionId": "132", "missionName": "190 Laittoman tavaran salakuljetus", "requirements": [{"requirement": "poliisiautot", "qty": "3"}], "credits": "800"}
+{
+ "missionId": "132",
+ "missionName": "190 Laittoman tavaran salakuljetus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  }
+ ],
+ "credits": "800",
+ "version": "208114319412190027122293619243857678610"
+}

@@ -1,1 +1,12 @@
-{"missionId": "582", "missionName": "Brandende paasmand", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "582",
+ "missionName": "Brandende paasmand",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "110225063855524579756195674508556814664"
+}

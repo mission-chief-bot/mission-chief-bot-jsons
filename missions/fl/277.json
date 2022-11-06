@@ -1,1 +1,12 @@
-{"missionId": "277", "missionName": "791 Synnytys käynnissä", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "277",
+ "missionName": "791 Synnytys käynnissä",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "58255693334721829788815168686524621042"
+}

@@ -1,1 +1,16 @@
-{"missionId": "477", "missionName": "Verkeersongeval scooter", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "2"}], "credits": "300"}
+{
+ "missionId": "477",
+ "missionName": "Verkeersongeval scooter",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "2"
+  }
+ ],
+ "credits": "300",
+ "version": "304596721454961150222430765537023275906"
+}

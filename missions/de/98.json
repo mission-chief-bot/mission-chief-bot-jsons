@@ -1,1 +1,16 @@
-{"missionId": "98", "missionName": "Angefahrene Person", "requirements": [{"requirement": "streifenwagen", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "98",
+ "missionName": "Angefahrene Person",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "297430982509349315033477934730455534855"
+}

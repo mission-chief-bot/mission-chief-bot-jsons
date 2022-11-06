@@ -1,1 +1,12 @@
-{"missionId": "150", "missionName": "Hausfriedensbruch", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "150",
+ "missionName": "Hausfriedensbruch",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "180585526324934810798366466654309330507"
+}

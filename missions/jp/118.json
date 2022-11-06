@@ -1,1 +1,12 @@
-{"missionId": "118", "missionName": "信号機の故障", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "118",
+ "missionName": "信号機の故障",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "156314516527737793450200746693019137718"
+}

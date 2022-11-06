@@ -1,1 +1,16 @@
-{"missionId": "983", "missionName": "Zeiljacht in problemen", "requirements": [{"requirement": "rb-k of rb-g", "qty": "2"}, {"requirement": "sar-heli(s)", "qty": "1"}], "credits": "3080"}
+{
+ "missionId": "983",
+ "missionName": "Zeiljacht in problemen",
+ "requirements": [
+  {
+   "requirement": "rb-k of rb-g",
+   "qty": "2"
+  },
+  {
+   "requirement": "sar-heli(s)",
+   "qty": "1"
+  }
+ ],
+ "credits": "3080",
+ "version": "14657651648715538784463884133357421912"
+}

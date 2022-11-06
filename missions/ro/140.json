@@ -1,1 +1,12 @@
-{"missionId": "140", "missionName": "Câmp de dovleci în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "140",
+ "missionName": "Câmp de dovleci în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "150658837701746738392241688823792918355"
+}

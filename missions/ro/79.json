@@ -1,1 +1,12 @@
-{"missionId": "79", "missionName": "Coșuleț de Paște în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "79",
+ "missionName": "Coșuleț de Paște în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "113437853152582745990372085593014882739"
+}

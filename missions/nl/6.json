@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Brand in tuinhuis", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Brand in tuinhuis",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "311570607492288847056243370316571185390"
+}

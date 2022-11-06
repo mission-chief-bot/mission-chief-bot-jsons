@@ -1,1 +1,48 @@
-{"missionId": "122-1", "missionName": "403 Voimalaitospalo", "requirements": [{"requirement": "paloautot", "qty": "8"}, {"requirement": "johtoautot", "qty": "4"}, {"requirement": "nostolava-autot", "qty": "3"}, {"requirement": "raskaat pelastusautot", "qty": "4"}, {"requirement": "paineilmahuoltoautot", "qty": "2"}, {"requirement": "kemikaalitorjunta-autot", "qty": "1"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "4"}, {"requirement": "suurtehopumput", "qty": "2"}, {"requirement": "letkuajoneuvot", "qty": "3"}], "credits": "15800"}
+{
+ "missionId": "122-1",
+ "missionName": "403 Voimalaitospalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "3"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "suurtehopumput",
+   "qty": "2"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "3"
+  }
+ ],
+ "credits": "15800",
+ "version": "133678513278144063997632208896950969645"
+}

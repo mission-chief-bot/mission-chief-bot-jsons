@@ -1,1 +1,12 @@
-{"missionId": "223", "missionName": "Auto poškozené  zábavní pyrotechnikou", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "223",
+ "missionName": "Auto poškozené  zábavní pyrotechnikou",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "117607128248042699332495731899890094402"
+}

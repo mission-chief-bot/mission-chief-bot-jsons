@@ -1,1 +1,12 @@
-{"missionId": "226", "missionName": "Val van trap", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "226",
+ "missionName": "Val van trap",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "103603513308306100535424216370125629746"
+}

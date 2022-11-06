@@ -1,1 +1,12 @@
-{"missionId": "319", "missionName": "Chokoladerøveri", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "319",
+ "missionName": "Chokoladerøveri",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "156386227181076921651608298665526635630"
+}

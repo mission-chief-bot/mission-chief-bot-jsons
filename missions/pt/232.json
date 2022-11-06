@@ -1,1 +1,12 @@
-{"missionId": "232", "missionName": "Convidados de aniversário roubam as decorações", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "4"}], "credits": "3000"}
+{
+ "missionId": "232",
+ "missionName": "Convidados de aniversário roubam as decorações",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "93934113473557214196669613543050667310"
+}

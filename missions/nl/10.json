@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "Brandende traktor", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "Brandende traktor",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "23150796235678017663073126646670520038"
+}

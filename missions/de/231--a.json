@@ -1,1 +1,24 @@
-{"missionId": "231/a", "missionName": "Entflohener Gefangener", "requirements": [{"requirement": "streifenwagen", "qty": "10"}, {"requirement": "dhufükw", "qty": "1"}, {"requirement": "polizeihubschrauber", "qty": "1"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "4400"}
+{
+ "missionId": "231/a",
+ "missionName": "Entflohener Gefangener",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "10"
+  },
+  {
+   "requirement": "dhufükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "polizeihubschrauber",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "4400",
+ "version": "201018578820155537517567392836088299571"
+}

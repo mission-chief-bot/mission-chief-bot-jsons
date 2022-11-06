@@ -1,1 +1,12 @@
-{"missionId": "47", "missionName": "車上荒らし", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "47",
+ "missionName": "車上荒らし",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "193764939250482024906970408516436336296"
+}

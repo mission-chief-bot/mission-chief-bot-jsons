@@ -1,1 +1,12 @@
-{"missionId": "179", "missionName": "511 Henkilön tarkastaminen", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "179",
+ "missionName": "511 Henkilön tarkastaminen",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "338862933537872860383532094968326699289"
+}

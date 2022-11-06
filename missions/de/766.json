@@ -1,1 +1,12 @@
-{"missionId": "766", "missionName": "Papierschnitt beim Öffnen von Jubiläumsgeschenken", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "766",
+ "missionName": "Papierschnitt beim Öffnen von Jubiläumsgeschenken",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "240013265450826791824755953994008644232"
+}

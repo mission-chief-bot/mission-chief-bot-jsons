@@ -1,1 +1,16 @@
-{"missionId": "314", "missionName": "Серьезное ранение стеклом", "requirements": [{"requirement": "пожарные машины", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "314",
+ "missionName": "Серьезное ранение стеклом",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "229842723910734796309555889890537214004"
+}

@@ -1,1 +1,28 @@
-{"missionId": "289", "missionName": "Incidente NRBQ en vía pública", "requirements": [{"requirement": "camiones de bomberos", "qty": "4"}, {"requirement": "unidades de mando y comunicaciones", "qty": "6"}, {"requirement": "furgones de útiles varios", "qty": "1"}, {"requirement": "vehículos de materiales peligrosos", "qty": "2"}, {"requirement": "coches patrulla", "qty": "10"}], "credits": "10000"}
+{
+ "missionId": "289",
+ "missionName": "Incidente NRBQ en vía pública",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "4"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "6"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "1"
+  },
+  {
+   "requirement": "vehículos de materiales peligrosos",
+   "qty": "2"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "10"
+  }
+ ],
+ "credits": "10000",
+ "version": "147520828204215377467766819421109321113"
+}

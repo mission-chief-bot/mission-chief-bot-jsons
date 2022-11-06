@@ -1,1 +1,16 @@
-{"missionId": "238", "missionName": "Person fast i lekplatsställning", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "238",
+ "missionName": "Person fast i lekplatsställning",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "262624743592167229115848025031668580274"
+}

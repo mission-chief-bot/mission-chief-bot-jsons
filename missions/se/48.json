@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "Pågående inbrott", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "Pågående inbrott",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "305074877604266284151059625249625914584"
+}

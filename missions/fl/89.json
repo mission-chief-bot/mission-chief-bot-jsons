@@ -1,1 +1,12 @@
-{"missionId": "89", "missionName": "202 Auto+eläintraileri liikenneonnettomuudessa", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "89",
+ "missionName": "202 Auto+eläintraileri liikenneonnettomuudessa",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "115830794093988583144653001073282530466"
+}

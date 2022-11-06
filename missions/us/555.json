@@ -1,1 +1,12 @@
-{"missionId": "555", "missionName": "Short Children excursion", "requirements": [{"requirement": "warden trucks", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "555",
+ "missionName": "Short Children excursion",
+ "requirements": [
+  {
+   "requirement": "warden trucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "337026832066374575364614916884572928398"
+}

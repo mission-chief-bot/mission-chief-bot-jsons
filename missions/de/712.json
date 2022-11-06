@@ -1,1 +1,16 @@
-{"missionId": "712", "missionName": "Gestohlene Karnevalsmaske", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "712",
+ "missionName": "Gestohlene Karnevalsmaske",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "174545223986002585423787239738335366286"
+}

@@ -1,1 +1,40 @@
-{"missionId": "34/a", "missionName": "Feu d'ERP - Hôpital", "requirements": [{"requirement": "fourgons d’incendie", "qty": "10"}, {"requirement": "vlhr", "qty": "2"}, {"requirement": "ccf", "qty": "1"}, {"requirement": "moyen elévateur aérien", "qty": "3"}, {"requirement": "camions dévidoir", "qty": "4"}, {"requirement": "motopompes", "qty": "2"}, {"requirement": "max. patients", "qty": "25"}, {"requirement": "DSM","qty": "1"}], "credits": "6300"}
+{
+ "missionId": "34/a",
+ "missionName": "Feu d'ERP - Hôpital",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "10"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "2"
+  },
+  {
+   "requirement": "ccf",
+   "qty": "1"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "3"
+  },
+  {
+   "requirement": "camions dévidoir",
+   "qty": "4"
+  },
+  {
+   "requirement": "motopompes",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "25"
+  },
+  {
+   "requirement": "DSM",
+   "qty": "1"
+  }
+ ],
+ "credits": "6300",
+ "version": "178108277577103449017536768562885072736"
+}

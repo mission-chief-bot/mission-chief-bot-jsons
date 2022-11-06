@@ -1,1 +1,24 @@
-{"missionId": "761-0", "missionName": "Lekkage gevaarlijke stoffen", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "2770"}
+{
+ "missionId": "761-0",
+ "missionName": "Lekkage gevaarlijke stoffen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "2770",
+ "version": "202300376264531248445913484965310633549"
+}

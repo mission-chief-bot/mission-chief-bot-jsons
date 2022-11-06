@@ -1,1 +1,24 @@
-{"missionId": "391", "missionName": "Brand bij afvalverwerker", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "slangenwagens", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "391",
+ "missionName": "Brand bij afvalverwerker",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "slangenwagens",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "139360511137087475463803534309727638188"
+}

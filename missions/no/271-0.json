@@ -1,1 +1,32 @@
-{"missionId": "271-0", "missionName": "Leilighetsbrann i høyblokk", "requirements": [{"requirement": "brannbiler", "qty": "10"}, {"requirement": "innsatsledere fra brann", "qty": "4"}, {"requirement": "stigebil", "qty": "1"}, {"requirement": "slangebiler", "qty": "1"}, {"requirement": "tilhengerpumper", "qty": "1"}, {"requirement": "maks pasienter", "qty": "20"}], "credits": "2500"}
+{
+ "missionId": "271-0",
+ "missionName": "Leilighetsbrann i høyblokk",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "4"
+  },
+  {
+   "requirement": "stigebil",
+   "qty": "1"
+  },
+  {
+   "requirement": "slangebiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "tilhengerpumper",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "20"
+  }
+ ],
+ "credits": "2500",
+ "version": "300508723411230778592961578527799476550"
+}

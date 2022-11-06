@@ -1,1 +1,12 @@
-{"missionId": "209", "missionName": "宝石店強盗", "requirements": [{"requirement": "警察車両", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "209",
+ "missionName": "宝石店強盗",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "259973421893430502914240016967611363503"
+}

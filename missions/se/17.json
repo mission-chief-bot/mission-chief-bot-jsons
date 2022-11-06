@@ -1,1 +1,12 @@
-{"missionId": "17", "missionName": "Brand ute - postlåda", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "17",
+ "missionName": "Brand ute - postlåda",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "29260301539874755333604102160832623540"
+}

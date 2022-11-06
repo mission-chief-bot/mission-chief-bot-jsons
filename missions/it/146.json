@@ -1,1 +1,24 @@
-{"missionId": "146", "missionName": "Coniglietto di Pasqua sulla gru", "requirements": [{"requirement": "autoscale", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "aps/abp", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "146",
+ "missionName": "Coniglietto di Pasqua sulla gru",
+ "requirements": [
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "294216766274443205259860233360161567054"
+}

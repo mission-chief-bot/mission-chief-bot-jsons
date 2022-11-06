@@ -1,1 +1,12 @@
-{"missionId": "271", "missionName": "Výtržnosti na koncerte", "requirements": [{"requirement": "policajné vozidlá", "qty": "3"}], "credits": "1150"}
+{
+ "missionId": "271",
+ "missionName": "Výtržnosti na koncerte",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "3"
+  }
+ ],
+ "credits": "1150",
+ "version": "59114701292215885168071294126473479324"
+}

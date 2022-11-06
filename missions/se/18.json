@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "Brand ute - rishög", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "Brand ute - rishög",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "9130437870786851485133491630011427544"
+}

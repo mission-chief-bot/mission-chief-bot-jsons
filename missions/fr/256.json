@@ -1,1 +1,16 @@
-{"missionId": "256", "missionName": "Perte de connaissance d’un invité à anniversaire", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "256",
+ "missionName": "Perte de connaissance d’un invité à anniversaire",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "338758739948902313890447902460638599088"
+}

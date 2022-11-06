@@ -1,1 +1,16 @@
-{"missionId": "312", "missionName": "Angreb med Våben", "requirements": [{"requirement": "påkrævede politibiler", "qty": "8"}, {"requirement": "maks. antal patienter", "qty": "6"}], "credits": "6000"}
+{
+ "missionId": "312",
+ "missionName": "Angreb med Våben",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "8"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "6000",
+ "version": "166012114906079907620016775653622342264"
+}

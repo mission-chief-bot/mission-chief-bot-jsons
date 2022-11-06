@@ -1,1 +1,16 @@
-{"missionId": "366", "missionName": "Vollstreckung Haftbefehl", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "zivilstreifenwagen, streifenwagen", "qty": "1"}], "credits": "550"}
+{
+ "missionId": "366",
+ "missionName": "Vollstreckung Haftbefehl",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "zivilstreifenwagen, streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "550",
+ "version": "152318479498322101568255176380848607221"
+}

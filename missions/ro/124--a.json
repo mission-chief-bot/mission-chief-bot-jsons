@@ -1,1 +1,28 @@
-{"missionId": "124/a", "missionName": "Incendiu în restaurant fast-food", "requirements": [ {"requirement": "mașini de pompieri necesare", "qty": "5"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "2"}, {"requirement": "camioane cu platformă necesare", "qty": "1"}, {"requirement": "motopompe necesare", "qty": "1"}, {"requirement": "autospeciale pompieri cu apă și spumă necesare", "qty": "1"}], "credits": "2550"}
+{
+ "missionId": "124/a",
+ "missionName": "Incendiu în restaurant fast-food",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "5"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "camioane cu platformă necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "motopompe necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "autospeciale pompieri cu apă și spumă necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "2550",
+ "version": "28012579135357458056493699018099508611"
+}

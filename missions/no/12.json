@@ -1,1 +1,12 @@
-{"missionId": "12", "missionName": "Tre på veien", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "12",
+ "missionName": "Tre på veien",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "229378410972303533556004322980026536040"
+}

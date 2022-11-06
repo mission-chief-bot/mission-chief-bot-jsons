@@ -1,1 +1,20 @@
-{"missionId": "22", "missionName": "402 Kattopalo", "requirements": [{"requirement": "nostolava-autot", "qty": "1"}, {"requirement": "paloautot", "qty": "3"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "2700"}
+{
+ "missionId": "22",
+ "missionName": "402 Kattopalo",
+ "requirements": [
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "2700",
+ "version": "321728769803359845465759481258924578896"
+}

@@ -1,1 +1,12 @@
-{"missionId": "370", "missionName": "Incêndio no baile de carnaval", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "370",
+ "missionName": "Incêndio no baile de carnaval",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "281362452963047964540477574191220839353"
+}

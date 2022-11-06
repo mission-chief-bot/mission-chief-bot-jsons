@@ -1,1 +1,12 @@
-{"missionId": "326", "missionName": "木の実による食中毒", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "326",
+ "missionName": "木の実による食中毒",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "42685185670968832387842900709408150525"
+}

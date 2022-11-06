@@ -1,1 +1,16 @@
-{"missionId": "280", "missionName": "Brann fra romantisk måltid med stearinlys", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "280",
+ "missionName": "Brann fra romantisk måltid med stearinlys",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "20535503541222458904815767892150447326"
+}

@@ -1,1 +1,12 @@
-{"missionId": "486", "missionName": "Speed radar", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "486",
+ "missionName": "Speed radar",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "32896407759778255902426096768002836985"
+}

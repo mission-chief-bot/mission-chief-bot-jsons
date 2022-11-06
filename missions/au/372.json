@@ -1,1 +1,28 @@
-{"missionId": "372", "missionName": "Fire in stadium (Small)", "requirements": [{"requirement": "fire engines", "qty": "5"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "water carriers", "qty": "2"}, {"requirement": "police cars", "qty": "3"}, {"requirement": "max. patients", "qty": "6"}], "credits": "4000"}
+{
+ "missionId": "372",
+ "missionName": "Fire in stadium (Small)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "5"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "4000",
+ "version": "21713214510513733935392130623491658130"
+}

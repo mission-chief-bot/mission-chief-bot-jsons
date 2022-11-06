@@ -1,1 +1,12 @@
-{"missionId": "74", "missionName": "Huiselijk geweld", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "74",
+ "missionName": "Huiselijk geweld",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "25533138846595710904052058711085934968"
+}

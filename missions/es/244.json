@@ -1,1 +1,12 @@
-{"missionId": "244", "missionName": "Bloqueo de carretera principal", "requirements": [{"requirement": "coches patrulla", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "244",
+ "missionName": "Bloqueo de carretera principal",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "317199602256146177972109064379833718232"
+}

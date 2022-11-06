@@ -1,1 +1,16 @@
-{"missionId": "295/a", "missionName": "Tankstellenüberfall", "requirements": [{"requirement": "streifenwagen", "qty": "6"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "295/a",
+ "missionName": "Tankstellenüberfall",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "6"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "235104029818409686312641992563357932361"
+}

@@ -1,1 +1,16 @@
-{"missionId": "224", "missionName": "Dyreangrep", "requirements": [ {"requirement": "politibiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "224",
+ "missionName": "Dyreangrep",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "72889530756388050336271370727497425784"
+}

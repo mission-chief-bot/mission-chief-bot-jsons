@@ -1,1 +1,12 @@
-{"missionId": "487", "missionName": "Reazione allergica alla puntura d'ape", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "487",
+ "missionName": "Reazione allergica alla puntura d'ape",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "255424944870889435375643606089148517347"
+}

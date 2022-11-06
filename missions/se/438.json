@@ -1,1 +1,36 @@
-{"missionId": "438", "missionName": "Explosion - byggnad, restaurang", "requirements": [{"requirement": "släckbilar", "qty": "5"}, {"requirement": "stegbilar", "qty": "2"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "kemskyddsenhet", "qty": "1"}, {"requirement": "tankbilar", "qty": "1"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "4"}], "credits": "5200"}
+{
+ "missionId": "438",
+ "missionName": "Explosion - byggnad, restaurang",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "kemskyddsenhet",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "5200",
+ "version": "106465600808257627756658413476005041779"
+}

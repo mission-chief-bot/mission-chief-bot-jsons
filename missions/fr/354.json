@@ -1,1 +1,16 @@
-{"missionId": "354", "missionName": "Douleur thoracique non traumatique sur lieu de travail", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "354",
+ "missionName": "Douleur thoracique non traumatique sur lieu de travail",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "32123639715584915545470833752658868225"
+}

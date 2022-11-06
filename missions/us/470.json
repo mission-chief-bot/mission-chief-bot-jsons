@@ -1,1 +1,12 @@
-{"missionId": "470", "missionName": "Small wildfire cleanup", "requirements": [{"requirement": "wildland fire engines", "qty": "2"}], "credits": "700"}
+{
+ "missionId": "470",
+ "missionName": "Small wildfire cleanup",
+ "requirements": [
+  {
+   "requirement": "wildland fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "700",
+ "version": "92632361117003092023029642404765162876"
+}

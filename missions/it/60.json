@@ -1,1 +1,24 @@
-{"missionId": "60", "missionName": "Palestra in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "6"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "max pazienti", "qty": "10"}], "credits": "3000"}
+{
+ "missionId": "60",
+ "missionName": "Palestra in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "6"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "10"
+  }
+ ],
+ "credits": "3000",
+ "version": "337656619006660550230783246292146013361"
+}

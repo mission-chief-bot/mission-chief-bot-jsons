@@ -1,1 +1,12 @@
-{"missionId": "157", "missionName": "프랑켄슈타인 목격", "requirements": [{"requirement": "경찰차", "qty": "3"}], "credits": "550"}
+{
+ "missionId": "157",
+ "missionName": "프랑켄슈타인 목격",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "3"
+  }
+ ],
+ "credits": "550",
+ "version": "12320864015966995995132739277762494162"
+}

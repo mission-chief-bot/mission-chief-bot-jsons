@@ -1,1 +1,20 @@
-{"missionId": "262", "missionName": "Kellerbrand durch Feuerwerkskörper", "requirements": [{"requirement": "elw 1", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "maximale patientenanzahl", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "262",
+ "missionName": "Kellerbrand durch Feuerwerkskörper",
+ "requirements": [
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "36560268851690287053063562996284223420"
+}

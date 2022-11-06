@@ -1,1 +1,20 @@
-{"missionId": "818", "missionName": "Aanrijding blokarters", "requirements": [{"requirement": "strandvoertuigen (dat-rb of khv)", "qty": "3"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "4"}], "credits": "3020"}
+{
+ "missionId": "818",
+ "missionName": "Aanrijding blokarters",
+ "requirements": [
+  {
+   "requirement": "strandvoertuigen (dat-rb of khv)",
+   "qty": "3"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "4"
+  }
+ ],
+ "credits": "3020",
+ "version": "160148940903982398881803252077943583993"
+}

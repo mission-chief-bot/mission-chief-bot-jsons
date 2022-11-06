@@ -1,1 +1,12 @@
-{"missionId": "956", "missionName": "Brand in station", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "956",
+ "missionName": "Brand in station",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "84512228109410173837278340970029933736"
+}

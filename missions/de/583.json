@@ -1,1 +1,36 @@
-{"missionId": "583", "missionName": "Massenanfall durch Lebkuchenverzehr (klein)", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "dekon-p", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "25"}], "credits": "2500"}
+{
+ "missionId": "583",
+ "missionName": "Massenanfall durch Lebkuchenverzehr (klein)",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-mess",
+   "qty": "1"
+  },
+  {
+   "requirement": "dekon-p",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "25"
+  }
+ ],
+ "credits": "2500",
+ "version": "313936749166925392278473410769491304601"
+}

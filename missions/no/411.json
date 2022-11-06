@@ -1,1 +1,20 @@
-{"missionId": "411", "missionName": "Eggejakt under vann", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}, {"requirement": "for lett redningsbåt", "qty": "2"}], "credits": "1670"}
+{
+ "missionId": "411",
+ "missionName": "Eggejakt under vann",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "for lett redningsbåt",
+   "qty": "2"
+  }
+ ],
+ "credits": "1670",
+ "version": "318936355306948138038500169469455136718"
+}

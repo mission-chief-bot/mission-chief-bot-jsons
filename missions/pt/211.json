@@ -1,1 +1,12 @@
-{"missionId": "211", "missionName": "Lesão na preparação de fogo-de-artificio", "requirements": [{"requirement": "máx. de pacientes:", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "211",
+ "missionName": "Lesão na preparação de fogo-de-artificio",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "334148558052153747224775244717373661826"
+}

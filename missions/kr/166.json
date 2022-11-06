@@ -1,1 +1,16 @@
-{"missionId": "166", "missionName": "불타는 크리스마스 마켓 가판대", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "610"}
+{
+ "missionId": "166",
+ "missionName": "불타는 크리스마스 마켓 가판대",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "610",
+ "version": "82399664309759062178222474516181733491"
+}

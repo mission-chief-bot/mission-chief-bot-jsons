@@ -1,1 +1,12 @@
-{"missionId": "194", "missionName": "Горящее тыквенное поле", "requirements": [{"requirement": "пожарные машины", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "194",
+ "missionName": "Горящее тыквенное поле",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "104854370258431823854989492476555781121"
+}

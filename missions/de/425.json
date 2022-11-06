@@ -1,1 +1,12 @@
-{"missionId": "425", "missionName": "Verstauchter Knöchel", "requirements": [ {"requirement": "rtw", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "425",
+ "missionName": "Verstauchter Knöchel",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "335449218501862778996268200352488791678"
+}

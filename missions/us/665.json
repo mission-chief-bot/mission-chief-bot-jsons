@@ -1,1 +1,12 @@
-{"missionId": "665", "missionName": "Accident during the carnival ball", "requirements": [{"requirement": "max. patients", "qty": "3"}], "credits": "100"}
+{
+ "missionId": "665",
+ "missionName": "Accident during the carnival ball",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "credits": "100",
+ "version": "258559861814192208857885378717248617390"
+}

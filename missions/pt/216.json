@@ -1,1 +1,16 @@
-{"missionId": "216", "missionName": "Utilização ilegal de fogo-de-artifício", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "216",
+ "missionName": "Utilização ilegal de fogo-de-artifício",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "151675055812092201383010913615146497037"
+}

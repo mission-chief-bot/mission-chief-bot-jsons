@@ -1,1 +1,12 @@
-{"missionId": "175", "missionName": "Deșeuri voluminoase incendiate de artificii", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "175",
+ "missionName": "Deșeuri voluminoase incendiate de artificii",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "62173761625545145734951178997500098909"
+}

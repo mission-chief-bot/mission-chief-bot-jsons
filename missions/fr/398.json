@@ -1,1 +1,12 @@
-{"missionId": "398", "missionName": "Feu sur voie publique sans précisions", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "398",
+ "missionName": "Feu sur voie publique sans précisions",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "15135993619791773464056254642339674707"
+}

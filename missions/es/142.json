@@ -1,1 +1,12 @@
-{"missionId": "142", "missionName": "Choque anafiláctico", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "142",
+ "missionName": "Choque anafiláctico",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "263692404082809386323981096799387916495"
+}

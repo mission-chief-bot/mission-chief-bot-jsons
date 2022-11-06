@@ -1,1 +1,12 @@
-{"missionId": "322", "missionName": "Roubo de automóvel", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "322",
+ "missionName": "Roubo de automóvel",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "247595342621948545392390960756043991562"
+}

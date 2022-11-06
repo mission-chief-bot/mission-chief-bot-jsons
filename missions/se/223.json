@@ -1,1 +1,12 @@
-{"missionId": "223", "missionName": "Stulen jubileumspresent", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "223",
+ "missionName": "Stulen jubileumspresent",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "314643012636378436370570727698676654476"
+}

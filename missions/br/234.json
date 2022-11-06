@@ -1,1 +1,16 @@
-{"missionId": "234", "missionName": "Problemas respiratórios", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "10"}], "credits": "100"}
+{
+ "missionId": "234",
+ "missionName": "Problemas respiratórios",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "10"
+  }
+ ],
+ "credits": "100",
+ "version": "147075616297526611267920153599022965998"
+}

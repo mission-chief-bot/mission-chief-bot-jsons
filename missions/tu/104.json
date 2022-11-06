@@ -1,1 +1,24 @@
-{"missionId": "104", "missionName": "Çöplük yaniyor", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "5"}, {"requirement": "gerekli tabur amiri araçları", "qty": "1"}, {"requirement": "gerekli platformlu kamyonlar", "qty": "1"}, {"requirement": "gerekli su tankerleri", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "104",
+ "missionName": "Çöplük yaniyor",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "5"
+  },
+  {
+   "requirement": "gerekli tabur amiri araçları",
+   "qty": "1"
+  },
+  {
+   "requirement": "gerekli platformlu kamyonlar",
+   "qty": "1"
+  },
+  {
+   "requirement": "gerekli su tankerleri",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "333413059241466744825846550217503525739"
+}

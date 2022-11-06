@@ -1,1 +1,12 @@
-{"missionId": "451", "missionName": "Person, der ligger på jorden", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "451",
+ "missionName": "Person, der ligger på jorden",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "296451572392539038043123780234624245463"
+}

@@ -1,1 +1,16 @@
-{"missionId": "249", "missionName": "Large Hay bale stack on fire", "requirements": [{"requirement": "fire engines", "qty": "3"}, {"requirement": "water carriers", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "249",
+ "missionName": "Large Hay bale stack on fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "3"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "298914838005559379093057214623991239706"
+}

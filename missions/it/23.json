@@ -1,1 +1,12 @@
-{"missionId": "23", "missionName": "Incendio da grasso", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "Incendio da grasso",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "307007266663452607361741857810016354984"
+}

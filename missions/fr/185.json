@@ -1,1 +1,12 @@
-{"missionId": "185", "missionName": "Petit feu de champ causé par des feux d'artifice", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "185",
+ "missionName": "Petit feu de champ causé par des feux d'artifice",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "131837305322334546731303327512567747259"
+}

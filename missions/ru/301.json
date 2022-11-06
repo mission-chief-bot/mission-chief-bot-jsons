@@ -1,1 +1,12 @@
-{"missionId": "301", "missionName": "Обморожение от замораживающего спрея", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "301",
+ "missionName": "Обморожение от замораживающего спрея",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "207876114716601132772878119039266145183"
+}

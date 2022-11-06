@@ -1,1 +1,36 @@
-{"missionId": "70", "missionName": "화재 현장(소방차형 슈퍼마켓)", "requirements": [{"requirement": "소방차", "qty": "6"}, {"requirement": "지휘차", "qty": "2"}, {"requirement": "고가 사다리(TL)", "qty": "1"}, {"requirement": "구조공작차(MRU)", "qty": "1"}, {"requirement": "수상 탱커", "qty": "1"}, {"requirement": "경찰차", "qty": "1"}, {"requirement": "구급차", "qty": "6"}], "credits": "3000"}
+{
+ "missionId": "70",
+ "missionName": "화재 현장(소방차형 슈퍼마켓)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "6"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "2"
+  },
+  {
+   "requirement": "고가 사다리(TL)",
+   "qty": "1"
+  },
+  {
+   "requirement": "구조공작차(MRU)",
+   "qty": "1"
+  },
+  {
+   "requirement": "수상 탱커",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "6"
+  }
+ ],
+ "credits": "3000",
+ "version": "204711495086997121841856639737734656677"
+}

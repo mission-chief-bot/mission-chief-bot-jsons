@@ -1,1 +1,12 @@
-{"missionId": "409", "missionName": "Supervisión de eventos públicos", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1500"}
+{
+ "missionId": "409",
+ "missionName": "Supervisión de eventos públicos",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1500",
+ "version": "271062733620495223061691951829145293166"
+}

@@ -1,1 +1,12 @@
-{"missionId": "224", "missionName": "Brand in kelder", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "224",
+ "missionName": "Brand in kelder",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "106837027203704774835350721905000854871"
+}

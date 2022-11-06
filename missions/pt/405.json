@@ -1,1 +1,16 @@
-{"missionId": "405", "missionName": "Arritmia", "requirements": [{"requirement": "ambulâncias de socorro necessárias:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "405",
+ "missionName": "Arritmia",
+ "requirements": [
+  {
+   "requirement": "ambulâncias de socorro necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "126313100095133938935034600662754497105"
+}

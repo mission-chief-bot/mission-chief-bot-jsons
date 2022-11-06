@@ -1,1 +1,12 @@
-{"missionId": "103", "missionName": "Poleptanie kyselinou", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "103",
+ "missionName": "Poleptanie kyselinou",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "220018860979397202324367334194089300009"
+}

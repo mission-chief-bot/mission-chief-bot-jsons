@@ -1,1 +1,12 @@
-{"missionId": "269", "missionName": "Controllo antidroga", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "269",
+ "missionName": "Controllo antidroga",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "174800518904844245897287428391462255578"
+}

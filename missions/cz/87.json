@@ -1,1 +1,20 @@
-{"missionId": "87", "missionName": "Požár jídelny", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "1300"}
+{
+ "missionId": "87",
+ "missionName": "Požár jídelny",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "1300",
+ "version": "24061255520977344898792336061726427291"
+}

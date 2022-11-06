@@ -1,1 +1,12 @@
-{"missionId": "339", "missionName": "Chute de lucarne", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "339",
+ "missionName": "Chute de lucarne",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "294200904709316019107601361920896147215"
+}

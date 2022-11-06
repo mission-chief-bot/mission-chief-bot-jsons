@@ -1,1 +1,12 @@
-{"missionId": "231", "missionName": "Desaparecimento de convidado de aniversário", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "231",
+ "missionName": "Desaparecimento de convidado de aniversário",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "124429709478610254494534948777035146962"
+}

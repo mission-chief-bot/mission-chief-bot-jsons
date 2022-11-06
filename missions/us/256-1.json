@@ -1,1 +1,48 @@
-{"missionId": "256-1", "missionName": "Hotel fire major", "requirements": [{"requirement": "firetrucks", "qty": "14"}, {"requirement": "battalion chief vehicles", "qty": "4"}, {"requirement": "platform trucks", "qty": "2"}, {"requirement": "heavy rescue vehicles", "qty": "2"}, {"requirement": "water tankers", "qty": "1"}, {"requirement": "mobile air vehicles", "qty": "1"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "6"}, {"requirement": "fire investigation unit", "qty": "2"}, {"requirement": "max. patients", "qty": "50"}], "credits": "13000"}
+{
+ "missionId": "256-1",
+ "missionName": "Hotel fire major",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "14"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "50"
+  }
+ ],
+ "credits": "13000",
+ "version": "220976570338301574497293145064285707193"
+}

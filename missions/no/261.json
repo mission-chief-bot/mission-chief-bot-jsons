@@ -1,1 +1,12 @@
-{"missionId": "261", "missionName": "Gjest spise for mye jubileumskake", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "261",
+ "missionName": "Gjest spise for mye jubileumskake",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "220887378525951628843156488270052698136"
+}

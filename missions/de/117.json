@@ -1,1 +1,12 @@
-{"missionId": "117", "missionName": "Kürbisse geklaut", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "117",
+ "missionName": "Kürbisse geklaut",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "58899923156381275751610420045728455659"
+}

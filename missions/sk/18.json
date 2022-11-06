@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "Horiaci krovinatý porast", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "Horiaci krovinatý porast",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "86151396558575356249721861926911230730"
+}

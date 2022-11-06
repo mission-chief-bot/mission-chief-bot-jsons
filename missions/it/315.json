@@ -1,1 +1,28 @@
-{"missionId": "315", "missionName": "Camion nell'acqua", "requirements": [{"requirement": "pattuglie", "qty": "2"}, {"requirement": "autogrù", "qty": "1"}, {"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "max pazienti", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "315",
+ "missionName": "Camion nell'acqua",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "286397275411396433277755356273859411489"
+}

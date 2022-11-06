@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Brandende boom", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Brandende boom",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "47699296099964260398501568649458265561"
+}

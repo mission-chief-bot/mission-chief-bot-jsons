@@ -1,1 +1,28 @@
-{"missionId": "434/a", "missionName": "Lett flyulykke", "requirements": [{"requirement": "brannbiler", "qty": "3"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "politibiler", "qty": "2"}, {"requirement": "maks pasienter", "qty": "5"}], "credits": "3400"}
+{
+ "missionId": "434/a",
+ "missionName": "Lett flyulykke",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "3400",
+ "version": "304312658849045937121058606841958136056"
+}

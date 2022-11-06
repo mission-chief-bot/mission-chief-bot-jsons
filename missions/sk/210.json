@@ -1,1 +1,12 @@
-{"missionId": "210", "missionName": "Osoba uviaznutá v hracích prvkoch detského ihriska", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "210",
+ "missionName": "Osoba uviaznutá v hracích prvkoch detského ihriska",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "241241243529852248541464955862751008942"
+}

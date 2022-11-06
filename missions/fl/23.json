@@ -1,1 +1,12 @@
-{"missionId": "23", "missionName": "431 Rasvapalo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "431 Rasvapalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "316223781810044857861566509220266859029"
+}

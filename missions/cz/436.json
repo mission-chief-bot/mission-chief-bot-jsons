@@ -1,1 +1,16 @@
-{"missionId": "436", "missionName": "Požár autobusu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "velitelské automobily", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "436",
+ "missionName": "Požár autobusu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "4"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "56604662081321322957658899796822505282"
+}

@@ -1,1 +1,12 @@
-{"missionId": "196", "missionName": "Brand in woonwagen", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "190"}
+{
+ "missionId": "196",
+ "missionName": "Brand in woonwagen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "190",
+ "version": "320544499249614491525276721166480715973"
+}

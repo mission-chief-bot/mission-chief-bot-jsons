@@ -1,1 +1,12 @@
-{"missionId": "196", "missionName": "Artificiu sabotat", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "196",
+ "missionName": "Artificiu sabotat",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "34340296432283842855050964047036151337"
+}

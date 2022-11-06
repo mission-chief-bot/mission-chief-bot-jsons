@@ -1,1 +1,32 @@
-{"missionId": "325", "missionName": "Enorm Skogbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "7"}, {"requirement": "for skogbrann helikopter", "qty": "1"}, {"requirement": "tankbiler", "qty": "4"}, {"requirement": "politibiler", "qty": "4"}, {"requirement": "innsatsstøttebil", "qty": "2"}, {"requirement": "skogbrann kjøretøy", "qty": "10"}], "credits": "11000"}
+{
+ "missionId": "325",
+ "missionName": "Enorm Skogbrann",
+ "requirements": [
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "7"
+  },
+  {
+   "requirement": "for skogbrann helikopter",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "innsatsstøttebil",
+   "qty": "2"
+  },
+  {
+   "requirement": "skogbrann kjøretøy",
+   "qty": "10"
+  }
+ ],
+ "credits": "11000",
+ "version": "90535272209935770410309876338681870109"
+}

@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "Astma aanval", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "48",
+ "missionName": "Astma aanval",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "39749739901472110403444558182216228283"
+}

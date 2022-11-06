@@ -1,1 +1,12 @@
-{"missionId": "328", "missionName": "Bulky waste ignited by fireworks", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "328",
+ "missionName": "Bulky waste ignited by fireworks",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "103585392297102901008639533761176782414"
+}

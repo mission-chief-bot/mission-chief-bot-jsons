@@ -1,1 +1,12 @@
-{"missionId": "145", "missionName": "Alergická reakce", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "145",
+ "missionName": "Alergická reakce",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "110103004066248424600959156612345166791"
+}

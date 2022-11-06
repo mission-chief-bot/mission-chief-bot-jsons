@@ -1,1 +1,12 @@
-{"missionId": "208", "missionName": "Promillekontroll", "requirements": [ {"requirement": "for utrykningspolitibil", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "208",
+ "missionName": "Promillekontroll",
+ "requirements": [
+  {
+   "requirement": "for utrykningspolitibil",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "89443620904379543997436275003812832482"
+}

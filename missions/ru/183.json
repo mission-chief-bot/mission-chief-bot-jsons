@@ -1,1 +1,12 @@
-{"missionId": "183", "missionName": "Происшествие с химическими ожогами", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "183",
+ "missionName": "Происшествие с химическими ожогами",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "194081123641880159576528528252411265235"
+}

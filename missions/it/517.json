@@ -1,1 +1,16 @@
-{"missionId": "517", "missionName": "Rallentamento Traffico", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "polizia stradale", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "517",
+ "missionName": "Rallentamento Traffico",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "polizia stradale",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "2195586049313789417980255596857902686"
+}

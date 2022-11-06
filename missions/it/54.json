@@ -1,1 +1,12 @@
-{"missionId": "54", "missionName": "Incidente contro auto parcheggiata", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "54",
+ "missionName": "Incidente contro auto parcheggiata",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "150417179292777631526657930519053644247"
+}

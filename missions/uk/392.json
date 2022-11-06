@@ -1,1 +1,16 @@
-{"missionId": "392", "missionName": "Large fuel leak from vehicle", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "police cars", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "392",
+ "missionName": "Large fuel leak from vehicle",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "234808864665898122888388869856987328733"
+}

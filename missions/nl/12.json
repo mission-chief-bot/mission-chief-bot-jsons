@@ -1,1 +1,12 @@
-{"missionId": "12", "missionName": "Boom op de weg", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "12",
+ "missionName": "Boom op de weg",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "118576192061444800118710981473911742793"
+}

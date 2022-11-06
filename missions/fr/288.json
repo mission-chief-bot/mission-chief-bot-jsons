@@ -1,1 +1,12 @@
-{"missionId": "288", "missionName": "Cycliste tombé dans un ravin", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "288",
+ "missionName": "Cycliste tombé dans un ravin",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "319174349532441051393162830553159873617"
+}

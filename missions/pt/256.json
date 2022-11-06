@@ -1,1 +1,12 @@
-{"missionId": "256", "missionName": "Motociclista caído em estrada rural", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "256",
+ "missionName": "Motociclista caído em estrada rural",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "147341710255363975804871971211650621949"
+}

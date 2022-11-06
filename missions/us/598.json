@@ -1,1 +1,16 @@
-{"missionId": "598", "missionName": "Lightning strikes house", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "platform trucks", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "598",
+ "missionName": "Lightning strikes house",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "292588780145718375136002224353030605972"
+}

@@ -1,1 +1,12 @@
-{"missionId": "24", "missionName": "Brand ute - busskur", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "24",
+ "missionName": "Brand ute - busskur",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "249126627701806002887433265304700605119"
+}

@@ -1,1 +1,16 @@
-{"missionId": "270", "missionName": "Pád helikoptéry", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}, {"requirement": "policajné vozidlá", "qty": "4"}], "credits": "3400"}
+{
+ "missionId": "270",
+ "missionName": "Pád helikoptéry",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "4"
+  }
+ ],
+ "credits": "3400",
+ "version": "73331428160802054533772924026116929337"
+}

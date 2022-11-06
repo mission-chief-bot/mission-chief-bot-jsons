@@ -1,1 +1,16 @@
-{"missionId": "271", "missionName": "Rookontwikkeling in vrachtruim vliegtuig", "requirements": [{"requirement": "afo/osc", "qty": "1"}, {"requirement": "tankautospuiten", "qty": "1"}], "credits": "1125"}
+{
+ "missionId": "271",
+ "missionName": "Rookontwikkeling in vrachtruim vliegtuig",
+ "requirements": [
+  {
+   "requirement": "afo/osc",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "1125",
+ "version": "317563447811994588775169091577962366432"
+}

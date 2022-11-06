@@ -1,1 +1,16 @@
-{"missionId": "778/a", "missionName": "Brennende Chemietoilette", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"},{"requirement": "funkstreifenwagen", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "778/a",
+ "missionName": "Brennende Chemietoilette",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "42459491927689160019601219669525503873"
+}

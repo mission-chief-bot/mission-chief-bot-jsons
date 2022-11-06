@@ -1,1 +1,24 @@
-{"missionId": "565", "missionName": "Zugriff bei Geldübergabe", "requirements": [{"requirement": "fükw", "qty": "1"}, {"requirement": "mek-fahrzeuge", "qty": "4"}, {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "zivilstreifenwagen, streifenwagen", "qty": "2"}], "credits": "5000"}
+{
+ "missionId": "565",
+ "missionName": "Zugriff bei Geldübergabe",
+ "requirements": [
+  {
+   "requirement": "fükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "mek-fahrzeuge",
+   "qty": "4"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "zivilstreifenwagen, streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "5000",
+ "version": "259867621205780287769497649146587874373"
+}

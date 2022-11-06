@@ -1,1 +1,20 @@
-{"missionId": "593", "missionName": "Begeleiding demonstratie (klein)", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "me groepsvoertuig", "qty": "3"}, {"requirement": "me commandovoertuigen", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "593",
+ "missionName": "Begeleiding demonstratie (klein)",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "me groepsvoertuig",
+   "qty": "3"
+  },
+  {
+   "requirement": "me commandovoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "224279274677315326811126568571380988081"
+}

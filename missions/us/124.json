@@ -1,1 +1,16 @@
-{"missionId": "124", "missionName": "Shooting", "requirements": [{"requirement": "police cars", "qty": "7"}, {"requirement": "max. patients", "qty": "6"}], "credits": "1750"}
+{
+ "missionId": "124",
+ "missionName": "Shooting",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "7"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "1750",
+ "version": "122393332095055975052875122677465538377"
+}

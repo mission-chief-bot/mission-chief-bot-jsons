@@ -1,1 +1,12 @@
-{"missionId": "336", "missionName": "Bus d’une équipe garé sur un stationnement interdit", "requirements": [{"requirement": "voitures de police es", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "336",
+ "missionName": "Bus d’une équipe garé sur un stationnement interdit",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "194126951339513167229775294594061714215"
+}

@@ -1,1 +1,12 @@
-{"missionId": "258", "missionName": "Jubileumsgjest savnet", "requirements": [{"requirement": "politibiler", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "258",
+ "missionName": "Jubileumsgjest savnet",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "24489495972233048803690770087405375292"
+}

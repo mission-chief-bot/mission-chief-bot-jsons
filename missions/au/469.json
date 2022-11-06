@@ -1,1 +1,24 @@
-{"missionId": "469", "missionName": "Ram Raid", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "k-9 units", "qty": "4"}, {"requirement": "riot police group vehicles", "qty": "1"}, {"requirement": "riot police equipment vehicles", "qty": "1"}], "credits": "1750"}
+{
+ "missionId": "469",
+ "missionName": "Ram Raid",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "4"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police equipment vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "1750",
+ "version": "187469622065151536934147129978066757454"
+}

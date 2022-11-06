@@ -1,1 +1,12 @@
-{"missionId": "268", "missionName": "Illegal internet activity", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "268",
+ "missionName": "Illegal internet activity",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "234438590653902021996730198122791897478"
+}

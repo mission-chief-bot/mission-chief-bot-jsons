@@ -1,1 +1,24 @@
-{"missionId": "558", "missionName": "Yacht Bloccato nella Tempesta", "requirements": [{"requirement": "max pazienti", "qty": "4"}, {"requirement": "motovedetta costiera", "qty": "2"}, {"requirement": "elicottero guardia costiera", "qty": "1"}, {"requirement": "motovedetta d'altura", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "558",
+ "missionName": "Yacht Bloccato nella Tempesta",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  },
+  {
+   "requirement": "motovedetta costiera",
+   "qty": "2"
+  },
+  {
+   "requirement": "elicottero guardia costiera",
+   "qty": "1"
+  },
+  {
+   "requirement": "motovedetta d'altura",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "178946098151814848912648410397009369708"
+}

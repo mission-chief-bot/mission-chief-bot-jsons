@@ -1,1 +1,12 @@
-{"missionId": "317", "missionName": "Crise de panique", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "317",
+ "missionName": "Crise de panique",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "116534866666172407922344047129571879919"
+}

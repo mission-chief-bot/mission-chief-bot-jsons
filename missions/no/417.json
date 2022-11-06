@@ -1,1 +1,24 @@
-{"missionId": "417", "missionName": "Knekt lyktestope", "requirements": [{"requirement": "brannbiler", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "maks pasienter", "qty": "6"}], "credits": "2500"}
+{
+ "missionId": "417",
+ "missionName": "Knekt lyktestope",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "2500",
+ "version": "255221426910550035017100485612754640533"
+}

@@ -1,1 +1,12 @@
-{"missionId": "336", "missionName": "Chybějící kapitánská páska", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "336",
+ "missionName": "Chybějící kapitánská páska",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "13484958508146147385625178977506605208"
+}

@@ -1,1 +1,24 @@
-{"missionId": "375", "missionName": "Persoon bekneld onder kerstpakketten", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "1420"}
+{
+ "missionId": "375",
+ "missionName": "Persoon bekneld onder kerstpakketten",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "1420",
+ "version": "74316743832603428482232003788769488536"
+}

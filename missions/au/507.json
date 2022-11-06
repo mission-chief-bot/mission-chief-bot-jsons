@@ -1,1 +1,44 @@
-{"missionId": "507", "missionName": "Petrol Bowser Fire", "requirements": [{"requirement": "bulk water tankers", "qty": "1"}, {"requirement": "fire engines", "qty": "8"}, {"requirement": "support vehicles", "qty": "3"}, {"requirement": "major rescue vehicles", "qty": "2"}, {"requirement": "hazmat units", "qty": "1"}, {"requirement": "basu", "qty": "1"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "max. patients", "qty": "5"}], "credits": "4000"}
+{
+ "missionId": "507",
+ "missionName": "Petrol Bowser Fire",
+ "requirements": [
+  {
+   "requirement": "bulk water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "8"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "hazmat units",
+   "qty": "1"
+  },
+  {
+   "requirement": "basu",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "4000",
+ "version": "217286206231461212379940305623175495153"
+}

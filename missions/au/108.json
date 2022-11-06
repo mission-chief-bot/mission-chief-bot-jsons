@@ -1,1 +1,32 @@
-{"missionId": "108", "missionName": "Burning thatched roof house ignited by fireworks", "requirements": [{"requirement": "fire engines", "qty": "5"}, {"requirement": "turntable ladder trucks", "qty": "1"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "basu", "qty": "1"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "2"}], "credits": "4200"}
+{
+ "missionId": "108",
+ "missionName": "Burning thatched roof house ignited by fireworks",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "5"
+  },
+  {
+   "requirement": "turntable ladder trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "basu",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "4200",
+ "version": "246191011635497397733068532403320436334"
+}

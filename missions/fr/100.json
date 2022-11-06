@@ -1,1 +1,20 @@
-{"missionId": "100", "missionName": "Camion poubelle en feu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "3"}, {"requirement": "chefs de groupe", "qty": "2"}, {"requirement": "voitures de police es", "qty": "1"}], "credits": "1700"}
+{
+ "missionId": "100",
+ "missionName": "Camion poubelle en feu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "3"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "2"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "1700",
+ "version": "116634937017892371837284184272458205246"
+}

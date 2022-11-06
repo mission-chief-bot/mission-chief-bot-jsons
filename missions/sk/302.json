@@ -1,1 +1,16 @@
-{"missionId": "302", "missionName": "Požiar na štadióne (stredný)", "requirements": [{"requirement": "hasičské automobily", "qty": "8"}, {"requirement": "policajné vozidlá", "qty": "3"}], "credits": "7500"}
+{
+ "missionId": "302",
+ "missionName": "Požiar na štadióne (stredný)",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "8"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "3"
+  }
+ ],
+ "credits": "7500",
+ "version": "121398210874781046585712473788695874854"
+}

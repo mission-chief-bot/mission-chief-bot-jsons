@@ -1,1 +1,12 @@
-{"missionId": "261", "missionName": "Denuncia por exceso de ruido durante una discusión de pareja", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "261",
+ "missionName": "Denuncia por exceso de ruido durante una discusión de pareja",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "35928158877227511256698939094808058158"
+}

@@ -1,1 +1,12 @@
-{"missionId": "191", "missionName": "花火による手の負傷", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "191",
+ "missionName": "花火による手の負傷",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "256899305819379765185316390274922072279"
+}

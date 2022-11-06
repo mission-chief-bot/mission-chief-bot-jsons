@@ -1,1 +1,12 @@
-{"missionId": "239", "missionName": "Verstikking", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "239",
+ "missionName": "Verstikking",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "321223927025016123282596697595710524584"
+}

@@ -1,1 +1,16 @@
-{"missionId": "104", "missionName": "Fire on balcony caused by fireworks", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "turntable ladder trucks", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "104",
+ "missionName": "Fire on balcony caused by fireworks",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "turntable ladder trucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "25838777012405351175386947481679035051"
+}

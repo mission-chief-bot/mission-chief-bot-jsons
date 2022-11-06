@@ -1,1 +1,12 @@
-{"missionId": "151", "missionName": "Radar de velocidade", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "151",
+ "missionName": "Radar de velocidade",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "85495215437168241927875462631594692244"
+}

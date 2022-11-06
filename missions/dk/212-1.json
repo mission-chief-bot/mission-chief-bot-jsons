@@ -1,1 +1,20 @@
-{"missionId": "212-1", "missionName": "Brændende Godsvogn", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "5"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"},{ "requirement": "skum tender påkrævet", "qty": "1" }], "credits": "1500"}
+{
+ "missionId": "212-1",
+ "missionName": "Brændende Godsvogn",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "skum tender påkrævet",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "292737922195718563324902943131869705792"
+}

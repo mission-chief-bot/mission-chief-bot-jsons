@@ -1,1 +1,16 @@
-{"missionId": "259", "missionName": "Guarding inner-city New Year's Eve party", "requirements": [{"requirement": "ambulances", "qty": "2"}, {"requirement": "police cars", "qty": "4"}], "credits": "15000"}
+{
+ "missionId": "259",
+ "missionName": "Guarding inner-city New Year's Eve party",
+ "requirements": [
+  {
+   "requirement": "ambulances",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  }
+ ],
+ "credits": "15000",
+ "version": "61106395762366409011653751382833895786"
+}

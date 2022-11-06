@@ -1,1 +1,11 @@
-{"missionId": "621", "missionName": "Barbecuebrand", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}]}
+{
+ "missionId": "621",
+ "missionName": "Barbecuebrand",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "version": "308824697822756402203756507705776633956"
+}

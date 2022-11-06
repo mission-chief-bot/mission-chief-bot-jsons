@@ -1,1 +1,24 @@
-{"missionId": "34", "missionName": "Займання у лікарні", "requirements": [{"requirement": "пожежні машини", "qty": "10"}, {"requirement": "штабні автомобілі", "qty": "2"}, {"requirement": "пожежно-рятувальні автомобілі", "qty": "2"}, {"requirement": "пожежні автодрабини", "qty": "3"}], "credits": "6000"}
+{
+ "missionId": "34",
+ "missionName": "Займання у лікарні",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "10"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "2"
+  },
+  {
+   "requirement": "пожежно-рятувальні автомобілі",
+   "qty": "2"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "3"
+  }
+ ],
+ "credits": "6000",
+ "version": "227401228568020382352145667002520201246"
+}

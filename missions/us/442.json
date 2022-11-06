@@ -1,1 +1,24 @@
-{"missionId": "442", "missionName": "Office used for crypto attacks", "requirements": [{"requirement": "fbi units", "qty": "3"}, {"requirement": "fbi investigation wagons", "qty": "1"}, {"requirement": "fbi mobile command centers", "qty": "1"}, {"requirement": "police cars", "qty": "2"}], "credits": "1600"}
+{
+ "missionId": "442",
+ "missionName": "Office used for crypto attacks",
+ "requirements": [
+  {
+   "requirement": "fbi units",
+   "qty": "3"
+  },
+  {
+   "requirement": "fbi investigation wagons",
+   "qty": "1"
+  },
+  {
+   "requirement": "fbi mobile command centers",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "1600",
+ "version": "90489945961630458903277468628656589820"
+}

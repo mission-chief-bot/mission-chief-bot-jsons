@@ -1,1 +1,28 @@
-{"missionId": "587", "missionName": "Weihnachtsmann in Kamin steckengeblieben", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "feuerwehrkräne (fwk)", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "587",
+ "missionName": "Weihnachtsmann in Kamin steckengeblieben",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "feuerwehrkräne (fwk)",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "81902526038376856540378288168178504835"
+}

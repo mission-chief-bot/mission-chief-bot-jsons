@@ -1,1 +1,20 @@
-{"missionId": "246", "missionName": "Caída de un transportista", "requirements": [{"requirement": "unidades de mando y comunicaciones", "qty": "1"}, {"requirement": "camiones de bomberos", "qty": "1"}, {"requirement": "camiones con plataforma", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "246",
+ "missionName": "Caída de un transportista",
+ "requirements": [
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "122762033126866489379473878401536546514"
+}

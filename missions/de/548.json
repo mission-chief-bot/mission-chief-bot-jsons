@@ -1,1 +1,12 @@
-{"missionId": "548", "missionName": "Grillbrand", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "548",
+ "missionName": "Grillbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "269451285327635896307170467321196657955"
+}

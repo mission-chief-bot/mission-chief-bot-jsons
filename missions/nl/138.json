@@ -1,1 +1,16 @@
-{"missionId": "138", "missionName": "Brand in meterkast", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}], "credits": "170"}
+{
+ "missionId": "138",
+ "missionName": "Brand in meterkast",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "170",
+ "version": "155646043441993609306526043444310517778"
+}

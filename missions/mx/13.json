@@ -1,1 +1,12 @@
-{"missionId": "13", "missionName": "Camión en llamas", "requirements": [{"requirement": "camiones de bomberos", "qty": "2"}], "credits": "980"}
+{
+ "missionId": "13",
+ "missionName": "Camión en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  }
+ ],
+ "credits": "980",
+ "version": "331308097123557630209577860803460615175"
+}

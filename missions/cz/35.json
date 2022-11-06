@@ -1,1 +1,12 @@
-{"missionId": "35", "missionName": "Otrava alkoholem", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "35",
+ "missionName": "Otrava alkoholem",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "184309693979389875786215684409600263584"
+}

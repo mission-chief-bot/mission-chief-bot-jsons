@@ -1,1 +1,16 @@
-{"missionId": "185", "missionName": "Person i vann", "requirements": [{"requirement": "for lett redningsbåt", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "185",
+ "missionName": "Person i vann",
+ "requirements": [
+  {
+   "requirement": "for lett redningsbåt",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "193974479595539915481748618107678893634"
+}

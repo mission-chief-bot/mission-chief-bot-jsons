@@ -1,1 +1,12 @@
-{"missionId": "112", "missionName": "Allvarlig brännskada", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "112",
+ "missionName": "Allvarlig brännskada",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "286839943244473135684526911612815837086"
+}

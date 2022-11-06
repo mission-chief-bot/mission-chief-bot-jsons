@@ -1,1 +1,32 @@
-{"missionId": "321-0", "missionName": "Enorm Lyngbrann", "requirements": [ {"requirement": "innsatsledere fra brann", "qty": "3"}, {"requirement": "tankbiler", "qty": "8"}, {"requirement": "politibiler", "qty": "2"}, {"requirement": "slangebiler", "qty": "2"}, {"requirement": "tilhengerpumper", "qty": "2"}, {"requirement": "innsatsstøttebil", "qty": "1"}], "credits": "12000"}
+{
+ "missionId": "321-0",
+ "missionName": "Enorm Lyngbrann",
+ "requirements": [
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "3"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "8"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "slangebiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "tilhengerpumper",
+   "qty": "2"
+  },
+  {
+   "requirement": "innsatsstøttebil",
+   "qty": "1"
+  }
+ ],
+ "credits": "12000",
+ "version": "58757799416994428132487273867096103888"
+}

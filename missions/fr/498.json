@@ -1,1 +1,20 @@
-{"missionId": "498", "missionName": "Marins piégés dans un navire de guerre chaviré", "requirements": [{"requirement": "canot tous temps", "qty": "2"}, {"requirement": "dragon", "qty": "1"}, {"requirement": "max. patients", "qty": "4"}], "credits": "9000"}
+{
+ "missionId": "498",
+ "missionName": "Marins piégés dans un navire de guerre chaviré",
+ "requirements": [
+  {
+   "requirement": "canot tous temps",
+   "qty": "2"
+  },
+  {
+   "requirement": "dragon",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "9000",
+ "version": "75473750071038792371725271586630464024"
+}

@@ -1,1 +1,12 @@
-{"missionId": "233", "missionName": "Brændende busskur antændt af fyrværkeri", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "233",
+ "missionName": "Brændende busskur antændt af fyrværkeri",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "109148055620470507876196067896810661698"
+}

@@ -1,1 +1,12 @@
-{"missionId": "165", "missionName": "Incendio por barbacoa", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "165",
+ "missionName": "Incendio por barbacoa",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "114211142473379645691366515340059338255"
+}

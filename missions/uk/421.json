@@ -1,1 +1,12 @@
-{"missionId": "421", "missionName": "Late fire call", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "421",
+ "missionName": "Late fire call",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "98296774836228211251492597598488654600"
+}

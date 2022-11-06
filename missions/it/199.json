@@ -1,1 +1,12 @@
-{"missionId": "199", "missionName": "Cambio catetere", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "199",
+ "missionName": "Cambio catetere",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "255596855924324482388127609583344061080"
+}

@@ -1,1 +1,28 @@
-{"missionId": "69", "missionName": "Ukjent tankutslipp", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "tungredningsbiler", "qty": "2"}, {"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "politibiler", "qty": "3"}, {"requirement": "cbrne enheter", "qty": "1"}], "credits": "4300"}
+{
+ "missionId": "69",
+ "missionName": "Ukjent tankutslipp",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "2"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "cbrne enheter",
+   "qty": "1"
+  }
+ ],
+ "credits": "4300",
+ "version": "169652263132232977076783736919449264242"
+}

@@ -1,1 +1,24 @@
-{"missionId": "370-1", "missionName": "Large Wildfire", "requirements": [{"requirement": "battalion chief vehicles", "qty": "2"}, {"requirement": "water tankers", "qty": "4"}, {"requirement": "wildland fire engines", "qty": "6"}, {"requirement": "fire investigation unit", "qty": "2"}], "credits": "7500"}
+{
+ "missionId": "370-1",
+ "missionName": "Large Wildfire",
+ "requirements": [
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "4"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "2"
+  }
+ ],
+ "credits": "7500",
+ "version": "67325203775714987769214244066068836634"
+}

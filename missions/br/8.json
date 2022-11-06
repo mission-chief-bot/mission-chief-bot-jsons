@@ -1,1 +1,12 @@
-{"missionId": "8", "missionName": "Fogo em lixo em massa", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "8",
+ "missionName": "Fogo em lixo em massa",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "45464242169146848669807273848053598757"
+}

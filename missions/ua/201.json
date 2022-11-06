@@ -1,1 +1,12 @@
-{"missionId": "201", "missionName": "Кіт на дереві", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "375"}
+{
+ "missionId": "201",
+ "missionName": "Кіт на дереві",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "375",
+ "version": "330692752958808515601979892297019554195"
+}

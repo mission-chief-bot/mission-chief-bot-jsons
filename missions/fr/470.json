@@ -1,1 +1,16 @@
-{"missionId": "470", "missionName": "Inondation dans une petite maison suite à intempéries", "requirements": [{"requirement": "vtu", "qty": "1"}, {"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "850"}
+{
+ "missionId": "470",
+ "missionName": "Inondation dans une petite maison suite à intempéries",
+ "requirements": [
+  {
+   "requirement": "vtu",
+   "qty": "1"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "850",
+ "version": "30410096934424111285423061744254976268"
+}

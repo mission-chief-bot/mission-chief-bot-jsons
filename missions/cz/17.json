@@ -1,1 +1,12 @@
-{"missionId": "17", "missionName": "Hořící poštovní schránka", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "17",
+ "missionName": "Hořící poštovní schránka",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "266588570215733712723061869668097636664"
+}

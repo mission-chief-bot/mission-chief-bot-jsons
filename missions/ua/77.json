@@ -1,1 +1,12 @@
-{"missionId": "77", "missionName": "Насильство службовій особі", "requirements": [{"requirement": "поліцейські машини", "qty": "2"}], "credits": "750"}
+{
+ "missionId": "77",
+ "missionName": "Насильство службовій особі",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "750",
+ "version": "145272812950619570725060650687588457775"
+}

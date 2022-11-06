@@ -1,1 +1,12 @@
-{"missionId": "137", "missionName": "Spazzola rubata dall'officina", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "137",
+ "missionName": "Spazzola rubata dall'officina",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "27612572484889453635042896247789980551"
+}

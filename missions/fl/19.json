@@ -1,1 +1,12 @@
-{"missionId": "19", "missionName": "411 Perävaunupalo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "19",
+ "missionName": "411 Perävaunupalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "45649968601334419682680178884290342859"
+}

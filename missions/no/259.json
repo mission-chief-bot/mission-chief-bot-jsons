@@ -1,1 +1,12 @@
-{"missionId": "259", "missionName": "Jubileumsgjester stjal dekorasjon", "requirements": [{"requirement": "politibiler", "qty": "4"}], "credits": "3000"}
+{
+ "missionId": "259",
+ "missionName": "Jubileumsgjester stjal dekorasjon",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "129814412749912135377536231721107700370"
+}

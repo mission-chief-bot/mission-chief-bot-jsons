@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Feu de cabine téléphonique", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Feu de cabine téléphonique",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "178864122275322871861262649541488610106"
+}

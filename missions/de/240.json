@@ -1,1 +1,36 @@
-{"missionId": "240", "missionName": "Gasgeruch", "requirements": [ {"requirement": "elw 1", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "dekon-p", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "gw-gefahrgut", "qty": "1"}, {"requirement": "rtw, naw", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "240",
+ "missionName": "Gasgeruch",
+ "requirements": [
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "dekon-p",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-mess",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-gefahrgut",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "80041619824871181736314692613644193868"
+}

@@ -1,1 +1,12 @@
-{"missionId": "27", "missionName": "Garaj yangını", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "27",
+ "missionName": "Garaj yangını",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "88526310533341881096194105929360229485"
+}

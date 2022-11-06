@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "Incêndio numa mota", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "Incêndio numa mota",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "143289067861119782978885354626354888017"
+}

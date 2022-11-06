@@ -1,1 +1,12 @@
-{"missionId": "672", "missionName": "Allergic reaction to bee sting", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "550"}
+{
+ "missionId": "672",
+ "missionName": "Allergic reaction to bee sting",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "550",
+ "version": "27076420030757090505057255933367331445"
+}

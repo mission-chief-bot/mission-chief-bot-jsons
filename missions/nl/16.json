@@ -1,1 +1,24 @@
-{"missionId": "16", "missionName": "Brand in woonwagen", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "Brand in woonwagen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "5578494444831783118614895803845443726"
+}

@@ -1,1 +1,16 @@
-{"missionId": "349", "missionName": "Сбитый велосипедист", "requirements": [{"requirement": "полицейские автомобили", "qty": "5"}, {"requirement": "макс. пациенты", "qty": "2"}], "credits": "2950"}
+{
+ "missionId": "349",
+ "missionName": "Сбитый велосипедист",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "5"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "2"
+  }
+ ],
+ "credits": "2950",
+ "version": "285678238904083131576237056251141222113"
+}

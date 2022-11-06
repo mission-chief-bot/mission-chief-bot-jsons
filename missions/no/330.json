@@ -1,1 +1,12 @@
-{"missionId": "330", "missionName": "Middels Skogbrann Opprydding", "requirements": [{"requirement": "skogbrann kjøretøy", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "330",
+ "missionName": "Middels Skogbrann Opprydding",
+ "requirements": [
+  {
+   "requirement": "skogbrann kjøretøy",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "286446025825672516448430560519094029919"
+}

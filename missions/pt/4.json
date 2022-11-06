@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Incêndio num relvado", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "Incêndio num relvado",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "248273476085045230963681489803798213808"
+}

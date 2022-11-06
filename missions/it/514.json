@@ -1,1 +1,16 @@
-{"missionId": "514", "missionName": "Controllo Azienda Agricola", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "pattuglia forestale", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "514",
+ "missionName": "Controllo Azienda Agricola",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglia forestale",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "158988657727499505197738200064497424260"
+}

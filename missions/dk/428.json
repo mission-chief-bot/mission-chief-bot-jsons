@@ -1,1 +1,16 @@
-{"missionId": "428", "missionName": "Chokolade hare låst inde i bil", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "428",
+ "missionName": "Chokolade hare låst inde i bil",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "67193589427835605949098876711582572085"
+}

@@ -1,1 +1,12 @@
-{"missionId": "437", "missionName": "Quelqu'un vole des veaux", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "437",
+ "missionName": "Quelqu'un vole des veaux",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "17464533479703408279122457668683906143"
+}

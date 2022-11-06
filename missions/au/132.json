@@ -1,1 +1,12 @@
-{"missionId": "132", "missionName": "3rd degree burns", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "132",
+ "missionName": "3rd degree burns",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "102123210036560074988198827171588350763"
+}

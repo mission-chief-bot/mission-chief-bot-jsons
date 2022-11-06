@@ -1,1 +1,12 @@
-{"missionId": "494", "missionName": "Ladro di bovini in fuga", "requirements": [{"requirement": "pattuglie", "qty": "5"}], "credits": "900"}
+{
+ "missionId": "494",
+ "missionName": "Ladro di bovini in fuga",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "5"
+  }
+ ],
+ "credits": "900",
+ "version": "146714719538553368242888524175917065153"
+}

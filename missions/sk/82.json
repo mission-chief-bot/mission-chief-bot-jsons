@@ -1,1 +1,12 @@
-{"missionId": "82", "missionName": "Otrava jedlom", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "82",
+ "missionName": "Otrava jedlom",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "28062303448567569997941588539217122853"
+}

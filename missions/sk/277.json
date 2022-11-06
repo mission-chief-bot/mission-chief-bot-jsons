@@ -1,1 +1,12 @@
-{"missionId": "277", "missionName": "Priemyselný požiar (veľký)", "requirements": [{"requirement": "hasičské automobily", "qty": "8"}], "credits": "9000"}
+{
+ "missionId": "277",
+ "missionName": "Priemyselný požiar (veľký)",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "8"
+  }
+ ],
+ "credits": "9000",
+ "version": "32321766854230906878046486956407366386"
+}

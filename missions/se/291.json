@@ -1,1 +1,12 @@
-{"missionId": "291", "missionName": "Stroke", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "291",
+ "missionName": "Stroke",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "111609280149952476069210809741044311790"
+}

@@ -1,1 +1,12 @@
-{"missionId": "97", "missionName": "Camión con semirremolque en llamas", "requirements": [{"requirement": "camiones de bomberos", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "97",
+ "missionName": "Camión con semirremolque en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "57276673261906517934157750032539666681"
+}

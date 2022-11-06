@@ -1,1 +1,16 @@
-{"missionId": "311", "missionName": "032 Henkilöä puukotettu", "requirements": [{"requirement": "poliisiautot", "qty": "2"}, {"requirement": "koirapartiot", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "311",
+ "missionName": "032 Henkilöä puukotettu",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "155450307185625046986067025443662077034"
+}

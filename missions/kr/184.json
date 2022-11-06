@@ -1,1 +1,24 @@
-{"missionId": "184", "missionName": "산사태", "requirements": [{"requirement": "소방차", "qty": "4"}, {"requirement": "지휘차", "qty": "1"}, {"requirement": "구조공작차(MRU)", "qty": "2"}, {"requirement": "구급차", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "184",
+ "missionName": "산사태",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "4"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "1"
+  },
+  {
+   "requirement": "구조공작차(MRU)",
+   "qty": "2"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "266735319191679052415566282762950386342"
+}

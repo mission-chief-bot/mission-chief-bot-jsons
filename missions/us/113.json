@@ -1,1 +1,16 @@
-{"missionId": "113", "missionName": "Smoke in Cabin", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "arff", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "113",
+ "missionName": "Smoke in Cabin",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "arff",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "11847670067487163000145142953260026491"
+}

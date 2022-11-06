@@ -1,1 +1,36 @@
-{"missionId": "245", "missionName": "Incidente CBRNE em um local público", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "4"}, {"requirement": "viaturas de batalhão necessárias", "qty": "6"}, {"requirement": "veículos de resgate pesado necessários", "qty": "1"}, {"requirement": "viaturas de produtos perigosos necessárias", "qty": "2"}, {"requirement": "viaturas de polícia necessárias", "qty": "10"}, {"requirement": "máx. de pacientes", "qty": "30"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "75"}], "credits": "10000"}
+{
+ "missionId": "245",
+ "missionName": "Incidente CBRNE em um local público",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "6"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de produtos perigosos necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "10"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "30"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "75"
+  }
+ ],
+ "credits": "10000",
+ "version": "25295743831696723447084885329995032675"
+}

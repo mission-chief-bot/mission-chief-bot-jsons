@@ -1,1 +1,12 @@
-{"missionId": "12", "missionName": "Tree on the road", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "12",
+ "missionName": "Tree on the road",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "139007185766758120812133386208437810379"
+}

@@ -1,1 +1,20 @@
-{"missionId": "137", "missionName": "Straw bale stack on fire", "requirements": [{"requirement": "fire engines", "qty": "5"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "water carriers", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "137",
+ "missionName": "Straw bale stack on fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "5"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "284686962393712698254231008134672250509"
+}

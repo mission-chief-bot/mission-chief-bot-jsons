@@ -1,1 +1,12 @@
-{"missionId": "152", "missionName": "Essouflement - Antécédants cardiaques", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "152",
+ "missionName": "Essouflement - Antécédants cardiaques",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "193270140024532129039430558341963422046"
+}

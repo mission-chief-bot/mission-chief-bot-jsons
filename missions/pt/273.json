@@ -1,1 +1,12 @@
-{"missionId": "273", "missionName": "Suspeito sob observação", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}], "credits": "3000"}
+{
+ "missionId": "273",
+ "missionName": "Suspeito sob observação",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "3000",
+ "version": "271193282397102830977405922941824541403"
+}

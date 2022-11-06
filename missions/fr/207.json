@@ -1,1 +1,12 @@
-{"missionId": "207", "missionName": "Brûlure chimique", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "207",
+ "missionName": "Brûlure chimique",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "31831779240049766357790509010507101393"
+}

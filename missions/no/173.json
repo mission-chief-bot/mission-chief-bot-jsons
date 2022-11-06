@@ -1,1 +1,12 @@
-{"missionId": "173", "missionName": "Uhell med syre", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "173",
+ "missionName": "Uhell med syre",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "170581280346744906030130219258061004374"
+}

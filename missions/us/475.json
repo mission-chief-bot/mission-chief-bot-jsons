@@ -1,1 +1,16 @@
-{"missionId": "475", "missionName": "Person stuck on playground equipment", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "475",
+ "missionName": "Person stuck on playground equipment",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "54322697753857906877970892707496761476"
+}

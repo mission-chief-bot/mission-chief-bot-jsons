@@ -1,1 +1,12 @@
-{"missionId": "748", "missionName": "Verjaardagsgast geraakt door rondvliegende kurk", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "748",
+ "missionName": "Verjaardagsgast geraakt door rondvliegende kurk",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "90955108406301713766314592344524090173"
+}

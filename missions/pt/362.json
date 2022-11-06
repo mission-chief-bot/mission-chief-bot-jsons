@@ -1,1 +1,12 @@
-{"missionId": "362", "missionName": "Sensibilizar as crianças da escola para o 112", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "362",
+ "missionName": "Sensibilizar as crianças da escola para o 112",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "65056399053491771846953976979066193862"
+}

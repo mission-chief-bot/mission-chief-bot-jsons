@@ -1,1 +1,12 @@
-{"missionId": "443", "missionName": "Lapin en chocolat fondu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "443",
+ "missionName": "Lapin en chocolat fondu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "293563729197937429910905307994003536308"
+}

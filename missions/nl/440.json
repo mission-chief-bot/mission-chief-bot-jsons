@@ -1,1 +1,28 @@
-{"missionId": "440", "missionName": "Brand in gevangenis", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "950"}
+{
+ "missionId": "440",
+ "missionName": "Brand in gevangenis",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "950",
+ "version": "320101276238401987916568292714701073095"
+}

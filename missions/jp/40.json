@@ -1,1 +1,12 @@
-{"missionId": "40", "missionName": "人身落下", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "40",
+ "missionName": "人身落下",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "61042850499308943211280085676297338412"
+}

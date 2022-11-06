@@ -1,1 +1,12 @@
-{"missionId": "37", "missionName": "Острый приступ астмы", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "37",
+ "missionName": "Острый приступ астмы",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "199885012585539527852457550611216408153"
+}

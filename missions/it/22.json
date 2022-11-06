@@ -1,1 +1,20 @@
-{"missionId": "22", "missionName": "Tetto in fiamme", "requirements": [{"requirement": "autoscale", "qty": "1"}, {"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "22",
+ "missionName": "Tetto in fiamme",
+ "requirements": [
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "24267845462883439637349921019773144431"
+}

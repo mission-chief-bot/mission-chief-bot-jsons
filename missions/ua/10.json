@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "Займання трактора", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "Займання трактора",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "296333352234859566205324254459646967555"
+}

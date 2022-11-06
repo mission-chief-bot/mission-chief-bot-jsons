@@ -1,1 +1,32 @@
-{"missionId": "60/a", "missionName": "Feu d'ERP - Salle de sport", "requirements": [{"requirement": "fourgons d’incendie", "qty": "3"}, {"requirement": "vlhr", "qty": "1"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "camions dévidoir", "qty": "1"}, {"requirement": "motopompes", "qty": "1"}, {"requirement": "max. patients", "qty": "4"}], "credits": "2300"}
+{
+ "missionId": "60/a",
+ "missionName": "Feu d'ERP - Salle de sport",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "3"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "camions dévidoir",
+   "qty": "1"
+  },
+  {
+   "requirement": "motopompes",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "2300",
+ "version": "297360930982461819177195315207866397432"
+}

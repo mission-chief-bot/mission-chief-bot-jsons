@@ -1,1 +1,12 @@
-{"missionId": "278", "missionName": "Knust hjerte", "requirements": [{"requirement": "maks pasienter", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "278",
+ "missionName": "Knust hjerte",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "249970215223356133654167312927125522184"
+}

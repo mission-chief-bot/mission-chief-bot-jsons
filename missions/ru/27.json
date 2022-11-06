@@ -1,1 +1,12 @@
-{"missionId": "27", "missionName": "Возгорание в гараже", "requirements": [{"requirement": "пожарные машины", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "27",
+ "missionName": "Возгорание в гараже",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "176267568814957458572343491326724932571"
+}

@@ -1,1 +1,12 @@
-{"missionId": "535", "missionName": "Agitazione PsicoMotoria", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "535",
+ "missionName": "Agitazione PsicoMotoria",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "119905928443123761522999061200387234397"
+}

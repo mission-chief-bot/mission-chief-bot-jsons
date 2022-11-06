@@ -1,1 +1,20 @@
-{"missionId": "487", "missionName": "Petit navire chaviré", "requirements": [{"requirement": "canot tous temps", "qty": "1"}, {"requirement": "dragon", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "8000"}
+{
+ "missionId": "487",
+ "missionName": "Petit navire chaviré",
+ "requirements": [
+  {
+   "requirement": "canot tous temps",
+   "qty": "1"
+  },
+  {
+   "requirement": "dragon",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "8000",
+ "version": "291277149031860594569771134527110907459"
+}

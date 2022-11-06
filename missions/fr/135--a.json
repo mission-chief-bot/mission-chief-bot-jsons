@@ -1,1 +1,28 @@
-{"missionId": "135/a", "missionName": "Feu de silo", "requirements": [{"requirement": "fourgons d’incendie", "qty": "4"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "vlhr", "qty": "2"}, {"requirement": "camions dévidoir", "qty": "2"}, {"requirement": "motopompes", "qty": "1"}], "credits": "6600"}
+{
+ "missionId": "135/a",
+ "missionName": "Feu de silo",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "4"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "2"
+  },
+  {
+   "requirement": "camions dévidoir",
+   "qty": "2"
+  },
+  {
+   "requirement": "motopompes",
+   "qty": "1"
+  }
+ ],
+ "credits": "6600",
+ "version": "55101399455143879260489141406521415508"
+}

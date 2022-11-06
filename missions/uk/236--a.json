@@ -1,1 +1,20 @@
-{"missionId": "236/a", "missionName": "Burning freight car", "requirements": [ {"requirement": "fire engines", "qty": "5"}, {"requirement": "fire officers", "qty": "1"}, {"requirement": "foam units", "qty": "2"}], "credits": "2300"}
+{
+ "missionId": "236/a",
+ "missionName": "Burning freight car",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "5"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "foam units",
+   "qty": "2"
+  }
+ ],
+ "credits": "2300",
+ "version": "223283205917561389455930391450339398705"
+}

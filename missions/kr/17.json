@@ -1,1 +1,12 @@
-{"missionId": "17", "missionName": "화재 현장(우편함)", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "17",
+ "missionName": "화재 현장(우편함)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "309757159926350058236301590754954667554"
+}

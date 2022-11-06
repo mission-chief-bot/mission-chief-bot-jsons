@@ -1,1 +1,28 @@
-{"missionId": "136", "missionName": "Skud mod politiet", "requirements": [{"requirement": "påkrævede politibiler", "qty": "8"}, {"requirement": "påkrævede politihelikoptere", "qty": "1"}, {"requirement": "påkrævede hundepatruljer", "qty": "2"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "2"}], "credits": "4100"}
+{
+ "missionId": "136",
+ "missionName": "Skud mod politiet",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "8"
+  },
+  {
+   "requirement": "påkrævede politihelikoptere",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "4100",
+ "version": "64338528396687139559517650131595873601"
+}

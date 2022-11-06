@@ -1,1 +1,12 @@
-{"missionId": "38", "missionName": "Convulsões", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "38",
+ "missionName": "Convulsões",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "94977865646076245789978367036215131380"
+}

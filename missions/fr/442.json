@@ -1,1 +1,12 @@
-{"missionId": "442", "missionName": "Course de rue illégale", "requirements": [{"requirement": "voitures de police es", "qty": "6"}], "credits": "2450"}
+{
+ "missionId": "442",
+ "missionName": "Course de rue illégale",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "6"
+  }
+ ],
+ "credits": "2450",
+ "version": "196267016537855835454353769054110486420"
+}

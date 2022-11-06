@@ -1,1 +1,16 @@
-{"missionId": "152", "missionName": "Hundbett", "requirements": [{"requirement": "polisbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "2"}], "credits": "300"}
+{
+ "missionId": "152",
+ "missionName": "Hundbett",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "300",
+ "version": "81218971400649110479175915138067822966"
+}

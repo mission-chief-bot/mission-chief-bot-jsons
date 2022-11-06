@@ -1,1 +1,12 @@
-{"missionId": "257", "missionName": "Sabotage ved jubilæums-jukeboksen", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "257",
+ "missionName": "Sabotage ved jubilæums-jukeboksen",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "257242086458373799259254591109327850747"
+}

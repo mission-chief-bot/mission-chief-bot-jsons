@@ -1,1 +1,16 @@
-{"missionId": "373", "missionName": "Une personne a glissé sur des feuilles mouillées", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "373",
+ "missionName": "Une personne a glissé sur des feuilles mouillées",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "58462201373307962457108835413988724162"
+}

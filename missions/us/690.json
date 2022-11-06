@@ -1,1 +1,44 @@
-{"missionId": "690", "missionName": "Large cargo plane fire with oil leak", "requirements": [{"requirement": "firetrucks", "qty": "16"}, {"requirement": "platform trucks", "qty": "8"}, {"requirement": "battalion chief vehicles", "qty": "8"}, {"requirement": "mobile command vehicles", "qty": "2"}, {"requirement": "heavy rescue vehicles", "qty": "6"}, {"requirement": "hazmat vehicles", "qty": "4"}, {"requirement": "police cars", "qty": "8"}, {"requirement": "arff", "qty": "8"}, {"requirement": "max. patients", "qty": "5"}], "credits": "19000"}
+{
+ "missionId": "690",
+ "missionName": "Large cargo plane fire with oil leak",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "16"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "8"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "8"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "6"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "8"
+  },
+  {
+   "requirement": "arff",
+   "qty": "8"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "19000",
+ "version": "4162451750962188223530689825333932542"
+}

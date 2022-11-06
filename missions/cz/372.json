@@ -1,1 +1,28 @@
-{"missionId": "372", "missionName": "Převrácení soupravy pro přepravu aut", "requirements": [{"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "2750"}
+{
+ "missionId": "372",
+ "missionName": "Převrácení soupravy pro přepravu aut",
+ "requirements": [
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "2750",
+ "version": "19121432511608202807878942192075329955"
+}

@@ -1,1 +1,28 @@
-{"missionId": "111", "missionName": "Persoană lovită de tren", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "2"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "2"}, {"requirement": "vehicule grele de salvare necesare", "qty": "1"}, {"requirement": "mașini de poliție necesare", "qty": "2"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "111",
+ "missionName": "Persoană lovită de tren",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "vehicule grele de salvare necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "172564939317165340950417019185881389868"
+}

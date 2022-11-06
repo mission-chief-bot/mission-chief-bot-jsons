@@ -1,1 +1,12 @@
-{"missionId": "330", "missionName": "Ošetření po nafilmovaném faulu", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "330",
+ "missionName": "Ošetření po nafilmovaném faulu",
+ "requirements": [
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "235198901544667493450861710103892419491"
+}

@@ -1,1 +1,12 @@
-{"missionId": "652", "missionName": "Stellingkast op persoon gevallen", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "652",
+ "missionName": "Stellingkast op persoon gevallen",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "128266705533942237744773549382332105711"
+}

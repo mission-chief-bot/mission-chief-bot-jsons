@@ -1,1 +1,12 @@
-{"missionId": "225", "missionName": "Acidente ao fazer um bolo de aniversário", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "225",
+ "missionName": "Acidente ao fazer um bolo de aniversário",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "197747768228823265008753197454917678149"
+}

@@ -1,1 +1,28 @@
-{"missionId": "123", "missionName": "열차에 치인 사람", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "지휘차", "qty": "2"}, {"requirement": "구조공작차(MRU)", "qty": "1"}, {"requirement": "경찰차", "qty": "2"}, {"requirement": "구급차", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "123",
+ "missionName": "열차에 치인 사람",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "2"
+  },
+  {
+   "requirement": "구조공작차(MRU)",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "2"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "135074984460874223843480193649212450762"
+}

@@ -1,1 +1,16 @@
-{"missionId": "503", "missionName": "Coniglio di Cioccolata chiuso in auto", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "503",
+ "missionName": "Coniglio di Cioccolata chiuso in auto",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "50154769702742944307336225473501312978"
+}

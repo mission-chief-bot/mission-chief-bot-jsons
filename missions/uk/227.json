@@ -1,1 +1,16 @@
-{"missionId": "227", "missionName": "Traffic stop (RPU) (No Insurance)", "requirements": [{"requirement": "traffic cars", "qty": "1"}, {"requirement": "police cars", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "227",
+ "missionName": "Traffic stop (RPU) (No Insurance)",
+ "requirements": [
+  {
+   "requirement": "traffic cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "49339142377493234863556594213101315290"
+}

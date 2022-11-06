@@ -1,1 +1,12 @@
-{"missionId": "183", "missionName": "Okontaktbar", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "183",
+ "missionName": "Okontaktbar",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "217464354482701433858780686257882937902"
+}

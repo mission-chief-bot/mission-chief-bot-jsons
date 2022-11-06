@@ -1,1 +1,16 @@
-{"missionId": "702", "missionName": "Driving Under The Influence of Narcotics", "requirements": [{"requirement": "police cars", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "702",
+ "missionName": "Driving Under The Influence of Narcotics",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "108034473439567019424383109848059526761"
+}

@@ -1,1 +1,16 @@
-{"missionId": "405", "missionName": "432 Muuntamopalo", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1222"}
+{
+ "missionId": "405",
+ "missionName": "432 Muuntamopalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1222",
+ "version": "25033347334064192598181968640098642116"
+}

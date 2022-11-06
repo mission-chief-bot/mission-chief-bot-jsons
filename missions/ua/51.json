@@ -1,1 +1,12 @@
-{"missionId": "51", "missionName": "Безбілетник", "requirements": [{"requirement": "поліцейські машини", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "51",
+ "missionName": "Безбілетник",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "111808259953611198215903892755872539895"
+}

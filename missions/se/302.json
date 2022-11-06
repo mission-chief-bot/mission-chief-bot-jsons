@@ -1,1 +1,12 @@
-{"missionId": "302", "missionName": "Brinnande tårta i ugnen", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "302",
+ "missionName": "Brinnande tårta i ugnen",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "170161071948352110111261472932370761922"
+}

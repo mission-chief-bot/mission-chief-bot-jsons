@@ -1,1 +1,12 @@
-{"missionId": "101", "missionName": "Anafilaksi", "requirements": [{"requirement": "maks. hastalar", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "101",
+ "missionName": "Anafilaksi",
+ "requirements": [
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "237560375358517344533623039268220939124"
+}

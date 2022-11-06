@@ -1,1 +1,12 @@
-{"missionId": "122", "missionName": "Nehoda s motorovou pílou", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "400"}
+{
+ "missionId": "122",
+ "missionName": "Nehoda s motorovou pílou",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "400",
+ "version": "331987052985708373033530214566785864820"
+}

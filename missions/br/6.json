@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Fogo em abrigo de jardim", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Fogo em abrigo de jardim",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "70454526168991427434387649569128990760"
+}

@@ -1,1 +1,24 @@
-{"missionId": "60/a", "missionName": "Estadio en llamas", "requirements": [{"requirement": "camiones de bomberos", "qty": "5"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}, {"requirement": "camiones con plataforma", "qty": "1"}, {"requirement": "bombas accionadas por motor", "qty": "1"}], "credits": "2200"}
+{
+ "missionId": "60/a",
+ "missionName": "Estadio en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "5"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "1"
+  },
+  {
+   "requirement": "bombas accionadas por motor",
+   "qty": "1"
+  }
+ ],
+ "credits": "2200",
+ "version": "70428296072672246932927317562576044139"
+}

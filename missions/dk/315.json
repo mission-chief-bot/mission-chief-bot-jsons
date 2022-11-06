@@ -1,1 +1,12 @@
-{"missionId": "315", "missionName": "Brændende buket", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "315",
+ "missionName": "Brændende buket",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "334039570456364418719864385871704258027"
+}

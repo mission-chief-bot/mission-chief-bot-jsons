@@ -1,1 +1,20 @@
-{"missionId": "425", "missionName": "462 Kuumaa vesihöyryä suihkuaa kadulle", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "425",
+ "missionName": "462 Kuumaa vesihöyryä suihkuaa kadulle",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "226142699275019837580378048224934537579"
+}

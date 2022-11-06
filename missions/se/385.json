@@ -1,1 +1,12 @@
-{"missionId": "385", "missionName": "Allergisk reaktion av bistick", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "385",
+ "missionName": "Allergisk reaktion av bistick",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "2506805839613966661834498837075805663"
+}

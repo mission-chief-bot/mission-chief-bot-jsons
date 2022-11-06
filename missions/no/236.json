@@ -1,1 +1,12 @@
-{"missionId": "236", "missionName": "Fyllekjøring etter Nyttårsfest", "requirements": [{"requirement": "politibiler", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "236",
+ "missionName": "Fyllekjøring etter Nyttårsfest",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "242981017358394084554949987846615037119"
+}

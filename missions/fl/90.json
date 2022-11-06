@@ -1,1 +1,20 @@
-{"missionId": "90", "missionName": "462 Rikkoutunut vesiputki", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "raskaat pelastusautot", "qty": "1"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "90",
+ "missionName": "462 Rikkoutunut vesiputki",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "151396644599759209324905208293215805720"
+}

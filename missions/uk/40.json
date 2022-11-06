@@ -1,1 +1,12 @@
-{"missionId": "40", "missionName": "Fallen person", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "40",
+ "missionName": "Fallen person",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "76148184560518532944603313825034333975"
+}

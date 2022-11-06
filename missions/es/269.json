@@ -1,1 +1,12 @@
-{"missionId": "269", "missionName": "Redada de mercancías falsificadas", "requirements": [{"requirement": "coches patrulla", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "269",
+ "missionName": "Redada de mercancías falsificadas",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "68746241158404166827287133423656367215"
+}

@@ -1,1 +1,16 @@
-{"missionId": "150", "missionName": "Incendio barbecue", "requirements": [{"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "aps/abp", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "150",
+ "missionName": "Incendio barbecue",
+ "requirements": [
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "195776160463544967242060121037251410816"
+}

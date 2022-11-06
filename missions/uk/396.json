@@ -1,1 +1,16 @@
-{"missionId": "396", "missionName": "Residential Fire (Hoarder level 1-3)", "requirements": [{"requirement": "fire engines", "qty": "3"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "396",
+ "missionName": "Residential Fire (Hoarder level 1-3)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "99923966855306024329833345333745478364"
+}

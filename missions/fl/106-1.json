@@ -1,1 +1,36 @@
-{"missionId": "106-1", "missionName": "403 Logistiikkakeskuksen tulipalo", "requirements": [{"requirement": "paloautot", "qty": "8"}, {"requirement": "nostolava-autot", "qty": "2"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "1"}, {"requirement": "letkuajoneuvot", "qty": "3"}, {"requirement": "suurtehopumput", "qty": "2"}], "credits": "9300"}
+{
+ "missionId": "106-1",
+ "missionName": "403 Logistiikkakeskuksen tulipalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "3"
+  },
+  {
+   "requirement": "suurtehopumput",
+   "qty": "2"
+  }
+ ],
+ "credits": "9300",
+ "version": "165934630806501344988695279280511752827"
+}

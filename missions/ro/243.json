@@ -1,1 +1,16 @@
-{"missionId": "243", "missionName": "Tonetă de înghețată contaminată", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "4"}], "credits": "1"}
+{
+ "missionId": "243",
+ "missionName": "Tonetă de înghețată contaminată",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "4"
+  }
+ ],
+ "credits": "1",
+ "version": "191106166907286876456821823411976025555"
+}

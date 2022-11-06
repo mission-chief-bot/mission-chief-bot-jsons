@@ -1,1 +1,12 @@
-{"missionId": "284", "missionName": "Kat i træ", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "375"}
+{
+ "missionId": "284",
+ "missionName": "Kat i træ",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "375",
+ "version": "65716720260472203451761795518313001977"
+}

@@ -1,1 +1,16 @@
-{"missionId": "351", "missionName": "Feu de joie illégal dans un parc", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "voitures de police es", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "351",
+ "missionName": "Feu de joie illégal dans un parc",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "93883879660995306601848002086109422409"
+}

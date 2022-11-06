@@ -1,1 +1,12 @@
-{"missionId": "17", "missionName": "Brennende postkasse", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "17",
+ "missionName": "Brennende postkasse",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "3850314401016005517039898291854896687"
+}

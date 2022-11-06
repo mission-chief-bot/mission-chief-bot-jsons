@@ -1,1 +1,12 @@
-{"missionId": "180", "missionName": "Hjärtstopp", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "180",
+ "missionName": "Hjärtstopp",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "278238975123498346798812210030296384394"
+}

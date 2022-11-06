@@ -1,1 +1,20 @@
-{"missionId": "241", "missionName": "Nehoda v jadrovej elektrárni (veľká)", "requirements": [{"requirement": "hasičské automobily", "qty": "25"}, {"requirement": "ppla", "qty": "2"}, {"requirement": "policajné vozidlá", "qty": "8"}], "credits": "28000"}
+{
+ "missionId": "241",
+ "missionName": "Nehoda v jadrovej elektrárni (veľká)",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "25"
+  },
+  {
+   "requirement": "ppla",
+   "qty": "2"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "8"
+  }
+ ],
+ "credits": "28000",
+ "version": "17356006279091442850208187235869170824"
+}

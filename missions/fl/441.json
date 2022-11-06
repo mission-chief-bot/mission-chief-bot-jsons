@@ -1,1 +1,32 @@
-{"missionId": "441", "missionName": "570 Suurmielenosoituksen hajottaminen voimakeinoin", "requirements": [{"requirement": "poliisihelikopteritukikohta", "qty": "1"}, {"requirement": "poliisiautot", "qty": "14"}, {"requirement": "koirapartiot", "qty": "4"}, {"requirement": "poliisihelikopterit", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "32"}, {"requirement": "vati-henkilöt", "qty": "16"}], "credits": "7000"}
+{
+ "missionId": "441",
+ "missionName": "570 Suurmielenosoituksen hajottaminen voimakeinoin",
+ "requirements": [
+  {
+   "requirement": "poliisihelikopteritukikohta",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "14"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "4"
+  },
+  {
+   "requirement": "poliisihelikopterit",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "32"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "16"
+  }
+ ],
+ "credits": "7000",
+ "version": "164009036688392931758580359990626782368"
+}

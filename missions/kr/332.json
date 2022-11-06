@@ -1,1 +1,12 @@
-{"missionId": "332", "missionName": "교통 제한 작업", "requirements": [{"requirement": "경찰차", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "332",
+ "missionName": "교통 제한 작업",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "15230514208213878590022420031539346938"
+}

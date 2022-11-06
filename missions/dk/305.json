@@ -1,1 +1,12 @@
-{"missionId": "305", "missionName": "Forfalske varer razzia", "requirements": [{"requirement": "påkrævede politibiler", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "305",
+ "missionName": "Forfalske varer razzia",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "246279544549591512083477323495898200928"
+}

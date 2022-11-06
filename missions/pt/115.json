@@ -1,1 +1,12 @@
-{"missionId": "115", "missionName": "Perna partida", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "115",
+ "missionName": "Perna partida",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "12802657308975095648757295184924409663"
+}

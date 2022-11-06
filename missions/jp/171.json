@@ -1,1 +1,32 @@
-{"missionId": "171", "missionName": "産業火災", "requirements": [{"requirement": "消防車", "qty": "5"}, {"requirement": "プラットフォームトラック", "qty": "2"}, {"requirement": "指令ユニット", "qty": "2"}, {"requirement": "指令車", "qty": "1"}, {"requirement": "危険物取扱車両", "qty": "1"}, {"requirement": "救急車", "qty": "4"}], "credits": "5300"}
+{
+ "missionId": "171",
+ "missionName": "産業火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "5"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "2"
+  },
+  {
+   "requirement": "指令ユニット",
+   "qty": "2"
+  },
+  {
+   "requirement": "指令車",
+   "qty": "1"
+  },
+  {
+   "requirement": "危険物取扱車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "4"
+  }
+ ],
+ "credits": "5300",
+ "version": "25516731715519527143304583401329319009"
+}

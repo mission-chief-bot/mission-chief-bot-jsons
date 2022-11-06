@@ -1,1 +1,16 @@
-{"missionId": "379", "missionName": "Leaf vacuum out of control", "requirements": [{"requirement": "police cars", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "379",
+ "missionName": "Leaf vacuum out of control",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "59009145653996153423709533572150472924"
+}

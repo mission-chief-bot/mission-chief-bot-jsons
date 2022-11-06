@@ -1,1 +1,12 @@
-{"missionId": "192", "missionName": "花火による動物パニック", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "192",
+ "missionName": "花火による動物パニック",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "332848486089037740043046999668732466146"
+}

@@ -1,1 +1,12 @@
-{"missionId": "374", "missionName": "201 Auto ojassa", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "374",
+ "missionName": "201 Auto ojassa",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "316539375664163736066985463321833081832"
+}

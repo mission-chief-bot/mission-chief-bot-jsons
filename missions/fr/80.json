@@ -1,1 +1,12 @@
-{"missionId": "80", "missionName": "Feu de décoration de Noël", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "80",
+ "missionName": "Feu de décoration de Noël",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "5286982196602904694501789715658618381"
+}

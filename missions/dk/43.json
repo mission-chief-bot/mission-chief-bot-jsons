@@ -1,1 +1,12 @@
-{"missionId": "43", "missionName": "Person er faldet", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "43",
+ "missionName": "Person er faldet",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "223617996439534585846427709324340100460"
+}

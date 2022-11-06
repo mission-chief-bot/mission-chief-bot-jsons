@@ -1,1 +1,16 @@
-{"missionId": "370/a", "missionName": "Geisterfahrer", "requirements": [{"requirement": "streifenwagen", "qty": "4"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "370/a",
+ "missionName": "Geisterfahrer",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "281380116103009466886428239235033288508"
+}

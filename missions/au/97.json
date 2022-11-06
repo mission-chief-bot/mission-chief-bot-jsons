@@ -1,1 +1,12 @@
-{"missionId": "97", "missionName": "A truck with a semitrailer on fire", "requirements": [{"requirement": "fire engines", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "97",
+ "missionName": "A truck with a semitrailer on fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "133706473315875028561145882340232218860"
+}

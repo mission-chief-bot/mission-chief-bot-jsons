@@ -1,1 +1,20 @@
-{"missionId": "193", "missionName": "Heks i tre", "requirements": [{"requirement": "nødvendig stigebil", "qty": "1"}, {"requirement": "brannbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "193",
+ "missionName": "Heks i tre",
+ "requirements": [
+  {
+   "requirement": "nødvendig stigebil",
+   "qty": "1"
+  },
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "96647736751487190336054701422619092665"
+}

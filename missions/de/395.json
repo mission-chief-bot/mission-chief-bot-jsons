@@ -1,1 +1,28 @@
-{"missionId": "395", "missionName": "Maschinenbrand in Produktionshalle", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "gw-werkfeuerwehr", "qty": "1"}, {"requirement": "gw-a", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "395",
+ "missionName": "Maschinenbrand in Produktionshalle",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-werkfeuerwehr",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "275647349047295901036762015810798793249"
+}

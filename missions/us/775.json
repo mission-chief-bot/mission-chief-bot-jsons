@@ -1,1 +1,12 @@
-{"missionId": "775", "missionName": "Post-Surgical Complications", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "775",
+ "missionName": "Post-Surgical Complications",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "339187798738944367076398237055140051773"
+}

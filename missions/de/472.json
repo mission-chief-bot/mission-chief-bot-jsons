@@ -1,1 +1,20 @@
-{"missionId": "472", "missionName": "Beweismittelsuche im Wasser", "requirements": [{"requirement": "boote", "qty": "1"}, {"requirement": "gw-taucher", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "472",
+ "missionName": "Beweismittelsuche im Wasser",
+ "requirements": [
+  {
+   "requirement": "boote",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-taucher",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "60106531845849801691240729851928188723"
+}

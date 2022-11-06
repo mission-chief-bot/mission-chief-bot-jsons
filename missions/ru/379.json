@@ -1,1 +1,12 @@
-{"missionId": "379", "missionName": "Растаявший шоколадный заяц", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "379",
+ "missionName": "Растаявший шоколадный заяц",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "31755931409980688523544074173190830999"
+}

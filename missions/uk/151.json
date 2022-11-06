@@ -1,1 +1,12 @@
-{"missionId": "151", "missionName": "Serious head injury", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "151",
+ "missionName": "Serious head injury",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "281805265218250459909168838310601929413"
+}

@@ -1,1 +1,16 @@
-{"missionId": "361", "missionName": "Misstänkt brand - rökutveckling", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "tankbilar", "qty": "1"}], "credits": "760"}
+{
+ "missionId": "361",
+ "missionName": "Misstänkt brand - rökutveckling",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "760",
+ "version": "155005653768020192737128891632668368929"
+}

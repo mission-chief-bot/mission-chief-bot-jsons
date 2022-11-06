@@ -1,1 +1,12 @@
-{"missionId": "412", "missionName": "Hærværk", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "412",
+ "missionName": "Hærværk",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "199908076553975583449102997056098756980"
+}

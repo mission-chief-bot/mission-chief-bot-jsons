@@ -1,1 +1,16 @@
-{"missionId": "108", "missionName": "Schwangere in Notsituation", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "5"}
+{
+ "missionId": "108",
+ "missionName": "Schwangere in Notsituation",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "5",
+ "version": "81131420002539999857217378516897350594"
+}

@@ -1,1 +1,12 @@
-{"missionId": "879", "missionName": "Persoon heeft rook ingeademd", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "879",
+ "missionName": "Persoon heeft rook ingeademd",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "49218960881011189132134367423402874502"
+}

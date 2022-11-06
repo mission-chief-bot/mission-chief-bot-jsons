@@ -1,1 +1,16 @@
-{"missionId": "102", "missionName": "迷子", "requirements": [{"requirement": "警察車両", "qty": "3"}, {"requirement": "救急車", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "102",
+ "missionName": "迷子",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "60345037706881447626981806984840173987"
+}

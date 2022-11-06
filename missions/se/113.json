@@ -1,1 +1,12 @@
-{"missionId": "113", "missionName": "Skallskada", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "113",
+ "missionName": "Skallskada",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "279489635727978697143613223755007452537"
+}

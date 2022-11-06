@@ -1,1 +1,12 @@
-{"missionId": "366", "missionName": "大規模な危険な抗議行動", "requirements": [{"requirement": "警察車両", "qty": "16"}], "credits": "18000"}
+{
+ "missionId": "366",
+ "missionName": "大規模な危険な抗議行動",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "16"
+  }
+ ],
+ "credits": "18000",
+ "version": "9222299490630522475362132525728830579"
+}

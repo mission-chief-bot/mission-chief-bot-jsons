@@ -1,1 +1,24 @@
-{"missionId": "671", "missionName": "Unbekanntes Objekt in Wasser", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "boote", "qty": "1"}, {"requirement": "gw-taucher", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "671",
+ "missionName": "Unbekanntes Objekt in Wasser",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "boote",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-taucher",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "170121578279044747475255021991532109681"
+}

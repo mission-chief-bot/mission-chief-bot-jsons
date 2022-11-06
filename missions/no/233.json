@@ -1,1 +1,16 @@
-{"missionId": "233", "missionName": "Balkongbrann som følge av fyrverkeri", "requirements": [{"requirement": "brannbiler", "qty": "2"}, {"requirement": "nødvendig stigebil", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "233",
+ "missionName": "Balkongbrann som følge av fyrverkeri",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "nødvendig stigebil",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "132556832121547767807644426811133755800"
+}

@@ -1,1 +1,12 @@
-{"missionId": "489", "missionName": "Anniversary present stolen", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "489",
+ "missionName": "Anniversary present stolen",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "12578664014735918798338751065386043164"
+}

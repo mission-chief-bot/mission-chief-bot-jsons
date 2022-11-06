@@ -1,1 +1,32 @@
-{"missionId": "398", "missionName": "Blixtnedslag i kaninhål", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "stegbilar", "qty": "1"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "398",
+ "missionName": "Blixtnedslag i kaninhål",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "272551590487908415680656201263062261962"
+}

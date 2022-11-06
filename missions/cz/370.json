@@ -1,1 +1,20 @@
-{"missionId": "370", "missionName": "Bankovní loupež", "requirements": [{"requirement": "policejní automobily", "qty": "5"}, {"requirement": "vozidla kynologů pčr", "qty": "1"}, {"requirement": "personál urny", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "370",
+ "missionName": "Bankovní loupež",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "5"
+  },
+  {
+   "requirement": "vozidla kynologů pčr",
+   "qty": "1"
+  },
+  {
+   "requirement": "personál urny",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "214316436189781214950783923504820109542"
+}

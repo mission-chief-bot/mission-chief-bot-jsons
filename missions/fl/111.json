@@ -1,1 +1,40 @@
-{"missionId": "111", "missionName": "208 Tieliikenneonnettomuus tunnelissa, suuri", "requirements": [{"requirement": "paloautot", "qty": "6"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "raskaat pelastusautot", "qty": "3"}, {"requirement": "säiliöautot", "qty": "1"}, {"requirement": "paineilmahuoltoautot", "qty": "1"}, {"requirement": "kemikaalitorjunta-autot", "qty": "1"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "3"}], "credits": "7000"}
+{
+ "missionId": "111",
+ "missionName": "208 Tieliikenneonnettomuus tunnelissa, suuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "6"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "säiliöautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  }
+ ],
+ "credits": "7000",
+ "version": "3282801591750447086542426254028208250"
+}

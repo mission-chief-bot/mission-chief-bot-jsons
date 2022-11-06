@@ -1,1 +1,12 @@
-{"missionId": "196", "missionName": "Stjålet gresskar", "requirements": [{"requirement": "politibiler", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "196",
+ "missionName": "Stjålet gresskar",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "62585707337376984304364717654564479288"
+}

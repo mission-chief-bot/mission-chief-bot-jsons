@@ -1,1 +1,16 @@
-{"missionId": "165", "missionName": "Piet klem in schoorsteen", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "950"}
+{
+ "missionId": "165",
+ "missionName": "Piet klem in schoorsteen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "950",
+ "version": "20827584758031991137655527916405377482"
+}

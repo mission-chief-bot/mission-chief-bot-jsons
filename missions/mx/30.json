@@ -1,1 +1,12 @@
-{"missionId": "30", "missionName": "Escape de gas", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "30",
+ "missionName": "Escape de gas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "17303258935256982589673192524383775450"
+}

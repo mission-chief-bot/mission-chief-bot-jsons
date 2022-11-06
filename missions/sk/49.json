@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "Vrecková krádež", "requirements": [{"requirement": "policajné vozidlá", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Vrecková krádež",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "224161001329513685752997874270843724194"
+}

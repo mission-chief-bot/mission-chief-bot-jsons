@@ -1,1 +1,12 @@
-{"missionId": "333", "missionName": "Brændende Hjørne Flag", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "333",
+ "missionName": "Brændende Hjørne Flag",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "181115631965383696695962501073995658122"
+}

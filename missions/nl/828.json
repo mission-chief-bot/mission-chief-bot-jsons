@@ -1,1 +1,16 @@
-{"missionId": "828", "missionName": "Verloren aanvoerdersarmband", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "politie helikopters", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "828",
+ "missionName": "Verloren aanvoerdersarmband",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "170339220073935353978567860847110730325"
+}

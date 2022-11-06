@@ -1,1 +1,12 @@
-{"missionId": "197", "missionName": "Мастабний блок дороги", "requirements": [{"requirement": "поліцейські машини", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "197",
+ "missionName": "Мастабний блок дороги",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "88582906159552122605935391525388664667"
+}

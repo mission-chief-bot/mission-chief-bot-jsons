@@ -1,1 +1,12 @@
-{"missionId": "920", "missionName": "Allergische reactie bijensteek", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "550"}
+{
+ "missionId": "920",
+ "missionName": "Allergische reactie bijensteek",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "550",
+ "version": "159260877696772215472104233374296555219"
+}

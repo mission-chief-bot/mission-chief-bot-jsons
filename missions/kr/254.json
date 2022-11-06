@@ -1,1 +1,16 @@
-{"missionId": "254", "missionName": "공원 내 불법 모닥불", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "경찰차", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "254",
+ "missionName": "공원 내 불법 모닥불",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "63151276799916366429152516298683784057"
+}

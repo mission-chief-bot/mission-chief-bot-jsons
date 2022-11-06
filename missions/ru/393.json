@@ -1,1 +1,12 @@
-{"missionId": "393", "missionName": "Гнездо шершней в жилом доме", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "393",
+ "missionName": "Гнездо шершней в жилом доме",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "240703989275061239253407392120512776535"
+}

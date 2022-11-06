@@ -1,1 +1,20 @@
-{"missionId": "537/a", "missionName": "Einbruch in Supermarkt", "requirements": [{"requirement": "streifenwagen", "qty": "4"}, {"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "537/a",
+ "missionName": "Einbruch in Supermarkt",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "172781456929081427566980238909540121582"
+}

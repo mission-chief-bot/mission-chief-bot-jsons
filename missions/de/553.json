@@ -1,1 +1,20 @@
-{"missionId": "553", "missionName": "Verätzung", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}, {"requirement": "rth", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "553",
+ "missionName": "Verätzung",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  },
+  {
+   "requirement": "rth",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "41250230793081390353003547578540939857"
+}

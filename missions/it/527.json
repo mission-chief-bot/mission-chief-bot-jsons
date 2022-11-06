@@ -1,1 +1,12 @@
-{"missionId": "527", "missionName": "Animale intrappolato nel fiume", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "527",
+ "missionName": "Animale intrappolato nel fiume",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "214568972029581863189360508196693820596"
+}

@@ -1,1 +1,16 @@
-{"missionId": "611", "missionName": "Securing evidence after fire", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "fire investigation units", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "611",
+ "missionName": "Securing evidence after fire",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "112021345210929037092854107609554412791"
+}

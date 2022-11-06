@@ -1,1 +1,16 @@
-{"missionId": "55", "missionName": "Драка", "requirements": [{"requirement": "полицейские автомобили", "qty": "3"}, {"requirement": "макс. пациенты", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "55",
+ "missionName": "Драка",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "3"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "38843179103961808720864439214414226194"
+}

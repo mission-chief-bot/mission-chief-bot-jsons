@@ -1,1 +1,20 @@
-{"missionId": "568", "missionName": "Office used for drug marketing", "requirements": [{"requirement": "dea units", "qty": "3"}, {"requirement": "dea clan labs", "qty": "1"}, {"requirement": "police cars", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "568",
+ "missionName": "Office used for drug marketing",
+ "requirements": [
+  {
+   "requirement": "dea units",
+   "qty": "3"
+  },
+  {
+   "requirement": "dea clan labs",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "319020021157666865141824324925826786135"
+}

@@ -1,1 +1,12 @@
-{"missionId": "56", "missionName": "35 Häiriökäyttäytyminen", "requirements": [{"requirement": "poliisiautot", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "56",
+ "missionName": "35 Häiriökäyttäytyminen",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "74120204922122523559399970679563186939"
+}

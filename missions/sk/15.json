@@ -1,1 +1,12 @@
-{"missionId": "15", "missionName": "Malý prírodný požiar", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "1010"}
+{
+ "missionId": "15",
+ "missionName": "Malý prírodný požiar",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "1010",
+ "version": "111523093544122885955888411561038438492"
+}

@@ -1,1 +1,20 @@
-{"missionId": "31", "missionName": "Займання у каміні", "requirements": [{"requirement": "штабні автомобілі", "qty": "1"}, {"requirement": "пожежні автодрабини", "qty": "1"}, {"requirement": "пожежні машини", "qty": "1"}], "credits": "1310"}
+{
+ "missionId": "31",
+ "missionName": "Займання у каміні",
+ "requirements": [
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "1310",
+ "version": "318657755046894122509174740348517480610"
+}

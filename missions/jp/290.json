@@ -1,1 +1,24 @@
-{"missionId": "290", "missionName": "スタジアム火災（ぼや)", "requirements": [{"requirement": "消防車", "qty": "5"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "警察車両", "qty": "3"}, {"requirement": "最大患者", "qty": "6"}], "credits": "4000"}
+{
+ "missionId": "290",
+ "missionName": "スタジアム火災（ぼや)",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "5"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "6"
+  }
+ ],
+ "credits": "4000",
+ "version": "160765531585072783978861462909908572611"
+}

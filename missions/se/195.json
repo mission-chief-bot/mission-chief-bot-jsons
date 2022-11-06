@@ -1,1 +1,12 @@
-{"missionId": "195", "missionName": "Sänkt allmäntillstånd", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "195",
+ "missionName": "Sänkt allmäntillstånd",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "251257762146392543827097934423208959057"
+}

@@ -1,1 +1,12 @@
-{"missionId": "631", "missionName": "Brandende frituurpan", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "631",
+ "missionName": "Brandende frituurpan",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "279409144996842883493159469215768405073"
+}

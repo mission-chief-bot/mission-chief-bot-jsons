@@ -1,1 +1,12 @@
-{"missionId": "65", "missionName": "화재 현장(부엌)", "requirements": [{"requirement": "소방차", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "65",
+ "missionName": "화재 현장(부엌)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "334382568513612104927272230140144963734"
+}

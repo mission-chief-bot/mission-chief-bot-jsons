@@ -1,1 +1,16 @@
-{"missionId": "27", "missionName": "402 Autotallipalo", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "27",
+ "missionName": "402 Autotallipalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "97028341261982897149297021444915255287"
+}

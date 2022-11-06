@@ -1,1 +1,32 @@
-{"missionId": "409", "missionName": "Lynnedslag i kaninhull", "requirements": [{"requirement": "brannbiler", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "nødvendig stigebil", "qty": "1"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "politibiler", "qty": "2"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "409",
+ "missionName": "Lynnedslag i kaninhull",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "nødvendig stigebil",
+   "qty": "1"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "194513413172321534203042696778186616418"
+}

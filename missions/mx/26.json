@@ -1,1 +1,16 @@
-{"missionId": "26", "missionName": "Incendio en supermercado pequeño", "requirements": [{"requirement": "camiones de bomberos", "qty": "4"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "26",
+ "missionName": "Incendio en supermercado pequeño",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "4"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "62592221517068260340129560405669018558"
+}

@@ -1,1 +1,12 @@
-{"missionId": "150", "missionName": "Amputación traumática de la extremidad", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "150",
+ "missionName": "Amputación traumática de la extremidad",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "163940822342785215741443912292244194930"
+}

@@ -1,1 +1,20 @@
-{"missionId": "214", "missionName": "Freerunner ranit", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}, {"requirement": "vehicule grele de salvare necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "214",
+ "missionName": "Freerunner ranit",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "vehicule grele de salvare necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "290169646296452826069831710445757001210"
+}

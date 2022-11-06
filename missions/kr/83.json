@@ -1,1 +1,12 @@
-{"missionId": "83", "missionName": "이스터 에그 도둑", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "83",
+ "missionName": "이스터 에그 도둑",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "32223345629495722387170262203715400384"
+}

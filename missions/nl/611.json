@@ -1,1 +1,32 @@
-{"missionId": "611", "missionName": "Brand in nachtclub", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "4"}, {"requirement": "officiers van dienst politie", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "4"}], "credits": "3350"}
+{
+ "missionId": "611",
+ "missionName": "Brand in nachtclub",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "4"
+  }
+ ],
+ "credits": "3350",
+ "version": "37896842391046683093612546187384823136"
+}

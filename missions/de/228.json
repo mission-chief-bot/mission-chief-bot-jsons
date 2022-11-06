@@ -1,1 +1,12 @@
-{"missionId": "228", "missionName": "Absicherung Musikumzug", "requirements": [ {"requirement": "streifenwagen", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "228",
+ "missionName": "Absicherung Musikumzug",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "254541984381634332963778758878288206769"
+}

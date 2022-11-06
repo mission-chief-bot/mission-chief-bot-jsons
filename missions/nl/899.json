@@ -1,1 +1,40 @@
-{"missionId": "899", "missionName": "Aanrijding bus en tram", "requirements": [{"requirement": "tankautospuiten", "qty": "8"}, {"requirement": "hulpverleningsvoertuigen", "qty": "2"}, {"requirement": "voorlichters", "qty": "1"}, {"requirement": "ovd-b's", "qty": "3"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "commandowagen", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "10"}, {"requirement": "officiers van dienst politie", "qty": "1"}], "credits": "9030"}
+{
+ "missionId": "899",
+ "missionName": "Aanrijding bus en tram",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "8"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "2"
+  },
+  {
+   "requirement": "voorlichters",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "3"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "commandowagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "10"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "credits": "9030",
+ "version": "165365190046703183490467489322688861718"
+}

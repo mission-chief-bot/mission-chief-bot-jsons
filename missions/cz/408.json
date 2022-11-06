@@ -1,1 +1,12 @@
-{"missionId": "408", "missionName": "Zločinec ukrytý na karnevalu", "requirements": [{"requirement": "policejní automobily", "qty": "2"}], "credits": "200"}
+{
+ "missionId": "408",
+ "missionName": "Zločinec ukrytý na karnevalu",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "200",
+ "version": "120824408761773729532036109995772853298"
+}

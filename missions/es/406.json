@@ -1,1 +1,24 @@
-{"missionId": "406", "missionName": "Fiesta techno no autorizada", "requirements": [{"requirement": "coches patrulla", "qty": "10"}, {"requirement": "unidad canina", "qty": "3"}, {"requirement": "helicóptero de la policía", "qty": "1"}, {"requirement": "n.º máximo de presos", "qty": "20"}], "credits": "14500"}
+{
+ "missionId": "406",
+ "missionName": "Fiesta techno no autorizada",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "10"
+  },
+  {
+   "requirement": "unidad canina",
+   "qty": "3"
+  },
+  {
+   "requirement": "helicóptero de la policía",
+   "qty": "1"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "20"
+  }
+ ],
+ "credits": "14500",
+ "version": "334291979281805661470184673753607301207"
+}

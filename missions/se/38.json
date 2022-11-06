@@ -1,1 +1,12 @@
-{"missionId": "38", "missionName": "Misstänkt stroke", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "38",
+ "missionName": "Misstänkt stroke",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "112195924870245529591222336135583711410"
+}

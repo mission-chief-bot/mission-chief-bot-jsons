@@ -1,1 +1,12 @@
-{"missionId": "690", "missionName": "Vernieling met vuurwerk", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "690",
+ "missionName": "Vernieling met vuurwerk",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "117387197065087448045112787656133035410"
+}

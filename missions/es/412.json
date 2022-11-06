@@ -1,1 +1,16 @@
-{"missionId": "412", "missionName": "Aseguramiento de la Manifestación (Mayor)", "requirements": [{"requirement": "coches patrulla", "qty": "12"}, {"requirement": "n.º máximo de presos", "qty": "16"}], "credits": "18200"}
+{
+ "missionId": "412",
+ "missionName": "Aseguramiento de la Manifestación (Mayor)",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "12"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "16"
+  }
+ ],
+ "credits": "18200",
+ "version": "179775493941924462696081468915978259606"
+}

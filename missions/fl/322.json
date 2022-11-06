@@ -1,1 +1,16 @@
-{"missionId": "322", "missionName": "425 Turvetuontantoaluepalo, keskisuuri", "requirements": [{"requirement": "paloautot", "qty": "3"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1700"}
+{
+ "missionId": "322",
+ "missionName": "425 Turvetuontantoaluepalo, keskisuuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1700",
+ "version": "147532829512426570945067454243525818749"
+}

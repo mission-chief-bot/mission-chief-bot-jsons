@@ -1,1 +1,16 @@
-{"missionId": "269", "missionName": "432 Roskakatospalo", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "269",
+ "missionName": "432 Roskakatospalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "122918249939080754912440747364427748924"
+}

@@ -1,1 +1,12 @@
-{"missionId": "118", "missionName": "Fuego en la cocina", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "118",
+ "missionName": "Fuego en la cocina",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "54295176788309253784507822708421532113"
+}

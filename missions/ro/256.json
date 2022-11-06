@@ -1,1 +1,24 @@
-{"missionId": "256", "missionName": "Accident la mânuirea gaterului", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}, {"requirement": "vehicule grele de salvare necesare", "qty": "1"}, {"requirement": "mașini de poliție necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "256",
+ "missionName": "Accident la mânuirea gaterului",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "vehicule grele de salvare necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "190039696316008611274132628878356289057"
+}

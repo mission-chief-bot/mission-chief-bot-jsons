@@ -1,1 +1,12 @@
-{"missionId": "147", "missionName": "Krankentransport", "requirements": [ {"requirement": "rtw, ktw", "qty": "1"}], "credits": "127"}
+{
+ "missionId": "147",
+ "missionName": "Krankentransport",
+ "requirements": [
+  {
+   "requirement": "rtw, ktw",
+   "qty": "1"
+  }
+ ],
+ "credits": "127",
+ "version": "244313765104877314956357604519623399137"
+}

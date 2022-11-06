@@ -1,1 +1,16 @@
-{"missionId": "138", "missionName": "Large Drunken Disorder", "requirements": [{"requirement": "police cars", "qty": "3"}, {"requirement": "dog support units (dsus)", "qty": "1"}], "credits": "950"}
+{
+ "missionId": "138",
+ "missionName": "Large Drunken Disorder",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "dog support units (dsus)",
+   "qty": "1"
+  }
+ ],
+ "credits": "950",
+ "version": "112007577913939418377275383363032885869"
+}

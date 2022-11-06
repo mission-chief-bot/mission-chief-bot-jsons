@@ -1,1 +1,11 @@
-{"missionId": "407", "missionName": "Barbecue fire", "requirements": [{"requirement": "firetrucks", "qty": "1"}]}
+{
+ "missionId": "407",
+ "missionName": "Barbecue fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "version": "5776351096057638868301083977294997374"
+}

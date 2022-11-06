@@ -1,1 +1,12 @@
-{"missionId": "19", "missionName": "Brændende trailer", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "19",
+ "missionName": "Brændende trailer",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "418419227713029216752885163396545841"
+}

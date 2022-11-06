@@ -1,1 +1,12 @@
-{"missionId": "311", "missionName": "Hypoglykémie", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "311",
+ "missionName": "Hypoglykémie",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "95118609679585488990596631703969635916"
+}

@@ -1,1 +1,12 @@
-{"missionId": "342", "missionName": "Угон автомобиля", "requirements": [{"requirement": "полицейские автомобили", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "342",
+ "missionName": "Угон автомобиля",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "298267645993753500016780990723220989879"
+}

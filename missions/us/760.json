@@ -1,1 +1,52 @@
-{"missionId": "760", "missionName": "Methane Explosion", "requirements": [{"requirement": "firetrucks", "qty": "10"}, {"requirement": "platform trucks", "qty": "2"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "hazmat vehicles", "qty": "3"}, {"requirement": "heavy rescue vehicles", "qty": "4"}, {"requirement": "battalion chief vehicles", "qty": "3"}, {"requirement": "mobile air vehicles", "qty": "2"}, {"requirement": "police cars", "qty": "5"}, {"requirement": "foam tenders", "qty": "3"}, {"requirement": "water tankers", "qty": "2"}, {"requirement": "max. patients", "qty": "11"}], "credits": "9000"}
+{
+ "missionId": "760",
+ "missionName": "Methane Explosion",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "10"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "foam tenders",
+   "qty": "3"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "11"
+  }
+ ],
+ "credits": "9000",
+ "version": "5036568203982746378203766618153497128"
+}

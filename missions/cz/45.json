@@ -1,1 +1,12 @@
-{"missionId": "45", "missionName": "Krádež v obchodě", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "45",
+ "missionName": "Krádež v obchodě",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "150097293151573364733146387875427713236"
+}

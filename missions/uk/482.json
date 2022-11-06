@@ -1,1 +1,16 @@
-{"missionId": "482", "missionName": "Fire in turbine (Nuclear Power station)", "requirements": [{"requirement": "fire engines", "qty": "6"}, {"requirement": "fire officers", "qty": "3"}], "credits": "8000"}
+{
+ "missionId": "482",
+ "missionName": "Fire in turbine (Nuclear Power station)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "3"
+  }
+ ],
+ "credits": "8000",
+ "version": "292891059992916762627915764102943021370"
+}

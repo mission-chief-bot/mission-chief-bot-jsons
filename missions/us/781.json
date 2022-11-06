@@ -1,1 +1,16 @@
-{"missionId": "781", "missionName": "Library Fire (Small)", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "max. patients", "qty": "5"}], "credits": "2250"}
+{
+ "missionId": "781",
+ "missionName": "Library Fire (Small)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "2250",
+ "version": "71689618636260189704372931042119288929"
+}

@@ -1,1 +1,20 @@
-{"missionId": "522", "missionName": "Fuel Spill in Waterway", "requirements": [{"requirement": "firetrucks", "qty": "3"}, {"requirement": "hazmat vehicles", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "522",
+ "missionName": "Fuel Spill in Waterway",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "117977576709474753050091323312007401440"
+}

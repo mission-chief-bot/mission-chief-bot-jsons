@@ -1,1 +1,16 @@
-{"missionId": "42", "missionName": "Manhole Fire", "requirements": [{"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "firetrucks", "qty": "2"}], "credits": "210"}
+{
+ "missionId": "42",
+ "missionName": "Manhole Fire",
+ "requirements": [
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "210",
+ "version": "227245852575593189008218105684198190084"
+}

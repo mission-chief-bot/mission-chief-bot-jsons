@@ -1,1 +1,16 @@
-{"missionId": "122", "missionName": "Overval winkel", "requirements": [{"requirement": "noodhulpeenheden", "qty": "5"}, {"requirement": "politie helikopters", "qty": "1"}], "credits": "2180"}
+{
+ "missionId": "122",
+ "missionName": "Overval winkel",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "5"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "2180",
+ "version": "73890132771169183667614939487526251741"
+}

@@ -1,1 +1,16 @@
-{"missionId": "321", "missionName": "424 Turvetuontantoaluepalo, pieni", "requirements": [{"requirement": "paloautot", "qty": "1"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "321",
+ "missionName": "424 Turvetuontantoaluepalo, pieni",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "314983346045303763199581338635566218428"
+}

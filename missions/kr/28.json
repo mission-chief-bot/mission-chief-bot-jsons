@@ -1,1 +1,24 @@
-{"missionId": "28", "missionName": "화재 현장(기계)", "requirements": [{"requirement": "소방차", "qty": "3"}, {"requirement": "구조공작차(MRU)", "qty": "1"}, {"requirement": "지휘차", "qty": "1"}, {"requirement": "수상 탱커", "qty": "1"}], "credits": "2470"}
+{
+ "missionId": "28",
+ "missionName": "화재 현장(기계)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "3"
+  },
+  {
+   "requirement": "구조공작차(MRU)",
+   "qty": "1"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "1"
+  },
+  {
+   "requirement": "수상 탱커",
+   "qty": "1"
+  }
+ ],
+ "credits": "2470",
+ "version": "120957991197202993617540578865803958703"
+}

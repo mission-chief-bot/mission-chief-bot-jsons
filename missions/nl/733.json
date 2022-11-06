@@ -1,1 +1,12 @@
-{"missionId": "733", "missionName": "Zoektocht naar verdwenen vriendje", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "733",
+ "missionName": "Zoektocht naar verdwenen vriendje",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "37600895244599422621003944507149785340"
+}

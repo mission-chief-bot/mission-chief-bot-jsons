@@ -1,1 +1,36 @@
-{"missionId": "129", "missionName": "オフィスビル火災", "requirements": [{"requirement": "消防車", "qty": "10"}, {"requirement": "プラットフォームトラック", "qty": "4"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "指令ユニット", "qty": "2"}, {"requirement": "警察車両", "qty": "3"}, {"requirement": "救急車", "qty": "4"}, {"requirement": "水槽車", "qty": "1"}], "credits": "7000"}
+{
+ "missionId": "129",
+ "missionName": "オフィスビル火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "10"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "4"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "指令ユニット",
+   "qty": "2"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "4"
+  },
+  {
+   "requirement": "水槽車",
+   "qty": "1"
+  }
+ ],
+ "credits": "7000",
+ "version": "287992166948048055494541777023615016232"
+}

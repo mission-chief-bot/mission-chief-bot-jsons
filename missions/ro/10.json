@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "Tractor în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "Tractor în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "301571789849580554238498932384041382476"
+}

@@ -1,1 +1,12 @@
-{"missionId": "229", "missionName": "Electrocución", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "229",
+ "missionName": "Electrocución",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "43133424342169625724983696100259908066"
+}

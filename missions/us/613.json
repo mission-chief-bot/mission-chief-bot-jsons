@@ -1,1 +1,16 @@
-{"missionId": "613", "missionName": "Destruction of private property", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "fire investigation units", "qty": "3"}], "credits": "2500"}
+{
+ "missionId": "613",
+ "missionName": "Destruction of private property",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "3"
+  }
+ ],
+ "credits": "2500",
+ "version": "96321970520628726608550609257965973463"
+}

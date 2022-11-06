@@ -1,1 +1,16 @@
-{"missionId": "601", "missionName": "Bewusteloos persoon op een bankje", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "601",
+ "missionName": "Bewusteloos persoon op een bankje",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "272006425224479018225125153486920414559"
+}

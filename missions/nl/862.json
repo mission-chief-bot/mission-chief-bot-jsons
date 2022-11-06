@@ -1,1 +1,16 @@
-{"missionId": "862", "missionName": "Ongeluk op mistige weg", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "862",
+ "missionName": "Ongeluk op mistige weg",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "31670867407289128401228616359600306670"
+}

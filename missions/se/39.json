@@ -1,1 +1,12 @@
-{"missionId": "39", "missionName": "Akut buk", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "39",
+ "missionName": "Akut buk",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "193477042868182188998614441918671265088"
+}

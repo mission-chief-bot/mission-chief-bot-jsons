@@ -1,1 +1,12 @@
-{"missionId": "761", "missionName": "Sabotierte Lautsprecher auf Jubiläumsparty", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "761",
+ "missionName": "Sabotierte Lautsprecher auf Jubiläumsparty",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "276770482485098330127319201354730305488"
+}

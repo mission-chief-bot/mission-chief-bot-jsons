@@ -1,1 +1,20 @@
-{"missionId": "148", "missionName": "Petrol Station Robbery", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "tog personnel", "qty": "1"}], "credits": "8"}
+{
+ "missionId": "148",
+ "missionName": "Petrol Station Robbery",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "tog personnel",
+   "qty": "1"
+  }
+ ],
+ "credits": "8",
+ "version": "278921222928326773790694968859072486306"
+}

@@ -1,1 +1,12 @@
-{"missionId": "333", "missionName": "Badevakt på svømmekonkurranse", "requirements": [{"requirement": "ambulanser", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "333",
+ "missionName": "Badevakt på svømmekonkurranse",
+ "requirements": [
+  {
+   "requirement": "ambulanser",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "27653686998899555106358533193804296207"
+}

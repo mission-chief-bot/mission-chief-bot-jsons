@@ -1,1 +1,12 @@
-{"missionId": "193", "missionName": "Accidente al hornear tarta de aniversario", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "193",
+ "missionName": "Accidente al hornear tarta de aniversario",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "273983073327992705610165755975329085706"
+}

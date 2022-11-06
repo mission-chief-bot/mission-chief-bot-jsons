@@ -1,1 +1,12 @@
-{"missionId": "100", "missionName": "Montón de basura en llamas a causa de los fuegos artificiales", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "100",
+ "missionName": "Montón de basura en llamas a causa de los fuegos artificiales",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "223271429159219372593273661777519172743"
+}

@@ -1,1 +1,20 @@
-{"missionId": "121", "missionName": "Liten demonstrasjon", "requirements": [{"requirement": "politibiler", "qty": "4"}, {"requirement": "hundepatruljer", "qty": "1"}, {"requirement": "maks pasienter", "qty": "3"}], "credits": "2200"}
+{
+ "missionId": "121",
+ "missionName": "Liten demonstrasjon",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "2200",
+ "version": "324778336676445915996094297126705937619"
+}

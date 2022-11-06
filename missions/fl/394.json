@@ -1,1 +1,32 @@
-{"missionId": "394", "missionName": "453 Vuotava ammoniakkisäiliö", "requirements": [{"requirement": "paloautot", "qty": "8"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "raskaat pelastusautot", "qty": "6"}, {"requirement": "kemikaalitorjunta-autot", "qty": "2"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "säiliöautot", "qty": "1"}], "credits": "7777"}
+{
+ "missionId": "394",
+ "missionName": "453 Vuotava ammoniakkisäiliö",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "6"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "säiliöautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "7777",
+ "version": "99404363374373749750825479936983185494"
+}

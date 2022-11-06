@@ -1,1 +1,12 @@
-{"missionId": "50", "missionName": "Parked car accident", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "50",
+ "missionName": "Parked car accident",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "71647884828522201108447557451348105532"
+}

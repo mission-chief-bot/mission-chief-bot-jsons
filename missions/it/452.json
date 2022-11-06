@@ -1,1 +1,12 @@
-{"missionId": "452", "missionName": "Scippo", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "452",
+ "missionName": "Scippo",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "226600375284742664223848407543867188598"
+}

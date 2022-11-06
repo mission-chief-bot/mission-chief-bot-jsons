@@ -1,1 +1,12 @@
-{"missionId": "178", "missionName": "외상성 사지 절단", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "178",
+ "missionName": "외상성 사지 절단",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "136835935744307946155774333455641030429"
+}

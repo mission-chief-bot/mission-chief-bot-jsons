@@ -1,1 +1,12 @@
-{"missionId": "118", "missionName": "Frankenstein gesichtet", "requirements": [{"requirement": "streifenwagen", "qty": "3"}], "credits": "550"}
+{
+ "missionId": "118",
+ "missionName": "Frankenstein gesichtet",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  }
+ ],
+ "credits": "550",
+ "version": "257815748894565628470508855286298008084"
+}

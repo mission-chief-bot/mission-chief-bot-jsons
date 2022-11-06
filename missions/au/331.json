@@ -1,1 +1,28 @@
-{"missionId": "331", "missionName": "Campsite Fire", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "water carriers", "qty": "1"}, {"requirement": "brush trucks", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "3000"}
+{
+ "missionId": "331",
+ "missionName": "Campsite Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  },
+  {
+   "requirement": "brush trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "3000",
+ "version": "191393581217341874584608993331922978707"
+}

@@ -1,1 +1,28 @@
-{"missionId": "320", "missionName": "Segnalazione di persona in acqua", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "vigili del fuoco", "qty": "15"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "320",
+ "missionName": "Segnalazione di persona in acqua",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "vigili del fuoco",
+   "qty": "15"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "331303363871054163213842478632866263974"
+}

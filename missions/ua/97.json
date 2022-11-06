@@ -1,1 +1,12 @@
-{"missionId": "97", "missionName": "Анафілактичний шок", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "97",
+ "missionName": "Анафілактичний шок",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "74890769088633267636370313522941614486"
+}

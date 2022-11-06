@@ -1,1 +1,12 @@
-{"missionId": "198", "missionName": "폭죽으로 공황상태에 빠진 동물", "requirements": [{"requirement": "최대 환자", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "198",
+ "missionName": "폭죽으로 공황상태에 빠진 동물",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "14581822067163790195861506610404397476"
+}

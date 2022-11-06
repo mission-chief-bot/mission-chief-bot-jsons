@@ -1,1 +1,12 @@
-{"missionId": "250", "missionName": "Sabotert fyrverkeri", "requirements": [{"requirement": "politibiler", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "250",
+ "missionName": "Sabotert fyrverkeri",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "295980956795374292081339107102353705741"
+}

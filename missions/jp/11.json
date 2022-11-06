@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "電話ボックスから出火", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "電話ボックスから出火",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "313451663407196469864435891626531647709"
+}

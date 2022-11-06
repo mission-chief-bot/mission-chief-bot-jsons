@@ -1,1 +1,12 @@
-{"missionId": "56", "missionName": "폭동 사건", "requirements": [{"requirement": "경찰차", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "56",
+ "missionName": "폭동 사건",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "84039669096711103875859232269708364877"
+}

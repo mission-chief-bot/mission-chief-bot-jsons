@@ -1,1 +1,12 @@
-{"missionId": "777", "missionName": "Illegaal aftappen elektra", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "777",
+ "missionName": "Illegaal aftappen elektra",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "104991732921760604982283010884336464508"
+}

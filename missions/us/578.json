@@ -1,1 +1,12 @@
-{"missionId": "578", "missionName": "Illegal tapping of electricity", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "578",
+ "missionName": "Illegal tapping of electricity",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "127770169256099449593069991568190467205"
+}

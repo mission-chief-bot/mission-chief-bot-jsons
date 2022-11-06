@@ -1,1 +1,48 @@
-{"missionId": "709", "missionName": "Bus in Haltestelle", "requirements": [{"requirement": "löschfahrzeuge", "qty": "4"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "rüstwagen", "qty": "2"}, {"requirement": "gw-öl", "qty": "1"}, {"requirement": "streifenwagen", "qty": "4"}, {"requirement": "feuerwehrkräne (fwk)", "qty": "1"}, {"requirement": "rtw", "qty": "15"}, {"requirement": "nef", "qty": "4"}, {"requirement": "lna", "qty": "1"}, {"requirement": "orgl", "qty": "1"}], "credits": "2600"}
+{
+ "missionId": "709",
+ "missionName": "Bus in Haltestelle",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "4"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "gw-öl",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "feuerwehrkräne (fwk)",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "15"
+  },
+  {
+   "requirement": "nef",
+   "qty": "4"
+  },
+  {
+   "requirement": "lna",
+   "qty": "1"
+  },
+  {
+   "requirement": "orgl",
+   "qty": "1"
+  }
+ ],
+ "credits": "2600",
+ "version": "129590537260866664775138770092221314968"
+}

@@ -1,1 +1,12 @@
-{"missionId": "450", "missionName": "603 Omaisuusrikostutkinta", "requirements": [{"requirement": "rikostutkintayksiköt", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "450",
+ "missionName": "603 Omaisuusrikostutkinta",
+ "requirements": [
+  {
+   "requirement": "rikostutkintayksiköt",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "97314123922190248898121645472644521721"
+}

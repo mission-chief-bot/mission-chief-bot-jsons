@@ -1,1 +1,12 @@
-{"missionId": "248", "missionName": "Perquisizione domestica", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "248",
+ "missionName": "Perquisizione domestica",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "281777354765143880386943738623757617862"
+}

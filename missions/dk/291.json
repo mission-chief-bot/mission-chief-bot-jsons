@@ -1,1 +1,12 @@
-{"missionId": "291", "missionName": "Sommerfugle i mave", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "291",
+ "missionName": "Sommerfugle i mave",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "322545251474985692647040358014840842548"
+}

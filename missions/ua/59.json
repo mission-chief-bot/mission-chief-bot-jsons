@@ -1,1 +1,16 @@
-{"missionId": "59", "missionName": "Порятунок тварини", "requirements": [{"requirement": "пожежні машини", "qty": "1"}, {"requirement": "пожежно-рятувальні автомобілі", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "59",
+ "missionName": "Порятунок тварини",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежно-рятувальні автомобілі",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "150597922653944553730014412491945576217"
+}

@@ -1,1 +1,12 @@
-{"missionId": "576", "missionName": "Large STOP operation", "requirements": [{"requirement": "police cars", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "576",
+ "missionName": "Large STOP operation",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "133377071247826122057868543977297289205"
+}

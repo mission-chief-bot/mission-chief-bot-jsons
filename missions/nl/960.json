@@ -1,1 +1,24 @@
-{"missionId": "960", "missionName": "Begeleiding demonstratie (klein)", "requirements": [ {"requirement": "bereden brigade (paarden)", "qty": "4"}, {"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "me flexbussen", "qty": "3"}, {"requirement": "me commandovoertuigen", "qty": "1"}], "credits": "11220"}
+{
+ "missionId": "960",
+ "missionName": "Begeleiding demonstratie (klein)",
+ "requirements": [
+  {
+   "requirement": "bereden brigade (paarden)",
+   "qty": "4"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "me flexbussen",
+   "qty": "3"
+  },
+  {
+   "requirement": "me commandovoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "11220",
+ "version": "18397496188418390252634160965656109128"
+}

@@ -1,1 +1,20 @@
-{"missionId": "104", "missionName": "Hostage Taken", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "swat armoured vehicle", "qty": "2"}, {"requirement": "max. patients", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "104",
+ "missionName": "Hostage Taken",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "swat armoured vehicle",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "63320324234998122728007189642962797742"
+}

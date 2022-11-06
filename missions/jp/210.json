@@ -1,1 +1,20 @@
-{"missionId": "210", "missionName": "負傷したフリーランナー", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "大型救助車両", "qty": "1"}, {"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "210",
+ "missionName": "負傷したフリーランナー",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "141830642443426927229108386426352447662"
+}

@@ -1,1 +1,24 @@
-{"missionId": "110", "missionName": "Påskehare på en kran", "requirements": [{"requirement": "nødvendig stigebil", "qty": "1"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}, {"requirement": "brannbiler", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "110",
+ "missionName": "Påskehare på en kran",
+ "requirements": [
+  {
+   "requirement": "nødvendig stigebil",
+   "qty": "1"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "174320307415609494426750400366825830870"
+}

@@ -1,1 +1,32 @@
-{"missionId": "421", "missionName": "Sécurisation de Manifestation (Moyen)", "requirements": [{"requirement": "voitures de police es", "qty": "5"}, { "requirement": "vr", "qty": "12"}, { "requirement": "vct", "qty": "1"}, { "requirement": "ram", "qty": "1"}, { "requirement": "vat", "qty": "1"}, { "requirement": "vtp", "qty": "1"}], "credits": "6400"}
+{
+ "missionId": "421",
+ "missionName": "Sécurisation de Manifestation (Moyen)",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "5"
+  },
+  {
+   "requirement": "vr",
+   "qty": "12"
+  },
+  {
+   "requirement": "vct",
+   "qty": "1"
+  },
+  {
+   "requirement": "ram",
+   "qty": "1"
+  },
+  {
+   "requirement": "vat",
+   "qty": "1"
+  },
+  {
+   "requirement": "vtp",
+   "qty": "1"
+  }
+ ],
+ "credits": "6400",
+ "version": "78417859890385674409607729464578759601"
+}

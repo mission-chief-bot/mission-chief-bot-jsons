@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "Caravană în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "Caravană în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "146978889148356258367214445814058489424"
+}

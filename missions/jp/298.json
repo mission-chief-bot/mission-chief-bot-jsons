@@ -1,1 +1,16 @@
-{"missionId": "298", "missionName": "車両からの大量燃料漏れ", "requirements": [{"requirement": "消防車", "qty": "2"}, {"requirement": "警察車両", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "298",
+ "missionName": "車両からの大量燃料漏れ",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "2006894333989373379459335942459892630"
+}

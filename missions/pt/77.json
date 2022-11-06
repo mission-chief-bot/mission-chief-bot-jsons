@@ -1,1 +1,12 @@
-{"missionId": "77", "missionName": "Asfixia", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "77",
+ "missionName": "Asfixia",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "20716209214971945596417257970863006244"
+}

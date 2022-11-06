@@ -1,1 +1,32 @@
-{"missionId": "466", "missionName": "Brand in verzorgingshuis", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "ovd-geneeskunde", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "466",
+ "missionName": "Brand in verzorgingshuis",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-geneeskunde",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "67225812576108756735286449715799054753"
+}

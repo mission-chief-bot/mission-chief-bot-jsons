@@ -1,1 +1,16 @@
-{"missionId": "380", "missionName": "Ulovlig gate selger", "requirements": [{"requirement": "politibiler", "qty": "5"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "3500"}
+{
+ "missionId": "380",
+ "missionName": "Ulovlig gate selger",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "3500",
+ "version": "310658611435629202216275881700774366590"
+}

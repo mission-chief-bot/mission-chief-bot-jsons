@@ -1,1 +1,12 @@
-{"missionId": "137", "missionName": "Křeče z tepla", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "137",
+ "missionName": "Křeče z tepla",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "259074546169789965633311208984481969708"
+}

@@ -1,1 +1,12 @@
-{"missionId": "551", "missionName": "Controllo Peschereccio", "requirements": [{"requirement": "motovedetta costiera", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "551",
+ "missionName": "Controllo Peschereccio",
+ "requirements": [
+  {
+   "requirement": "motovedetta costiera",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "321357241331308314313919932224173121590"
+}

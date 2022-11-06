@@ -1,1 +1,28 @@
-{"missionId": "538", "missionName": "Rieten kap woning in brand door vuurwerk", "requirements": [{"requirement": "tankautospuiten", "qty": "5"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "adembeschermingsvoertuigen", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "3100"}
+{
+ "missionId": "538",
+ "missionName": "Rieten kap woning in brand door vuurwerk",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "5"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "adembeschermingsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "3100",
+ "version": "279604816921132981854982456325106168879"
+}

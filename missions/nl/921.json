@@ -1,1 +1,12 @@
-{"missionId": "921", "missionName": "Allergische reactie door pollen", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "650"}
+{
+ "missionId": "921",
+ "missionName": "Allergische reactie door pollen",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "650",
+ "version": "283170013423020605733102655324577835730"
+}

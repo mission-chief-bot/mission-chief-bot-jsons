@@ -1,1 +1,12 @@
-{"missionId": "948", "missionName": "Brand op windmolenpark", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "948",
+ "missionName": "Brand op windmolenpark",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "147705934340643324809452935290356786706"
+}

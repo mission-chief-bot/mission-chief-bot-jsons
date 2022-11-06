@@ -1,1 +1,12 @@
-{"missionId": "722", "missionName": "Allergische Reaktion auf Bienenstich", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "722",
+ "missionName": "Allergische Reaktion auf Bienenstich",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "296193319252435942191196490134665659975"
+}

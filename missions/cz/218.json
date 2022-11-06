@@ -1,1 +1,16 @@
-{"missionId": "218", "missionName": "Požár na balkóně způsobený zábavní pyrotechnikou", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "automobilové žebříky", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "218",
+ "missionName": "Požár na balkóně způsobený zábavní pyrotechnikou",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "211812099691536945733540852553750760862"
+}

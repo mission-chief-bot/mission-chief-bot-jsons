@@ -1,1 +1,12 @@
-{"missionId": "454", "missionName": "592 Sodanaikainen räjähde löytynyt", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "1900"}
+{
+ "missionId": "454",
+ "missionName": "592 Sodanaikainen räjähde löytynyt",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1900",
+ "version": "6909806414073170683268147053765325846"
+}

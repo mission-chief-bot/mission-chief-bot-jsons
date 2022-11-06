@@ -1,1 +1,12 @@
-{"missionId": "900", "missionName": "Geen ID tonen op eerste vordering", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "900",
+ "missionName": "Geen ID tonen op eerste vordering",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "314743947759157035264981327617932504190"
+}

@@ -1,1 +1,12 @@
-{"missionId": "32", "missionName": "Feu d'engin agricole", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "32",
+ "missionName": "Feu d'engin agricole",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "130589816491345684762014520708318062405"
+}

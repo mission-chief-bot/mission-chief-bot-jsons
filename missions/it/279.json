@@ -1,1 +1,12 @@
-{"missionId": "279", "missionName": "Invitato all’anniversario assente", "requirements": [{"requirement": "pattuglie", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "279",
+ "missionName": "Invitato all’anniversario assente",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "316598998033443186648324670082010622092"
+}

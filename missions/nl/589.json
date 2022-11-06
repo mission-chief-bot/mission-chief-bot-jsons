@@ -1,1 +1,20 @@
-{"missionId": "589", "missionName": "Voorzorgslanding klein vliegtuig", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "afo/osc", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "6"}], "credits": "1980"}
+{
+ "missionId": "589",
+ "missionName": "Voorzorgslanding klein vliegtuig",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "afo/osc",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "6"
+  }
+ ],
+ "credits": "1980",
+ "version": "280255947646680168984517022967433933438"
+}

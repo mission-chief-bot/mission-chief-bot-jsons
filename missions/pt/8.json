@@ -1,1 +1,12 @@
-{"missionId": "8", "missionName": "Pequeno incêndio numa lixeira", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "8",
+ "missionName": "Pequeno incêndio numa lixeira",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "297460104498022855280098262085856811238"
+}

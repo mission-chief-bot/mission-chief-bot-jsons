@@ -1,1 +1,12 @@
-{"missionId": "406", "missionName": "Forbryder gemmer sig under festen", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}], "credits": "200"}
+{
+ "missionId": "406",
+ "missionName": "Forbryder gemmer sig under festen",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "200",
+ "version": "1690773524935694080127816228244638068"
+}

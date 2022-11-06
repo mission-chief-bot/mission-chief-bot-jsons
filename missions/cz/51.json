@@ -1,1 +1,12 @@
-{"missionId": "51", "missionName": "Černý pasažér", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "51",
+ "missionName": "Černý pasažér",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "310653112686835961086724083021904245025"
+}

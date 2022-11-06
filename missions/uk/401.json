@@ -1,1 +1,16 @@
-{"missionId": "401", "missionName": "Fire in allotment (Medium)", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "fire officers", "qty": "3"}], "credits": "2000"}
+{
+ "missionId": "401",
+ "missionName": "Fire in allotment (Medium)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "3"
+  }
+ ],
+ "credits": "2000",
+ "version": "272394019118464080172108976240623315528"
+}

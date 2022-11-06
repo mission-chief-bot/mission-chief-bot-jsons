@@ -1,1 +1,12 @@
-{"missionId": "380", "missionName": "Gonfia palla da calcio", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "380",
+ "missionName": "Gonfia palla da calcio",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "250442961033363546696169277054731893354"
+}

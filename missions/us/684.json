@@ -1,1 +1,12 @@
-{"missionId": "684", "missionName": "Melted Chocolate Bunny", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "684",
+ "missionName": "Melted Chocolate Bunny",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "297259865723906929514448317788274673208"
+}

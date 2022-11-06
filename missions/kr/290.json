@@ -1,1 +1,12 @@
-{"missionId": "290", "missionName": "맹장염", "requirements": [{"requirement": "최대 환자", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "290",
+ "missionName": "맹장염",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "277056905766721743186272833367322459406"
+}

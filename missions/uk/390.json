@@ -1,1 +1,12 @@
-{"missionId": "390", "missionName": "Breach of bail", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "390",
+ "missionName": "Breach of bail",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "31745860897887190698514134633665860107"
+}

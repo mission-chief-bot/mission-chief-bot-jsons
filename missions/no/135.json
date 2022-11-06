@@ -1,1 +1,16 @@
-{"missionId": "135", "missionName": "Bilulykke med dyr", "requirements": [{"requirement": "politibiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "135",
+ "missionName": "Bilulykke med dyr",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "313086701521818208456957913239982020856"
+}

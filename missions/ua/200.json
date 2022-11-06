@@ -1,1 +1,12 @@
-{"missionId": "200", "missionName": "Незаконна діяльність в інтернеті", "requirements": [{"requirement": "поліцейські машини", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "200",
+ "missionName": "Незаконна діяльність в інтернеті",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "16551507674903813158515615538779532581"
+}

@@ -1,1 +1,20 @@
-{"missionId": "100", "missionName": "Пожежа на звалищі", "requirements": [{"requirement": "пожежні машини", "qty": "5"}, {"requirement": "штабні автомобілі", "qty": "1"}, {"requirement": "пожежні автодрабини", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "100",
+ "missionName": "Пожежа на звалищі",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "5"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "16211564917029082449643336316464588793"
+}

@@ -1,1 +1,12 @@
-{"missionId": "460", "missionName": "Alvorligt forhøjet blodtryk", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "460",
+ "missionName": "Alvorligt forhøjet blodtryk",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "264294602133309605642254660447764811780"
+}

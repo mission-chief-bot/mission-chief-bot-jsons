@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "421 Ruohikkopalo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "421 Ruohikkopalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "222668227220547235297855087291197941446"
+}

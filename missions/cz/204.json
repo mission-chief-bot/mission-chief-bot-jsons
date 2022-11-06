@@ -1,1 +1,24 @@
-{"missionId": "204", "missionName": "Dopravní nehoda na náledí", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "204",
+ "missionName": "Dopravní nehoda na náledí",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "4"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "85026475181931103181493291607883847320"
+}

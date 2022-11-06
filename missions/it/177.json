@@ -1,1 +1,28 @@
-{"missionId": "177", "missionName": "Terremoto (MEDIO)", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "4"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "15"}], "credits": "4"}
+{
+ "missionId": "177",
+ "missionName": "Terremoto (MEDIO)",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "3"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "4"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "15"
+  }
+ ],
+ "credits": "4",
+ "version": "336404707650463386728694379400846490601"
+}

@@ -1,1 +1,12 @@
-{"missionId": "168", "missionName": "Traumatismo Crânio-Encefálico", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "168",
+ "missionName": "Traumatismo Crânio-Encefálico",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "188228998921973613861318654477742472498"
+}

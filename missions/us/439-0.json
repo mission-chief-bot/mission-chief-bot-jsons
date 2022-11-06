@@ -1,1 +1,16 @@
-{"missionId": "439-0", "missionName": "Serve eviction notice", "requirements": [{"requirement": "sheriffs", "qty": "1"}, {"requirement": "police cars", "qty": "1"}], "credits": "550"}
+{
+ "missionId": "439-0",
+ "missionName": "Serve eviction notice",
+ "requirements": [
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "550",
+ "version": "2009528252132274187003048445209764730"
+}

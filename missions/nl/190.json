@@ -1,1 +1,16 @@
-{"missionId": "190", "missionName": "Straat onder water", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}], "credits": "490"}
+{
+ "missionId": "190",
+ "missionName": "Straat onder water",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "490",
+ "version": "135899415348161634830827681945087010887"
+}

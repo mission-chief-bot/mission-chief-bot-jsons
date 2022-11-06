@@ -1,1 +1,12 @@
-{"missionId": "760", "missionName": "Identiteitsfraude", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "840"}
+{
+ "missionId": "760",
+ "missionName": "Identiteitsfraude",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "840",
+ "version": "23636101099863661187877172758576888921"
+}

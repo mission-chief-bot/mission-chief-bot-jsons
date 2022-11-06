@@ -1,1 +1,16 @@
-{"missionId": "183", "missionName": "Incêndio no mercado de Natal", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "183",
+ "missionName": "Incêndio no mercado de Natal",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "278944702855294248058716060275988200057"
+}

@@ -1,1 +1,12 @@
-{"missionId": "436", "missionName": "Trafik razzia", "requirements": [{"requirement": "påkrævede politibiler", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "436",
+ "missionName": "Trafik razzia",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "48536974881761122953379343341226958735"
+}

@@ -1,1 +1,16 @@
-{"missionId": "31", "missionName": "Fireplace fire", "requirements": [{"requirement": "fire officers", "qty": "1"}, {"requirement": "fire engines", "qty": "3"}], "credits": "1310"}
+{
+ "missionId": "31",
+ "missionName": "Fireplace fire",
+ "requirements": [
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "3"
+  }
+ ],
+ "credits": "1310",
+ "version": "42959594253704978500693904317032982222"
+}

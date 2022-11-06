@@ -1,1 +1,16 @@
-{"missionId": "647", "missionName": "Animal stuck between walls", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "1"}], "credits": "1300"}
+{
+ "missionId": "647",
+ "missionName": "Animal stuck between walls",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "37286807041095488098858841994766058661"
+}

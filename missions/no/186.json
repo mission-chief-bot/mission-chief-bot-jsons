@@ -1,1 +1,16 @@
-{"missionId": "186", "missionName": "Brann i kum", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "brannbiler", "qty": "2"}], "credits": "210"}
+{
+ "missionId": "186",
+ "missionName": "Brann i kum",
+ "requirements": [
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "210",
+ "version": "30508711907811458871159441053805617036"
+}

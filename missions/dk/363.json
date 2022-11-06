@@ -1,1 +1,12 @@
-{"missionId": "363", "missionName": "Person gledet i våde blade", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "363",
+ "missionName": "Person gledet i våde blade",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "46711361356476567558506743909890830263"
+}

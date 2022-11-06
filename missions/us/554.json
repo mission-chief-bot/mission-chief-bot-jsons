@@ -1,1 +1,16 @@
-{"missionId": "554", "missionName": "Plant smuggling", "requirements": [{"requirement": "warden trucks", "qty": "2"}, {"requirement": "k-9 units", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "554",
+ "missionName": "Plant smuggling",
+ "requirements": [
+  {
+   "requirement": "warden trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "134953467826784523414641353254399480737"
+}

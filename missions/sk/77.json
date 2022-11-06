@@ -1,1 +1,12 @@
-{"missionId": "77", "missionName": "Autonehoda so zvieraťom", "requirements": [{"requirement": "policajné vozidlá", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "77",
+ "missionName": "Autonehoda so zvieraťom",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "90753761317988173259901218724306665294"
+}

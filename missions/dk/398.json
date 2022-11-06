@@ -1,1 +1,44 @@
-{"missionId": "398", "missionName": "National 112 prisuddeling", "requirements": [{"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "3"}, {"requirement": "påkrævede redningsvogn", "qty": "1"}, {"requirement": "påkrævede brandbiler", "qty": "4"}, {"requirement": "påkrævede stigevogn", "qty": "2"}, {"requirement": "påkrævede ambulancer", "qty": "2"}, {"requirement": "påkrævede gift- og kemikaliekøretøjer", "qty": "1"}, {"requirement": "påkrævede vandtankvogne", "qty": "1"}, {"requirement": "påkrævede højtrykskompressor", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "6"}], "credits": "7500"}
+{
+ "missionId": "398",
+ "missionName": "National 112 prisuddeling",
+ "requirements": [
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede ambulancer",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede gift- og kemikaliekøretøjer",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede vandtankvogne",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede højtrykskompressor",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "6"
+  }
+ ],
+ "credits": "7500",
+ "version": "35066722127632102938051233285674113022"
+}

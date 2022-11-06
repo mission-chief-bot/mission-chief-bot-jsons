@@ -1,1 +1,12 @@
-{"missionId": "14", "missionName": "Küçük tarla yangını", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "14",
+ "missionName": "Küçük tarla yangını",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "93165707446126165858750092480032757236"
+}

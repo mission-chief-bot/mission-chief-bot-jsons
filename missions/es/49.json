@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "Carterista", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Carterista",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "64989555318780959133765211021685431155"
+}

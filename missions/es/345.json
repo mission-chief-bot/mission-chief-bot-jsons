@@ -1,1 +1,12 @@
-{"missionId": "345", "missionName": "Trauma craneoencefálico", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "345",
+ "missionName": "Trauma craneoencefálico",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "199793223129019819458448648740768149775"
+}

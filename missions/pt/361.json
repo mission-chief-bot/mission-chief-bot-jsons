@@ -1,1 +1,12 @@
-{"missionId": "361", "missionName": "Sensibilizar as crianças da escola para o 112", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "361",
+ "missionName": "Sensibilizar as crianças da escola para o 112",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "329203352976748301941581172052709762588"
+}

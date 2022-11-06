@@ -1,1 +1,12 @@
-{"missionId": "469", "missionName": "490 Epäselvä onnettomuus", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "469",
+ "missionName": "490 Epäselvä onnettomuus",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "177370346239338997410264112024129469073"
+}

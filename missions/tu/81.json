@@ -1,1 +1,16 @@
-{"missionId": "81", "missionName": "Görevliye tehdit", "requirements": [{"requirement": "gerekli polis arabaları", "qty": "2"}, {"requirement": "maks. hastalar", "qty": "1"}], "credits": "Metro istasyonu"}
+{
+ "missionId": "81",
+ "missionName": "Görevliye tehdit",
+ "requirements": [
+  {
+   "requirement": "gerekli polis arabaları",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "Metro istasyonu",
+ "version": "257409643446580294897758995052215163434"
+}

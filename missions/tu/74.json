@@ -1,1 +1,28 @@
-{"missionId": "74", "missionName": "Büyük yangın", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "10"}, {"requirement": "gerekli tabur amiri araçları", "qty": "3"}, {"requirement": "gerekli platformlu kamyonlar", "qty": "2"}, {"requirement": "gerekli su tankerleri", "qty": "2"}, {"requirement": "gerekli büyük kurtarma araçları", "qty": "2"}], "credits": "10210"}
+{
+ "missionId": "74",
+ "missionName": "Büyük yangın",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "10"
+  },
+  {
+   "requirement": "gerekli tabur amiri araçları",
+   "qty": "3"
+  },
+  {
+   "requirement": "gerekli platformlu kamyonlar",
+   "qty": "2"
+  },
+  {
+   "requirement": "gerekli su tankerleri",
+   "qty": "2"
+  },
+  {
+   "requirement": "gerekli büyük kurtarma araçları",
+   "qty": "2"
+  }
+ ],
+ "credits": "10210",
+ "version": "216220421066637877844198871906444039406"
+}

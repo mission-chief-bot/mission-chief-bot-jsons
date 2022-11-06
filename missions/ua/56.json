@@ -1,1 +1,12 @@
-{"missionId": "56", "missionName": "Учасник заворушень", "requirements": [{"requirement": "поліцейські машини", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "56",
+ "missionName": "Учасник заворушень",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "162266030675616163321332004599364132173"
+}

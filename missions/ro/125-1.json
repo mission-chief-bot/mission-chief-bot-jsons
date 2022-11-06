@@ -1,1 +1,28 @@
-{"missionId": "125-1", "missionName": "Incendiu industrial (mediu)", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "5"}, {"requirement": "camioane cu platformă necesare", "qty": "2"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "2"}, {"requirement": "vehicule pentru transportul mărfurilor periculoase necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "4"}], "credits": "6200"}
+{
+ "missionId": "125-1",
+ "missionName": "Incendiu industrial (mediu)",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "5"
+  },
+  {
+   "requirement": "camioane cu platformă necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "vehicule pentru transportul mărfurilor periculoase necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "4"
+  }
+ ],
+ "credits": "6200",
+ "version": "144771110794558551623033021887108746872"
+}

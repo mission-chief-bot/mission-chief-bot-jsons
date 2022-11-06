@@ -1,1 +1,12 @@
-{"missionId": "36", "missionName": "Bröstsmärta", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "36",
+ "missionName": "Bröstsmärta",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "310590483996603744225069707042298592606"
+}

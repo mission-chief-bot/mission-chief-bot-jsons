@@ -1,1 +1,12 @@
-{"missionId": "525", "missionName": "Auto in brand door vuurwerk", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "525",
+ "missionName": "Auto in brand door vuurwerk",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "83013280409164054677321946195335045221"
+}

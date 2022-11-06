@@ -1,1 +1,12 @@
-{"missionId": "605", "missionName": "Herz gestohlen", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "605",
+ "missionName": "Herz gestohlen",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "202939661093628924045678784110994523833"
+}

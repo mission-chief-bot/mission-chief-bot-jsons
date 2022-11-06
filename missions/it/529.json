@@ -1,1 +1,12 @@
-{"missionId": "529", "missionName": "Colica Renale", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "529",
+ "missionName": "Colica Renale",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "209246822411027582092747121680977044389"
+}

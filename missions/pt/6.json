@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Incêndio num jardim", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Incêndio num jardim",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "7812951575806195348827789108572511633"
+}

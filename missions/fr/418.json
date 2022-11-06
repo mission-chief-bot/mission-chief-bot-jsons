@@ -1,1 +1,12 @@
-{"missionId": "418", "missionName": "Vol de costumes", "requirements": [{"requirement": "voitures de police es", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "418",
+ "missionName": "Vol de costumes",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "314328779014317471395391568289220906895"
+}

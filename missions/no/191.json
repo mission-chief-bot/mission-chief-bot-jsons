@@ -1,1 +1,12 @@
-{"missionId": "191", "missionName": "Brennende gresskaråker", "requirements": [{"requirement": "brannbiler", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "191",
+ "missionName": "Brennende gresskaråker",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "263267536968990081825931309222339187937"
+}

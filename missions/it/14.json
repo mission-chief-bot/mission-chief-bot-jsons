@@ -1,1 +1,12 @@
-{"missionId": "14", "missionName": "Piccolo campo in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "14",
+ "missionName": "Piccolo campo in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "264251619373970955718097328681925610629"
+}

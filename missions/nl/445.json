@@ -1,1 +1,36 @@
-{"missionId": "445", "missionName": "Brand in hotel", "requirements": [{"requirement": "tankautospuiten", "qty": "3"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "adembeschermingsvoertuigen", "qty": "1"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "6"}], "credits": "2500"}
+{
+ "missionId": "445",
+ "missionName": "Brand in hotel",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "3"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "adembeschermingsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "6"
+  }
+ ],
+ "credits": "2500",
+ "version": "265394995778275667380460632469942201455"
+}

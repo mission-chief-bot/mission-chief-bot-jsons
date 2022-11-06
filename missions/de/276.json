@@ -1,1 +1,12 @@
-{"missionId": "276", "missionName": "Schwertransport", "requirements": [ {"requirement": "streifenwagen", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "276",
+ "missionName": "Schwertransport",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "42962457131346582608017105904208831389"
+}

@@ -1,1 +1,12 @@
-{"missionId": "419", "missionName": "Smykkeangrep", "requirements": [{"requirement": "politibiler", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "419",
+ "missionName": "Smykkeangrep",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "163967507698392511582565563755969013958"
+}

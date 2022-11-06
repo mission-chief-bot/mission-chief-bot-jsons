@@ -1,1 +1,24 @@
-{"missionId": "102", "missionName": "Esplosione in box auto", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "1900"}
+{
+ "missionId": "102",
+ "missionName": "Esplosione in box auto",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1900",
+ "version": "177411418380868789812348138661356225478"
+}

@@ -1,1 +1,24 @@
-{"missionId": "896", "missionName": "Windsurfer vermist", "requirements": [{"requirement": "strandvoertuigen (dat-rb of khv)", "qty": "4"}, {"requirement": "bootaanhanger (woa of ba-rb)", "qty": "2"}, {"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "politie helikopters", "qty": "1"}], "credits": "5140"}
+{
+ "missionId": "896",
+ "missionName": "Windsurfer vermist",
+ "requirements": [
+  {
+   "requirement": "strandvoertuigen (dat-rb of khv)",
+   "qty": "4"
+  },
+  {
+   "requirement": "bootaanhanger (woa of ba-rb)",
+   "qty": "2"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "5140",
+ "version": "288203715151605812607590978925368537351"
+}

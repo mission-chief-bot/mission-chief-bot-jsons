@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Požár trávy", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "Požár trávy",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "322843123048983868398326217454208567929"
+}

@@ -1,1 +1,16 @@
-{"missionId": "68", "missionName": "Boom op auto", "requirements": [{"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "tankautospuiten", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "68",
+ "missionName": "Boom op auto",
+ "requirements": [
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "210197329906363192791742184627748654910"
+}

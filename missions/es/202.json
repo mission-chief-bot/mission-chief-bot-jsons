@@ -1,1 +1,12 @@
-{"missionId": "202", "missionName": "Empacho por tarta de aniversario", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "202",
+ "missionName": "Empacho por tarta de aniversario",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "199446443305370293093104725500954600553"
+}

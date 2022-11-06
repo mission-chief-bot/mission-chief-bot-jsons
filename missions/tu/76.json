@@ -1,1 +1,16 @@
-{"missionId": "76", "missionName": "Silahlı soygun", "requirements": [{"requirement": "gerekli polis arabaları", "qty": "5"}, {"requirement": "maks. hastalar", "qty": "1"}], "credits": "Süpermarket (küçük)"}
+{
+ "missionId": "76",
+ "missionName": "Silahlı soygun",
+ "requirements": [
+  {
+   "requirement": "gerekli polis arabaları",
+   "qty": "5"
+  },
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "Süpermarket (küçük)",
+ "version": "290567435409848219322017843978500986918"
+}

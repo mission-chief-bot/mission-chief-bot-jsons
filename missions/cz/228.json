@@ -1,1 +1,12 @@
-{"missionId": "228", "missionName": "Osoba zasažená pyrotechnikou", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "228",
+ "missionName": "Osoba zasažená pyrotechnikou",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "71192446987437995967146772071383914529"
+}

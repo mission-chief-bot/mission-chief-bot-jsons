@@ -1,1 +1,48 @@
-{"missionId": "205/a", "missionName": "Feuer auf Bauernhof - Mittel", "requirements": [{"requirement": "löschfahrzeuge", "qty": "7"}, {"requirement": "elw 1", "qty": "2"}, {"requirement": "elw 2", "qty": "1"}, {"requirement": "drehleitern", "qty": "2"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "gw l 2 wasser", "qty": "1"}, {"requirement": "streifenwagen", "qty": "3"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}, {"requirement": "rtw", "qty": "4"}, {"requirement": "nef", "qty": "2"}], "credits": "5500"}
+{
+ "missionId": "205/a",
+ "missionName": "Feuer auf Bauernhof - Mittel",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "7"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 2",
+   "qty": "1"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "2"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw l 2 wasser",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "4"
+  },
+  {
+   "requirement": "nef",
+   "qty": "2"
+  }
+ ],
+ "credits": "5500",
+ "version": "88685169213784946347734888427705317782"
+}

@@ -1,1 +1,12 @@
-{"missionId": "382", "missionName": "403 Jälkivahingontorjunta", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "382",
+ "missionName": "403 Jälkivahingontorjunta",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "28509852609374542827034315215299070264"
+}

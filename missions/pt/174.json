@@ -1,1 +1,16 @@
-{"missionId": "174", "missionName": "Mala abandonada na rua", "requirements": [{"requirement": "veículos de inativação de explosivos e segurança em subsolo necessários", "qty": "1"}, {"requirement": "carros de patrulha necessários", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "174",
+ "missionName": "Mala abandonada na rua",
+ "requirements": [
+  {
+   "requirement": "veículos de inativação de explosivos e segurança em subsolo necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "260354836632332441919175033483344244441"
+}

@@ -1,1 +1,20 @@
-{"missionId": "309", "missionName": "Flat Fire in Sheltered Housing", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "support vehicles", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "309",
+ "missionName": "Flat Fire in Sheltered Housing",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "117588033413457490159067187104099934228"
+}

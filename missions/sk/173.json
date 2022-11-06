@@ -1,1 +1,12 @@
-{"missionId": "173", "missionName": "Požiar bytu", "requirements": [{"requirement": "hasičské automobily", "qty": "10"}], "credits": "1500"}
+{
+ "missionId": "173",
+ "missionName": "Požiar bytu",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "10"
+  }
+ ],
+ "credits": "1500",
+ "version": "89990655017916267373672124657458860386"
+}

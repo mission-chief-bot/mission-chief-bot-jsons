@@ -1,1 +1,32 @@
-{"missionId": "446", "missionName": "Opsyn ved en risikofyldt sportskamp", "requirements": [ {"requirement": "påkrævede politibiler", "qty": "6"}, {"requirement": "påkrævede hundepatruljer", "qty": "2"}, {"requirement": "gruppevogn påkrævet", "qty": "6"}, {"requirement": "fangetransport påkrævet", "qty": "1"}, {"requirement": "hollændervogn påkrævet", "qty": "1"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}], "credits": "9500"}
+{
+ "missionId": "446",
+ "missionName": "Opsyn ved en risikofyldt sportskamp",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "6"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "2"
+  },
+  {
+   "requirement": "gruppevogn påkrævet",
+   "qty": "6"
+  },
+  {
+   "requirement": "fangetransport påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "hollændervogn påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  }
+ ],
+ "credits": "9500",
+ "version": "222975911409551945270114666779317951002"
+}

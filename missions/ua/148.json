@@ -1,1 +1,16 @@
-{"missionId": "148", "missionName": "Палаючий вантажний вагон", "requirements": [{"requirement": "пожежні машини", "qty": "5"}, {"requirement": "штабні автомобілі", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "148",
+ "missionName": "Палаючий вантажний вагон",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "5"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "244587410228295078332757539246627085632"
+}

@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "Pilha de galhos", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "Pilha de galhos",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "106800126841553765183718856269907824301"
+}

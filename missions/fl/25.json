@@ -1,1 +1,12 @@
-{"missionId": "25", "missionName": "202 Tieonnettomuus", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "25",
+ "missionName": "202 Tieonnettomuus",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "183890075984568870678959690257752217776"
+}

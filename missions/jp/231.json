@@ -1,1 +1,12 @@
-{"missionId": "231", "missionName": "重度の頭部外傷", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "231",
+ "missionName": "重度の頭部外傷",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "203613722459581999729278176615555996429"
+}

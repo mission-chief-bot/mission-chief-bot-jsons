@@ -1,1 +1,20 @@
-{"missionId": "82", "missionName": "Incêndio numa pilha de palha", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "5"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "caminhões pipa necessários", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "82",
+ "missionName": "Incêndio numa pilha de palha",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "5"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "261970434194125323071800920756520660426"
+}

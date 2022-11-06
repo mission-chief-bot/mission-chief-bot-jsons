@@ -1,1 +1,32 @@
-{"missionId": "181", "missionName": "Verkeersongeval met beknelling", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams", "qty": "1"}, {"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "181",
+ "missionName": "Verkeersongeval met beknelling",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "88001650596128535433540683672984893413"
+}

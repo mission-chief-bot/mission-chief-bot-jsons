@@ -1,1 +1,28 @@
-{"missionId": "403", "missionName": "Incêndio num edifício devoluto", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "veículos tanque necessários:", "qty": "1"}, {"requirement": "carros de patrulha necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "2750"}
+{
+ "missionId": "403",
+ "missionName": "Incêndio num edifício devoluto",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos tanque necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "2750",
+ "version": "292931446186188761821626734434396182471"
+}

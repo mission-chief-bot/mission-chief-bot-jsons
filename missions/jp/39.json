@@ -1,1 +1,12 @@
-{"missionId": "39", "missionName": "熱", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "39",
+ "missionName": "熱",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "270524370956002376412538331124646241259"
+}

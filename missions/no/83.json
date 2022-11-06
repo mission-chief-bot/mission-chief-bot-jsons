@@ -1,1 +1,24 @@
-{"missionId": "83", "missionName": "CO-forgiftning", "requirements": [ {"requirement": "brannbiler", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "10"}], "credits": "2300"}
+{
+ "missionId": "83",
+ "missionName": "CO-forgiftning",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "10"
+  }
+ ],
+ "credits": "2300",
+ "version": "23351439816531967127933201892080961618"
+}

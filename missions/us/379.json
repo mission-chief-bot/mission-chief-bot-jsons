@@ -1,1 +1,12 @@
-{"missionId": "379", "missionName": "SCUBA Injury", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "379",
+ "missionName": "SCUBA Injury",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "62282380144295433234068128098437842703"
+}

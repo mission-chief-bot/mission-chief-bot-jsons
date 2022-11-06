@@ -1,1 +1,44 @@
-{"missionId": "740", "missionName": "Gasaustritt aus Kanalisation", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "gw-gefahrgut", "qty": "1"}, {"requirement": "gw-höhenrettung", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "maximale patientenanzahl", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "740",
+ "missionName": "Gasaustritt aus Kanalisation",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-mess",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-gefahrgut",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-höhenrettung",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "153248229577194555250294088891852070458"
+}

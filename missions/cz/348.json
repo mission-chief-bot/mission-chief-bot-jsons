@@ -1,1 +1,32 @@
-{"missionId": "348", "missionName": "Rozsáhlý požár lesa", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "50"}, {"requirement": "velitelské automobily", "qty": "4"}, {"requirement": "mobilní operační střediska", "qty": "2"}, {"requirement": "protiplynové automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "4"}, {"requirement": "policejní vrtulníky", "qty": "2"}], "credits": "24000"}
+{
+ "missionId": "348",
+ "missionName": "Rozsáhlý požár lesa",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "50"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "mobilní operační střediska",
+   "qty": "2"
+  },
+  {
+   "requirement": "protiplynové automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "policejní vrtulníky",
+   "qty": "2"
+  }
+ ],
+ "credits": "24000",
+ "version": "281844687275429248996201720756598815668"
+}

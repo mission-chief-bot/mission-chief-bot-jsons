@@ -1,1 +1,52 @@
-{"missionId": "702/a", "missionName": "Brand in Großwäscherei", "requirements": [{"requirement": "löschfahrzeuge", "qty": "12"}, {"requirement": "drehleitern", "qty": "2"}, {"requirement": "elw 1", "qty": "3"}, {"requirement": "rüstwagen", "qty": "2"}, {"requirement": "elw 2", "qty": "1"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "gw-gefahrgut", "qty": "1"}, {"requirement": "streifenwagen", "qty": "4"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "5"}], "credits": "7400"}
+{
+ "missionId": "702/a",
+ "missionName": "Brand in Großwäscherei",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "12"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "3"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 2",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-mess",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-gefahrgut",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "5"
+  }
+ ],
+ "credits": "7400",
+ "version": "48782736583274237544960982805322027478"
+}

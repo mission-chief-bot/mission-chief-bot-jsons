@@ -1,1 +1,12 @@
-{"missionId": "102", "missionName": "Yaralı koşucu", "requirements": [{"requirement": "maks. hastalar", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "102",
+ "missionName": "Yaralı koşucu",
+ "requirements": [
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "221578120829215734534444173187474217737"
+}

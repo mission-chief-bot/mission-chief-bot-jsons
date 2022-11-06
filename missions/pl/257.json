@@ -1,1 +1,12 @@
-{"missionId": "257", "missionName": "Skradziono dynię", "requirements": [{"requirement": "radiowozy", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "257",
+ "missionName": "Skradziono dynię",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "95962786077492956206376654762727013294"
+}

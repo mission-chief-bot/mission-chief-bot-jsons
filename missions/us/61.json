@@ -1,1 +1,12 @@
-{"missionId": "61", "missionName": "Unannounced demonstration", "requirements": [{"requirement": "police cars", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "61",
+ "missionName": "Unannounced demonstration",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "105446964740182717016923993060591722143"
+}

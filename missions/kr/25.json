@@ -1,1 +1,16 @@
-{"missionId": "25", "missionName": "교통사고", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "구급차", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "25",
+ "missionName": "교통사고",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "248388132462989914471480869389160985576"
+}

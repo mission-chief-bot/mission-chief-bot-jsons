@@ -1,1 +1,12 @@
-{"missionId": "500", "missionName": "Animale in Autostrada", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "500",
+ "missionName": "Animale in Autostrada",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "293280733579663546242415952264761099097"
+}

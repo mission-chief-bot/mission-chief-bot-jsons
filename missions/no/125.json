@@ -1,1 +1,24 @@
-{"missionId": "125", "missionName": "Skudd avfyrt mot politibetjent", "requirements": [{"requirement": "politibiler", "qty": "8"}, {"requirement": "hundepatruljer", "qty": "2"}, {"requirement": "politihelikoptere", "qty": "1"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "4100"}
+{
+ "missionId": "125",
+ "missionName": "Skudd avfyrt mot politibetjent",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "8"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "2"
+  },
+  {
+   "requirement": "politihelikoptere",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "4100",
+ "version": "199493975060544717744331209177764137701"
+}

@@ -1,1 +1,16 @@
-{"missionId": "67", "missionName": "Brawl", "requirements": [{"requirement": "police cars", "qty": "3"}, {"requirement": "max. patients", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "67",
+ "missionName": "Brawl",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "192689884513783158773194418455783096091"
+}

@@ -1,1 +1,12 @@
-{"missionId": "201", "missionName": "Incêndio numa paragem de autocarro causado por fogo-de-artifício", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "201",
+ "missionName": "Incêndio numa paragem de autocarro causado por fogo-de-artifício",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "107203653263121299497508988011835452803"
+}

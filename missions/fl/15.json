@@ -1,1 +1,12 @@
-{"missionId": "15", "missionName": "421 Metsäpalo, pieni", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "1010"}
+{
+ "missionId": "15",
+ "missionName": "421 Metsäpalo, pieni",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1010",
+ "version": "249598502889184302877123097975284698275"
+}

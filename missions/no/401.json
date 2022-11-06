@@ -1,1 +1,12 @@
-{"missionId": "401", "missionName": "Person som stjeler kalver", "requirements": [{"requirement": "politibiler", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "401",
+ "missionName": "Person som stjeler kalver",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "19750571020801472661693383822429730570"
+}

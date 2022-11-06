@@ -1,1 +1,16 @@
-{"missionId": "410", "missionName": "Mésaventures dans le cortège du carnaval", "requirements": [{"requirement": "voitures de police es", "qty": "4"}, {"requirement": "max. patients", "qty": "6"}], "credits": "1500"}
+{
+ "missionId": "410",
+ "missionName": "Mésaventures dans le cortège du carnaval",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "1500",
+ "version": "316511708696999947872733114525593595813"
+}

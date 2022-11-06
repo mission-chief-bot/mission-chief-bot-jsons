@@ -1,1 +1,28 @@
-{"missionId": "285", "missionName": "Incendiu pe stadion (Mediu)", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "8"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "2"}, {"requirement": "cisterne de apă necesare", "qty": "3"}, {"requirement": "mașini de poliție necesare", "qty": "3"}, {"requirement": "max. pacienți", "qty": "10"}], "credits": "7500"}
+{
+ "missionId": "285",
+ "missionName": "Incendiu pe stadion (Mediu)",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "8"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "cisterne de apă necesare",
+   "qty": "3"
+  },
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "10"
+  }
+ ],
+ "credits": "7500",
+ "version": "322482010472171111528455672546392828167"
+}

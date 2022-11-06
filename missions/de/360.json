@@ -1,1 +1,12 @@
-{"missionId": "360", "missionName": "Brennender Blumenstrauß", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "360",
+ "missionName": "Brennender Blumenstrauß",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "319233461617782950255088115965843347006"
+}

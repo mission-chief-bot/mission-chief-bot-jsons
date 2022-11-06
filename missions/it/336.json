@@ -1,1 +1,16 @@
-{"missionId": "336", "missionName": "Fuoco causato dal lume di candela", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "max pazienti", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "336",
+ "missionName": "Fuoco causato dal lume di candela",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "72822955600525184407788814016032843326"
+}

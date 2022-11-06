@@ -1,1 +1,32 @@
-{"missionId": "296", "missionName": "Feu d'appartement", "requirements": [{"requirement": "ambulances es", "qty": "3"}, {"requirement": "fourgons d’incendie", "qty": "2"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "voitures de police es", "qty": "2"}, {"requirement": "max. patients", "qty": "4"}], "credits": "2500"}
+{
+ "missionId": "296",
+ "missionName": "Feu d'appartement",
+ "requirements": [
+  {
+   "requirement": "ambulances es",
+   "qty": "3"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "2500",
+ "version": "9842594687689667354986121932917129899"
+}

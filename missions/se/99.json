@@ -1,1 +1,12 @@
-{"missionId": "99", "missionName": "Brott mot förordningen om explosiva varor", "requirements": [{"requirement": "polisbilar", "qty": "2"}], "credits": "300"}
+{
+ "missionId": "99",
+ "missionName": "Brott mot förordningen om explosiva varor",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "300",
+ "version": "50323164774351176966728482458377916858"
+}

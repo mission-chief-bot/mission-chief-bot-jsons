@@ -1,1 +1,20 @@
-{"missionId": "415", "missionName": "Humo en un edificio residencial", "requirements": [{"requirement": "camiones de bomberos", "qty": "3"}, {"requirement": "camiones con plataforma", "qty": "1"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "415",
+ "missionName": "Humo en un edificio residencial",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "3"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "1"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "234035849009990592890585031893867064057"
+}

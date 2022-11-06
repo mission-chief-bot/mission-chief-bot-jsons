@@ -1,1 +1,44 @@
-{"missionId": "356/ab", "missionName": "Large fire in nightclub (Persons Reported)", "requirements": [{"requirement": "fire engines", "qty": "6"}, {"requirement": "aerial appliance trucks", "qty": "1"}, {"requirement": "fire officers", "qty": "4"}, {"requirement": "iccu or ambulance control units", "qty": "1"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "prvs", "qty": "2"}, {"requirement": "srvs", "qty": "2"}, {"requirement": "welfare vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "15"}], "credits": "11300"}
+{
+ "missionId": "356/ab",
+ "missionName": "Large fire in nightclub (Persons Reported)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "4"
+  },
+  {
+   "requirement": "iccu or ambulance control units",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "prvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "srvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "welfare vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "15"
+  }
+ ],
+ "credits": "11300",
+ "version": "183938518786883856531999639862274284496"
+}

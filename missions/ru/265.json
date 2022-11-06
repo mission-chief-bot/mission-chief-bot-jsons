@@ -1,1 +1,12 @@
-{"missionId": "265", "missionName": "Поиски пропавшего любимого", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "265",
+ "missionName": "Поиски пропавшего любимого",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "10952428155660274480227475382953549718"
+}

@@ -1,1 +1,16 @@
-{"missionId": "430", "missionName": "Suspeito em fuga numa zona pedonal", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}, {"requirement": "ciclopatrulhas necessárias:", "qty": "1"}], "credits": "945"}
+{
+ "missionId": "430",
+ "missionName": "Suspeito em fuga numa zona pedonal",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "ciclopatrulhas necessárias:",
+   "qty": "1"
+  }
+ ],
+ "credits": "945",
+ "version": "204825763298099761157883917570400526998"
+}

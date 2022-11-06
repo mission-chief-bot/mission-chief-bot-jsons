@@ -1,1 +1,12 @@
-{"missionId": "24", "missionName": "Požár autobusové zastávky", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "24",
+ "missionName": "Požár autobusové zastávky",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "318577656721848170823275956898255457938"
+}

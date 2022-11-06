@@ -1,1 +1,12 @@
-{"missionId": "527", "missionName": "Observation of a suspect", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "527",
+ "missionName": "Observation of a suspect",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "57844526640048665369412493549132898479"
+}

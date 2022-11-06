@@ -1,1 +1,12 @@
-{"missionId": "281", "missionName": "Insuflar Bola de Futebol", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "281",
+ "missionName": "Insuflar Bola de Futebol",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "311850235239518351459387793172069009022"
+}

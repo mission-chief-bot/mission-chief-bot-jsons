@@ -1,1 +1,16 @@
-{"missionId": "388", "missionName": "Złodziej został zaatakowany przez krowę", "requirements": [{"requirement": "ambulância de socorro necessárias", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "388",
+ "missionName": "Złodziej został zaatakowany przez krowę",
+ "requirements": [
+  {
+   "requirement": "ambulância de socorro necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "75978864106776708336417937891000489129"
+}

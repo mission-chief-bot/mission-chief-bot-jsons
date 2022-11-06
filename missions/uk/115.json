@@ -1,1 +1,12 @@
-{"missionId": "115", "missionName": "Small field fire caused by fireworks", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "115",
+ "missionName": "Small field fire caused by fireworks",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "124399143991190079491364907927200357918"
+}

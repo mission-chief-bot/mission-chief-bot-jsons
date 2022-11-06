@@ -1,1 +1,12 @@
-{"missionId": "134", "missionName": "Contrabanda cu bunuri ilegale", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "3"}], "credits": "Stație de marfă"}
+{
+ "missionId": "134",
+ "missionName": "Contrabanda cu bunuri ilegale",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "3"
+  }
+ ],
+ "credits": "Stație de marfă",
+ "version": "312710238559284028371185838712003978676"
+}

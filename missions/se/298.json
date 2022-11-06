@@ -1,1 +1,24 @@
-{"missionId": "298", "missionName": "Brand i byggnad - huskomplex", "requirements": [{"requirement": "stegbilar", "qty": "1"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "släckbilar", "qty": "4"}, {"requirement": "mest patienter", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "298",
+ "missionName": "Brand i byggnad - huskomplex",
+ "requirements": [
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "209714100587172750674957486930775013082"
+}

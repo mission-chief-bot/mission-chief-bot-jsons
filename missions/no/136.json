@@ -1,1 +1,20 @@
-{"missionId": "136", "missionName": "Ødelagt vannrør", "requirements": [{"requirement": "brannbiler", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "innsatsledere fra brann", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "136",
+ "missionName": "Ødelagt vannrør",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "185069601510007714254828097581500761078"
+}

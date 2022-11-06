@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Ild i græs", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "Ild i græs",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "303743838447311336079186987198114950867"
+}

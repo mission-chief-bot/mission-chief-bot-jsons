@@ -1,1 +1,12 @@
-{"missionId": "352", "missionName": "Small fire in nightclub", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "3000"}
+{
+ "missionId": "352",
+ "missionName": "Small fire in nightclub",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "3000",
+ "version": "32894579480845611273349996929716681986"
+}

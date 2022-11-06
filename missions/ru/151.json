@@ -1,1 +1,12 @@
-{"missionId": "151", "missionName": "Анафилактический шок", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "151",
+ "missionName": "Анафилактический шок",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "171976578603165456147938908301958597855"
+}

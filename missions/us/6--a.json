@@ -1,1 +1,16 @@
-{"missionId": "6/a", "missionName": "Garden shed fire", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "fire investigation units", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "6/a",
+ "missionName": "Garden shed fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "334803324966072298534099597328142001651"
+}

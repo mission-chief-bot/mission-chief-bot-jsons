@@ -1,1 +1,16 @@
-{"missionId": "222", "missionName": "Person under tree", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "222",
+ "missionName": "Person under tree",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "293928026422361697881170389755726306357"
+}

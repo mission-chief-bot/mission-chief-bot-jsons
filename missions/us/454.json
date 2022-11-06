@@ -1,1 +1,12 @@
-{"missionId": "454", "missionName": "Breakdown of vehicle", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "454",
+ "missionName": "Breakdown of vehicle",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "310296199697073051653965952062871018958"
+}

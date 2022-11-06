@@ -1,1 +1,12 @@
-{"missionId": "295", "missionName": "Panika na diskotéke", "requirements": [{"requirement": "policajné vozidlá", "qty": "6"}], "credits": "3000"}
+{
+ "missionId": "295",
+ "missionName": "Panika na diskotéke",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "6"
+  }
+ ],
+ "credits": "3000",
+ "version": "113657126307977257003657229117488700477"
+}

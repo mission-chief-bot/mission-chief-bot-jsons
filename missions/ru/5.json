@@ -1,1 +1,20 @@
-{"missionId": "5", "missionName": "Возгорание в квартире", "requirements": [{"requirement": "пожарные машины", "qty": "2"}, {"requirement": "платформы", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "5",
+ "missionName": "Возгорание в квартире",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  },
+  {
+   "requirement": "платформы",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "89450232220595300236707460190105344344"
+}

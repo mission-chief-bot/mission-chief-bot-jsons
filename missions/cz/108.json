@@ -1,1 +1,12 @@
-{"missionId": "108", "missionName": "Odstranění nebezpečného hmyzu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "108",
+ "missionName": "Odstranění nebezpečného hmyzu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "263643361163899552814332365647433964025"
+}

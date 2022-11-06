@@ -1,1 +1,16 @@
-{"missionId": "63", "missionName": "Brand in keuken", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "63",
+ "missionName": "Brand in keuken",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "6331323379882113514878903515833827130"
+}

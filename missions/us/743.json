@@ -1,1 +1,28 @@
-{"missionId": "743", "missionName": "Oil Tanker on Fire in Ocean", "requirements": [{"requirement": "large fire boats", "qty": "4"}, {"requirement": "large coastal boat", "qty": "3"}, {"requirement": "coastal helicopter", "qty": "2"}, {"requirement": "coastal guard plane", "qty": "1"}, {"requirement": "max. patients", "qty": "6"}], "credits": "15000"}
+{
+ "missionId": "743",
+ "missionName": "Oil Tanker on Fire in Ocean",
+ "requirements": [
+  {
+   "requirement": "large fire boats",
+   "qty": "4"
+  },
+  {
+   "requirement": "large coastal boat",
+   "qty": "3"
+  },
+  {
+   "requirement": "coastal helicopter",
+   "qty": "2"
+  },
+  {
+   "requirement": "coastal guard plane",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "15000",
+ "version": "2903236832820452708201133255100964294"
+}

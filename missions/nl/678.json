@@ -1,1 +1,16 @@
-{"missionId": "678", "missionName": "Dienstverlening SEH ziekenhuis", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}], "credits": "910"}
+{
+ "missionId": "678",
+ "missionName": "Dienstverlening SEH ziekenhuis",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "910",
+ "version": "229972991817328433104597024486263374045"
+}

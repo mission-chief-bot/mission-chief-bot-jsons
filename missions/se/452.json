@@ -1,1 +1,12 @@
-{"missionId": "452", "missionName": "Inbrott - apotek", "requirements": [{"requirement": "polisbilar", "qty": "5"}], "credits": "1500"}
+{
+ "missionId": "452",
+ "missionName": "Inbrott - apotek",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "5"
+  }
+ ],
+ "credits": "1500",
+ "version": "119048657865055107854457342064241656384"
+}

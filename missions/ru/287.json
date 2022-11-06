@@ -1,1 +1,24 @@
-{"missionId": "287", "missionName": "Пожар в школе (большой)", "requirements": [{"requirement": "пожарные машины", "qty": "6"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "платформы", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "10"}], "credits": "5000"}
+{
+ "missionId": "287",
+ "missionName": "Пожар в школе (большой)",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "6"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "1"
+  },
+  {
+   "requirement": "платформы",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "10"
+  }
+ ],
+ "credits": "5000",
+ "version": "141721519058383552179196607184593644575"
+}

@@ -1,1 +1,16 @@
-{"missionId": "41", "missionName": "Požiar autoservisu", "requirements": [{"requirement": "hasičské automobily", "qty": "8"}, {"requirement": "policajné vozidlá", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "41",
+ "missionName": "Požiar autoservisu",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "8"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "12580243448221944455356589261793493069"
+}

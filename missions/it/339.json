@@ -1,1 +1,12 @@
-{"missionId": "339", "missionName": "Cuore rubato", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "339",
+ "missionName": "Cuore rubato",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "24332602256390701837601329724251095193"
+}

@@ -1,1 +1,12 @@
-{"missionId": "13", "missionName": "Horiaci kamión", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}], "credits": "980"}
+{
+ "missionId": "13",
+ "missionName": "Horiaci kamión",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "980",
+ "version": "290117717197524064256701642506267401127"
+}

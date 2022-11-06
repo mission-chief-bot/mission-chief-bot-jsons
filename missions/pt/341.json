@@ -1,1 +1,12 @@
-{"missionId": "341", "missionName": "Obstrução da via aérea", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "341",
+ "missionName": "Obstrução da via aérea",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "198465814414659997362569233332119054472"
+}

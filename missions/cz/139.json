@@ -1,1 +1,12 @@
-{"missionId": "139", "missionName": "Požár grilu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "139",
+ "missionName": "Požár grilu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "132694523700187437692237004713306118997"
+}

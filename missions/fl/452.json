@@ -1,1 +1,12 @@
-{"missionId": "452", "missionName": "601 Epäilty tuhopoltto", "requirements": [{"requirement": "rikostutkintayksiköt", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "452",
+ "missionName": "601 Epäilty tuhopoltto",
+ "requirements": [
+  {
+   "requirement": "rikostutkintayksiköt",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "138446708057153842332412267565464806745"
+}

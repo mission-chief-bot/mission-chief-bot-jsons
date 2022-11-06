@@ -1,1 +1,12 @@
-{"missionId": "377", "missionName": "Öka medvetenheten kring 112 för skolbarn", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "377",
+ "missionName": "Öka medvetenheten kring 112 för skolbarn",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "286729359170123238201991762899439293775"
+}

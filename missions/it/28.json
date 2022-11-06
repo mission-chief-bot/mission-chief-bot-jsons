@@ -1,1 +1,16 @@
-{"missionId": "28", "missionName": "Macchinario in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}], "credits": "1700"}
+{
+ "missionId": "28",
+ "missionName": "Macchinario in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  }
+ ],
+ "credits": "1700",
+ "version": "12114626123510031586610863929527450142"
+}

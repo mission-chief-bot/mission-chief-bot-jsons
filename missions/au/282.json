@@ -1,1 +1,12 @@
-{"missionId": "282", "missionName": "Noise complaint over a fighting couple", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "282",
+ "missionName": "Noise complaint over a fighting couple",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "38234221418111551281931219526599995144"
+}

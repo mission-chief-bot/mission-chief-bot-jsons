@@ -1,1 +1,16 @@
-{"missionId": "194", "missionName": "Globo de aniversario de invitado atrapado en árbol", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}, {"requirement": "camiones con plataforma", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "194",
+ "missionName": "Globo de aniversario de invitado atrapado en árbol",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "78225648366519435846431917335310152147"
+}

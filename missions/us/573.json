@@ -1,1 +1,16 @@
-{"missionId": "573", "missionName": "Person hit by a jet ski", "requirements": [{"requirement": "light boats", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "573",
+ "missionName": "Person hit by a jet ski",
+ "requirements": [
+  {
+   "requirement": "light boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "236151196176734719890575961532824664574"
+}

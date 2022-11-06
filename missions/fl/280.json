@@ -1,1 +1,16 @@
-{"missionId": "280", "missionName": "514 Todisteiden etsintä", "requirements": [{"requirement": "poliisiautot", "qty": "2"}, {"requirement": "koirapartiot", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "280",
+ "missionName": "514 Todisteiden etsintä",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "113735177640642231008138367531704946332"
+}

@@ -1,1 +1,12 @@
-{"missionId": "140", "missionName": "Возгорание пасхальной корзины", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "140",
+ "missionName": "Возгорание пасхальной корзины",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "192393311298813283350006634739441397519"
+}

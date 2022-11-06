@@ -1,1 +1,16 @@
-{"missionId": "629", "missionName": "Vater vermisst", "requirements": [{"requirement": "streifenwagen", "qty": "3"}, {"requirement": "polizeihubschrauber", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "629",
+ "missionName": "Vater vermisst",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  },
+  {
+   "requirement": "polizeihubschrauber",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "66461624572133867185917055503654923593"
+}

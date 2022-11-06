@@ -1,1 +1,12 @@
-{"missionId": "389", "missionName": "Bandierina dell'angolo in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "389",
+ "missionName": "Bandierina dell'angolo in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "207776115728596610458380773186010230365"
+}

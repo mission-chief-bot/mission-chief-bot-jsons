@@ -1,1 +1,12 @@
-{"missionId": "53", "missionName": "Viajero sin ticket", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "53",
+ "missionName": "Viajero sin ticket",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "146424719768871828157889395021656831521"
+}

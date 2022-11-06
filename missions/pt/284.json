@@ -1,1 +1,12 @@
-{"missionId": "284", "missionName": "Lesão Após Bater na Barra", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "284",
+ "missionName": "Lesão Após Bater na Barra",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "231210695499809054805775344072255292513"
+}

@@ -1,1 +1,20 @@
-{"missionId": "26", "missionName": "Incendio in supermercato (PICCOLO)", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "max pazienti", "qty": "4"}], "credits": "1300"}
+{
+ "missionId": "26",
+ "missionName": "Incendio in supermercato (PICCOLO)",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "3"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  }
+ ],
+ "credits": "1300",
+ "version": "21543927195200055652974522285623617313"
+}

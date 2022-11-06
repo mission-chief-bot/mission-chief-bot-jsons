@@ -1,1 +1,24 @@
-{"missionId": "532", "missionName": "Valentines decorations at restaurant caught fire", "requirements": [{"requirement": "firetrucks", "qty": "5"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "8"}], "credits": "2000"}
+{
+ "missionId": "532",
+ "missionName": "Valentines decorations at restaurant caught fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "5"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "8"
+  }
+ ],
+ "credits": "2000",
+ "version": "65761589183373130720388055353617806931"
+}

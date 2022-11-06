@@ -1,1 +1,12 @@
-{"missionId": "333", "missionName": "Caravan fire caused by fireworks", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "333",
+ "missionName": "Caravan fire caused by fireworks",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "159497227740112303887005984063021315102"
+}

@@ -1,1 +1,24 @@
-{"missionId": "217/a", "missionName": "Pequeña protesta violenta", "requirements": [{"requirement": "coches patrulla", "qty": "4"}, {"requirement": "unidad canina", "qty": "1"}, {"requirement": "unidades geo", "qty": "2"}, {"requirement": "n.º máximo de presos", "qty": "2"}], "credits": "5200"}
+{
+ "missionId": "217/a",
+ "missionName": "Pequeña protesta violenta",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  },
+  {
+   "requirement": "unidad canina",
+   "qty": "1"
+  },
+  {
+   "requirement": "unidades geo",
+   "qty": "2"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "2"
+  }
+ ],
+ "credits": "5200",
+ "version": "297797905394571574231264515701300189800"
+}

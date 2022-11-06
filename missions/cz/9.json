@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "Hořící balík slámy", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "Hořící balík slámy",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "322403519501300559616205217754923295376"
+}

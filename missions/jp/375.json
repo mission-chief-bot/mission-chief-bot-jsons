@@ -1,1 +1,12 @@
-{"missionId": "375", "missionName": "高血圧性危機", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "375",
+ "missionName": "高血圧性危機",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "295198028088146160870161321793797413589"
+}

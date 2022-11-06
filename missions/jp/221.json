@@ -1,1 +1,12 @@
-{"missionId": "221", "missionName": "盗まれたハート", "requirements": [{"requirement": "警察車両", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "221",
+ "missionName": "盗まれたハート",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "311276128598602205349112886874923403606"
+}

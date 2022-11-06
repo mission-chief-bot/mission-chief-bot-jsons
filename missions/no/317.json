@@ -1,1 +1,32 @@
-{"missionId": "317", "missionName": "CBRNE hendelse i offentlig rom", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "6"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "cbrne enheter", "qty": "2"}, {"requirement": "politibiler", "qty": "10"}, {"requirement": "maks pasienter", "qty": "30"}], "credits": "10000"}
+{
+ "missionId": "317",
+ "missionName": "CBRNE hendelse i offentlig rom",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "6"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "cbrne enheter",
+   "qty": "2"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "30"
+  }
+ ],
+ "credits": "10000",
+ "version": "73369088842419096473682855565481680560"
+}

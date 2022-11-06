@@ -1,1 +1,12 @@
-{"missionId": "399", "missionName": "Fire in allotment (Small)", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "399",
+ "missionName": "Fire in allotment (Small)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "85709696814389651164120561230250753694"
+}

@@ -1,1 +1,20 @@
-{"missionId": "73", "missionName": "Schlägerei", "requirements": [{"requirement": "streifenwagen", "qty": "3"}, {"requirement": "rtw", "qty": "2"}, {"requirement": "rtw, naw", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "73",
+ "missionName": "Schlägerei",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "2"
+  },
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "85168153718421627396325283148456178136"
+}

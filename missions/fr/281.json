@@ -1,1 +1,16 @@
-{"missionId": "281", "missionName": "Personne touchée par un feu d'artifice", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "281",
+ "missionName": "Personne touchée par un feu d'artifice",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "103063028645579639934928432203534796923"
+}

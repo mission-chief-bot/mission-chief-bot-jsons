@@ -1,1 +1,36 @@
-{"missionId": "378/a", "missionName": "Wypadek podczas pościgu policyjnego", "requirements": [{"requirement": "wydziały ruchu drogowego", "qty": "3"}, {"requirement": "samochody pożarnicze", "qty": "3"}, {"requirement": "samochody ratownictwa technicznego", "qty": "1"}, {"requirement": "radiowozy", "qty": "4"}, {"requirement": "radiowozy wrd", "qty": "2"}, {"requirement": "aprd", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "3"}], "credits": "5640"}
+{
+ "missionId": "378/a",
+ "missionName": "Wypadek podczas pościgu policyjnego",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "2"
+  },
+  {
+   "requirement": "aprd",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "credits": "5640",
+ "version": "221751489658197434792146889642638535272"
+}

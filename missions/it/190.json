@@ -1,1 +1,16 @@
-{"missionId": "190", "missionName": "Overdose", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "190",
+ "missionName": "Overdose",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "226819203271998922723768760400882702680"
+}

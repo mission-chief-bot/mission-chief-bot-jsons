@@ -1,1 +1,32 @@
-{"missionId": "636", "missionName": "Entführung", "requirements": [{"requirement": "streifenwagen", "qty": "4"}, {"requirement": "zivilstreifenwagen", "qty": "2"}, {"requirement": "mek-fahrzeuge", "qty": "4"}, {"requirement": "fükw", "qty": "1"}, {"requirement": "polizeihubschrauber", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "636",
+ "missionName": "Entführung",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "zivilstreifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "mek-fahrzeuge",
+   "qty": "4"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "polizeihubschrauber",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "67996396273451182454364444286982459714"
+}

@@ -1,1 +1,12 @@
-{"missionId": "482", "missionName": "Vestito di carnevale in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "482",
+ "missionName": "Vestito di carnevale in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "216168518430954993420914037455655663865"
+}

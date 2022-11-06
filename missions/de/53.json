@@ -1,1 +1,20 @@
-{"missionId": "53", "missionName": "Verkehrsunfall durch Glatteis", "requirements": [{"requirement": "rüstwagen", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "3"}], "credits": "1410"}
+{
+ "missionId": "53",
+ "missionName": "Verkehrsunfall durch Glatteis",
+ "requirements": [
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "3"
+  }
+ ],
+ "credits": "1410",
+ "version": "117396571879935364531117572146786480755"
+}

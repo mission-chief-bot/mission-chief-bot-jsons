@@ -1,1 +1,12 @@
-{"missionId": "109", "missionName": "Požiar v šachte", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}], "credits": "210"}
+{
+ "missionId": "109",
+ "missionName": "Požiar v šachte",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "210",
+ "version": "7685366027584697157737634629574513083"
+}

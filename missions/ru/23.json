@@ -1,1 +1,12 @@
-{"missionId": "23", "missionName": "Возгорание ГСМ", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "Возгорание ГСМ",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "109025661647442502446395899030869953959"
+}

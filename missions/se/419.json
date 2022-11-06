@@ -1,1 +1,20 @@
-{"missionId": "419", "missionName": "Väpnat råd - förföljande av fordon", "requirements": [{"requirement": "polisbilar", "qty": "3"}, {"requirement": "polishelikoptrar", "qty": "1"}, {"requirement": "mest patienter", "qty": "3"}], "credits": "2000"}
+{
+ "missionId": "419",
+ "missionName": "Väpnat råd - förföljande av fordon",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "polishelikoptrar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "2000",
+ "version": "322340144851006240182730722657418317565"
+}

@@ -1,1 +1,28 @@
-{"missionId": "77", "missionName": "Klein vliegtuig neergestort", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "2"}], "credits": "6"}
+{
+ "missionId": "77",
+ "missionName": "Klein vliegtuig neergestort",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "2"
+  }
+ ],
+ "credits": "6",
+ "version": "160187817307354241690697526233695376556"
+}

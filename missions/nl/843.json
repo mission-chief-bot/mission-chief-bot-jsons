@@ -1,1 +1,36 @@
-{"missionId": "843", "missionName": "Voertuigbrand in tunnel", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "slangenwagens", "qty": "1"}, {"requirement": "adviseurs gevaarlijke stoffen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "officiers van dienst politie", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "2"}], "credits": "4060"}
+{
+ "missionId": "843",
+ "missionName": "Voertuigbrand in tunnel",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "slangenwagens",
+   "qty": "1"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "2"
+  }
+ ],
+ "credits": "4060",
+ "version": "151797861226620174604604037020312074188"
+}

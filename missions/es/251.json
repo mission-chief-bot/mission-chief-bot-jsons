@@ -1,1 +1,16 @@
-{"missionId": "251", "missionName": "Corredor herido", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}, {"requirement": "furgones de útiles varios", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "251",
+ "missionName": "Corredor herido",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "14116303076809661648825041082521874052"
+}

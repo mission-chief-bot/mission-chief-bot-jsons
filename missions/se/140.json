@@ -1,1 +1,16 @@
-{"missionId": "140", "missionName": "Vapenlagen", "requirements": [{"requirement": "polisbilar", "qty": "4"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "140",
+ "missionName": "Vapenlagen",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "126019640023439044604830810050107076509"
+}

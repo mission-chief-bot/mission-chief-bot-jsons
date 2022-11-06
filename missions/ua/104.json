@@ -1,1 +1,12 @@
-{"missionId": "104", "missionName": "Перелом руки", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "104",
+ "missionName": "Перелом руки",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "174189839567655112669059010335703960861"
+}

@@ -1,1 +1,16 @@
-{"missionId": "250", "missionName": "公園で不法な焚火", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "警察車両", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "250",
+ "missionName": "公園で不法な焚火",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "311872548237059489618366941825569168235"
+}

@@ -1,1 +1,12 @@
-{"missionId": "699", "missionName": "Afsteken illegaal vuurwerk", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "699",
+ "missionName": "Afsteken illegaal vuurwerk",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "181101086091824699050183289130756530098"
+}

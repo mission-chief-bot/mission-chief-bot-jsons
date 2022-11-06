@@ -1,1 +1,16 @@
-{"missionId": "78", "missionName": "Bruja en árbol", "requirements": [{"requirement": "camiones con plataforma", "qty": "1"}, {"requirement": "camiones de bomberos", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "78",
+ "missionName": "Bruja en árbol",
+ "requirements": [
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "76581012369417388339371408073789371513"
+}

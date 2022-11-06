@@ -1,1 +1,12 @@
-{"missionId": "281", "missionName": "Роды", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "281",
+ "missionName": "Роды",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "332896150610543038104722120066284169909"
+}

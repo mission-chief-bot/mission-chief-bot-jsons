@@ -1,1 +1,12 @@
-{"missionId": "149", "missionName": "Smoke Detector Check", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "149",
+ "missionName": "Smoke Detector Check",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "237007491943748066951531418248023381684"
+}

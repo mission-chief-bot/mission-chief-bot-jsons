@@ -1,1 +1,24 @@
-{"missionId": "342", "missionName": "Hit and Run", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "2"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1950"}
+{
+ "missionId": "342",
+ "missionName": "Hit and Run",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1950",
+ "version": "272505965993009274442255156735319979755"
+}

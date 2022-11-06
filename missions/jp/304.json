@@ -1,1 +1,16 @@
-{"missionId": "304", "missionName": "アニバーサリーパーティ電気系統による火災（大規模）", "requirements": [{"requirement": "消防車", "qty": "4"}, {"requirement": "消防隊長車両", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "304",
+ "missionName": "アニバーサリーパーティ電気系統による火災（大規模）",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "4"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "235692592009850834115236132752544909577"
+}

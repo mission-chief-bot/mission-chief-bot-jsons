@@ -1,1 +1,28 @@
-{"missionId": "120/a", "missionName": "Large Aircraft Crash", "requirements": [ {"requirement": "arff", "qty": "4"}, {"requirement": "firetrucks", "qty": "3"}, {"requirement": "battalion chief vehicles", "qty": "2"}, {"requirement": "police cars", "qty": "5"}, {"requirement": "max. patients", "qty": "25"}], "credits": "6300"}
+{
+ "missionId": "120/a",
+ "missionName": "Large Aircraft Crash",
+ "requirements": [
+  {
+   "requirement": "arff",
+   "qty": "4"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "25"
+  }
+ ],
+ "credits": "6300",
+ "version": "294248531482637970203344401138921167243"
+}

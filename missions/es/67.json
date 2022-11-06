@@ -1,1 +1,12 @@
-{"missionId": "67", "missionName": "Pelea", "requirements": [{"requirement": "coches patrulla", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "67",
+ "missionName": "Pelea",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "121218644479766029093739586723766240007"
+}

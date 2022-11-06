@@ -1,1 +1,16 @@
-{"missionId": "55", "missionName": "Rissa", "requirements": [{"requirement": "pattuglie", "qty": "3"}, {"requirement": "max pazienti", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "55",
+ "missionName": "Rissa",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "208741508115089198204436966866718780586"
+}

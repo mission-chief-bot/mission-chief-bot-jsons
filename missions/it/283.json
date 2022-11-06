@@ -1,1 +1,12 @@
-{"missionId": "283", "missionName": "Taglio del dito con la carta dei regali", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "283",
+ "missionName": "Taglio del dito con la carta dei regali",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "25874078095800207802595479245582699335"
+}

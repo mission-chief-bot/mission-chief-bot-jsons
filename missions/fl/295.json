@@ -1,1 +1,36 @@
-{"missionId": "295", "missionName": "453 Tahallinen vaarallisen aineen onnettomuus", "requirements": [{"requirement": "paloautot", "qty": "6"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "raskaat pelastusautot", "qty": "1"}, {"requirement": "kemikaalitorjunta-autot", "qty": "2"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "10"}, {"requirement": "vati-henkilöt", "qty": "12"}], "credits": "10000"}
+{
+ "missionId": "295",
+ "missionName": "453 Tahallinen vaarallisen aineen onnettomuus",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "6"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "10"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "12"
+  }
+ ],
+ "credits": "10000",
+ "version": "114543591804690426022454156691010439506"
+}

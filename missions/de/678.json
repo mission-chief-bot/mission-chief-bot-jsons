@@ -1,1 +1,20 @@
-{"missionId": "678", "missionName": "Verkehrsunfall auf nebliger Straße", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "rtw", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "678",
+ "missionName": "Verkehrsunfall auf nebliger Straße",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "283076360299205604679862379392936322317"
+}

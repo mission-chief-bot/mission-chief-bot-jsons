@@ -1,1 +1,40 @@
-{"missionId": "229", "missionName": "Crollo fabbrica (GRANDE)", "requirements": [{"requirement": "aps/abp", "qty": "14"}, {"requirement": "unità polisoccorso", "qty": "8"}, {"requirement": "autoscale", "qty": "2"}, {"requirement": "funzionari", "qty": "2"}, {"requirement": "nbcr", "qty": "2"}, {"requirement": "kilolitriche", "qty": "1"}, {"requirement": "pattuglie", "qty": "8"}, {"requirement": "max pazienti", "qty": "50"}], "credits": "15"}
+{
+ "missionId": "229",
+ "missionName": "Crollo fabbrica (GRANDE)",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "14"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "8"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "2"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "2"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "2"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "8"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "50"
+  }
+ ],
+ "credits": "15",
+ "version": "60032603174907639003586480302511183556"
+}

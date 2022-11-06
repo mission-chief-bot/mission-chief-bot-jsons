@@ -1,1 +1,12 @@
-{"missionId": "514", "missionName": "Illegal internet activity", "requirements": [{"requirement": "fbi units", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "514",
+ "missionName": "Illegal internet activity",
+ "requirements": [
+  {
+   "requirement": "fbi units",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "171040587503489407444704885388816909030"
+}

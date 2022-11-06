@@ -1,1 +1,12 @@
-{"missionId": "415", "missionName": "Burning hedge ignited by firecracker", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "415",
+ "missionName": "Burning hedge ignited by firecracker",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "303509859946809769121810169608081101443"
+}

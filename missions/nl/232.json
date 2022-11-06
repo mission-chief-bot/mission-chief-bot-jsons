@@ -1,1 +1,12 @@
-{"missionId": "232", "missionName": "Buspassagier weigert te betalen", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "232",
+ "missionName": "Buspassagier weigert te betalen",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "25250758152002887642514585686210380487"
+}

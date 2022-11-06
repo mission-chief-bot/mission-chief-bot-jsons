@@ -1,1 +1,20 @@
-{"missionId": "171", "missionName": "Verkeersongeval door gladheid", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "1010"}
+{
+ "missionId": "171",
+ "missionName": "Verkeersongeval door gladheid",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "1010",
+ "version": "52020081176059112069663271368771993041"
+}

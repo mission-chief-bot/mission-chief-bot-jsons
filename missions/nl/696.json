@@ -1,1 +1,12 @@
-{"missionId": "696", "missionName": "Persoon geraakt door vuurwerk", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "696",
+ "missionName": "Persoon geraakt door vuurwerk",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "5298668471241095062989233096882735899"
+}

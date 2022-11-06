@@ -1,1 +1,12 @@
-{"missionId": "139", "missionName": "Husrannsakan", "requirements": [{"requirement": "polisbilar", "qty": "3"}], "credits": "2000"}
+{
+ "missionId": "139",
+ "missionName": "Husrannsakan",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  }
+ ],
+ "credits": "2000",
+ "version": "283630371820310079856229224017928483262"
+}

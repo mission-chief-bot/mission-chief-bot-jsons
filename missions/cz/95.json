@@ -1,1 +1,12 @@
-{"missionId": "95", "missionName": "Krádež štětce z dílny", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "95",
+ "missionName": "Krádež štětce z dílny",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "35504398539666044607382277664964605711"
+}

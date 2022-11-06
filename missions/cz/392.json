@@ -1,1 +1,12 @@
-{"missionId": "392", "missionName": "Násilné přepadení a krádež vozidla", "requirements": [{"requirement": "policejní automobily", "qty": "5"}], "credits": "3500"}
+{
+ "missionId": "392",
+ "missionName": "Násilné přepadení a krádež vozidla",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "5"
+  }
+ ],
+ "credits": "3500",
+ "version": "333170154244283842485262161377573246255"
+}

@@ -1,1 +1,24 @@
-{"missionId": "394", "missionName": "Large Forest Fire", "requirements": [{"requirement": "wildland fire engines", "qty": "8"}, {"requirement": "battalion chief vehicles", "qty": "5"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "water tankers", "qty": "3"}], "credits": "8000"}
+{
+ "missionId": "394",
+ "missionName": "Large Forest Fire",
+ "requirements": [
+  {
+   "requirement": "wildland fire engines",
+   "qty": "8"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "5"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "3"
+  }
+ ],
+ "credits": "8000",
+ "version": "333534119983591483910653624576643560352"
+}

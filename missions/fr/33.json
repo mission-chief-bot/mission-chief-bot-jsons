@@ -1,1 +1,20 @@
-{"missionId": "33", "missionName": "Petit supermarché en feu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "4"}, {"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "33",
+ "missionName": "Petit supermarché en feu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "4"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "127716475018163169802289762350008677178"
+}

@@ -1,1 +1,16 @@
-{"missionId": "200", "missionName": "Swimmer in Distress", "requirements": [{"requirement": "police cars", "qty": "1"}, {"requirement": "boats", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "200",
+ "missionName": "Swimmer in Distress",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "boats",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "299361834058875727289867377897508904052"
+}

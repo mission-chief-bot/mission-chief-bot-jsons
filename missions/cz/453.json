@@ -1,1 +1,28 @@
-{"missionId": "453", "missionName": "Nepovolená technopárty", "requirements": [{"requirement": "policejní automobily", "qty": "10"}, {"requirement": "dodávky pořádkové jednotky", "qty": "10"}, {"requirement": "policejní antony", "qty": "2"}, {"requirement": "vozidlo velitele pčr", "qty": "1"}, {"requirement": "vodní stříkače pořádkové policie", "qty": "1"}], "credits": "14500"}
+{
+ "missionId": "453",
+ "missionName": "Nepovolená technopárty",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "10"
+  },
+  {
+   "requirement": "dodávky pořádkové jednotky",
+   "qty": "10"
+  },
+  {
+   "requirement": "policejní antony",
+   "qty": "2"
+  },
+  {
+   "requirement": "vozidlo velitele pčr",
+   "qty": "1"
+  },
+  {
+   "requirement": "vodní stříkače pořádkové policie",
+   "qty": "1"
+  }
+ ],
+ "credits": "14500",
+ "version": "242155821759931529538178898623198150668"
+}

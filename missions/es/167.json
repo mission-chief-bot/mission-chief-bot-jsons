@@ -1,1 +1,20 @@
-{"missionId": "167", "missionName": "Incendio en hotel (medio)", "requirements": [{"requirement": "camiones de bomberos", "qty": "6"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}, {"requirement": "camiones con plataforma", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "167",
+ "missionName": "Incendio en hotel (medio)",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "6"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "250288229779187468028289159536467035884"
+}

@@ -1,1 +1,16 @@
-{"missionId": "582", "missionName": "Nielegalna plantacja narkotyków (duża)", "requirements": [{"requirement": "jednostki k-9", "qty": "2"}, {"requirement": "radiowozy", "qty": "1"}], "credits": "7500"}
+{
+ "missionId": "582",
+ "missionName": "Nielegalna plantacja narkotyków (duża)",
+ "requirements": [
+  {
+   "requirement": "jednostki k-9",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "credits": "7500",
+ "version": "112748436302857315611253802765101388451"
+}

@@ -1,1 +1,20 @@
-{"missionId": "656", "missionName": "Koperdiefstal", "requirements": [{"requirement": "noodhulpeenheden", "qty": "5"}, {"requirement": "hondengeleider", "qty": "1"}, {"requirement": "officiers van dienst politie", "qty": "1"}], "credits": "2480"}
+{
+ "missionId": "656",
+ "missionName": "Koperdiefstal",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "5"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "1"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "credits": "2480",
+ "version": "53977942721747034284784920776972579949"
+}

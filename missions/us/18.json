@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "Brush pile", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "Brush pile",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "220567571202101472391881216774728559307"
+}

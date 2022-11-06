@@ -1,1 +1,12 @@
-{"missionId": "142", "missionName": "燃えるカボチャ畑", "requirements": [{"requirement": "消防車", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "142",
+ "missionName": "燃えるカボチャ畑",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "190319716644391731045601672901699338097"
+}

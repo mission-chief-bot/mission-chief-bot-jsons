@@ -1,1 +1,16 @@
-{"missionId": "128", "missionName": "Påkörd påskhare", "requirements": [{"requirement": "polisbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "128",
+ "missionName": "Påkörd påskhare",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "220687828251079557156395638830264769117"
+}

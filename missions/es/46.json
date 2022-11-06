@@ -1,1 +1,12 @@
-{"missionId": "46", "missionName": "Accidente en aparcamiento", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "46",
+ "missionName": "Accidente en aparcamiento",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "25867490000440567480516406337987351657"
+}

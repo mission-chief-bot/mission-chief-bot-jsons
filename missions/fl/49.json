@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "12 Taskuvarkaus", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "12 Taskuvarkaus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "204384087734797054315370370667278145979"
+}

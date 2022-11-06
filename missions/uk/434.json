@@ -1,1 +1,16 @@
-{"missionId": "434", "missionName": "Thief attacked by a cow", "requirements": [{"requirement": "ambulances", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "434",
+ "missionName": "Thief attacked by a cow",
+ "requirements": [
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "106425741410817092731573156044501447070"
+}

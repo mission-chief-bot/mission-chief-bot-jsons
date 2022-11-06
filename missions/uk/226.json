@@ -1,1 +1,16 @@
-{"missionId": "226", "missionName": "ANPR Activation (RPU) (Wanted Person)", "requirements": [{"requirement": "traffic cars", "qty": "3"}, {"requirement": "police cars", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "226",
+ "missionName": "ANPR Activation (RPU) (Wanted Person)",
+ "requirements": [
+  {
+   "requirement": "traffic cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "75414593748304651547095601620455836957"
+}

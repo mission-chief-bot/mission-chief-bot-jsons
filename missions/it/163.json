@@ -1,1 +1,16 @@
-{"missionId": "163", "missionName": "Tentato omicidio", "requirements": [{"requirement": "pattuglie", "qty": "4"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "163",
+ "missionName": "Tentato omicidio",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "133442651656296340298334189393751102631"
+}

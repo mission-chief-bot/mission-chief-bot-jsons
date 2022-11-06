@@ -1,1 +1,12 @@
-{"missionId": "265", "missionName": "Brennende Papiercontainer durch Feuerwerkskörper", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "265",
+ "missionName": "Brennende Papiercontainer durch Feuerwerkskörper",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "253529209523882143441200937896936727805"
+}

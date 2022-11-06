@@ -1,1 +1,12 @@
-{"missionId": "232", "missionName": "Busskurbrann som følge av fyrverkeri", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "232",
+ "missionName": "Busskurbrann som følge av fyrverkeri",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "124280769697547999265659666491216532129"
+}

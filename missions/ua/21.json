@@ -1,1 +1,20 @@
-{"missionId": "21", "missionName": "Займання у димоході", "requirements": [{"requirement": "пожежні автодрабини", "qty": "1"}, {"requirement": "штабні автомобілі", "qty": "1"}, {"requirement": "пожежні машини", "qty": "1"}], "credits": "2400"}
+{
+ "missionId": "21",
+ "missionName": "Займання у димоході",
+ "requirements": [
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "1"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "2400",
+ "version": "322250156301509725687149253702767439282"
+}

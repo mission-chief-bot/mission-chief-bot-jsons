@@ -1,1 +1,28 @@
-{"missionId": "64/a", "missionName": "Trafikolycka - singel, buss", "requirements": [{"requirement": "släckbilar", "qty": "4"}, {"requirement": "lastväxlare", "qty": "2"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "12"}], "credits": "2000"}
+{
+ "missionId": "64/a",
+ "missionName": "Trafikolycka - singel, buss",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "12"
+  }
+ ],
+ "credits": "2000",
+ "version": "133530905632726359359573957607470202081"
+}

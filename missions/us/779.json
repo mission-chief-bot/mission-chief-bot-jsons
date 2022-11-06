@@ -1,1 +1,56 @@
-{"missionId": "779", "missionName": "Power Plant Fire - Explosion", "requirements": [{"requirement": "firetrucks", "qty": "20"}, {"requirement": "battalion chief vehicles", "qty": "8"}, {"requirement": "platform trucks", "qty": "8"}, {"requirement": "heavy rescue vehicles", "qty": "6"}, {"requirement": "water tankers", "qty": "6"}, {"requirement": "mobile air vehicles", "qty": "4"}, {"requirement": "hazmat vehicles", "qty": "5"}, {"requirement": "mobile command vehicles", "qty": "2"}, {"requirement": "police cars", "qty": "10"}, {"requirement": "sheriffs", "qty": "2"}, {"requirement": "foam tenders", "qty": "2"}, {"requirement": "max. patients", "qty": "30"}], "credits": "37500"}
+{
+ "missionId": "779",
+ "missionName": "Power Plant Fire - Explosion",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "20"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "8"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "8"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "6"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "6"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "5"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "10"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "2"
+  },
+  {
+   "requirement": "foam tenders",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "30"
+  }
+ ],
+ "credits": "37500",
+ "version": "81264983409237780477079609048605423282"
+}

@@ -1,1 +1,12 @@
-{"missionId": "188", "missionName": "Personenkontrolle", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "188",
+ "missionName": "Personenkontrolle",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "293052347027859098823263671651472968022"
+}

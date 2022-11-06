@@ -1,1 +1,40 @@
-{"missionId": "467", "missionName": "Accident avec des produits biologiques", "requirements": [{"requirement": "fourgons d’incendie", "qty": "8"}, {"requirement": "chefs de groupe ou vlhr", "qty": "2"}, {"requirement": "camions-citernes", "qty": "2"}, {"requirement": "voitures de police es", "qty": "2"}, {"requirement": "véhicules risques technologiques", "qty": "2"}, {"requirement": "ambulances es", "qty": "5"}, {"requirement": "max. patients", "qty": "10"}, {"requirement": "min. patients", "qty": "5"}], "credits": "8500"}
+{
+ "missionId": "467",
+ "missionName": "Accident avec des produits biologiques",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "8"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "2"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "2"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  },
+  {
+   "requirement": "véhicules risques technologiques",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulances es",
+   "qty": "5"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "8500",
+ "version": "200696218880408437206009316481309789085"
+}

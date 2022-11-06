@@ -1,1 +1,20 @@
-{"missionId": "143", "missionName": "023 Huoltoasemaryöstö", "requirements": [{"requirement": "poliisiautot", "qty": "4"}, {"requirement": "koirapartiot", "qty": "1"}, {"requirement": "vati-henkilöt", "qty": "12"}], "credits": "1250"}
+{
+ "missionId": "143",
+ "missionName": "023 Huoltoasemaryöstö",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "12"
+  }
+ ],
+ "credits": "1250",
+ "version": "10416566454884887643420324009561909563"
+}

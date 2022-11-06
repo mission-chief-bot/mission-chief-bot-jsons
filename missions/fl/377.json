@@ -1,1 +1,12 @@
-{"missionId": "377", "missionName": "745 Kaatunut ikäihminen", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "500"}
+{
+ "missionId": "377",
+ "missionName": "745 Kaatunut ikäihminen",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "500",
+ "version": "249430746168292031772770695873013673134"
+}

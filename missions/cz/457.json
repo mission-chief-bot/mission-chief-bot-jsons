@@ -1,1 +1,28 @@
-{"missionId": "457", "missionName": "Požár prázdné budovy", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "kombinované hasící automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "2750"}
+{
+ "missionId": "457",
+ "missionName": "Požár prázdné budovy",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "kombinované hasící automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "2750",
+ "version": "52367657257720539094792374613803524092"
+}

@@ -1,1 +1,12 @@
-{"missionId": "340", "missionName": "We're sorry, but something went wrong.", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "300"}
+{
+ "missionId": "340",
+ "missionName": "We're sorry, but something went wrong.",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "300",
+ "version": "237190923315625160998072898747045208362"
+}

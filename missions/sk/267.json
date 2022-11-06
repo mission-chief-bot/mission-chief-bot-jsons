@@ -1,1 +1,16 @@
-{"missionId": "267", "missionName": "Čistenie cesty", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}, {"requirement": "policajné vozidlá", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "267",
+ "missionName": "Čistenie cesty",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "122143147487799347741993692975835775968"
+}

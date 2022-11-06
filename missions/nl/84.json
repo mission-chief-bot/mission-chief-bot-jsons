@@ -1,1 +1,12 @@
-{"missionId": "84", "missionName": "Ernstige brandwonden", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "84",
+ "missionName": "Ernstige brandwonden",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "68751674566009569649303104550390643217"
+}

@@ -1,1 +1,12 @@
-{"missionId": "308", "missionName": "Brennender Müllwagen", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "308",
+ "missionName": "Brennender Müllwagen",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "334035968556902261554267718773014694816"
+}

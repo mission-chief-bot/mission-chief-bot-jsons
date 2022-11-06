@@ -1,1 +1,24 @@
-{"missionId": "399", "missionName": "Srážka dvou motorek", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "ta", "qty": "2"}, {"requirement": "policejní automobily", "qty": "3"}, {"requirement": "maximum pacientů", "qty": "4"}], "credits": "3500"}
+{
+ "missionId": "399",
+ "missionName": "Srážka dvou motorek",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "ta",
+   "qty": "2"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "4"
+  }
+ ],
+ "credits": "3500",
+ "version": "110948333494118877775316661543171199506"
+}

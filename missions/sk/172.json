@@ -1,1 +1,12 @@
-{"missionId": "172", "missionName": "Zablokovaná cesta", "requirements": [{"requirement": "policajné vozidlá", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "172",
+ "missionName": "Zablokovaná cesta",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "9976255656148973544183775087805443111"
+}

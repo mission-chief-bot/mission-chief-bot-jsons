@@ -1,1 +1,24 @@
-{"missionId": "553", "missionName": "Soccorso in Acque Profonde", "requirements": [{"requirement": "max pazienti", "qty": "4"}, {"requirement": "motovedetta costiera", "qty": "2"}, {"requirement": "elicottero guardia costiera", "qty": "1"}, {"requirement": "motovedetta d'altura", "qty": "2"}], "credits": "4000"}
+{
+ "missionId": "553",
+ "missionName": "Soccorso in Acque Profonde",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  },
+  {
+   "requirement": "motovedetta costiera",
+   "qty": "2"
+  },
+  {
+   "requirement": "elicottero guardia costiera",
+   "qty": "1"
+  },
+  {
+   "requirement": "motovedetta d'altura",
+   "qty": "2"
+  }
+ ],
+ "credits": "4000",
+ "version": "54666333067344312177686650663370458904"
+}

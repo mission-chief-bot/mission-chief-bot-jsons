@@ -1,1 +1,12 @@
-{"missionId": "79", "missionName": "Respiratory Arrest", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "79",
+ "missionName": "Respiratory Arrest",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "145886776752650850058718465568200460053"
+}

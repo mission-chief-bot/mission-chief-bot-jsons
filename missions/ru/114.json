@@ -1,1 +1,12 @@
-{"missionId": "114", "missionName": "Ожоги 3й степени", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "114",
+ "missionName": "Ожоги 3й степени",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "30924499445408705483948494723761060327"
+}

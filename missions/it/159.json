@@ -1,1 +1,12 @@
-{"missionId": "159", "missionName": "Rapina al benzinaio", "requirements": [{"requirement": "pattuglie", "qty": "3"}], "credits": "8"}
+{
+ "missionId": "159",
+ "missionName": "Rapina al benzinaio",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  }
+ ],
+ "credits": "8",
+ "version": "174473347638318068939647678752602634024"
+}

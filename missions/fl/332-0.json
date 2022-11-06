@@ -1,1 +1,28 @@
-{"missionId": "332-0", "missionName": "423 Maastopalo, erittäin suuri", "requirements": [{"requirement": "paloautot", "qty": "7"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "letkuajoneuvot", "qty": "4"}, {"requirement": "suurtehopumput", "qty": "1"}, {"requirement": "johtokeskusautot", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "332-0",
+ "missionName": "423 Maastopalo, erittäin suuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "7"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "4"
+  },
+  {
+   "requirement": "suurtehopumput",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "245877622078690402787843621644464591738"
+}

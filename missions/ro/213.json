@@ -1,1 +1,12 @@
-{"missionId": "213", "missionName": "Jaf la magazinul de bijuterii", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "213",
+ "missionName": "Jaf la magazinul de bijuterii",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "119257771622185814831807743452454146619"
+}

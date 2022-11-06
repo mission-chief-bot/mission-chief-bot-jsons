@@ -1,1 +1,24 @@
-{"missionId": "390", "missionName": "Zátah na varnu drog", "requirements": [{"requirement": "policejní automobily", "qty": "5"}, {"requirement": "vozidla kynologů pčr", "qty": "1"}, {"requirement": "policejní vrtulníky", "qty": "1"}, {"requirement": "personál urny", "qty": "2"}], "credits": "5500"}
+{
+ "missionId": "390",
+ "missionName": "Zátah na varnu drog",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "5"
+  },
+  {
+   "requirement": "vozidla kynologů pčr",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní vrtulníky",
+   "qty": "1"
+  },
+  {
+   "requirement": "personál urny",
+   "qty": "2"
+  }
+ ],
+ "credits": "5500",
+ "version": "285297779881894326393114226815874945301"
+}

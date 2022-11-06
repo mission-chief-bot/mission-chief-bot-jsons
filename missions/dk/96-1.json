@@ -1,1 +1,36 @@
-{"missionId": "96-1", "missionName": "Silobrand", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "8"}, {"requirement": "påkrævede stigevogn", "qty": "1"}, {"requirement": "påkrævede redningsvogn", "qty": "1"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "2"},{ "requirement": "skum tender påkrævet", "qty": "1" },{ "requirement": "påhængs pumpe påkrævet", "qty": "1" }, {"requirement": "slange tender påkrævet", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "96-1",
+ "missionName": "Silobrand",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "8"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "2"
+  },
+  {
+   "requirement": "skum tender påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "påhængs pumpe påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "slange tender påkrævet",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "102690262279087453242344845039963908151"
+}

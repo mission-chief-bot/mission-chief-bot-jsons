@@ -1,1 +1,16 @@
-{"missionId": "608", "missionName": "Suspicious person at fire site", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "fire investigation units", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "608",
+ "missionName": "Suspicious person at fire site",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "126565088529282711182718882156678611473"
+}

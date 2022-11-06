@@ -1,1 +1,12 @@
-{"missionId": "139", "missionName": "Dehydrert person", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "139",
+ "missionName": "Dehydrert person",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "146777909170050960189092317672897422732"
+}

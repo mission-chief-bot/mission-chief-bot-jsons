@@ -1,1 +1,12 @@
-{"missionId": "203", "missionName": "Brændende græskarmark", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "203",
+ "missionName": "Brændende græskarmark",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "6755081364004150228206777419781526345"
+}

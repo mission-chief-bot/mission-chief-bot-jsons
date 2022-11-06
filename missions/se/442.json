@@ -1,1 +1,36 @@
-{"missionId": "442", "missionName": "Olycka - biologiska produkter", "requirements": [{"requirement": "släckbilar", "qty": "8"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "tankbilar", "qty": "2"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "kemskyddsenhet", "qty": "2"}, {"requirement": "ambulanser", "qty": "5"}, {"requirement": "mest patienter", "qty": "10"}], "credits": "8500"}
+{
+ "missionId": "442",
+ "missionName": "Olycka - biologiska produkter",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "8"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "kemskyddsenhet",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulanser",
+   "qty": "5"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "10"
+  }
+ ],
+ "credits": "8500",
+ "version": "120797409126710857661691688132431372703"
+}

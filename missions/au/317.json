@@ -1,1 +1,12 @@
-{"missionId": "317", "missionName": "Chocolate robbery", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "317",
+ "missionName": "Chocolate robbery",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "162288647617342573892271165631414408479"
+}

@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "Moto en llamas", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "Moto en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "237596292238123320469569176904008085326"
+}

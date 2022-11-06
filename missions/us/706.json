@@ -1,1 +1,16 @@
-{"missionId": "706", "missionName": "Fire caused by anniversary-party electrics (major)", "requirements": [{"requirement": "firetrucks", "qty": "4"}, {"requirement": "battalion chief vehicles", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "706",
+ "missionName": "Fire caused by anniversary-party electrics (major)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "95374886621894586547312529648432349335"
+}

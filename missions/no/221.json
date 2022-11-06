@@ -1,1 +1,12 @@
-{"missionId": "221", "missionName": "Elektrisk støt", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "221",
+ "missionName": "Elektrisk støt",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "106916696727680313598691654783614877855"
+}

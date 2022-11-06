@@ -1,1 +1,12 @@
-{"missionId": "208", "missionName": "Frankenstein i sikte", "requirements": [{"requirement": "polisbilar", "qty": "3"}], "credits": "550"}
+{
+ "missionId": "208",
+ "missionName": "Frankenstein i sikte",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  }
+ ],
+ "credits": "550",
+ "version": "32513131785229698000058022943891167883"
+}

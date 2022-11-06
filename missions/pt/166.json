@@ -1,1 +1,28 @@
-{"missionId": "166", "missionName": "Incidente com parapente", "requirements": [{"requirement": "veículos de comando tático necessários", "qty": "1"}, {"requirement": "veículos escada necessários", "qty": "2"}, {"requirement": "veículos de socorro e assistência tático necessários", "qty": "2"}, {"requirement": "veículos de combate a incêndios necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "2"}], "credits": "5"}
+{
+ "missionId": "166",
+ "missionName": "Incidente com parapente",
+ "requirements": [
+  {
+   "requirement": "veículos de comando tático necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos escada necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "2"
+  }
+ ],
+ "credits": "5",
+ "version": "289798768698011379993408825435274025624"
+}

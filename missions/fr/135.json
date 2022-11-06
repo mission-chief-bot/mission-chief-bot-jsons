@@ -1,1 +1,20 @@
-{"missionId": "135", "missionName": "Feu de silo", "requirements": [{"requirement": "fourgons d’incendie", "qty": "5"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "chefs de groupe", "qty": "2"}], "credits": "2700"}
+{
+ "missionId": "135",
+ "missionName": "Feu de silo",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "5"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "2"
+  }
+ ],
+ "credits": "2700",
+ "version": "25077952718281107508547068664427149803"
+}

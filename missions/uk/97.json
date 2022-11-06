@@ -1,1 +1,16 @@
-{"missionId": "97", "missionName": "Fire at christmas market", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "97",
+ "missionName": "Fire at christmas market",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "92168316193902565337843040897615703512"
+}

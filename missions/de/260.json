@@ -1,1 +1,12 @@
-{"missionId": "260", "missionName": "Sperrmüllbrand durch Feuerwerkskörper", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "260",
+ "missionName": "Sperrmüllbrand durch Feuerwerkskörper",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "268609473499874159654910276657086039831"
+}

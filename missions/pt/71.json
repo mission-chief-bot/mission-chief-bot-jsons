@@ -1,1 +1,12 @@
-{"missionId": "71", "missionName": "Sangramento nasal", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "71",
+ "missionName": "Sangramento nasal",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "300692207797016083506693771946091909374"
+}

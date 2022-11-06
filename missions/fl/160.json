@@ -1,1 +1,20 @@
-{"missionId": "160", "missionName": "Noita puussa", "requirements": [{"requirement": "nostolava-autot", "qty": "1"}, {"requirement": "paloautot", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "160",
+ "missionName": "Noita puussa",
+ "requirements": [
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "271452203173576148823935208698863832090"
+}

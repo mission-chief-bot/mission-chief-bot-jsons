@@ -1,1 +1,20 @@
-{"missionId": "116", "missionName": "Czujka czadu w budynku mieszkalnym", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "116",
+ "missionName": "Czujka czadu w budynku mieszkalnym",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "57576177958892217976645752265145536764"
+}

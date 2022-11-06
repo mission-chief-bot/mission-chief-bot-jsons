@@ -1,1 +1,32 @@
-{"missionId": "73", "missionName": "Accident de bus grave", "requirements": [{"requirement": "fourgons d’incendie", "qty": "4"}, {"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "véhicule de secours routier", "qty": "2"}, {"requirement": "voitures de police es", "qty": "2"}, {"requirement": "max. patients", "qty": "12"}], "credits": "2000"}
+{
+ "missionId": "73",
+ "missionName": "Accident de bus grave",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "4"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicule de secours routier",
+   "qty": "2"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "12"
+  }
+ ],
+ "credits": "2000",
+ "version": "296968230054222512086231772371178978084"
+}

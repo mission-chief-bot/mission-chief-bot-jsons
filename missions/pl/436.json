@@ -1,1 +1,24 @@
-{"missionId": "436", "missionName": "Potrącenie rowerzysty", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "radiowozy", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "436",
+ "missionName": "Potrącenie rowerzysty",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "201591650572860910404576838337228130214"
+}

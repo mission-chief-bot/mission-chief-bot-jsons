@@ -1,1 +1,12 @@
-{"missionId": "126", "missionName": "Pensel stulen från verkstad", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "126",
+ "missionName": "Pensel stulen från verkstad",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "18779571164990185357867558652881083501"
+}

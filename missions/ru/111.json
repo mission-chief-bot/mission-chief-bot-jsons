@@ -1,1 +1,12 @@
-{"missionId": "111", "missionName": "Травма позвоночника", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "111",
+ "missionName": "Травма позвоночника",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "60497401579619442272053726567431959265"
+}

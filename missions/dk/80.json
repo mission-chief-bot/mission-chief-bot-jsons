@@ -1,1 +1,28 @@
-{"missionId": "80", "missionName": "Motorcykel Uheld", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "3"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "1"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "2"}], "credits": "2300"}
+{
+ "missionId": "80",
+ "missionName": "Motorcykel Uheld",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "2300",
+ "version": "197108040055605184328604405326821177443"
+}

@@ -1,1 +1,20 @@
-{"missionId": "83", "missionName": "Incêndio numa pilha de fardos de palha", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "5"}, {"requirement": "veículos de comando tático necessários", "qty": "1"}, {"requirement": "veículos tanque tático urbano necessários", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "83",
+ "missionName": "Incêndio numa pilha de fardos de palha",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "5"
+  },
+  {
+   "requirement": "veículos de comando tático necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos tanque tático urbano necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "242796247426830657938704526457990509158"
+}

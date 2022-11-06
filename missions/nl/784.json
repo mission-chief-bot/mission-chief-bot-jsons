@@ -1,1 +1,12 @@
-{"missionId": "784", "missionName": "Dier op de snelweg", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "784",
+ "missionName": "Dier op de snelweg",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "155737247766882582201324730755479963856"
+}

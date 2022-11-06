@@ -1,1 +1,16 @@
-{"missionId": "487", "missionName": "Fire caused by anniversary-party electrics (small)", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1850"}
+{
+ "missionId": "487",
+ "missionName": "Fire caused by anniversary-party electrics (small)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1850",
+ "version": "303552038076354429687751340655605842000"
+}

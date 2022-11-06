@@ -1,1 +1,12 @@
-{"missionId": "305", "missionName": "언쟁 격화", "requirements": [{"requirement": "경찰차", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "305",
+ "missionName": "언쟁 격화",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "179219572324914148808485032760403620556"
+}

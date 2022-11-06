@@ -1,1 +1,16 @@
-{"missionId": "635", "missionName": "Twisted Ankle", "requirements": [{"requirement": "ambulances", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "635",
+ "missionName": "Twisted Ankle",
+ "requirements": [
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "52799163318921359411301182226122537325"
+}

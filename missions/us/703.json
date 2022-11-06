@@ -1,1 +1,12 @@
-{"missionId": "703", "missionName": "Accident when baking anniversary cake", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "703",
+ "missionName": "Accident when baking anniversary cake",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "26098178321415317863085357192235513102"
+}

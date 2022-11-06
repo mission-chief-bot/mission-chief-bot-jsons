@@ -1,1 +1,12 @@
-{"missionId": "444", "missionName": "620 Mopomiitin hajottaminen", "requirements": [{"requirement": "poliisiautot", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "444",
+ "missionName": "620 Mopomiitin hajottaminen",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "249269717494782551927687799204790783367"
+}

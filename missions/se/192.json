@@ -1,1 +1,12 @@
-{"missionId": "192", "missionName": "Skogsbrand, eftersläckning", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "0"}
+{
+ "missionId": "192",
+ "missionName": "Skogsbrand, eftersläckning",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "0",
+ "version": "50261140816005366744261854067029904596"
+}

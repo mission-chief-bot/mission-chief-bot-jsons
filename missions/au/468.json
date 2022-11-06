@@ -1,1 +1,32 @@
-{"missionId": "468", "missionName": "Pharmacy Hold Up", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "k-9 units", "qty": "3"}, {"requirement": "riot police group vehicles", "qty": "1"}, {"requirement": "' swat personnel (in swat vehicles)", "qty": "6"}, {"requirement": "max. patients", "qty": "3"}, {"requirement": "minimum number of patients", "qty": "1"}], "credits": "3750"}
+{
+ "missionId": "468",
+ "missionName": "Pharmacy Hold Up",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "3"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "' swat personnel (in swat vehicles)",
+   "qty": "6"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "3750",
+ "version": "272347015571397824892403576712326529082"
+}

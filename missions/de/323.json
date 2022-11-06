@@ -1,1 +1,28 @@
-{"missionId": "323", "missionName": "Dehnfugenbrand", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "323",
+ "missionName": "Dehnfugenbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "284572256764858644034837614440155346358"
+}

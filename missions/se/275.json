@@ -1,1 +1,12 @@
-{"missionId": "275", "missionName": "Klagomål om högljutt pargräl", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "275",
+ "missionName": "Klagomål om högljutt pargräl",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "317699674134285820882672565532845753905"
+}

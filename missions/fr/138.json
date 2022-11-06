@@ -1,1 +1,20 @@
-{"missionId": "138", "missionName": "Chute d'escalade", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "spécialistes imp", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "138",
+ "missionName": "Chute d'escalade",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "spécialistes imp",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "85475205021420606378725506660664815552"
+}

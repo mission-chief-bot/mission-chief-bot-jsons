@@ -1,1 +1,16 @@
-{"missionId": "340", "missionName": "Okontrollerbar lövblåsare", "requirements": [{"requirement": "polisbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "340",
+ "missionName": "Okontrollerbar lövblåsare",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "265142289746219235804050069096785754192"
+}

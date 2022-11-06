@@ -1,1 +1,12 @@
-{"missionId": "909", "missionName": "Gestolen masker", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "909",
+ "missionName": "Gestolen masker",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "336712444763665179497928030212997680794"
+}

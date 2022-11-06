@@ -1,1 +1,32 @@
-{"missionId": "180", "missionName": "Lastebil under vann", "requirements": [{"requirement": "politibiler", "qty": "3"}, {"requirement": "for lett redningsbåt", "qty": "3"}, {"requirement": "for dykkerbil", "qty": "1"}, {"requirement": "brannbiler", "qty": "5"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "180",
+ "missionName": "Lastebil under vann",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "for lett redningsbåt",
+   "qty": "3"
+  },
+  {
+   "requirement": "for dykkerbil",
+   "qty": "1"
+  },
+  {
+   "requirement": "brannbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "4757646312806711168845853910030741508"
+}

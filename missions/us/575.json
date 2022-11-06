@@ -1,1 +1,12 @@
-{"missionId": "575", "missionName": "Biker fallen on country road", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "575",
+ "missionName": "Biker fallen on country road",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "255251024874233520230077471488083768345"
+}

@@ -1,1 +1,16 @@
-{"missionId": "259", "missionName": "Pessoa doente presa no elevador", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "259",
+ "missionName": "Pessoa doente presa no elevador",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "164107278335740843145107003058084762536"
+}

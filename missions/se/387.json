@@ -1,1 +1,12 @@
-{"missionId": "387", "missionName": "Olycka - ramlat från stege under vårstädning", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "387",
+ "missionName": "Olycka - ramlat från stege under vårstädning",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "185681836741764191118940693928929606857"
+}

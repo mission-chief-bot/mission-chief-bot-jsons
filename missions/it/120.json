@@ -1,1 +1,12 @@
-{"missionId": "120", "missionName": "Soffocamento", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "120",
+ "missionName": "Soffocamento",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "284093406307487795014342288799861748002"
+}

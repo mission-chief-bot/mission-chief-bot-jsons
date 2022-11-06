@@ -1,1 +1,32 @@
-{"missionId": "128", "missionName": "초가 지붕 오두막 화재", "requirements": [{"requirement": "소방차", "qty": "8"}, {"requirement": "고가 사다리(TL)", "qty": "1"}, {"requirement": "지휘차", "qty": "4"}, {"requirement": "구조공작차(MRU)", "qty": "1"}, {"requirement": "수상 탱커", "qty": "1"}, {"requirement": "구급차", "qty": "2"}], "credits": "8000"}
+{
+ "missionId": "128",
+ "missionName": "초가 지붕 오두막 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "8"
+  },
+  {
+   "requirement": "고가 사다리(TL)",
+   "qty": "1"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "4"
+  },
+  {
+   "requirement": "구조공작차(MRU)",
+   "qty": "1"
+  },
+  {
+   "requirement": "수상 탱커",
+   "qty": "1"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "2"
+  }
+ ],
+ "credits": "8000",
+ "version": "261315420884714132795002871611745791626"
+}

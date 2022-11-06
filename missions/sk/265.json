@@ -1,1 +1,12 @@
-{"missionId": "265", "missionName": "Čistenie kontaminovanej zeminy", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "265",
+ "missionName": "Čistenie kontaminovanej zeminy",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "264592105360319693048645996187406908051"
+}

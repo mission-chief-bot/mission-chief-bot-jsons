@@ -1,1 +1,12 @@
-{"missionId": "332", "missionName": "Spadnutá branka", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "332",
+ "missionName": "Spadnutá branka",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "15377139631794273673084138530021084514"
+}

@@ -1,1 +1,12 @@
-{"missionId": "125", "missionName": "Poranenie chrbtice", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "125",
+ "missionName": "Poranenie chrbtice",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "35481688286558438788119607265856489185"
+}

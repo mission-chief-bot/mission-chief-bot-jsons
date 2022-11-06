@@ -1,1 +1,12 @@
-{"missionId": "213", "missionName": "나무 위의 고양이", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "375"}
+{
+ "missionId": "213",
+ "missionName": "나무 위의 고양이",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "375",
+ "version": "84367354557488542018102734426859747007"
+}

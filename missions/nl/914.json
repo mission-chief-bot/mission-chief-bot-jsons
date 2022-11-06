@@ -1,1 +1,12 @@
-{"missionId": "914", "missionName": "Crimineel verstopt zich op carnaval feest", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "200"}
+{
+ "missionId": "914",
+ "missionName": "Crimineel verstopt zich op carnaval feest",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "200",
+ "version": "270248319736578220227478617185605643525"
+}

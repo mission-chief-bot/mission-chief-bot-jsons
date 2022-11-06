@@ -1,1 +1,16 @@
-{"missionId": "460", "missionName": "Brandende vliegtuigtrekker", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "afo/osc", "qty": "1"}], "credits": "1350"}
+{
+ "missionId": "460",
+ "missionName": "Brandende vliegtuigtrekker",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "afo/osc",
+   "qty": "1"
+  }
+ ],
+ "credits": "1350",
+ "version": "29214600755929037292939245967290285175"
+}

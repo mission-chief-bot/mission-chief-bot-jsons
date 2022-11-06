@@ -1,1 +1,12 @@
-{"missionId": "364", "missionName": "Posible infección", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "650"}
+{
+ "missionId": "364",
+ "missionName": "Posible infección",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "650",
+ "version": "91384149504301071632517145253469407464"
+}

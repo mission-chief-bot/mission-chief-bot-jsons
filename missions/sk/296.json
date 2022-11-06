@@ -1,1 +1,16 @@
-{"missionId": "296", "missionName": "Prevrátený prepravník áut", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}, {"requirement": "policajné vozidlá", "qty": "2"}], "credits": "2750"}
+{
+ "missionId": "296",
+ "missionName": "Prevrátený prepravník áut",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "2750",
+ "version": "69566050889199240850011045943250473363"
+}

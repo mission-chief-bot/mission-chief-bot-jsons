@@ -1,1 +1,12 @@
-{"missionId": "299", "missionName": "Неудачный гол", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "299",
+ "missionName": "Неудачный гол",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "146070832671993951944032272321681727505"
+}

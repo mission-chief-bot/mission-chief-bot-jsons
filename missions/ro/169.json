@@ -1,1 +1,12 @@
-{"missionId": "169", "missionName": "Dureri de spate", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "169",
+ "missionName": "Dureri de spate",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "7380567505097839595658106337328647670"
+}

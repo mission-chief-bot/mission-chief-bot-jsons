@@ -1,1 +1,36 @@
-{"missionId": "473", "missionName": "AVP multiples suite à contresens sur l'autoroute", "requirements": [{"requirement": "voitures de police es", "qty": "1"}, {"requirement": "véhicule de secours routier", "qty": "2"}, {"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "ambulances es", "qty": "8"}, {"requirement": "directeur des secours médicaux", "qty": "1"}, {"requirement": "chefs de groupe ou vlhr", "qty": "2"}, {"requirement": "max. patients", "qty": "9"}], "credits": "1500"}
+{
+ "missionId": "473",
+ "missionName": "AVP multiples suite à contresens sur l'autoroute",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicule de secours routier",
+   "qty": "2"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances es",
+   "qty": "8"
+  },
+  {
+   "requirement": "directeur des secours médicaux",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "9"
+  }
+ ],
+ "credits": "1500",
+ "version": "139154788755326113183717761276511473858"
+}

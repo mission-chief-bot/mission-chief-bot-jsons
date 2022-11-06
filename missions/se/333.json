@@ -1,1 +1,28 @@
-{"missionId": "333", "missionName": "Brand i byggnad - hiss", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "4"}], "credits": "3850"}
+{
+ "missionId": "333",
+ "missionName": "Brand i byggnad - hiss",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "3850",
+ "version": "130404953428006505765711026256687038678"
+}

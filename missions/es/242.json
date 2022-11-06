@@ -1,1 +1,12 @@
-{"missionId": "242", "missionName": "Fuegos artificiales saboteados", "requirements": [{"requirement": "coches patrulla", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "242",
+ "missionName": "Fuegos artificiales saboteados",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "120486953583429687673038561123982192371"
+}

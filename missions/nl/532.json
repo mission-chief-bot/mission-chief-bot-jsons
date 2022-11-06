@@ -1,1 +1,16 @@
-{"missionId": "532", "missionName": "Brandend op balkon door vuurwerk", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "1010"}
+{
+ "missionId": "532",
+ "missionName": "Brandend op balkon door vuurwerk",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "1010",
+ "version": "50994740129054786921833733105291183510"
+}

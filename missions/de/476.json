@@ -1,1 +1,16 @@
-{"missionId": "476", "missionName": "Angefahrener Radfahrer", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "rtw, naw", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "476",
+ "missionName": "Angefahrener Radfahrer",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "272999173359554634199990361081464654215"
+}

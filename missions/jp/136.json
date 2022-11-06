@@ -1,1 +1,12 @@
-{"missionId": "136", "missionName": "違法商品の密輸", "requirements": [{"requirement": "警察車両", "qty": "3"}], "credits": "800"}
+{
+ "missionId": "136",
+ "missionName": "違法商品の密輸",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  }
+ ],
+ "credits": "800",
+ "version": "171547359976007845029072157688981174361"
+}

@@ -1,1 +1,12 @@
-{"missionId": "148", "missionName": "Quemaduras de tercer grado", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "148",
+ "missionName": "Quemaduras de tercer grado",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "266803461445036707733782357229902636426"
+}

@@ -1,1 +1,24 @@
-{"missionId": "519", "missionName": "Aircraft Leaking Fuel", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "arff", "qty": "1"}, {"requirement": "hazmat vehicles", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "519",
+ "missionName": "Aircraft Leaking Fuel",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "arff",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "117421924143810902741261872258656187713"
+}

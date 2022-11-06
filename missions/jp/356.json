@@ -1,1 +1,24 @@
-{"missionId": "356", "missionName": "空きビルで火災発生", "requirements": [{"requirement": "消防車", "qty": "2"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "警察車両", "qty": "1"}, {"requirement": "最大患者", "qty": "1"}], "credits": "2750"}
+{
+ "missionId": "356",
+ "missionName": "空きビルで火災発生",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "2750",
+ "version": "278694984426640786093228513726889986634"
+}

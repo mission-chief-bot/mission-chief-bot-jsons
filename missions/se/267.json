@@ -1,1 +1,12 @@
-{"missionId": "267", "missionName": "Vegetationsbrand, stor", "requirements": [{"requirement": "tankbilar", "qty": "9"}], "credits": "0"}
+{
+ "missionId": "267",
+ "missionName": "Vegetationsbrand, stor",
+ "requirements": [
+  {
+   "requirement": "tankbilar",
+   "qty": "9"
+  }
+ ],
+ "credits": "0",
+ "version": "1223049503875728874598128177375115208"
+}

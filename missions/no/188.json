@@ -1,1 +1,20 @@
-{"missionId": "188", "missionName": "Konsert", "requirements": [{"requirement": "brannbiler", "qty": "2"}, {"requirement": "ambulanser", "qty": "1"}, {"requirement": "politibiler", "qty": "7"}], "credits": "7000"}
+{
+ "missionId": "188",
+ "missionName": "Konsert",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulanser",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "7"
+  }
+ ],
+ "credits": "7000",
+ "version": "243280251699915741723921824156400547487"
+}

@@ -1,1 +1,12 @@
-{"missionId": "212", "missionName": "Railway Embankement Fire", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "212",
+ "missionName": "Railway Embankement Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "190964029069153559971977344841764707715"
+}

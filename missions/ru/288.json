@@ -1,1 +1,20 @@
-{"missionId": "288", "missionName": "Пожар в закрытом помещении", "requirements": [{"requirement": "пожарные машины", "qty": "4"}, {"requirement": "машины командира батальона", "qty": "2"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "288",
+ "missionName": "Пожар в закрытом помещении",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "4"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "2"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "245606478468135831576512113891859407379"
+}

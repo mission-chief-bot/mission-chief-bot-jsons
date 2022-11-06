@@ -1,1 +1,12 @@
-{"missionId": "632", "missionName": "Burning pile of leaves", "requirements": [{"requirement": "firetrucks", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "632",
+ "missionName": "Burning pile of leaves",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "324054161779280075859831630236472249692"
+}

@@ -1,1 +1,24 @@
-{"missionId": "75", "missionName": "487 Pelastus kaivannosta", "requirements": [{"requirement": "poliisiautot", "qty": "1"}, {"requirement": "paloautot", "qty": "3"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "75",
+ "missionName": "487 Pelastus kaivannosta",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "121309340358074500066967856611979080130"
+}

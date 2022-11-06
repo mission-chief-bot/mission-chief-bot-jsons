@@ -1,1 +1,12 @@
-{"missionId": "599", "missionName": "Schock durch Heiratsantrag", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "599",
+ "missionName": "Schock durch Heiratsantrag",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "268784795286137942785195773751758524128"
+}

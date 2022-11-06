@@ -1,1 +1,16 @@
-{"missionId": "176", "missionName": "Unauthorized possession of weapons", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "armed response vehicle", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "176",
+ "missionName": "Unauthorized possession of weapons",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "armed response vehicle",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "277100885127614549021364741770784001887"
+}

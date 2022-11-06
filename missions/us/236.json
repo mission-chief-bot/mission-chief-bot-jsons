@@ -1,1 +1,16 @@
-{"missionId": "236", "missionName": "Electrical fire on subway tracks", "requirements": [{"requirement": "firetrucks", "qty": "3"}, {"requirement": "battalion chief vehicles", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "236",
+ "missionName": "Electrical fire on subway tracks",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "103535215455092553434548442213193684304"
+}

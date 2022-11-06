@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "Yankesicilik", "requirements": [{"requirement": "gerekli polis arabaları", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Yankesicilik",
+ "requirements": [
+  {
+   "requirement": "gerekli polis arabaları",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "253629908802367882823319755931056869463"
+}

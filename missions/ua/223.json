@@ -1,1 +1,12 @@
-{"missionId": "223", "missionName": "Задуха предметом застрягшим в горлі", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "223",
+ "missionName": "Задуха предметом застрягшим в горлі",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "183647937516000241405007639002040842412"
+}

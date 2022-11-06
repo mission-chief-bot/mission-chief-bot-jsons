@@ -1,1 +1,12 @@
-{"missionId": "303", "missionName": "Counterfeit Goods raid", "requirements": [{"requirement": "police cars", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "303",
+ "missionName": "Counterfeit Goods raid",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "37426397453722419198313379754793921763"
+}

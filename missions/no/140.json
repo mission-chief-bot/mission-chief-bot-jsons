@@ -1,1 +1,12 @@
-{"missionId": "140", "missionName": "Matforgiftning", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "140",
+ "missionName": "Matforgiftning",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "281218050256781008864871622148657883909"
+}

@@ -1,1 +1,24 @@
-{"missionId": "353/a", "missionName": "Großkontrolle Betäubungsmittel", "requirements": [{"requirement": "grukw", "qty": "3"}, {"requirement": "lebefkw", "qty": "1"}, {"requirement": "streifenwagen", "qty": "3"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "4900"}
+{
+ "missionId": "353/a",
+ "missionName": "Großkontrolle Betäubungsmittel",
+ "requirements": [
+  {
+   "requirement": "grukw",
+   "qty": "3"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "4900",
+ "version": "207797614085556419437582775634291398230"
+}

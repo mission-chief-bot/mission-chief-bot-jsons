@@ -1,1 +1,20 @@
-{"missionId": "166", "missionName": "Велика пожежа на фермі", "requirements": [{"requirement": "пожежні машини", "qty": "9"}, {"requirement": "штабні автомобілі", "qty": "2"}, {"requirement": "пожежні автодрабини", "qty": "3"}], "credits": "9000"}
+{
+ "missionId": "166",
+ "missionName": "Велика пожежа на фермі",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "9"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "2"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "3"
+  }
+ ],
+ "credits": "9000",
+ "version": "299056510060826248150666356538565872201"
+}

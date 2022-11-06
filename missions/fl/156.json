@@ -1,1 +1,20 @@
-{"missionId": "156", "missionName": "473 Öljyvahinko tiellä, suuri", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "kemikaalitorjunta-autot", "qty": "1"}], "credits": "1800"}
+{
+ "missionId": "156",
+ "missionName": "473 Öljyvahinko tiellä, suuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1800",
+ "version": "233918768239780959295703956728735221955"
+}

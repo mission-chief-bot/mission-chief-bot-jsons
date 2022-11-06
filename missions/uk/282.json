@@ -1,1 +1,16 @@
-{"missionId": "282", "missionName": "Fire from candle light dinner has spread", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "282",
+ "missionName": "Fire from candle light dinner has spread",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "54011371339073686454419500531748351722"
+}

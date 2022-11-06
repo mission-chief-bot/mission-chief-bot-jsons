@@ -1,1 +1,12 @@
-{"missionId": "285", "missionName": "Usage de feux d'artifices à proximité de la route", "requirements": [{"requirement": "voitures de police es", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "285",
+ "missionName": "Usage de feux d'artifices à proximité de la route",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "196072368707839568554317782146651085866"
+}

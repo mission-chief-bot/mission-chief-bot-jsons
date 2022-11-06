@@ -1,1 +1,12 @@
-{"missionId": "198", "missionName": "Монстр вырвался на свободу", "requirements": [{"requirement": "полицейские автомобили", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "198",
+ "missionName": "Монстр вырвался на свободу",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "171774447229155849868822832203616853737"
+}

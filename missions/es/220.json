@@ -1,1 +1,20 @@
-{"missionId": "220", "missionName": "Robo en Gasolinera", "requirements": [{"requirement": "coches patrulla", "qty": "4"}, {"requirement": "helicóptero de la policía", "qty": "1"}, {"requirement": "unidad geo", "qty": "4"}], "credits": "1250"}
+{
+ "missionId": "220",
+ "missionName": "Robo en Gasolinera",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  },
+  {
+   "requirement": "helicóptero de la policía",
+   "qty": "1"
+  },
+  {
+   "requirement": "unidad geo",
+   "qty": "4"
+  }
+ ],
+ "credits": "1250",
+ "version": "16721982879597173057083085176417466410"
+}

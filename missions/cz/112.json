@@ -1,1 +1,16 @@
-{"missionId": "112", "missionName": "Přikázaná pohotovost", "requirements": [{"requirement": "policejní automobily", "qty": "3"}, {"requirement": "policejní vrtulníky", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "112",
+ "missionName": "Přikázaná pohotovost",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "policejní vrtulníky",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "131208385834076661846384626779159223511"
+}

@@ -1,1 +1,32 @@
-{"missionId": "134", "missionName": "Incêndio num Armazém Agrícola", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "8"}, {"requirement": "veículos escada necessários", "qty": "1"}, {"requirement": "veículos de comando tático necessários", "qty": "4"}, {"requirement": "veículos de comando e comunicações necessários", "qty": "1"}, {"requirement": "veículos tanque tático urbano necessários", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "2"}], "credits": "8000"}
+{
+ "missionId": "134",
+ "missionName": "Incêndio num Armazém Agrícola",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "8"
+  },
+  {
+   "requirement": "veículos escada necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de comando tático necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos de comando e comunicações necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos tanque tático urbano necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "2"
+  }
+ ],
+ "credits": "8000",
+ "version": "182490724667531024121945836085802267160"
+}

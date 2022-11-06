@@ -1,1 +1,36 @@
-{"missionId": "455", "missionName": "Terrorism Threat (Small)", "requirements": [ {"requirement": "police cars", "qty": "4"}, {"requirement": "k-9 units", "qty": "4"}, {"requirement": "mounted police", "qty": "1"}, {"requirement": "riot police group vehicles", "qty": "1"}, {"requirement": "' swat personnel (in swat vehicles)", "qty": "8"}, {"requirement": "max. patients", "qty": "5"}, {"requirement": "minimum number of patients", "qty": "1"}], "credits": "6500"}
+{
+ "missionId": "455",
+ "missionName": "Terrorism Threat (Small)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "4"
+  },
+  {
+   "requirement": "mounted police",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "' swat personnel (in swat vehicles)",
+   "qty": "8"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "6500",
+ "version": "26272872714361413694496487963092415177"
+}

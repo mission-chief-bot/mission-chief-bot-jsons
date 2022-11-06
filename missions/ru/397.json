@@ -1,1 +1,12 @@
-{"missionId": "397", "missionName": "Кража произведений искусства", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "397",
+ "missionName": "Кража произведений искусства",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "183375866329453346533620737684267332414"
+}

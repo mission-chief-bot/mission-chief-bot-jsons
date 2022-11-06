@@ -1,1 +1,44 @@
-{"missionId": "119-1", "missionName": "Bygnings Brand Industribygning", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "5"}, {"requirement": "påkrævede stigevogn", "qty": "2"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "2"}, {"requirement": "påkrævede ledelses- og kommunikationsmoduler", "qty": "1"}, {"requirement": "påkrævede gift- og kemikaliekøretøjer", "qty": "1"},{ "requirement": "skum tender påkrævet", "qty": "1" },{ "requirement": "påhængs pumpe påkrævet", "qty": "1" }, {"requirement": "slange tender påkrævet", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "4"}], "credits": "5300"}
+{
+ "missionId": "119-1",
+ "missionName": "Bygnings Brand Industribygning",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede ledelses- og kommunikationsmoduler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede gift- og kemikaliekøretøjer",
+   "qty": "1"
+  },
+  {
+   "requirement": "skum tender påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "påhængs pumpe påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "slange tender påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "5300",
+ "version": "145103983489552218457031439206913953239"
+}

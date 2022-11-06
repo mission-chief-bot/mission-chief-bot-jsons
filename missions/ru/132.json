@@ -1,1 +1,12 @@
-{"missionId": "132", "missionName": "Охрана VIP-персоны", "requirements": [{"requirement": "полицейские автомобили", "qty": "6"}], "credits": "4000"}
+{
+ "missionId": "132",
+ "missionName": "Охрана VIP-персоны",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "6"
+  }
+ ],
+ "credits": "4000",
+ "version": "39315383877557836275504427261827592549"
+}

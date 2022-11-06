@@ -1,1 +1,24 @@
-{"missionId": "158", "missionName": "Accident Involving a Bus", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "ems chief", "qty": "1"}, {"requirement": "max. patients", "qty": "12"}], "credits": "1000"}
+{
+ "missionId": "158",
+ "missionName": "Accident Involving a Bus",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "ems chief",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "12"
+  }
+ ],
+ "credits": "1000",
+ "version": "338787507160261612866122810815847974114"
+}

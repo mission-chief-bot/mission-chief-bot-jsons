@@ -1,1 +1,16 @@
-{"missionId": "226", "missionName": "Accoltellamento", "requirements": [{"requirement": "pattuglie", "qty": "3"}, {"requirement": "max pazienti", "qty": "3"}], "credits": "850"}
+{
+ "missionId": "226",
+ "missionName": "Accoltellamento",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "3"
+  }
+ ],
+ "credits": "850",
+ "version": "92167075977450397776705647722123480847"
+}

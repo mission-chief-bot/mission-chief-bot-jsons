@@ -1,1 +1,16 @@
-{"missionId": "599", "missionName": "Tornado watch", "requirements": [{"requirement": "firetrucks", "qty": "6"}, {"requirement": "police cars", "qty": "4"}], "credits": "3500"}
+{
+ "missionId": "599",
+ "missionName": "Tornado watch",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "6"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  }
+ ],
+ "credits": "3500",
+ "version": "173453630134785476216225210576488495578"
+}

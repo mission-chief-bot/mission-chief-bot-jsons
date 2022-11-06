@@ -1,1 +1,12 @@
-{"missionId": "36", "missionName": "Chest Pains", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "36",
+ "missionName": "Chest Pains",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "173621757338105126962824905927235088245"
+}

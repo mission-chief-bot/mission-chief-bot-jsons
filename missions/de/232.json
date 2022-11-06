@@ -1,1 +1,16 @@
-{"missionId": "232", "missionName": "Kabeldiebstahl", "requirements": [ {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "polizeihubschrauber", "qty": "1"}],"credits": "3500"}
+{
+ "missionId": "232",
+ "missionName": "Kabeldiebstahl",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "polizeihubschrauber",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "339281745609221619267655666305368869993"
+}

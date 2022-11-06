@@ -1,1 +1,12 @@
-{"missionId": "414", "missionName": "Raise awareness on school kids for 112", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "414",
+ "missionName": "Raise awareness on school kids for 112",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "315680674809878168296525246690582297357"
+}

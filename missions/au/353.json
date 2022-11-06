@@ -1,1 +1,16 @@
-{"missionId": "353", "missionName": "Riot at concert", "requirements": [{"requirement": "police cars", "qty": "3"}, {"requirement": "max. patients", "qty": "30"}], "credits": "1150"}
+{
+ "missionId": "353",
+ "missionName": "Riot at concert",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "30"
+  }
+ ],
+ "credits": "1150",
+ "version": "307895690950683736218547849992644028592"
+}

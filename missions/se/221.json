@@ -1,1 +1,12 @@
-{"missionId": "221", "missionName": "Liten brand orsakad av elfel på jubileumsfirande", "requirements": [{"requirement": "släckbilar", "qty": "2"}], "credits": "1850"}
+{
+ "missionId": "221",
+ "missionName": "Liten brand orsakad av elfel på jubileumsfirande",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1850",
+ "version": "296714480949358019155037946704415319879"
+}

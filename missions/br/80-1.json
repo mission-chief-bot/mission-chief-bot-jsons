@@ -1,1 +1,28 @@
-{"missionId": "80-1", "missionName": "Incêndio num silo", "requirements": [ {"requirement": "caminhões de bombeiro necessários", "qty": "8"}, {"requirement": "caminhões plataforma necessários", "qty": "1"}, {"requirement": "veículos de resgate pesado necessários", "qty": "1"}, {"requirement": "viaturas de batalhão necessárias", "qty": "2"}, {"requirement": "bombas motorizadas necessárias", "qty": "1"}], "credits": "3200"}
+{
+ "missionId": "80-1",
+ "missionName": "Incêndio num silo",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "8"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "bombas motorizadas necessárias",
+   "qty": "1"
+  }
+ ],
+ "credits": "3200",
+ "version": "142448167617950254624120765153066107150"
+}

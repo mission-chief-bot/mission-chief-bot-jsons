@@ -1,1 +1,20 @@
-{"missionId": "727", "missionName": "Post-Fire Environmental Damage Assessment", "requirements": [{"requirement": "fire investigation units", "qty": "2"}, {"requirement": "warden trucks", "qty": "4"}, {"requirement": "police cars", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "727",
+ "missionName": "Post-Fire Environmental Damage Assessment",
+ "requirements": [
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  },
+  {
+   "requirement": "warden trucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "240022983978435277684532664896565807954"
+}

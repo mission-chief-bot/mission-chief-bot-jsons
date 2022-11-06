@@ -1,1 +1,12 @@
-{"missionId": "329", "missionName": "Liten Skogbrann Opprydding", "requirements": [{"requirement": "skogbrann kjøretøy", "qty": "2"}], "credits": "700"}
+{
+ "missionId": "329",
+ "missionName": "Liten Skogbrann Opprydding",
+ "requirements": [
+  {
+   "requirement": "skogbrann kjøretøy",
+   "qty": "2"
+  }
+ ],
+ "credits": "700",
+ "version": "216346059752112518998536789278137025554"
+}

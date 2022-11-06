@@ -1,1 +1,16 @@
-{"missionId": "554", "missionName": "Einbruch in Wohnhaus", "requirements": [{"requirement": "dhufükw", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "554",
+ "missionName": "Einbruch in Wohnhaus",
+ "requirements": [
+  {
+   "requirement": "dhufükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "123843634818784826974206726837872149013"
+}

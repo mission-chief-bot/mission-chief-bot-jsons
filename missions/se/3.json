@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "Brand ute - fordon, motorcykel", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "Brand ute - fordon, motorcykel",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "339481004215600554011045936135344161368"
+}

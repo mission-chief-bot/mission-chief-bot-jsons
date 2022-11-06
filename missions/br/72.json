@@ -1,1 +1,32 @@
-{"missionId": "72", "missionName": "Acidente aéreo leve", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "4"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "veículos de resgate pesado necessários", "qty": "1"}, {"requirement": "caminhões pipa necessários", "qty": "1"}, {"requirement": "viaturas de produtos perigosos necessárias", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "4"}], "credits": "4000"}
+{
+ "missionId": "72",
+ "missionName": "Acidente aéreo leve",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de produtos perigosos necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "4"
+  }
+ ],
+ "credits": "4000",
+ "version": "205619600107823440869692398164816727237"
+}

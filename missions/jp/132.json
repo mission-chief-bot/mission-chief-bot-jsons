@@ -1,1 +1,20 @@
-{"missionId": "132", "missionName": "工場の小規模火災", "requirements": [{"requirement": "消防車", "qty": "4"}, {"requirement": "指令ユニット", "qty": "2"}, {"requirement": "救急車", "qty": "3"}], "credits": "2000"}
+{
+ "missionId": "132",
+ "missionName": "工場の小規模火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "4"
+  },
+  {
+   "requirement": "指令ユニット",
+   "qty": "2"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "3"
+  }
+ ],
+ "credits": "2000",
+ "version": "133530107593584967422022964662476938849"
+}

@@ -1,1 +1,16 @@
-{"missionId": "142", "missionName": "Feuer auf Balkon", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "drehleitern", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "142",
+ "missionName": "Feuer auf Balkon",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "205319190391779689896589055156244720074"
+}

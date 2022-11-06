@@ -1,1 +1,12 @@
-{"missionId": "12", "missionName": "Queda de Árvore", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "12",
+ "missionName": "Queda de Árvore",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "263485953723402152310131777060727691432"
+}

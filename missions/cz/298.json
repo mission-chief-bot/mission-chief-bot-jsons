@@ -1,1 +1,12 @@
-{"missionId": "298", "missionName": "Kontrola podezřelé osoby", "requirements": [{"requirement": "policejní automobily", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "298",
+ "missionName": "Kontrola podezřelé osoby",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "329263113518056666929399801720178416017"
+}

@@ -1,1 +1,16 @@
-{"missionId": "144", "missionName": "Search of a vehicle", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "k-9 units", "qty": "1"}], "credits": "6"}
+{
+ "missionId": "144",
+ "missionName": "Search of a vehicle",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  }
+ ],
+ "credits": "6",
+ "version": "203411474067528443983577199416650953877"
+}

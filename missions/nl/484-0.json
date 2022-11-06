@@ -1,1 +1,32 @@
-{"missionId": "484-0", "missionName": "Vat met gevaarlijke stoffen omgevallen", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "verkenningseenheden", "qty": "1"}, {"requirement": "adviseurs gevaarlijke stoffen", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "4730"}
+{
+ "missionId": "484-0",
+ "missionName": "Vat met gevaarlijke stoffen omgevallen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "verkenningseenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "4730",
+ "version": "263444643001784387545698478935507940890"
+}

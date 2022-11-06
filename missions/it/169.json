@@ -1,1 +1,12 @@
-{"missionId": "169", "missionName": "Dissesto statico", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "169",
+ "missionName": "Dissesto statico",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "78918758619307344617262030718724710320"
+}

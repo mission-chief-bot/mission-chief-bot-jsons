@@ -1,1 +1,16 @@
-{"missionId": "321", "missionName": "Беспорядки на концерте", "requirements": [{"requirement": "полицейские автомобили", "qty": "3"}, {"requirement": "макс. пациенты", "qty": "30"}], "credits": "1150"}
+{
+ "missionId": "321",
+ "missionName": "Беспорядки на концерте",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "3"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "30"
+  }
+ ],
+ "credits": "1150",
+ "version": "112933107126823732059971852195058456742"
+}

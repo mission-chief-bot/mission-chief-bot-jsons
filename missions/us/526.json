@@ -1,1 +1,12 @@
-{"missionId": "526", "missionName": "Glass shard embedded in hand", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "526",
+ "missionName": "Glass shard embedded in hand",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "201371787642111440605611879868521081812"
+}

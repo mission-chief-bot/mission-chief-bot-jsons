@@ -1,1 +1,12 @@
-{"missionId": "149", "missionName": "Acidente com motosserra", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "149",
+ "missionName": "Acidente com motosserra",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "49453193329414773151328427246865580583"
+}

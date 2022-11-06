@@ -1,1 +1,12 @@
-{"missionId": "387", "missionName": "Sundání prstýnku z ruky", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "387",
+ "missionName": "Sundání prstýnku z ruky",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "136523263070113385701618487502017950622"
+}

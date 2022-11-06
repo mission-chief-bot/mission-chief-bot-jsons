@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "화재 현장(비상 전화)", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "화재 현장(비상 전화)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "17299427014222707174744987317529106123"
+}

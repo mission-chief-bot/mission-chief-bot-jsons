@@ -1,1 +1,12 @@
-{"missionId": "174", "missionName": "Diefstal op de kerstmarkt", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "174",
+ "missionName": "Diefstal op de kerstmarkt",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "140913169769961264176870095622299257020"
+}

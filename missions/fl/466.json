@@ -1,1 +1,16 @@
-{"missionId": "466", "missionName": "711 Ilmatie-este", "requirements": [{"requirement": "ambulanssit", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "466",
+ "missionName": "711 Ilmatie-este",
+ "requirements": [
+  {
+   "requirement": "ambulanssit",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "45733867786528380580685205976898506904"
+}

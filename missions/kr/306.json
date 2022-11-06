@@ -1,1 +1,16 @@
-{"missionId": "306", "missionName": "가구 화재", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "306",
+ "missionName": "가구 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "207037137087175314912972139300329209447"
+}

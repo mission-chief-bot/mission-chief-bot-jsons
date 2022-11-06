@@ -1,1 +1,36 @@
-{"missionId": "74/a", "missionName": "433 Suuri tulipalo", "requirements": [{"requirement": "paloautot", "qty": "10"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "nostolava-autot", "qty": "2"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "letkuajoneuvot", "qty": "4"}, {"requirement": "suurtehopumput", "qty": "4"}], "credits": "12210"}
+{
+ "missionId": "74/a",
+ "missionName": "433 Suuri tulipalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "10"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "4"
+  },
+  {
+   "requirement": "suurtehopumput",
+   "qty": "4"
+  }
+ ],
+ "credits": "12210",
+ "version": "46758437483355902262729418900266646683"
+}

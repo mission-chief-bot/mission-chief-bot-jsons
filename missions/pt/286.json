@@ -1,1 +1,12 @@
-{"missionId": "286", "missionName": "Troféu Roubado", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "286",
+ "missionName": "Troféu Roubado",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "8980344804719594235854575832623094750"
+}

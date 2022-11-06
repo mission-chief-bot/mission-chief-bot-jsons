@@ -1,1 +1,44 @@
-{"missionId": "363-0", "missionName": "Natur gas eksplosjon", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tungredningsbiler", "qty": "2"}, {"requirement": "stigebil", "qty": "1"}, {"requirement": "slangebiler", "qty": "2"}, {"requirement": "skum tankbiler", "qty": "2"}, {"requirement": "skum tankbiler", "qty": "2"}, {"requirement": "innsatsstøttebil", "qty": "1"}, {"requirement": "maks pasienter", "qty": "20"}], "credits": "10000"}
+{
+ "missionId": "363-0",
+ "missionName": "Natur gas eksplosjon",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "stigebil",
+   "qty": "1"
+  },
+  {
+   "requirement": "slangebiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "skum tankbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "skum tankbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "innsatsstøttebil",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "20"
+  }
+ ],
+ "credits": "10000",
+ "version": "205866257740319269001930392220873612869"
+}

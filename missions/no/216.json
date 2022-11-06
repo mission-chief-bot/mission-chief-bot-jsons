@@ -1,1 +1,16 @@
-{"missionId": "216", "missionName": "Brann på julemarked", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "216",
+ "missionName": "Brann på julemarked",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "106541047696449572752479830149909734172"
+}

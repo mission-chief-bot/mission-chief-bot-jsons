@@ -1,1 +1,32 @@
-{"missionId": "222", "missionName": "Požár domu s doškovou střechou způsobený zábavní pyrotechnikou", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "5"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "protiplynové automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "4200"}
+{
+ "missionId": "222",
+ "missionName": "Požár domu s doškovou střechou způsobený zábavní pyrotechnikou",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "5"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "protiplynové automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "4200",
+ "version": "21734326053388114599166813031957621969"
+}

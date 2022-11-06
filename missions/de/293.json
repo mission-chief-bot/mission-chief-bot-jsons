@@ -1,1 +1,16 @@
-{"missionId": "293", "missionName": "Bluthochdruck", "requirements": [ {"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "293",
+ "missionName": "Bluthochdruck",
+ "requirements": [
+  {
+   "requirement": "nef",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "132920015103989859784516698601101593750"
+}

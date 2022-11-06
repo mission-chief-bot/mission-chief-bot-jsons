@@ -1,1 +1,16 @@
-{"missionId": "226", "missionName": "Landing Gear failure", "requirements": [{"requirement": "arff", "qty": "2"}, {"requirement": "firetrucks", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "226",
+ "missionName": "Landing Gear failure",
+ "requirements": [
+  {
+   "requirement": "arff",
+   "qty": "2"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "13264101958858955681700454568314330437"
+}

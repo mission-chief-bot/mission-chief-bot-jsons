@@ -1,1 +1,12 @@
-{"missionId": "63", "missionName": "Geçici İskemik Atak", "requirements": [{"requirement": "maks. hastalar", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "63",
+ "missionName": "Geçici İskemik Atak",
+ "requirements": [
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "17728506554472573579427095001814422055"
+}

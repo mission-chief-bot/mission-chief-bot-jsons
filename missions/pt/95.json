@@ -1,1 +1,24 @@
-{"missionId": "95", "missionName": "Coelhinho da Páscoa numa grua", "requirements": [{"requirement": "veículos escada necessários:", "qty": "1"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "carros de patrulha necessários:", "qty": "1"}, {"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "95",
+ "missionName": "Coelhinho da Páscoa numa grua",
+ "requirements": [
+  {
+   "requirement": "veículos escada necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "300063979587190212144190052359852247132"
+}

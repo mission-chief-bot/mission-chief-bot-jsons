@@ -1,1 +1,16 @@
-{"missionId": "327", "missionName": "Skadegörelse, parkeringsplats", "requirements": [{"requirement": "polisbilar", "qty": "4"}, {"requirement": "hundenheter", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "327",
+ "missionName": "Skadegörelse, parkeringsplats",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "94599443155932844167657334612859876930"
+}

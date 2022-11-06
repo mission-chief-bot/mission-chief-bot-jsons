@@ -1,1 +1,16 @@
-{"missionId": "119", "missionName": "Violenza domestica", "requirements": [{"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "119",
+ "missionName": "Violenza domestica",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "254599419147173255438722796195402091755"
+}

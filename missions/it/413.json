@@ -1,1 +1,24 @@
-{"missionId": "413", "missionName": "Incidente Treno-Veicolo", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "5"}], "credits": "2000"}
+{
+ "missionId": "413",
+ "missionName": "Incidente Treno-Veicolo",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "5"
+  }
+ ],
+ "credits": "2000",
+ "version": "150682271977836974932464975635254045991"
+}

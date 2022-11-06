@@ -1,1 +1,28 @@
-{"missionId": "383", "missionName": "Brand i byggnad - servicevhus", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "stegbilar", "qty": "1"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "tankbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "10"}], "credits": "670"}
+{
+ "missionId": "383",
+ "missionName": "Brand i byggnad - servicevhus",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "10"
+  }
+ ],
+ "credits": "670",
+ "version": "87214734552471301950103317925658394391"
+}

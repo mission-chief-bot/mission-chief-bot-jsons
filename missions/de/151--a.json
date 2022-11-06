@@ -1,1 +1,16 @@
-{"missionId": "151/a", "missionName": "Raub", "requirements": [{"requirement": "streifenwagen", "qty": "3"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "151/a",
+ "missionName": "Raub",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "157887235047113200392239421789550297370"
+}

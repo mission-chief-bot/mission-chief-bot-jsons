@@ -1,1 +1,48 @@
-{"missionId": "242", "missionName": "Grande Incidente em Usinas Nucleares", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "25"}, {"requirement": "viaturas de batalhão necessárias", "qty": "8"}, {"requirement": "caminhões plataforma necessários", "qty": "2"}, {"requirement": "veículos de resgate pesado necessários", "qty": "4"}, {"requirement": "viaturas de produtos perigosos necessárias", "qty": "4"}, {"requirement": "veículos aéreos móveis necessários", "qty": "2"}, {"requirement": "caminhões pipa necessários", "qty": "2"}, {"requirement": "viaturas de polícia necessárias", "qty": "8"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "10"}, {"requirement": "máx. de pacientes", "qty": "80"}], "credits": "30000"}
+{
+ "missionId": "242",
+ "missionName": "Grande Incidente em Usinas Nucleares",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "25"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "8"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "viaturas de produtos perigosos necessárias",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos aéreos móveis necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "8"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "10"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "80"
+  }
+ ],
+ "credits": "30000",
+ "version": "262986062123443495583524297835175004081"
+}

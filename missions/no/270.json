@@ -1,1 +1,20 @@
-{"missionId": "270", "missionName": "Nedfall fra tunneltak", "requirements": [{"requirement": "politibiler", "qty": "3"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "brannbiler", "qty": "1"}], "credits": "2800"}
+{
+ "missionId": "270",
+ "missionName": "Nedfall fra tunneltak",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "2800",
+ "version": "61046793868757544310161183171426304272"
+}

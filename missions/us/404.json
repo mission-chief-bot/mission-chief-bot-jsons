@@ -1,1 +1,11 @@
-{"missionId": "404", "missionName": "Heat stroke", "requirements": [{"requirement": "max. patients", "qty": "1"}]}
+{
+ "missionId": "404",
+ "missionName": "Heat stroke",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "150967909606076401245660643990430085224"
+}

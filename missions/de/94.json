@@ -1,1 +1,12 @@
-{"missionId": "94", "missionName": "Kleine Ölspur", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "94",
+ "missionName": "Kleine Ölspur",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "53688978938815940895320282662032475546"
+}

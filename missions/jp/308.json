@@ -1,1 +1,12 @@
-{"missionId": "308", "missionName": "アニバーサリーゲストによるデコレーション盗難", "requirements": [{"requirement": "警察車両", "qty": "4"}], "credits": "3000"}
+{
+ "missionId": "308",
+ "missionName": "アニバーサリーゲストによるデコレーション盗難",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "278159162747302002514765948483330550003"
+}

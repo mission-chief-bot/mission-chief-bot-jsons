@@ -1,1 +1,12 @@
-{"missionId": "257", "missionName": "Injury through early exploding firework", "requirements": [{"requirement": "max. patients", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "257",
+ "missionName": "Injury through early exploding firework",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "75444999175184137096562879707665828087"
+}

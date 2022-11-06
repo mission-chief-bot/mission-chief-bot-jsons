@@ -1,1 +1,16 @@
-{"missionId": "264", "missionName": "Rapina in banca", "requirements": [{"requirement": "pattuglie", "qty": "4"}, {"requirement": "max pazienti", "qty": "2"}], "credits": "2400"}
+{
+ "missionId": "264",
+ "missionName": "Rapina in banca",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "2400",
+ "version": "90406828679722202683194875842095737630"
+}

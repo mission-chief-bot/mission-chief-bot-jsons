@@ -1,1 +1,12 @@
-{"missionId": "78", "missionName": "381 Kadonnut lapsi", "requirements": [{"requirement": "poliisiautot", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "78",
+ "missionName": "381 Kadonnut lapsi",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "325449183243277281686920035020404950134"
+}

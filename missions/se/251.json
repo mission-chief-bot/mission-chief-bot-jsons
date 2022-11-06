@@ -1,1 +1,12 @@
-{"missionId": "251", "missionName": "Användande av fyrverkeripjäs nära väg", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "251",
+ "missionName": "Användande av fyrverkeripjäs nära väg",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "306421774149998338942262803668058620354"
+}

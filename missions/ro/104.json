@@ -1,1 +1,24 @@
-{"missionId": "104", "missionName": "Incendiu mediu în hotel", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "6"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "1"}, {"requirement": "camioane cu platformă necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "10"}], "credits": "0"}
+{
+ "missionId": "104",
+ "missionName": "Incendiu mediu în hotel",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "6"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "camioane cu platformă necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "10"
+  }
+ ],
+ "credits": "0",
+ "version": "24538898804826952151761716346254208541"
+}

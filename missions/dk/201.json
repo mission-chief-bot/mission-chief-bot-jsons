@@ -1,1 +1,16 @@
-{"missionId": "201", "missionName": "Kontor indblandet i korruption", "requirements": [{"requirement": "påkrævede politibiler", "qty": "3"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "201",
+ "missionName": "Kontor indblandet i korruption",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "26400997345924920825659893238906364953"
+}

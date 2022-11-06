@@ -1,1 +1,16 @@
-{"missionId": "190", "missionName": "폭죽으로 인한 발코니 화재", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "플랫폼 트럭", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "190",
+ "missionName": "폭죽으로 인한 발코니 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  },
+  {
+   "requirement": "플랫폼 트럭",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "194091646291243246825616006115973674050"
+}

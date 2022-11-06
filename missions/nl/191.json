@@ -1,1 +1,16 @@
-{"missionId": "191", "missionName": "Losgewaaide dakbedekking", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "420"}
+{
+ "missionId": "191",
+ "missionName": "Losgewaaide dakbedekking",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "420",
+ "version": "294042263331789813782492528186436057184"
+}

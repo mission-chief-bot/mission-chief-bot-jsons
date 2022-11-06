@@ -1,1 +1,20 @@
-{"missionId": "448", "missionName": "Protest (Medium)", "requirements": [{"requirement": "mounted units", "qty": "1"}, {"requirement": "police cars", "qty": "6"}, {"requirement": "max. patients", "qty": "4"}], "credits": "8310"}
+{
+ "missionId": "448",
+ "missionName": "Protest (Medium)",
+ "requirements": [
+  {
+   "requirement": "mounted units",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "8310",
+ "version": "148890040093851151134485368941795468821"
+}

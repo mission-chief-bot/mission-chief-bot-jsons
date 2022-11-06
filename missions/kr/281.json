@@ -1,1 +1,12 @@
-{"missionId": "281", "missionName": "낙엽더미 화재", "requirements": [{"requirement": "소방차", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "281",
+ "missionName": "낙엽더미 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "175649590184989713281166733470133963777"
+}

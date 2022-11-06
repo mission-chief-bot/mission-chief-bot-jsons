@@ -1,1 +1,12 @@
-{"missionId": "91", "missionName": "Corona de Adviento en llamas", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "91",
+ "missionName": "Corona de Adviento en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "101290247937203045284121428991149513711"
+}

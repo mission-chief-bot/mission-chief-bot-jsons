@@ -1,1 +1,12 @@
-{"missionId": "298", "missionName": "Hjerte stjålet", "requirements": [{"requirement": "påkrævede politibiler", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "298",
+ "missionName": "Hjerte stjålet",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "51931113660335314183549516193720537087"
+}

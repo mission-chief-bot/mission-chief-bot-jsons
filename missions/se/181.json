@@ -1,1 +1,12 @@
-{"missionId": "181", "missionName": "Intoxikation", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "181",
+ "missionName": "Intoxikation",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "245314486809556130634041430702602437484"
+}

@@ -1,1 +1,12 @@
-{"missionId": "85", "missionName": "Feu de voiture causé par des feux d'artifice", "requirements": [{"requirement": "fourgons d’incendie", "qty": 1}], "credits": "370"}
+{
+ "missionId": "85",
+ "missionName": "Feu de voiture causé par des feux d'artifice",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": 1
+  }
+ ],
+ "credits": "370",
+ "version": "264619961264090055099925474035304326431"
+}

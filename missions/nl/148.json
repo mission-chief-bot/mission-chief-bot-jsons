@@ -1,1 +1,12 @@
-{"missionId": "148", "missionName": "Overkookte pompoensoep", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "148",
+ "missionName": "Overkookte pompoensoep",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "201936858598438866457896278154772001607"
+}

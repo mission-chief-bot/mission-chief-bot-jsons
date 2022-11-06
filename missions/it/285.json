@@ -1,1 +1,12 @@
-{"missionId": "285", "missionName": "Ospite della festa colpito da un tappo di sughero", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "285",
+ "missionName": "Ospite della festa colpito da un tappo di sughero",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "80166477694138327511673535298683943732"
+}

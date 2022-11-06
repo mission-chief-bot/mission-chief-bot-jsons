@@ -1,1 +1,52 @@
-{"missionId": "184/a", "missionName": "Container Ship Fire", "requirements": [{"requirement": "firetrucks", "qty": "4"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "mobile air vehicles", "qty": "2"}, {"requirement": "hazmat vehicles", "qty": "1"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "large rescue boats", "qty": "1"}, {"requirement": "large fire boats", "qty": "1"}, {"requirement": "fire investigation units", "qty": "2"}, {"requirement": "max. patients", "qty": "6"}], "credits": "11000"}
+{
+ "missionId": "184/a",
+ "missionName": "Container Ship Fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "large rescue boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "large fire boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "11000",
+ "version": "51607869942960963544797286855206935838"
+}

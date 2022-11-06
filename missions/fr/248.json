@@ -1,1 +1,12 @@
-{"missionId": "248", "missionName": "Sabotage de juke-box d’anniversaire", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "248",
+ "missionName": "Sabotage de juke-box d’anniversaire",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "207987771264064296119125386195406411740"
+}

@@ -1,1 +1,12 @@
-{"missionId": "161", "missionName": "Пищевое отравление", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "161",
+ "missionName": "Пищевое отравление",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "48167420135219380137542568617597100078"
+}

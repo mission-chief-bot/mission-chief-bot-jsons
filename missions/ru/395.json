@@ -1,1 +1,12 @@
-{"missionId": "395", "missionName": "Поврежденное имущество", "requirements": [{"requirement": "полицейские автомобили", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "395",
+ "missionName": "Поврежденное имущество",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "234120266193270424244338054369900510292"
+}

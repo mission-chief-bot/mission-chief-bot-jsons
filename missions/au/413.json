@@ -1,1 +1,28 @@
-{"missionId": "413", "missionName": "Small Mining Accident", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "turntable ladder trucks", "qty": "1"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "3"}], "credits": "3000"}
+{
+ "missionId": "413",
+ "missionName": "Small Mining Accident",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "turntable ladder trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "credits": "3000",
+ "version": "92083071384236915545896585723190706779"
+}

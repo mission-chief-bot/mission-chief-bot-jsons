@@ -1,1 +1,12 @@
-{"missionId": "15", "missionName": "Pequeno incêndio florestal", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "2"}], "credits": "1010"}
+{
+ "missionId": "15",
+ "missionName": "Pequeno incêndio florestal",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "1010",
+ "version": "119670916997419457739822351611978456052"
+}

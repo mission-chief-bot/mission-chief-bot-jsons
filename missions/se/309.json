@@ -1,1 +1,12 @@
-{"missionId": "309", "missionName": "Uppblåst fotboll", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "309",
+ "missionName": "Uppblåst fotboll",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "247263727799987885045733636435837248928"
+}

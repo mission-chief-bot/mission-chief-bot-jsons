@@ -1,1 +1,16 @@
-{"missionId": "730", "missionName": "Kälberdieb von Kuh angegriffen", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "730",
+ "missionName": "Kälberdieb von Kuh angegriffen",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "107054302578685807299046453702573817856"
+}

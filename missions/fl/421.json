@@ -1,1 +1,12 @@
-{"missionId": "421", "missionName": "461 Takka savunnut sisälle", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "421",
+ "missionName": "461 Takka savunnut sisälle",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "241450610699147937128386289198628932282"
+}

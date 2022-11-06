@@ -1,1 +1,16 @@
-{"missionId": "195", "missionName": "Schwerpunkteinsatz Tageswohnungseinbrüche", "requirements": [ {"requirement": "grukw", "qty": "3"}, {"requirement": "lebefkw", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "195",
+ "missionName": "Schwerpunkteinsatz Tageswohnungseinbrüche",
+ "requirements": [
+  {
+   "requirement": "grukw",
+   "qty": "3"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "222310839783061060838871422536493940796"
+}

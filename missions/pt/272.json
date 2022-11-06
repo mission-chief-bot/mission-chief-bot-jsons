@@ -1,1 +1,16 @@
-{"missionId": "272", "missionName": "Ferimentos graves provocados por vidros", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "272",
+ "missionName": "Ferimentos graves provocados por vidros",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "46312720956286880006126706856055281484"
+}

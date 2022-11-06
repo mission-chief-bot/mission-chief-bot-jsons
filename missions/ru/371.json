@@ -1,1 +1,12 @@
-{"missionId": "371", "missionName": "Горящая корзина для пикника", "requirements": [{"requirement": "пожарные машины", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "371",
+ "missionName": "Горящая корзина для пикника",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "170226944568768993047668526279782570985"
+}

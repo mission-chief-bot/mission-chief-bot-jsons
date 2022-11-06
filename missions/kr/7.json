@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "화재 현장(낙엽)", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "화재 현장(낙엽)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "17393023063027136759967560729416686420"
+}

@@ -1,1 +1,12 @@
-{"missionId": "615", "missionName": "Sportblessure opgelopen", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "615",
+ "missionName": "Sportblessure opgelopen",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "281115109137518899956765580712703704747"
+}

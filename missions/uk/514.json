@@ -1,1 +1,24 @@
-{"missionId": "514", "missionName": "Cell Fire (Persons Reported)", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "fire officers", "qty": "1"}, {"requirement": "police cars", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1800"}
+{
+ "missionId": "514",
+ "missionName": "Cell Fire (Persons Reported)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1800",
+ "version": "88269646509986019095742220664933526937"
+}

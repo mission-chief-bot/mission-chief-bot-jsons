@@ -1,1 +1,12 @@
-{"missionId": "107", "missionName": "Conductor borracho tras la fiesta de Nochevieja", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "107",
+ "missionName": "Conductor borracho tras la fiesta de Nochevieja",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "276744137146889207855498682461094214453"
+}

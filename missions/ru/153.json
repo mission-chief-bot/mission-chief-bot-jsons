@@ -1,1 +1,16 @@
-{"missionId": "153", "missionName": "Пропавший ребёнок", "requirements": [{"requirement": "полицейские автомобили", "qty": "3"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "153",
+ "missionName": "Пропавший ребёнок",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "3"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "5883240903566486901394246845922996874"
+}

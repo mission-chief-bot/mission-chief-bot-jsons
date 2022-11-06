@@ -1,1 +1,28 @@
-{"missionId": "237", "missionName": "Brand in werkplaats", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "adembeschermingsvoertuigen", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "780"}
+{
+ "missionId": "237",
+ "missionName": "Brand in werkplaats",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "adembeschermingsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "780",
+ "version": "111552074173053060624126613936906535797"
+}

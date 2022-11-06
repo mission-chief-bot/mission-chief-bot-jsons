@@ -1,1 +1,12 @@
-{"missionId": "138", "missionName": "066 Poliisi haavoittunut", "requirements": [{"requirement": "poliisiautot", "qty": "6"}], "credits": "1500"}
+{
+ "missionId": "138",
+ "missionName": "066 Poliisi haavoittunut",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "6"
+  }
+ ],
+ "credits": "1500",
+ "version": "186350296185377772259594786566480018333"
+}

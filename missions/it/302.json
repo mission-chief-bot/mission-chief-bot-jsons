@@ -1,1 +1,12 @@
-{"missionId": "302", "missionName": "Persona colpita da fuoco d'artificio", "requirements": [{"requirement": "max pazienti", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "302",
+ "missionName": "Persona colpita da fuoco d'artificio",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "303070153062051356573863227362997508615"
+}

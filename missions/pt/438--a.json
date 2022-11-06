@@ -1,1 +1,28 @@
-{"missionId": "438/a", "missionName": "Incêndio numa drogaria", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "5"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "carros de patrulha necessários:", "qty": "2"}, {"requirement": "veículos especiais de combate a incêndios necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "4"}], "credits": "3150"}
+{
+ "missionId": "438/a",
+ "missionName": "Incêndio numa drogaria",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos especiais de combate a incêndios necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "4"
+  }
+ ],
+ "credits": "3150",
+ "version": "304335872753027651969383757695981032384"
+}

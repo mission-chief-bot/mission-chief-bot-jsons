@@ -1,1 +1,12 @@
-{"missionId": "147", "missionName": "Furt de bomboane", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "147",
+ "missionName": "Furt de bomboane",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "38826832777322643470230790071406533068"
+}

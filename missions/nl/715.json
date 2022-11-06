@@ -1,1 +1,20 @@
-{"missionId": "715", "missionName": "Akkerbrand", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "2515"}
+{
+ "missionId": "715",
+ "missionName": "Akkerbrand",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "2515",
+ "version": "268464078043462481715380282200343817008"
+}

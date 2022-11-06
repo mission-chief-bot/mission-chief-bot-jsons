@@ -1,1 +1,20 @@
-{"missionId": "33", "missionName": "小型スーパーの火災", "requirements": [{"requirement": "消防車", "qty": "4"}, {"requirement": "指令ユニット", "qty": "1"}, {"requirement": "救急車", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "33",
+ "missionName": "小型スーパーの火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "4"
+  },
+  {
+   "requirement": "指令ユニット",
+   "qty": "1"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "84930328794894145034996830768467522540"
+}

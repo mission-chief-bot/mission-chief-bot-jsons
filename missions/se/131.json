@@ -1,1 +1,12 @@
-{"missionId": "131", "missionName": "Brinnande äggkokare", "requirements": [{"requirement": "släckbilar", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "131",
+ "missionName": "Brinnande äggkokare",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "305399036705957529245013500277408736821"
+}

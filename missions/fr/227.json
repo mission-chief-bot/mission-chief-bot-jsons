@@ -1,1 +1,16 @@
-{"missionId": "227", "missionName": "Feu de balcon", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}, {"requirement": "moyen elévateur aérien", "qty": "1"}], "credits": "1350"}
+{
+ "missionId": "227",
+ "missionName": "Feu de balcon",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  }
+ ],
+ "credits": "1350",
+ "version": "199284780574483673138001428647490182145"
+}

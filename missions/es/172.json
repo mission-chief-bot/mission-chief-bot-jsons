@@ -1,1 +1,12 @@
-{"missionId": "172", "missionName": "Persona en las vías del tren", "requirements": [{"requirement": "coches patrulla", "qty": "3"}], "credits": "900"}
+{
+ "missionId": "172",
+ "missionName": "Persona en las vías del tren",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "3"
+  }
+ ],
+ "credits": "900",
+ "version": "120327329170530199995834282527965675583"
+}

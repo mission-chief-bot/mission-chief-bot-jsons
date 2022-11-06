@@ -1,1 +1,28 @@
-{"missionId": "766", "missionName": "Onrust in de wijk", "requirements": [{"requirement": "noodhulpeenheden", "qty": "4"}, {"requirement": "biketeams", "qty": "1"}, {"requirement": "me flexbussen", "qty": "3"}, {"requirement": "me commandovoertuigen", "qty": "1"}, {"requirement": "biketeams, indien beschikbaar", "qty": "Ja"}], "credits": "2885"}
+{
+ "missionId": "766",
+ "missionName": "Onrust in de wijk",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "1"
+  },
+  {
+   "requirement": "me flexbussen",
+   "qty": "3"
+  },
+  {
+   "requirement": "me commandovoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "biketeams, indien beschikbaar",
+   "qty": "Ja"
+  }
+ ],
+ "credits": "2885",
+ "version": "56046237540735584654415594514374839393"
+}

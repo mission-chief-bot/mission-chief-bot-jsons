@@ -1,1 +1,20 @@
-{"missionId": "459", "missionName": "Velká olejová skvrna na vozovce", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "459",
+ "missionName": "Velká olejová skvrna na vozovce",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "104308496918505879639748566337356262680"
+}

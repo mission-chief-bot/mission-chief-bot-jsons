@@ -1,1 +1,12 @@
-{"missionId": "436", "missionName": "Concussion", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "436",
+ "missionName": "Concussion",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "43889700434135621270127443021141292097"
+}

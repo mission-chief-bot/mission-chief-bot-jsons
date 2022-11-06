@@ -1,1 +1,12 @@
-{"missionId": "824", "missionName": "Doel omgevallen", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "824",
+ "missionName": "Doel omgevallen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "136816387726605132657816441992824208842"
+}

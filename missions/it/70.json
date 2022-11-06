@@ -1,1 +1,36 @@
-{"missionId": "70", "missionName": "Incendio in supermercato (GRANDE)", "requirements": [{"requirement": "aps/abp", "qty": "9"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "kilolitriche", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "25"}], "credits": "4500"}
+{
+ "missionId": "70",
+ "missionName": "Incendio in supermercato (GRANDE)",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "9"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "25"
+  }
+ ],
+ "credits": "4500",
+ "version": "132312591007694542703792334865619344677"
+}

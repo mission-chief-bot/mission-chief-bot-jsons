@@ -1,1 +1,12 @@
-{"missionId": "53", "missionName": "무임승차 사건", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "53",
+ "missionName": "무임승차 사건",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "292874272386503798041121759730486749506"
+}

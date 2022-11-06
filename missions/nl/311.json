@@ -1,1 +1,16 @@
-{"missionId": "311", "missionName": "Verkeersongeval met fietser en fietser", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "2"}], "credits": "650"}
+{
+ "missionId": "311",
+ "missionName": "Verkeersongeval met fietser en fietser",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "2"
+  }
+ ],
+ "credits": "650",
+ "version": "303435279184574815119126012528659410618"
+}

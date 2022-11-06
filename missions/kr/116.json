@@ -1,1 +1,12 @@
-{"missionId": "116", "missionName": "신호등 고장", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "116",
+ "missionName": "신호등 고장",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "80608725897846606129895590422337962418"
+}

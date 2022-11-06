@@ -1,1 +1,12 @@
-{"missionId": "726", "missionName": "Vergiftung durch wilde Beeren", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "726",
+ "missionName": "Vergiftung durch wilde Beeren",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "67534289211698725950066414094748831090"
+}

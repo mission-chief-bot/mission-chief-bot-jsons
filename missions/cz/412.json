@@ -1,1 +1,12 @@
-{"missionId": "412", "missionName": "Vandalismus", "requirements": [{"requirement": "policejní automobily", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "412",
+ "missionName": "Vandalismus",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "15281286422326597429787833682218572659"
+}

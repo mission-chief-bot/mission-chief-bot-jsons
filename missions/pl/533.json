@@ -1,1 +1,12 @@
-{"missionId": "533", "missionName": "Podpalacz", "requirements": [{"requirement": "radiowozy", "qty": "3"}], "credits": "1700"}
+{
+ "missionId": "533",
+ "missionName": "Podpalacz",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  }
+ ],
+ "credits": "1700",
+ "version": "320510495315891853800782122061750576709"
+}

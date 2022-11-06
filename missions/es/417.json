@@ -1,1 +1,12 @@
-{"missionId": "417", "missionName": "Crisis hipertensiva", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1000"}
+{
+ "missionId": "417",
+ "missionName": "Crisis hipertensiva",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1000",
+ "version": "71069852323268227844433129354617291810"
+}

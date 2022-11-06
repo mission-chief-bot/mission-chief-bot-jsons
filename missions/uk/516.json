@@ -1,1 +1,44 @@
-{"missionId": "516", "missionName": "Prison Wing Fire (Major Incident) (Persons Reported)", "requirements": [{"requirement": "fire engines", "qty": "8"}, {"requirement": "fire officers", "qty": "5"}, {"requirement": "aerial appliance trucks", "qty": "1"}, {"requirement": "rescue support vehicles", "qty": "1"}, {"requirement": "water carriers", "qty": "1"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "iccu or ambulance control units", "qty": "1"}, {"requirement": "dog support units (dsus)", "qty": "1"}, {"requirement": "max. patients", "qty": "10"}], "credits": "12000"}
+{
+ "missionId": "516",
+ "missionName": "Prison Wing Fire (Major Incident) (Persons Reported)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "8"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "5"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "iccu or ambulance control units",
+   "qty": "1"
+  },
+  {
+   "requirement": "dog support units (dsus)",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "credits": "12000",
+ "version": "300883868422836087876951364914613562078"
+}

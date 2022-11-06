@@ -1,1 +1,28 @@
-{"missionId": "149", "missionName": "Évacuation personne obèse par la fenêtre (non accessible)", "requirements": [{"requirement": "voitures de police es", "qty": "1"}, {"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "spécialistes imp", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "149",
+ "missionName": "Évacuation personne obèse par la fenêtre (non accessible)",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  },
+  {
+   "requirement": "spécialistes imp",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "151796869896524975430411642138021141101"
+}

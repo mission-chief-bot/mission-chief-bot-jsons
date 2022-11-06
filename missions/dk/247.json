@@ -1,1 +1,16 @@
-{"missionId": "247", "missionName": "Patrulje af bymidtens nytårs fest", "requirements": [{"requirement": "påkrævede ambulancer", "qty": "2"}, {"requirement": "påkrævede politibiler", "qty": "4"}], "credits": "15000"}
+{
+ "missionId": "247",
+ "missionName": "Patrulje af bymidtens nytårs fest",
+ "requirements": [
+  {
+   "requirement": "påkrævede ambulancer",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "4"
+  }
+ ],
+ "credits": "15000",
+ "version": "247692710315877596633701816955335849625"
+}

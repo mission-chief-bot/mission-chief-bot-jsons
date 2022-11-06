@@ -1,1 +1,12 @@
-{"missionId": "533", "missionName": "Brandende papiercontainer door vuurwerk", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "533",
+ "missionName": "Brandende papiercontainer door vuurwerk",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "43405255160379636940609679476338466264"
+}

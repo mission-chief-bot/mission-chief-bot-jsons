@@ -1,1 +1,12 @@
-{"missionId": "214", "missionName": "Уламок скла в руці", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "214",
+ "missionName": "Уламок скла в руці",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "254270878453936230249870171030180112883"
+}

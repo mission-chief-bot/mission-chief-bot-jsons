@@ -1,1 +1,16 @@
-{"missionId": "430", "missionName": "411 Sähköautopalo", "requirements": [{"requirement": "paloautot", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "430",
+ "missionName": "411 Sähköautopalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "269456460666380365660712855675258786317"
+}

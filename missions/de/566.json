@@ -1,1 +1,12 @@
-{"missionId": "566", "missionName": "Drogenhandel aufgeflogen", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "566",
+ "missionName": "Drogenhandel aufgeflogen",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "320301701845538497573526131532530533104"
+}

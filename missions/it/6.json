@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Casotto nel giardino in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Casotto nel giardino in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "188973662466446709417905879219553226335"
+}

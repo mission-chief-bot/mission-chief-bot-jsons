@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "Strohballen Brand", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "Strohballen Brand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "241155521467008232416486475006887673204"
+}

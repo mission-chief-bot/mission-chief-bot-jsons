@@ -1,1 +1,12 @@
-{"missionId": "333", "missionName": "Attacco di cuore per la proposta di matrimonio", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "333",
+ "missionName": "Attacco di cuore per la proposta di matrimonio",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "281952380200897170778980949239658981296"
+}

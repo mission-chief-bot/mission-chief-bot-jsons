@@ -1,1 +1,12 @@
-{"missionId": "357", "missionName": "Угон при водителе", "requirements": [{"requirement": "полицейские автомобили", "qty": "5"}], "credits": "3500"}
+{
+ "missionId": "357",
+ "missionName": "Угон при водителе",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "5"
+  }
+ ],
+ "credits": "3500",
+ "version": "6422692591876558475589964422528760930"
+}

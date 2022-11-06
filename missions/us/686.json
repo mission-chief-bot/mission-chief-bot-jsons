@@ -1,1 +1,16 @@
-{"missionId": "686", "missionName": "Chocolate bunny locked in car", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "police cars", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "686",
+ "missionName": "Chocolate bunny locked in car",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "302778136982324740879872923758717901127"
+}

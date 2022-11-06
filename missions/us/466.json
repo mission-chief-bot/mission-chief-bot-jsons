@@ -1,1 +1,16 @@
-{"missionId": "466", "missionName": "Hunter accidently injured trespasser", "requirements": [{"requirement": "police cars", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "466",
+ "missionName": "Hunter accidently injured trespasser",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "256624781796271762546063637111457151211"
+}

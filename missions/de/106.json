@@ -1,1 +1,12 @@
-{"missionId": "106", "missionName": "Massenschlägerei", "requirements": [{"requirement": "streifenwagen", "qty": "5"}], "credits": "1800"}
+{
+ "missionId": "106",
+ "missionName": "Massenschlägerei",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "5"
+  }
+ ],
+ "credits": "1800",
+ "version": "157075200645997399488902083473840752951"
+}

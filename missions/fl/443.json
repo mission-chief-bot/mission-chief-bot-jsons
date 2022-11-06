@@ -1,1 +1,12 @@
-{"missionId": "443", "missionName": "202 Usean mopon kolari", "requirements": [{"requirement": "potilaita enint.", "qty": "5"}], "credits": "800"}
+{
+ "missionId": "443",
+ "missionName": "202 Usean mopon kolari",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "5"
+  }
+ ],
+ "credits": "800",
+ "version": "214187763352899741069115581878496675449"
+}

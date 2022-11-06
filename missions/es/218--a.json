@@ -1,1 +1,28 @@
-{"missionId": "218/a", "missionName": "Protesta violenta media", "requirements": [{"requirement": "coches patrulla", "qty": "7"}, {"requirement": "unidad canina", "qty": "1"}, {"requirement": "helicóptero de la policía", "qty": "1"}, {"requirement": "unidades geo", "qty": "4"}, {"requirement": "n.º máximo de presos", "qty": "4"}], "credits": "9500"}
+{
+ "missionId": "218/a",
+ "missionName": "Protesta violenta media",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "7"
+  },
+  {
+   "requirement": "unidad canina",
+   "qty": "1"
+  },
+  {
+   "requirement": "helicóptero de la policía",
+   "qty": "1"
+  },
+  {
+   "requirement": "unidades geo",
+   "qty": "4"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "4"
+  }
+ ],
+ "credits": "9500",
+ "version": "94808029547758991466813585313647644968"
+}

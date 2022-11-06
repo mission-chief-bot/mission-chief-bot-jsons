@@ -1,1 +1,12 @@
-{"missionId": "174", "missionName": "Prevrevrátený transportér", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "174",
+ "missionName": "Prevrevrátený transportér",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "5875597306589863631062859414244514712"
+}

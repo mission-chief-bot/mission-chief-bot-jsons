@@ -1,1 +1,12 @@
-{"missionId": "426", "missionName": "705 Rytmihäiriö", "requirements": [{"requirement": "potilaita enint.", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "426",
+ "missionName": "705 Rytmihäiriö",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "257060137438806719435552745227238870267"
+}

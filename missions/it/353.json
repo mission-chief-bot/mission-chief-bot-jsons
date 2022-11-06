@@ -1,1 +1,24 @@
-{"missionId": "353", "missionName": "Tir Contro Casa", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "autogrù", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "353",
+ "missionName": "Tir Contro Casa",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "175435515374716735239576203172491322263"
+}

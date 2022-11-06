@@ -1,1 +1,28 @@
-{"missionId": "347", "missionName": "Pequeno incêndio num estádio", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "5"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "veículos tanque necessários:", "qty": "2"}, {"requirement": "carros de patrulha necessários:", "qty": "3"}, {"requirement": "máx. de pacientes:", "qty": "6"}], "credits": "4000"}
+{
+ "missionId": "347",
+ "missionName": "Pequeno incêndio num estádio",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos tanque necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "6"
+  }
+ ],
+ "credits": "4000",
+ "version": "245267755157918046115038445676106488251"
+}

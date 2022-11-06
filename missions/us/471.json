@@ -1,1 +1,16 @@
-{"missionId": "471", "missionName": "Medium wildfire cleanup", "requirements": [{"requirement": "wildland fire engines", "qty": "4"}, {"requirement": "firetrucks", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "471",
+ "missionName": "Medium wildfire cleanup",
+ "requirements": [
+  {
+   "requirement": "wildland fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "66041630025447572647180444862974885217"
+}

@@ -1,1 +1,16 @@
-{"missionId": "607", "missionName": "Illegal street racing", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "max. patients", "qty": "3"}], "credits": "2400"}
+{
+ "missionId": "607",
+ "missionName": "Illegal street racing",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "credits": "2400",
+ "version": "194484302211921214733757033660313662481"
+}

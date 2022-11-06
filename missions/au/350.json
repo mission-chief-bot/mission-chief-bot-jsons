@@ -1,1 +1,16 @@
-{"missionId": "350", "missionName": "Unwell Person Stuck in Elevator", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "350",
+ "missionName": "Unwell Person Stuck in Elevator",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "192452385405047032909612631933494028476"
+}

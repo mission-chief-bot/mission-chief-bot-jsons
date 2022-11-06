@@ -1,1 +1,16 @@
-{"missionId": "370", "missionName": "Malaise lieu / voie publique", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "370",
+ "missionName": "Malaise lieu / voie publique",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "127979048440921339635200810855352906902"
+}

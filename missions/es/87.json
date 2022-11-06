@@ -1,1 +1,12 @@
-{"missionId": "87", "missionName": "Puesto del mercado de Navidad en llamas", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "610"}
+{
+ "missionId": "87",
+ "missionName": "Puesto del mercado de Navidad en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "610",
+ "version": "129643738475869573807804442285479098446"
+}

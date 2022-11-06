@@ -1,1 +1,16 @@
-{"missionId": "187", "missionName": "Skogsbrand, utbredd", "requirements": [{"requirement": "brandbefäl", "qty": "2"}, {"requirement": "tankbilar", "qty": "4"}], "credits": "6500"}
+{
+ "missionId": "187",
+ "missionName": "Skogsbrand, utbredd",
+ "requirements": [
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "4"
+  }
+ ],
+ "credits": "6500",
+ "version": "332966321673449235405880178527876753474"
+}

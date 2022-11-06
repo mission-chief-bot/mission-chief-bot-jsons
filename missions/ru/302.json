@@ -1,1 +1,12 @@
-{"missionId": "302", "missionName": "Сорванное после празднования горло", "requirements": [{"requirement": "макс. пациенты", "qty": "3"}], "credits": "1"}
+{
+ "missionId": "302",
+ "missionName": "Сорванное после празднования горло",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "3"
+  }
+ ],
+ "credits": "1",
+ "version": "48354545000643679360272933802324558011"
+}

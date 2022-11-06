@@ -1,1 +1,12 @@
-{"missionId": "408", "missionName": "Graffio di Gatto", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "408",
+ "missionName": "Graffio di Gatto",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "285021649249624082460479272696097387710"
+}

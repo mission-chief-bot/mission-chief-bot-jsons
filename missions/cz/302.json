@@ -1,1 +1,24 @@
-{"missionId": "302", "missionName": "Střet osoby s vlakem", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "302",
+ "missionName": "Střet osoby s vlakem",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "331168648264193692477452161281305792830"
+}

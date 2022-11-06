@@ -1,1 +1,12 @@
-{"missionId": "263", "missionName": "Persoană care a alunecat pe frunze umede", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "263",
+ "missionName": "Persoană care a alunecat pe frunze umede",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "65473078369482659656593716774610681932"
+}

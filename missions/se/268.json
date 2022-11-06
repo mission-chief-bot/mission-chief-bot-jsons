@@ -1,1 +1,12 @@
-{"missionId": "268", "missionName": "Ett par har ätit för mycket choklad", "requirements": [{"requirement": "mest patienter", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "268",
+ "missionName": "Ett par har ätit för mycket choklad",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "31451097457177518613602910553825741031"
+}

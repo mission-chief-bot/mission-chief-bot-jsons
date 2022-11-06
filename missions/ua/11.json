@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Палаюча телефонна будка", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Палаюча телефонна будка",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "135006242618066260728974257656180457529"
+}

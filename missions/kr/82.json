@@ -1,1 +1,12 @@
-{"missionId": "82", "missionName": "주거 관할 경찰 레이드", "requirements": [{"requirement": "경찰차", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "82",
+ "missionName": "주거 관할 경찰 레이드",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "194708054083488073947901248367376345630"
+}

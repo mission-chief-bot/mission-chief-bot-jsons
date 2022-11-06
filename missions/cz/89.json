@@ -1,1 +1,16 @@
-{"missionId": "89", "missionName": "Napadení úředníka", "requirements": [{"requirement": "policejní automobily", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "89",
+ "missionName": "Napadení úředníka",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "163567422209241756185637034315911679496"
+}

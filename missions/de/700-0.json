@@ -1,1 +1,24 @@
-{"missionId": "700-0", "missionName": "Bewusstlose Person am Lkw-Steuer", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "700-0",
+ "missionName": "Bewusstlose Person am Lkw-Steuer",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "127126139877973641336819234897659102672"
+}

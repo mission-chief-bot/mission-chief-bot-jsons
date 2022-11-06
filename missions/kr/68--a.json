@@ -1,1 +1,48 @@
-{"missionId": "68/a", "missionName": "화재 현장(대형 슈퍼마켓)", "requirements": [{"requirement": "화재 지원 확충", "qty": "1"}, {"requirement": "소방차", "qty": "6"}, {"requirement": "소방대장 차량", "qty": "2"}, {"requirement": "플랫폼 트럭", "qty": "1"}, {"requirement": "중장비 구조 차량", "qty": "1"}, {"requirement": "기동형 지휘차량", "qty": "1"}, {"requirement": "수상 탱커", "qty": "1"}, {"requirement": "경찰차", "qty": "1"}, {"requirement": "엔진 펌프", "qty": "1"}, {"requirement": "최대 환자", "qty": "6"}], "credits": "3200"}
+{
+ "missionId": "68/a",
+ "missionName": "화재 현장(대형 슈퍼마켓)",
+ "requirements": [
+  {
+   "requirement": "화재 지원 확충",
+   "qty": "1"
+  },
+  {
+   "requirement": "소방차",
+   "qty": "6"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "2"
+  },
+  {
+   "requirement": "플랫폼 트럭",
+   "qty": "1"
+  },
+  {
+   "requirement": "중장비 구조 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "기동형 지휘차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "수상 탱커",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  },
+  {
+   "requirement": "엔진 펌프",
+   "qty": "1"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "6"
+  }
+ ],
+ "credits": "3200",
+ "version": "133254054758190341985328712783268590344"
+}

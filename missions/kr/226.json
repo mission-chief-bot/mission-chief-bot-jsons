@@ -1,1 +1,12 @@
-{"missionId": "226", "missionName": "커플 간 싸움으로 인한 소음 문제", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "226",
+ "missionName": "커플 간 싸움으로 인한 소음 문제",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "228321752726347122311139211805603545926"
+}

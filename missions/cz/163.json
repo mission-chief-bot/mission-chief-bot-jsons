@@ -1,1 +1,24 @@
-{"missionId": "163", "missionName": "Požár srubu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "8"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "163",
+ "missionName": "Požár srubu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "8"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "290177238266473853516733075070918121851"
+}

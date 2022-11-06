@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Feu de végétation", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "4",
+ "missionName": "Feu de végétation",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "46005192722628497912234943074089462501"
+}

@@ -1,1 +1,16 @@
-{"missionId": "61", "missionName": "경비행기 추락(비행장)", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "구급차", "qty": "4"}], "credits": "2500"}
+{
+ "missionId": "61",
+ "missionName": "경비행기 추락(비행장)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "4"
+  }
+ ],
+ "credits": "2500",
+ "version": "36316453952229193430844644930296795922"
+}

@@ -1,1 +1,20 @@
-{"missionId": "382", "missionName": "Accident on foggy road", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "rescue support vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "382",
+ "missionName": "Accident on foggy road",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "152444147644301666632410334481365133291"
+}

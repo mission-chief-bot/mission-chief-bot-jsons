@@ -1,1 +1,12 @@
-{"missionId": "43", "missionName": "Fallolycka", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "43",
+ "missionName": "Fallolycka",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "231101100900779384856608940394591705239"
+}

@@ -1,1 +1,12 @@
-{"missionId": "222", "missionName": "Zatrucie pokarmowe", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "810"}
+{
+ "missionId": "222",
+ "missionName": "Zatrucie pokarmowe",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "810",
+ "version": "211540167717870687382615784417642384124"
+}

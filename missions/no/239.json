@@ -1,1 +1,12 @@
-{"missionId": "239", "missionName": "Brudd på Brann- og eksplosjonsvernloven", "requirements": [{"requirement": "politibiler", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "239",
+ "missionName": "Brudd på Brann- og eksplosjonsvernloven",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "127870364771806952518248907711109369301"
+}

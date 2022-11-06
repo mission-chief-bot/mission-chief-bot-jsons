@@ -1,1 +1,16 @@
-{"missionId": "359", "missionName": "Крупная утечка топлива из машины", "requirements": [{"requirement": "пожарные машины", "qty": "2"}, {"requirement": "полицейские автомобили", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "359",
+ "missionName": "Крупная утечка топлива из машины",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  },
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "337050749587905104385887891651022842189"
+}

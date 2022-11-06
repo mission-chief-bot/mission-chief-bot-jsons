@@ -1,1 +1,24 @@
-{"missionId": "182", "missionName": "花火による地下室火災", "requirements": [{"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "消防車", "qty": "3"}, {"requirement": "水", "qty": "7500"}, {"requirement": "最大患者", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "182",
+ "missionName": "花火による地下室火災",
+ "requirements": [
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "3"
+  },
+  {
+   "requirement": "水",
+   "qty": "7500"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "230318799222034731071058790929700476564"
+}

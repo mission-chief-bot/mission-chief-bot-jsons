@@ -1,1 +1,11 @@
-{"missionId": "98", "missionName": "Insola\u021bie", "requirements": [{"requirement": "max. pacien\u021bi", "qty": "1"}]}
+{
+ "missionId": "98",
+ "missionName": "Insolație",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "version": "38098346847541922998077013995590290759"
+}

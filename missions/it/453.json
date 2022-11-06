@@ -1,1 +1,24 @@
-{"missionId": "453", "missionName": "Tir Incastrato", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "autogrù", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "453",
+ "missionName": "Tir Incastrato",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "321505043641234244833528010326285311307"
+}

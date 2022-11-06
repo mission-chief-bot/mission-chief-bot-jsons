@@ -1,1 +1,12 @@
-{"missionId": "364", "missionName": "Hořící hromada listí", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "364",
+ "missionName": "Hořící hromada listí",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "305363267283047271582432817235903695733"
+}

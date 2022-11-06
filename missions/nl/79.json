@@ -1,1 +1,12 @@
-{"missionId": "79", "missionName": "Gevallen fietser", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "79",
+ "missionName": "Gevallen fietser",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "142074908743548027796971690702955918275"
+}

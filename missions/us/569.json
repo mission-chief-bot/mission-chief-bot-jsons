@@ -1,1 +1,20 @@
-{"missionId": "569", "missionName": "Possible drug lab", "requirements": [{"requirement": "dea units", "qty": "1"}, {"requirement": "dea clan labs", "qty": "1"}, {"requirement": "police cars", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "569",
+ "missionName": "Possible drug lab",
+ "requirements": [
+  {
+   "requirement": "dea units",
+   "qty": "1"
+  },
+  {
+   "requirement": "dea clan labs",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "197651429638633563832895069580395482488"
+}

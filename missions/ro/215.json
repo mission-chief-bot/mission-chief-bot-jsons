@@ -1,1 +1,12 @@
-{"missionId": "215", "missionName": "Cioburi de sticla în palma", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "215",
+ "missionName": "Cioburi de sticla în palma",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "98752677450298127125142173956775652339"
+}

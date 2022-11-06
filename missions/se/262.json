@@ -1,1 +1,24 @@
-{"missionId": "262", "missionName": "Brand i byggnad - skogsstuga", "requirements": [{"requirement": "släckbilar", "qty": "4"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "tankbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "6"}], "credits": "3000"}
+{
+ "missionId": "262",
+ "missionName": "Brand i byggnad - skogsstuga",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "3000",
+ "version": "144409285364957636082223034369995054776"
+}

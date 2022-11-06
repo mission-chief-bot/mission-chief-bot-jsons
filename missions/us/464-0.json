@@ -1,1 +1,16 @@
-{"missionId": "464-0", "missionName": "Warrant enforcement", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "sheriffs", "qty": "1"}], "credits": "1050"}
+{
+ "missionId": "464-0",
+ "missionName": "Warrant enforcement",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  }
+ ],
+ "credits": "1050",
+ "version": "334900564451293367635129047289445529028"
+}

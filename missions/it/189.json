@@ -1,1 +1,16 @@
-{"missionId": "189", "missionName": "Incendio palo elettrico", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}], "credits": "850"}
+{
+ "missionId": "189",
+ "missionName": "Incendio palo elettrico",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "850",
+ "version": "242525841368315055086344279286254584836"
+}

@@ -1,1 +1,24 @@
-{"missionId": "328", "missionName": "Large Forest Fire", "requirements": [{"requirement": "brush trucks", "qty": "8"}, {"requirement": "support vehicles", "qty": "5"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "water carriers", "qty": "3"}], "credits": "8000"}
+{
+ "missionId": "328",
+ "missionName": "Large Forest Fire",
+ "requirements": [
+  {
+   "requirement": "brush trucks",
+   "qty": "8"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "5"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "3"
+  }
+ ],
+ "credits": "8000",
+ "version": "183436313439965378106973963020355220154"
+}

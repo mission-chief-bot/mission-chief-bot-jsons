@@ -1,1 +1,20 @@
-{"missionId": "309", "missionName": "Tauchunfall", "requirements": [ {"requirement": "boote", "qty": "1"}, {"requirement": "gw-taucher", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "309",
+ "missionName": "Tauchunfall",
+ "requirements": [
+  {
+   "requirement": "boote",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-taucher",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "252439217944838831224324833959309627602"
+}

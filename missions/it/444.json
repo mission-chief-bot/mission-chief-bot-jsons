@@ -1,1 +1,12 @@
-{"missionId": "444", "missionName": "Ipotermia dopo un bagno in acqua gelida", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "444",
+ "missionName": "Ipotermia dopo un bagno in acqua gelida",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "187479933171514648981048530593565835541"
+}

@@ -1,1 +1,12 @@
-{"missionId": "120", "missionName": "Reação alérgica", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "120",
+ "missionName": "Reação alérgica",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "205690006848014146702641749620580200441"
+}

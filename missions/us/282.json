@@ -1,1 +1,12 @@
-{"missionId": "282", "missionName": "Storage Cupboard Fire", "requirements": [{"requirement": "firetrucks", "qty": "2"}], "credits": "300"}
+{
+ "missionId": "282",
+ "missionName": "Storage Cupboard Fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "300",
+ "version": "131170569820561301401645948288848332973"
+}

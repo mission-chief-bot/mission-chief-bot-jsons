@@ -1,1 +1,24 @@
-{"missionId": "328", "missionName": "Incendio boschivo (GRANDE)", "requirements": [{"requirement": "aps/abp", "qty": "6"}, {"requirement": "unità polisoccorso", "qty": "4"}, {"requirement": "pattuglie", "qty": "4"}, {"requirement": "kilolitriche", "qty": "2"}], "credits": "14"}
+{
+ "missionId": "328",
+ "missionName": "Incendio boschivo (GRANDE)",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "6"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "4"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "2"
+  }
+ ],
+ "credits": "14",
+ "version": "107662420851378443512621213083820235139"
+}

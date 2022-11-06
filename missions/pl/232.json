@@ -1,1 +1,24 @@
-{"missionId": "232", "missionName": "Próba samobójcza - podcięcie żył", "requirements": [{"requirement": "ambulanse", "qty": "1"}, {"requirement": "radiowozy", "qty": "1"}, {"requirement": "samochody pożarnicze", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}], "credits": "1900"}
+{
+ "missionId": "232",
+ "missionName": "Próba samobójcza - podcięcie żył",
+ "requirements": [
+  {
+   "requirement": "ambulanse",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "1900",
+ "version": "330890176167656238795032204927359973803"
+}

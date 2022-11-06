@@ -1,1 +1,12 @@
-{"missionId": "88", "missionName": "Hersenbloeding", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "88",
+ "missionName": "Hersenbloeding",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "87648736895354056314756973062122371488"
+}

@@ -1,1 +1,12 @@
-{"missionId": "45", "missionName": "Furto em loja", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "45",
+ "missionName": "Furto em loja",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "292293661791659331272424234967253340608"
+}

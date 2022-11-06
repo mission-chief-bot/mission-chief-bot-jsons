@@ -1,1 +1,12 @@
-{"missionId": "92", "missionName": "Busshållplatsbrand orsakad av fyrverkerier", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "92",
+ "missionName": "Busshållplatsbrand orsakad av fyrverkerier",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "340106356129264061796863693076378367142"
+}

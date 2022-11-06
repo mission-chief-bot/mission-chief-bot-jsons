@@ -1,1 +1,12 @@
-{"missionId": "274", "missionName": "Fire Alarm Activation in Sheltered Housing", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "274",
+ "missionName": "Fire Alarm Activation in Sheltered Housing",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "202042365982246603831356224704864651253"
+}

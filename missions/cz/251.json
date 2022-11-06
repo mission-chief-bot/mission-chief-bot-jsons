@@ -1,1 +1,24 @@
-{"missionId": "251", "missionName": "Nafoukněte balónky pro výroční párty", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "rzp", "qty": "2"}, {"requirement": "ta", "qty": "2"}, {"requirement": "automobilové žebříky", "qty": "2"}], "credits": "15000"}
+{
+ "missionId": "251",
+ "missionName": "Nafoukněte balónky pro výroční párty",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "rzp",
+   "qty": "2"
+  },
+  {
+   "requirement": "ta",
+   "qty": "2"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "2"
+  }
+ ],
+ "credits": "15000",
+ "version": "111080372313302375330997429901621200917"
+}

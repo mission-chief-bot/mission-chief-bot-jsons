@@ -1,1 +1,32 @@
-{"missionId": "392", "missionName": "Chute d'ULM", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}, {"requirement": "véhicule de secours routier", "qty": "1"}, {"requirement": "chefs de groupe ou vlhr", "qty": "2"}, {"requirement": "voitures de police es", "qty": "3"}, {"requirement": "max. patients", "qty": "2"}, {"requirement": "min. patients", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "392",
+ "missionName": "Chute d'ULM",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  },
+  {
+   "requirement": "véhicule de secours routier",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "2"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "299194728103974080213535962900387986770"
+}

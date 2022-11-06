@@ -1,1 +1,16 @@
-{"missionId": "150", "missionName": "Bankrån med gisslan", "requirements": [{"requirement": "polisbilar", "qty": "12"}, {"requirement": "hundenheter", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "150",
+ "missionName": "Bankrån med gisslan",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "12"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "123020284861627735416999861862507744143"
+}

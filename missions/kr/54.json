@@ -1,1 +1,12 @@
-{"missionId": "54", "missionName": "주차 차량 사고", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "54",
+ "missionName": "주차 차량 사고",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "273424644039721010201250975901022052017"
+}

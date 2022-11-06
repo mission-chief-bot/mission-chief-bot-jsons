@@ -1,1 +1,16 @@
-{"missionId": "846", "missionName": "Woningoverval", "requirements": [{"requirement": "noodhulpeenheden", "qty": "5"}, {"requirement": "officiers van dienst politie", "qty": "1"}], "credits": "1980"}
+{
+ "missionId": "846",
+ "missionName": "Woningoverval",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "5"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "credits": "1980",
+ "version": "45227216022177492648530781181654727847"
+}

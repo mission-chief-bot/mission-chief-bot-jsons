@@ -1,1 +1,20 @@
-{"missionId": "5", "missionName": "402 Huonepalo", "requirements": [{"requirement": "paloautot", "qty": "3"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "nostolava-autot", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "5",
+ "missionName": "402 Huonepalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "156770579205452145043053826866978809072"
+}

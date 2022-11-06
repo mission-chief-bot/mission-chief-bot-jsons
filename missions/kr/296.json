@@ -1,1 +1,16 @@
-{"missionId": "296", "missionName": "이국적인 동물 밀반입", "requirements": [{"requirement": "경찰차", "qty": "5"}, {"requirement": "최대 환자", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "296",
+ "missionName": "이국적인 동물 밀반입",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "5"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "220925230556049545604182284191853281442"
+}

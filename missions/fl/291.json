@@ -1,1 +1,32 @@
-{"missionId": "291", "missionName": "218 Suuri metroliikenneonnettomuus asemalla", "requirements": [{"requirement": "paloautot", "qty": "7"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "5"}, {"requirement": "paineilmahuoltoautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "6"}], "credits": "9500"}
+{
+ "missionId": "291",
+ "missionName": "218 Suuri metroliikenneonnettomuus asemalla",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "7"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "5"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "6"
+  }
+ ],
+ "credits": "9500",
+ "version": "161117981168578612698464912990022496044"
+}

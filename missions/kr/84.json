@@ -1,1 +1,12 @@
-{"missionId": "84", "missionName": "작업장에서 브러시 도난", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "84",
+ "missionName": "작업장에서 브러시 도난",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "324933884099298249073056297482659482245"
+}

@@ -1,1 +1,12 @@
-{"missionId": "24", "missionName": "Parada de ônibus em chamas", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "24",
+ "missionName": "Parada de ônibus em chamas",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "147432497110235645233779489164771700295"
+}

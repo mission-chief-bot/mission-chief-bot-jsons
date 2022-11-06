@@ -1,1 +1,32 @@
-{"missionId": "364", "missionName": "Brand op passagiersschip", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams", "qty": "2"}, {"requirement": "waterongevallenaanhangers", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "6"}], "credits": "3250"}
+{
+ "missionId": "364",
+ "missionName": "Brand op passagiersschip",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams",
+   "qty": "2"
+  },
+  {
+   "requirement": "waterongevallenaanhangers",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "6"
+  }
+ ],
+ "credits": "3250",
+ "version": "241728834684154593873451004918340553808"
+}

@@ -1,1 +1,12 @@
-{"missionId": "403", "missionName": "Brand under karnevalsfest", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "403",
+ "missionName": "Brand under karnevalsfest",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "148371601413923213679205749583211238722"
+}

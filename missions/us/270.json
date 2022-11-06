@@ -1,1 +1,12 @@
-{"missionId": "270", "missionName": "Vehicle fire in parking garage", "requirements": [{"requirement": "firetrucks", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "270",
+ "missionName": "Vehicle fire in parking garage",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "230723686477740083201644131491250188993"
+}

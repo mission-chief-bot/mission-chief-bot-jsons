@@ -1,1 +1,28 @@
-{"missionId": "355", "missionName": "生物学的製剤の事故", "requirements": [{"requirement": "消防車", "qty": "8"}, {"requirement": "消防隊長車両", "qty": "2"}, {"requirement": "警察車両", "qty": "2"}, {"requirement": "危険物取扱車両", "qty": "2"}, {"requirement": "最大患者", "qty": "10"}], "credits": "8500"}
+{
+ "missionId": "355",
+ "missionName": "生物学的製剤の事故",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "8"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "危険物取扱車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "10"
+  }
+ ],
+ "credits": "8500",
+ "version": "128190030279462548807476530308375569886"
+}

@@ -1,1 +1,20 @@
-{"missionId": "415", "missionName": "Announcement of New 112 Functionalities", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "ambulances", "qty": "1"}, {"requirement": "police cars", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "415",
+ "missionName": "Announcement of New 112 Functionalities",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "193603385750689795294893802073702250506"
+}

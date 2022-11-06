@@ -1,1 +1,20 @@
-{"missionId": "218", "missionName": "Trafikkulykke - is", "requirements": [{"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "brannbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "3"}], "credits": "1410"}
+{
+ "missionId": "218",
+ "missionName": "Trafikkulykke - is",
+ "requirements": [
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "1410",
+ "version": "39110851477235824963363914585109508860"
+}

@@ -1,1 +1,12 @@
-{"missionId": "27", "missionName": "Feu de garage", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}], "credits": "400"}
+{
+ "missionId": "27",
+ "missionName": "Feu de garage",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  }
+ ],
+ "credits": "400",
+ "version": "45545285028107829180415524753124881224"
+}

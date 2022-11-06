@@ -1,1 +1,44 @@
-{"missionId": "104/a", "missionName": "403 Hotellipalo, erittäin suuri", "requirements": [{"requirement": "paloautot", "qty": "14"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "nostolava-autot", "qty": "2"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "paineilmahuoltoautot", "qty": "1"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "6"}, {"requirement": "letkuajoneuvot", "qty": "2"}, {"requirement": "potilaita enint.", "qty": "50"}], "credits": "12600"}
+{
+ "missionId": "104/a",
+ "missionName": "403 Hotellipalo, erittäin suuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "14"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "6"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "2"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "50"
+  }
+ ],
+ "credits": "12600",
+ "version": "335570586551451688691602467756998771288"
+}

@@ -1,1 +1,24 @@
-{"missionId": "419/a", "missionName": "Incendio en una farmacia", "requirements": [{"requirement": "camiones de bomberos", "qty": "5"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}, {"requirement": "coches patrulla", "qty": "2"}, {"requirement": "vehículos de extinción por espuma", "qty": "1"}], "credits": "3150"}
+{
+ "missionId": "419/a",
+ "missionName": "Incendio en una farmacia",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "5"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  },
+  {
+   "requirement": "vehículos de extinción por espuma",
+   "qty": "1"
+  }
+ ],
+ "credits": "3150",
+ "version": "191954905630821397676558554704645188015"
+}

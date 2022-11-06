@@ -1,1 +1,12 @@
-{"missionId": "34/a", "missionName": "Požiar v nemocnici", "requirements": [{"requirement": "hasičské automobily", "qty": "10"}], "credits": "6400"}
+{
+ "missionId": "34/a",
+ "missionName": "Požiar v nemocnici",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "10"
+  }
+ ],
+ "credits": "6400",
+ "version": "299202261487161450161932547049283928295"
+}

@@ -1,1 +1,12 @@
-{"missionId": "344", "missionName": "Ciclista atropellado", "requirements": [{"requirement": "coches patrulla", "qty": "5"}], "credits": "2950"}
+{
+ "missionId": "344",
+ "missionName": "Ciclista atropellado",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "5"
+  }
+ ],
+ "credits": "2950",
+ "version": "250680324949484914781045253488537119364"
+}

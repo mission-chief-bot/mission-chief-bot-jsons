@@ -1,1 +1,16 @@
-{"missionId": "205", "missionName": "Opilá osoba na Vánočním trhu", "requirements": [{"requirement": "policejní automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "205",
+ "missionName": "Opilá osoba na Vánočním trhu",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "144376655419473437659352317881712697214"
+}

@@ -1,1 +1,24 @@
-{"missionId": "228", "missionName": "Soccorso Paziente Bariatrico", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "228",
+ "missionName": "Soccorso Paziente Bariatrico",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "275241288614358553045712727766188242338"
+}

@@ -1,1 +1,12 @@
-{"missionId": "63", "missionName": "Przemijający incydent niedokrwienny", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "63",
+ "missionName": "Przemijający incydent niedokrwienny",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "39294863662650817805322901370093867668"
+}

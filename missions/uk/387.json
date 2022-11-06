@@ -1,1 +1,12 @@
-{"missionId": "387", "missionName": "Office burglary", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "387",
+ "missionName": "Office burglary",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "41913065096991498995202745115482985239"
+}

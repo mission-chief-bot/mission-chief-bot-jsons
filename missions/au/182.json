@@ -1,1 +1,12 @@
-{"missionId": "182", "missionName": "Barbecue fire", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "182",
+ "missionName": "Barbecue fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "137645581736148174917656989780154410736"
+}

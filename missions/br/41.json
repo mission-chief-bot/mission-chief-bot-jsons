@@ -1,1 +1,40 @@
-{"missionId": "41", "missionName": "Fogo em oficina mecânica", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "8"}, {"requirement": "viaturas de batalhão necessárias", "qty": "2"}, {"requirement": "caminhões plataforma necessários", "qty": "2"}, {"requirement": "veículos de resgate pesado necessários", "qty": "1"}, {"requirement": "caminhões pipa necessários", "qty": "1"}, {"requirement": "viaturas de produtos perigosos necessárias", "qty": "1"}, {"requirement": "viaturas de polícia necessárias", "qty": "2"}, {"requirement": "máx. de pacientes", "qty": "4"}], "credits": "6000"}
+{
+ "missionId": "41",
+ "missionName": "Fogo em oficina mecânica",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "8"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de produtos perigosos necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "4"
+  }
+ ],
+ "credits": "6000",
+ "version": "246217880068906512653961603770440089525"
+}

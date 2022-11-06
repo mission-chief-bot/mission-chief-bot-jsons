@@ -1,1 +1,12 @@
-{"missionId": "436", "missionName": "Panier de pique-nique en feu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "436",
+ "missionName": "Panier de pique-nique en feu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "92964825492165209621492252940616634763"
+}

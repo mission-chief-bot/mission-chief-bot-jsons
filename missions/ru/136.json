@@ -1,1 +1,12 @@
-{"missionId": "136", "missionName": "Кража пасхального яйца", "requirements": [{"requirement": "полицейские автомобили", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "136",
+ "missionName": "Кража пасхального яйца",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "107234878374328725403340444219223215196"
+}

@@ -1,1 +1,60 @@
-{"missionId": "347/a", "missionName": "Fuite de Gaz - Enflammée", "requirements": [{"requirement": "postes de secours", "qty": "12"}, {"requirement": "fourgons d\u2019incendie", "qty": "10"}, {"requirement": "moyen el\u00e9vateur a\u00e9rien", "qty": "3"}, {"requirement": "fmogp", "qty": "1"}, {"requirement": "camion dévidoir", "qty": "2"}, {"requirement": "vlhr", "qty": "5"}, {"requirement": "v\u00e9hicules poste de commandement", "qty": "1"}, {"requirement": "v\u00e9hicule de secours routier", "qty": "1"}, {"requirement": "assistance respiratoire e", "qty": "1"}, {"requirement": "v\u00e9hicules risques technologiques", "qty": "1"}, {"requirement": "voitures de police es", "qty": "8"}, {"requirement": "max. patients", "qty": "15"}, {"requirement": "DSM","qty": "1"}], "credits": "8500"}
+{
+ "missionId": "347/a",
+ "missionName": "Fuite de Gaz - Enflammée",
+ "requirements": [
+  {
+   "requirement": "postes de secours",
+   "qty": "12"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "10"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "3"
+  },
+  {
+   "requirement": "fmogp",
+   "qty": "1"
+  },
+  {
+   "requirement": "camion dévidoir",
+   "qty": "2"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "5"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicule de secours routier",
+   "qty": "1"
+  },
+  {
+   "requirement": "assistance respiratoire e",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicules risques technologiques",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "8"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "15"
+  },
+  {
+   "requirement": "DSM",
+   "qty": "1"
+  }
+ ],
+ "credits": "8500",
+ "version": "266594053339811227482065539317332808662"
+}

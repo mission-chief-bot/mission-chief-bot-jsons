@@ -1,1 +1,24 @@
-{"missionId": "60", "missionName": "Brand i byggnad - publik lokal, idrottshall", "requirements": [{"requirement": "släckbilar", "qty": "5"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "stegbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "60",
+ "missionName": "Brand i byggnad - publik lokal, idrottshall",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "121504285838996742304809705661233802203"
+}

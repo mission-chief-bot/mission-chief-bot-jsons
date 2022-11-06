@@ -1,1 +1,28 @@
-{"missionId": "74", "missionName": "Storbrand", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "10"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "3"}, {"requirement": "påkrævede stigevogn", "qty": "2"}, {"requirement": "påkrævede vandtankvogne", "qty": "2"}, {"requirement": "påkrævede redningsvogn", "qty": "2"}], "credits": "10210"}
+{
+ "missionId": "74",
+ "missionName": "Storbrand",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede vandtankvogne",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "2"
+  }
+ ],
+ "credits": "10210",
+ "version": "111599086282616663927283791174675608830"
+}

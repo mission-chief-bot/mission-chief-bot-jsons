@@ -1,1 +1,12 @@
-{"missionId": "646", "missionName": "Brand in restaurant", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "646",
+ "missionName": "Brand in restaurant",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "173433877661807776518521478498748412836"
+}

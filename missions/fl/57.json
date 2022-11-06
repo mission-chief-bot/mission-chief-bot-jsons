@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "35 Ilmoittamatta järjestetty mielenosoitus", "requirements": [{"requirement": "poliisiautot", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "57",
+ "missionName": "35 Ilmoittamatta järjestetty mielenosoitus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "179286743874305292002057332697027172078"
+}

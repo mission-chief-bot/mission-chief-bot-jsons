@@ -1,1 +1,12 @@
-{"missionId": "240", "missionName": "Kvarglömt bagage", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "240",
+ "missionName": "Kvarglömt bagage",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "187648106394279058347076304339763960881"
+}

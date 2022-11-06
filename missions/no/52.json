@@ -1,1 +1,12 @@
-{"missionId": "52", "missionName": "Billettsniking", "requirements": [ {"requirement": "politibiler", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "52",
+ "missionName": "Billettsniking",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "34665810812696647665167835257975293905"
+}

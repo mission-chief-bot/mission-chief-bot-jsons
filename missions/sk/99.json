@@ -1,1 +1,20 @@
-{"missionId": "99", "missionName": "Požiar v elektrárni", "requirements": [{"requirement": "hasičské automobily", "qty": "8"}, {"requirement": "ppla", "qty": "2"}, {"requirement": "policajné vozidlá", "qty": "4"}], "credits": "14500"}
+{
+ "missionId": "99",
+ "missionName": "Požiar v elektrárni",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "8"
+  },
+  {
+   "requirement": "ppla",
+   "qty": "2"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "4"
+  }
+ ],
+ "credits": "14500",
+ "version": "264272559811614325578661138648634733747"
+}

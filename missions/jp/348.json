@@ -1,1 +1,12 @@
-{"missionId": "348", "missionName": "川に落ちた動物", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "348",
+ "missionName": "川に落ちた動物",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "211941103793462422058301393871671904217"
+}

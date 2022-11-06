@@ -1,1 +1,40 @@
-{"missionId": "325/a", "missionName": "Absicherung Castor-Transport", "requirements": [{"requirement": "grukw", "qty": "18"}, {"requirement": "lebefkw", "qty": "6"}, {"requirement": "fükw", "qty": "2"}, {"requirement": "streifenwagen", "qty": "10"}, {"requirement": "rtw", "qty": "2"}, {"requirement": "polizeihubschrauber", "qty": "1"}, {"requirement": "wasserwerfer", "qty": "2"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "2"}], "credits": "7800"}
+{
+ "missionId": "325/a",
+ "missionName": "Absicherung Castor-Transport",
+ "requirements": [
+  {
+   "requirement": "grukw",
+   "qty": "18"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "6"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "2"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "10"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "2"
+  },
+  {
+   "requirement": "polizeihubschrauber",
+   "qty": "1"
+  },
+  {
+   "requirement": "wasserwerfer",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "2"
+  }
+ ],
+ "credits": "7800",
+ "version": "133619294115299957640923194722514261187"
+}

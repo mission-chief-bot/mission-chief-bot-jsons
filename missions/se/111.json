@@ -1,1 +1,32 @@
-{"missionId": "111", "missionName": "Ras/skred - byggnad", "requirements": [{"requirement": "släckbilar", "qty": "4"}, {"requirement": "lastväxlare", "qty": "3"}, {"requirement": "stegbilar", "qty": "2"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "polisbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "20"}], "credits": "9000"}
+{
+ "missionId": "111",
+ "missionName": "Ras/skred - byggnad",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "3"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "20"
+  }
+ ],
+ "credits": "9000",
+ "version": "327551417883276675824004510364842436032"
+}

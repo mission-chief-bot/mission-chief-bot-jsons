@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "Balot de paie în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "Balot de paie în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "8180179741420363246159251986063873625"
+}

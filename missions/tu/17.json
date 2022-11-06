@@ -1,1 +1,12 @@
-{"missionId": "17", "missionName": "Posta kutusu yangını", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "17",
+ "missionName": "Posta kutusu yangını",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "132308830601142008715983566313476090485"
+}

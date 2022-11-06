@@ -1,1 +1,12 @@
-{"missionId": "314", "missionName": "Person gled i smeltet chokolade", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "314",
+ "missionName": "Person gled i smeltet chokolade",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "261903348569308372558630739580802426769"
+}

@@ -1,1 +1,12 @@
-{"missionId": "38", "missionName": "772 Kouristuskohtaus", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "38",
+ "missionName": "772 Kouristuskohtaus",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "121672352276107166208463133803634321174"
+}

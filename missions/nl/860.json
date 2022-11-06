@@ -1,1 +1,12 @@
-{"missionId": "860", "missionName": "Afvoerput verstopt met bladeren", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "860",
+ "missionName": "Afvoerput verstopt met bladeren",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "312777499013691342113155473052103050261"
+}

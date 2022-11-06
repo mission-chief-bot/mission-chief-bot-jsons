@@ -1,1 +1,16 @@
-{"missionId": "307", "missionName": "Osoba zaseknutá na prolézačce", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "307",
+ "missionName": "Osoba zaseknutá na prolézačce",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "297271923219675968957035916134133967809"
+}

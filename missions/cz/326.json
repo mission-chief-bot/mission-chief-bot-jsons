@@ -1,1 +1,16 @@
-{"missionId": "326", "missionName": "Požár pole", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "6"}, {"requirement": "velitelské automobily", "qty": "1"}], "credits": "5800"}
+{
+ "missionId": "326",
+ "missionName": "Požár pole",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "6"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "5800",
+ "version": "92726021470424341381684231927893898251"
+}

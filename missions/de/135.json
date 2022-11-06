@@ -1,1 +1,36 @@
-{"missionId": "135", "missionName": "Großer Waldbrand", "requirements": [ {"requirement": "gw l 2 wasser", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "wasser", "qty": "4"}, {"requirement": "personal", "qty": "3"}, {"requirement": "außenlastbehälter (allgemein)", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "5300"}
+{
+ "missionId": "135",
+ "missionName": "Großer Waldbrand",
+ "requirements": [
+  {
+   "requirement": "gw l 2 wasser",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "wasser",
+   "qty": "4"
+  },
+  {
+   "requirement": "personal",
+   "qty": "3"
+  },
+  {
+   "requirement": "außenlastbehälter (allgemein)",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "5300",
+ "version": "86119261193005487832792829901309490463"
+}

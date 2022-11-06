@@ -1,1 +1,12 @@
-{"missionId": "197", "missionName": "Biciclist căzut de pe munte", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "197",
+ "missionName": "Biciclist căzut de pe munte",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "49412921831551760440966313200016323892"
+}

@@ -1,1 +1,12 @@
-{"missionId": "253", "missionName": "Electrocution", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "253",
+ "missionName": "Electrocution",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "110698893111593012674316848152825028857"
+}

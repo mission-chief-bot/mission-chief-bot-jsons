@@ -1,1 +1,20 @@
-{"missionId": "369", "missionName": "Verkeersongeval met vrachtwagen en fietser", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "1"}, {"requirement": "mmt-arts", "qty": "1"}], "credits": "1150"}
+{
+ "missionId": "369",
+ "missionName": "Verkeersongeval met vrachtwagen en fietser",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  },
+  {
+   "requirement": "mmt-arts",
+   "qty": "1"
+  }
+ ],
+ "credits": "1150",
+ "version": "332213806028778899027010831811713830838"
+}

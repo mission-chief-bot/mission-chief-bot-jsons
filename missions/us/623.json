@@ -1,1 +1,16 @@
-{"missionId": "623", "missionName": "Boat crash", "requirements": [{"requirement": "patrol boats", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1600"}
+{
+ "missionId": "623",
+ "missionName": "Boat crash",
+ "requirements": [
+  {
+   "requirement": "patrol boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1600",
+ "version": "311430335570968787428455601729255260658"
+}

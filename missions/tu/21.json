@@ -1,1 +1,20 @@
-{"missionId": "21", "missionName": "Baca yangını", "requirements": [{"requirement": "gerekli platformlu kamyonlar", "qty": "1"}, {"requirement": "gerekli tabur amiri araçları", "qty": "1"}, {"requirement": "gerekli i̇tfaiye araçları", "qty": "1"}], "credits": "2400"}
+{
+ "missionId": "21",
+ "missionName": "Baca yangını",
+ "requirements": [
+  {
+   "requirement": "gerekli platformlu kamyonlar",
+   "qty": "1"
+  },
+  {
+   "requirement": "gerekli tabur amiri araçları",
+   "qty": "1"
+  },
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "1"
+  }
+ ],
+ "credits": "2400",
+ "version": "7446045755841543928723979488012054083"
+}

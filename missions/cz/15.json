@@ -1,1 +1,12 @@
-{"missionId": "15", "missionName": "Malý přírodní požár", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "1010"}
+{
+ "missionId": "15",
+ "missionName": "Malý přírodní požár",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "1010",
+ "version": "264109989051587567970741549765069008898"
+}

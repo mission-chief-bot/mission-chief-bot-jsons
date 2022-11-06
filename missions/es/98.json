@@ -1,1 +1,16 @@
-{"missionId": "98", "missionName": "Accidente de tractor", "requirements": [{"requirement": "camiones de bomberos", "qty": "3"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "98",
+ "missionName": "Accidente de tractor",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "3"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "308746258130586996344703711489611326488"
+}

@@ -1,1 +1,24 @@
-{"missionId": "423", "missionName": "Assisting the ambulance service [Bariatric]", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "fire officers", "qty": "1"}, {"requirement": "aerial appliance trucks", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "423",
+ "missionName": "Assisting the ambulance service [Bariatric]",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "215154481741442891087303428980322014667"
+}

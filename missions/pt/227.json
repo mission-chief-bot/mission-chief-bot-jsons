@@ -1,1 +1,12 @@
-{"missionId": "227", "missionName": "Incêndio causado por peça elétrica em festa de aniversário (pequeno)", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}], "credits": "1850"}
+{
+ "missionId": "227",
+ "missionName": "Incêndio causado por peça elétrica em festa de aniversário (pequeno)",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "1850",
+ "version": "165669876821212982157704982142821926913"
+}

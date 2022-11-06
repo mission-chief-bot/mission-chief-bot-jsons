@@ -1,1 +1,16 @@
-{"missionId": "301", "missionName": "Požiar na štadióne (malý)", "requirements": [{"requirement": "hasičské automobily", "qty": "5"}, {"requirement": "policajné vozidlá", "qty": "3"}], "credits": "4000"}
+{
+ "missionId": "301",
+ "missionName": "Požiar na štadióne (malý)",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "5"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "3"
+  }
+ ],
+ "credits": "4000",
+ "version": "228034432146298836108088329778343505906"
+}

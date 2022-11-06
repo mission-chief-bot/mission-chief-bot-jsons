@@ -1,1 +1,12 @@
-{"missionId": "311", "missionName": "Accouchement", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "311",
+ "missionName": "Accouchement",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "183250040893006852848021283438190651605"
+}

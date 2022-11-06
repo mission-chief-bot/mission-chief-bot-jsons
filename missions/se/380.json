@@ -1,1 +1,32 @@
-{"missionId": "380", "missionName": "Nationella 112-prisutdelning", "requirements": [{"requirement": "brandbefäl", "qty": "1"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "släckbilar", "qty": "2"}, {"requirement": "stegbilar", "qty": "1"}, {"requirement": "ambulanser", "qty": "2"}, {"requirement": "polisbilar", "qty": "3"}], "credits": "4500"}
+{
+ "missionId": "380",
+ "missionName": "Nationella 112-prisutdelning",
+ "requirements": [
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulanser",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  }
+ ],
+ "credits": "4500",
+ "version": "305395347259534377216209254119343963804"
+}

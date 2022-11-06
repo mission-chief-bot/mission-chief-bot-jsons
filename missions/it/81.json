@@ -1,1 +1,16 @@
-{"missionId": "81", "missionName": "Rissa al mercatino di Natale", "requirements": [{"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "81",
+ "missionName": "Rissa al mercatino di Natale",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "3167622583306728396274521337614602434"
+}

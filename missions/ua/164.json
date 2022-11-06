@@ -1,1 +1,12 @@
-{"missionId": "164", "missionName": "Серйозна травма голови", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "164",
+ "missionName": "Серйозна травма голови",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "208910591333742979727865652396338620144"
+}

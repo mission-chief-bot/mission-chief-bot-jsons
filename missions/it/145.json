@@ -1,1 +1,12 @@
-{"missionId": "145", "missionName": "Missione prioritaria: caccia alle uova di Pasqua", "requirements": [{"requirement": "pattuglie", "qty": "6"}], "credits": "1000"}
+{
+ "missionId": "145",
+ "missionName": "Missione prioritaria: caccia alle uova di Pasqua",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "6"
+  }
+ ],
+ "credits": "1000",
+ "version": "146207685742872502568091400637509182536"
+}

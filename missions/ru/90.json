@@ -1,1 +1,16 @@
-{"missionId": "90", "missionName": "Пожар на балконе, вызванный фейерверком", "requirements": [{"requirement": "пожарные машины", "qty": "2"}, {"requirement": "платформы", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "90",
+ "missionName": "Пожар на балконе, вызванный фейерверком",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  },
+  {
+   "requirement": "платформы",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "324879848625079083627300966225479688647"
+}

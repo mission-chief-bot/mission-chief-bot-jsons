@@ -1,1 +1,12 @@
-{"missionId": "244", "missionName": "Verifica esercizio commerciale", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "680"}
+{
+ "missionId": "244",
+ "missionName": "Verifica esercizio commerciale",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "680",
+ "version": "198890837612522707571764944799783358505"
+}

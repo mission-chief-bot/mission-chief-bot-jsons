@@ -1,1 +1,16 @@
-{"missionId": "12-0", "missionName": "Strom přes cestu", "requirements": [{"requirement": "vya nebo aj", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "710"}
+{
+ "missionId": "12-0",
+ "missionName": "Strom přes cestu",
+ "requirements": [
+  {
+   "requirement": "vya nebo aj",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "710",
+ "version": "196313953044537375793652300864441108432"
+}

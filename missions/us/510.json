@@ -1,1 +1,12 @@
-{"missionId": "510", "missionName": "Biker fell off mountain-road", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "510",
+ "missionName": "Biker fell off mountain-road",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "321467074932040876897182746833721073037"
+}

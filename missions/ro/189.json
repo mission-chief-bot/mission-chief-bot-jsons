@@ -1,1 +1,12 @@
-{"missionId": "189", "missionName": "Leziune cauzată de folosirea necorespunzătoare a artificiilor", "requirements": [{"requirement": "max. pacienți", "qty": "3"}], "credits": "100"}
+{
+ "missionId": "189",
+ "missionName": "Leziune cauzată de folosirea necorespunzătoare a artificiilor",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "3"
+  }
+ ],
+ "credits": "100",
+ "version": "176147900351452876279810144641328995269"
+}

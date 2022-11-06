@@ -1,1 +1,44 @@
-{"missionId": "662", "missionName": "Gewässer gekippt (Groß)", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "schmutzwasserpumpen", "qty": "2"}, {"requirement": "gkw", "qty": "2"}, {"requirement": "mtw-tz", "qty": "1"}, {"requirement": "gw l 2 wasser", "qty": "2"}, {"requirement": "elw 1", "qty": "2"}, {"requirement": "elw 2", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "anhänger drucklufterzeugung", "qty": "3"}], "credits": "6510"}
+{
+ "missionId": "662",
+ "missionName": "Gewässer gekippt (Groß)",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "schmutzwasserpumpen",
+   "qty": "2"
+  },
+  {
+   "requirement": "gkw",
+   "qty": "2"
+  },
+  {
+   "requirement": "mtw-tz",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw l 2 wasser",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 2",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-mess",
+   "qty": "1"
+  },
+  {
+   "requirement": "anhänger drucklufterzeugung",
+   "qty": "3"
+  }
+ ],
+ "credits": "6510",
+ "version": "275946382454563835019950149732584533407"
+}

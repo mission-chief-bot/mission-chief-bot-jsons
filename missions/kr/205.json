@@ -1,1 +1,12 @@
-{"missionId": "205", "missionName": "도로 근처에서 폭죽 사용", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "205",
+ "missionName": "도로 근처에서 폭죽 사용",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "275535947147554520227918842480049721403"
+}

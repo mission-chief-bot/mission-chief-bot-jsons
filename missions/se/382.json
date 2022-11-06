@@ -1,1 +1,16 @@
-{"missionId": "382", "missionName": "Olycka - nedfallen flaggstång", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "stegbilar", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "382",
+ "missionName": "Olycka - nedfallen flaggstång",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "183723654061219150307266737345330793018"
+}

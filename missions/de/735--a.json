@@ -1,1 +1,40 @@
-{"missionId": "735/a", "missionName": "Blitzeinschlag in Hasenbau", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "735/a",
+ "missionName": "Blitzeinschlag in Hasenbau",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "148552214112495018185313007423691260441"
+}

@@ -1,1 +1,16 @@
-{"missionId": "403", "missionName": "Épuisement à domicile", "requirements": [{"requirement": "vtu", "qty": "1"}, {"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "850"}
+{
+ "missionId": "403",
+ "missionName": "Épuisement à domicile",
+ "requirements": [
+  {
+   "requirement": "vtu",
+   "qty": "1"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "850",
+ "version": "9445470191130831845710061859569847188"
+}

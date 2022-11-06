@@ -1,1 +1,12 @@
-{"missionId": "110", "missionName": "Infracción del Reglamento de explosivos", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "110",
+ "missionName": "Infracción del Reglamento de explosivos",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "60947272655272442201763639179371937856"
+}

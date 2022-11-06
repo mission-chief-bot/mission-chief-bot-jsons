@@ -1,1 +1,16 @@
-{"missionId": "205", "missionName": "Trafikkstopp (Vinglete kjøring)", "requirements": [ {"requirement": "for utrykningspolitibil", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "205",
+ "missionName": "Trafikkstopp (Vinglete kjøring)",
+ "requirements": [
+  {
+   "requirement": "for utrykningspolitibil",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "170624597080561162797935035964062705495"
+}

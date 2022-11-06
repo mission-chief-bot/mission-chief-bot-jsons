@@ -1,1 +1,36 @@
-{"missionId": "393", "missionName": "Einsturzgefährdeter Balkon", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "feuerwehrkräne (fwk)", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "gkw", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "393",
+ "missionName": "Einsturzgefährdeter Balkon",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "feuerwehrkräne (fwk)",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "gkw",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "230213898032962874269623672989738472076"
+}

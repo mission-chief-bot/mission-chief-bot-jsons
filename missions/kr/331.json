@@ -1,1 +1,24 @@
-{"missionId": "331", "missionName": "전봇대 쓰러짐", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "중장비 구조 차량", "qty": "1"}, {"requirement": "소방대장 차량", "qty": "1"}, {"requirement": "최대 환자", "qty": "6"}], "credits": "2500"}
+{
+ "missionId": "331",
+ "missionName": "전봇대 쓰러짐",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  },
+  {
+   "requirement": "중장비 구조 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "6"
+  }
+ ],
+ "credits": "2500",
+ "version": "290129854538512818102924155135710119173"
+}

@@ -1,1 +1,28 @@
-{"missionId": "963", "missionName": "Grote alcohol controle F1", "requirements": [{"requirement": "noodhulpeenheden", "qty": "14"}, {"requirement": "hondengeleider", "qty": "4"}, {"requirement": "biketeams", "qty": "2"}, {"requirement": "db-av", "qty": "2"}, {"requirement": "officiers van dienst politie", "qty": "1"}], "credits": "12390"}
+{
+ "missionId": "963",
+ "missionName": "Grote alcohol controle F1",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "14"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "4"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "2"
+  },
+  {
+   "requirement": "db-av",
+   "qty": "2"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "credits": "12390",
+ "version": "324425861794419771369776860633472517351"
+}

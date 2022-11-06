@@ -1,1 +1,12 @@
-{"missionId": "235", "missionName": "Hekkbrann som følge av fyrverkeri", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "235",
+ "missionName": "Hekkbrann som følge av fyrverkeri",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "36226881770299658515327988959306569451"
+}

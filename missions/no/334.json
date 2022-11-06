@@ -1,1 +1,16 @@
-{"missionId": "334", "missionName": "Forurenset isbil", "requirements": [{"requirement": "ambulance", "qty": 1}, {"requirement": "politibiler", "qty": 1}], "credits": "100"}
+{
+ "missionId": "334",
+ "missionName": "Forurenset isbil",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  },
+  {
+   "requirement": "politibiler",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "267717708292201482048262857252739434930"
+}

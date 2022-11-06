@@ -1,1 +1,12 @@
-{"missionId": "162", "missionName": "Golpe de calor", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1"}
+{
+ "missionId": "162",
+ "missionName": "Golpe de calor",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1",
+ "version": "115062917658048389394648409431917310"
+}

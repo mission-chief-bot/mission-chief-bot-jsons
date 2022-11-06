@@ -1,1 +1,16 @@
-{"missionId": "184", "missionName": "Eend verstrikt in visdraad", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "184",
+ "missionName": "Eend verstrikt in visdraad",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "245816954672685160554099818959008787249"
+}

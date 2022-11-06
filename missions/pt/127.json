@@ -1,1 +1,40 @@
-{"missionId": "127", "missionName": "Incêndio de Grandes Dimensões num Hotel", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "14"}, {"requirement": "veículos de comando tático necessários", "qty": "4"}, {"requirement": "veículos escada necessários", "qty": "2"}, {"requirement": "veículos tanque tático urbano necessários", "qty": "1"}, {"requirement": "unidades autónomas de ar respirável necessárias", "qty": "1"}, {"requirement": "veículos de comando e comunicações necessários", "qty": "1"}, {"requirement": "carros de patrulha necessários", "qty": "6"}, {"requirement": "máx. de pacientes", "qty": "50"}], "credits": "0"}
+{
+ "missionId": "127",
+ "missionName": "Incêndio de Grandes Dimensões num Hotel",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "14"
+  },
+  {
+   "requirement": "veículos de comando tático necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "veículos escada necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos tanque tático urbano necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "unidades autónomas de ar respirável necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de comando e comunicações necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "6"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "50"
+  }
+ ],
+ "credits": "0",
+ "version": "101460152513470543118650406090533525416"
+}

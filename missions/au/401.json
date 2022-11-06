@@ -1,1 +1,32 @@
-{"missionId": "401", "missionName": "Fire in an apartment block", "requirements": [{"requirement": "fire engines", "qty": "6"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "turntable ladder trucks", "qty": "3"}, {"requirement": "basu", "qty": "1"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "max. patients", "qty": "25"}], "credits": "5000"}
+{
+ "missionId": "401",
+ "missionName": "Fire in an apartment block",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "turntable ladder trucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "basu",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "25"
+  }
+ ],
+ "credits": "5000",
+ "version": "184196210766874806323356401082806039805"
+}

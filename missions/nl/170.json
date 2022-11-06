@@ -1,1 +1,12 @@
-{"missionId": "170", "missionName": "Brandende kerstboom", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "170",
+ "missionName": "Brandende kerstboom",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "121128943953768856295414803399995557483"
+}

@@ -1,1 +1,20 @@
-{"missionId": "264", "missionName": "Car crash caused by firework-usage near road", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "fire engines", "qty": "1"}, {"requirement": "max. patients", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "264",
+ "missionName": "Car crash caused by firework-usage near road",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "325357120745289218211897978782155888045"
+}

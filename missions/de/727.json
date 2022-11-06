@@ -1,1 +1,12 @@
-{"missionId": "727", "missionName": "Brennender Picknickkorb", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "727",
+ "missionName": "Brennender Picknickkorb",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "15389038260575555752419505853513650226"
+}

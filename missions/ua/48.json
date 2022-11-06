@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "Крадіжка металу зі зламом", "requirements": [{"requirement": "поліцейські машини", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "Крадіжка металу зі зламом",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "135516588695410964968937108494669297191"
+}

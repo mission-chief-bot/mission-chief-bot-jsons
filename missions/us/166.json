@@ -1,1 +1,28 @@
-{"missionId": "166", "missionName": "Drowning", "requirements": [{"requirement": "boats", "qty": "1"}, {"requirement": "firetrucks", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1250"}
+{
+ "missionId": "166",
+ "missionName": "Drowning",
+ "requirements": [
+  {
+   "requirement": "boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1250",
+ "version": "298122104207260077268861086803929657088"
+}

@@ -1,1 +1,12 @@
-{"missionId": "325", "missionName": "Hold Bus parkeret i ikke parkerings område", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "325",
+ "missionName": "Hold Bus parkeret i ikke parkerings område",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "76006857534237190637766082311798552313"
+}

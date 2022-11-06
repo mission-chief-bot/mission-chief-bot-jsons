@@ -1,1 +1,48 @@
-{"missionId": "427", "missionName": "Brand i byggnad - lagerlokal, sprängmedel", "requirements": [{"requirement": "polisbilar", "qty": "3"}, {"requirement": "släckbilar", "qty": "15"}, {"requirement": "stegbilar", "qty": "1"}, {"requirement": "tankbilar", "qty": "1"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "fordon med luftapparater", "qty": "2"}, {"requirement": "kemskyddsenhet", "qty": "1"}, {"requirement": "räddningsledningsfordon", "qty": "1"}, {"requirement": "brandbefäl", "qty": "2"}, {"requirement": "mest patienter", "qty": "15"}], "credits": "13000"}
+{
+ "missionId": "427",
+ "missionName": "Brand i byggnad - lagerlokal, sprängmedel",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "släckbilar",
+   "qty": "15"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "fordon med luftapparater",
+   "qty": "2"
+  },
+  {
+   "requirement": "kemskyddsenhet",
+   "qty": "1"
+  },
+  {
+   "requirement": "räddningsledningsfordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "15"
+  }
+ ],
+ "credits": "13000",
+ "version": "224272927478949994402123273172081196824"
+}

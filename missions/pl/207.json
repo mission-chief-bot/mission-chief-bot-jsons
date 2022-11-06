@@ -1,1 +1,12 @@
-{"missionId": "207", "missionName": "Kurcze cieplne", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "207",
+ "missionName": "Kurcze cieplne",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "269880716814125803254983477350062606333"
+}

@@ -1,1 +1,16 @@
-{"missionId": "13", "missionName": "Brennender LKW", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "elw 1", "qty": "1"}], "credits": "1080"}
+{
+ "missionId": "13",
+ "missionName": "Brennender LKW",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  }
+ ],
+ "credits": "1080",
+ "version": "292902730954203716459269175844882229080"
+}

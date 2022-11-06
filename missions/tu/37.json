@@ -1,1 +1,12 @@
-{"missionId": "37", "missionName": "Akut astım", "requirements": [{"requirement": "maks. hastalar", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "37",
+ "missionName": "Akut astım",
+ "requirements": [
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "105679659095218923674332785724240180419"
+}

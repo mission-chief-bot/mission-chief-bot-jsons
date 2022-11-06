@@ -1,1 +1,28 @@
-{"missionId": "34", "missionName": "403 Sairaalapalo", "requirements": [{"requirement": "paloautot", "qty": "10"}, {"requirement": "johtoautot", "qty": "2"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "nostolava-autot", "qty": "3"}], "credits": "6000"}
+{
+ "missionId": "34",
+ "missionName": "403 Sairaalapalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "10"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "3"
+  }
+ ],
+ "credits": "6000",
+ "version": "166241125805416360038347886505464258821"
+}

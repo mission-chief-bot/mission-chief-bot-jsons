@@ -1,1 +1,12 @@
-{"missionId": "295", "missionName": "Trofeo robado", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "295",
+ "missionName": "Trofeo robado",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "100297583575089535506112123464658739743"
+}

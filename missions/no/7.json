@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Brennende løv", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Brennende løv",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "251956738177234960213435514840604345172"
+}

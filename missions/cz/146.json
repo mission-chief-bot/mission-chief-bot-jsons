@@ -1,1 +1,36 @@
-{"missionId": "146", "missionName": "Požár doškové střechy", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "8"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "velitelské automobily", "qty": "4"}, {"requirement": "mobilní operační střediska", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "kombinované hasící automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "8000"}
+{
+ "missionId": "146",
+ "missionName": "Požár doškové střechy",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "8"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "mobilní operační střediska",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "kombinované hasící automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "8000",
+ "version": "106498310695312748709968763294171672852"
+}

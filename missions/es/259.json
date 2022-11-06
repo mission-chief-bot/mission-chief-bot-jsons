@@ -1,1 +1,12 @@
-{"missionId": "259", "missionName": "Incendio provocado por velas durante una cena romántica", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "259",
+ "missionName": "Incendio provocado por velas durante una cena romántica",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "222119220797195530365495073509842213430"
+}

@@ -1,1 +1,12 @@
-{"missionId": "321", "missionName": "Čokoládová loupež", "requirements": [{"requirement": "policejní automobily", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "321",
+ "missionName": "Čokoládová loupež",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "290362211944343067485086693869496619437"
+}

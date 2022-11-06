@@ -1,1 +1,12 @@
-{"missionId": "304", "missionName": "Genstande på landingsbane", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "304",
+ "missionName": "Genstande på landingsbane",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "17111992901164730356308058423428377633"
+}

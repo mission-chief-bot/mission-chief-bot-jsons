@@ -1,1 +1,36 @@
-{"missionId": "124/a", "missionName": "403 Toimistorakennuspalo", "requirements": [{"requirement": "paloautot", "qty": "10"}, {"requirement": "nostolava-autot", "qty": "4"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "poliisiautot", "qty": "3"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "4"}], "credits": "7700"}
+{
+ "missionId": "124/a",
+ "missionName": "403 Toimistorakennuspalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "10"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "4"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "4"
+  }
+ ],
+ "credits": "7700",
+ "version": "7290686996599380078920117501194853973"
+}

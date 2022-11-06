@@ -1,1 +1,12 @@
-{"missionId": "371", "missionName": "Brændende bladbunke", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "371",
+ "missionName": "Brændende bladbunke",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "271867278980550867971991223499940690819"
+}

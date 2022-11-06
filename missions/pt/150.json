@@ -1,1 +1,28 @@
-{"missionId": "150", "missionName": "Abalroamento Ferroviário", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "5"}, {"requirement": "veículos de comando tático necessários", "qty": "1"}, {"requirement": "veículos de socorro e assistência tático necessários", "qty": "2"}, {"requirement": "carros de patrulha necessários", "qty": "2"}, {"requirement": "máx. de pacientes", "qty": "10"}], "credits": "7500"}
+{
+ "missionId": "150",
+ "missionName": "Abalroamento Ferroviário",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "5"
+  },
+  {
+   "requirement": "veículos de comando tático necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "10"
+  }
+ ],
+ "credits": "7500",
+ "version": "308255078285601421255986768100712246139"
+}

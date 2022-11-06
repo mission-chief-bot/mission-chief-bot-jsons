@@ -1,1 +1,16 @@
-{"missionId": "150", "missionName": "462 Vesivahinko, keskisuuri", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1700"}
+{
+ "missionId": "150",
+ "missionName": "462 Vesivahinko, keskisuuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1700",
+ "version": "26545257893381745520461183375914023664"
+}

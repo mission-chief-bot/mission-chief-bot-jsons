@@ -1,1 +1,16 @@
-{"missionId": "118", "missionName": "Incidente auto-bici", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "118",
+ "missionName": "Incidente auto-bici",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "340106977094897441893618077202867107426"
+}

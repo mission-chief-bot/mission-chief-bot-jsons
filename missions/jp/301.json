@@ -1,1 +1,12 @@
-{"missionId": "301", "missionName": "アニバーサリーケーキ焼き事故", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "301",
+ "missionName": "アニバーサリーケーキ焼き事故",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "259505746205308140480577206046997512271"
+}

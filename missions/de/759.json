@@ -1,1 +1,16 @@
-{"missionId": "759", "missionName": "Kabelbrand in Jubiläums-Party-Dekoration (groß)", "requirements": [{"requirement": "löschfahrzeuge", "qty": "4"}, {"requirement": "elw 1", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "759",
+ "missionName": "Kabelbrand in Jubiläums-Party-Dekoration (groß)",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "4"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "214004548673334032470553315091973801971"
+}

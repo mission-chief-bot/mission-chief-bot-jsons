@@ -1,1 +1,12 @@
-{"missionId": "326", "missionName": "Transfert interhospitalier", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "326",
+ "missionName": "Transfert interhospitalier",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "332488154153698947741074430982517565548"
+}

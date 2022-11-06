@@ -1,1 +1,12 @@
-{"missionId": "232", "missionName": "Medvetslös jubileumsgäst", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "232",
+ "missionName": "Medvetslös jubileumsgäst",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "29716800817652227195592160930441796622"
+}

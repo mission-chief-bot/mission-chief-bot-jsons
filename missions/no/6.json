@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Brennende hageskur", "requirements": [{"requirement": "brannbiler", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Brennende hageskur",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "166570208297592215742922558998353485204"
+}

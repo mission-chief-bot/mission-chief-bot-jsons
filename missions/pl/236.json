@@ -1,1 +1,12 @@
-{"missionId": "236", "missionName": "Atak Hakera na Stronę Rządową", "requirements": [{"requirement": "radiowozy", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "236",
+ "missionName": "Atak Hakera na Stronę Rządową",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "263301520008789052199425837062175011845"
+}

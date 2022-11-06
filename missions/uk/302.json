@@ -1,1 +1,12 @@
-{"missionId": "302", "missionName": "Leprechaun causing public mischief", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "302",
+ "missionName": "Leprechaun causing public mischief",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "283999078620617410507884315575902543755"
+}

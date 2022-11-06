@@ -1,1 +1,36 @@
-{"missionId": "752", "missionName": "Carbon Monoxide Leak (Large)", "requirements": [{"requirement": "firetrucks", "qty": "17"}, {"requirement": "platform trucks", "qty": "2"}, {"requirement": "battalion chief vehicles", "qty": "2"}, {"requirement": "mobile air vehicles", "qty": "4"}, {"requirement": "hazmat vehicles", "qty": "2"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "100"}], "credits": "9500"}
+{
+ "missionId": "752",
+ "missionName": "Carbon Monoxide Leak (Large)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "17"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "100"
+  }
+ ],
+ "credits": "9500",
+ "version": "330030174429707957446825425522515121733"
+}

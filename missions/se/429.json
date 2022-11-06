@@ -1,1 +1,32 @@
-{"missionId": "429", "missionName": "Olycka - litet flygplan", "requirements": [{"requirement": "släckbilar", "qty": "3"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "räddningsledningsfordon", "qty": "1"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "5"}], "credits": "3000"}
+{
+ "missionId": "429",
+ "missionName": "Olycka - litet flygplan",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "räddningsledningsfordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "3000",
+ "version": "271500749552575594093022948546662363135"
+}

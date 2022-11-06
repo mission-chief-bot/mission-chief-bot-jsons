@@ -1,1 +1,16 @@
-{"missionId": "80", "missionName": "Ameaças sobre funcionário", "requirements": [{"requirement": "carros de patrulha necessários", "qty": "2"}, {"requirement": "máx. de pacientes", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "80",
+ "missionName": "Ameaças sobre funcionário",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "280642423101669439588734198330100862809"
+}

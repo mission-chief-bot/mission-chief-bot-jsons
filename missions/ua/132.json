@@ -1,1 +1,12 @@
-{"missionId": "132", "missionName": "Контрабанда незаконних товарів", "requirements": [{"requirement": "поліцейські машини", "qty": "3"}], "credits": "800"}
+{
+ "missionId": "132",
+ "missionName": "Контрабанда незаконних товарів",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "3"
+  }
+ ],
+ "credits": "800",
+ "version": "287492132234855130627615754089815819351"
+}

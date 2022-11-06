@@ -1,1 +1,16 @@
-{"missionId": "136", "missionName": "382 Kadonnut henkilö", "requirements": [{"requirement": "poliisiautot", "qty": "5"}, {"requirement": "koirapartiot", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "136",
+ "missionName": "382 Kadonnut henkilö",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "5"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "159581519101599281749575252253076923064"
+}

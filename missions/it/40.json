@@ -1,1 +1,12 @@
-{"missionId": "40", "missionName": "Caduta accidentale", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "40",
+ "missionName": "Caduta accidentale",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "36591602957929829817132744319175537059"
+}

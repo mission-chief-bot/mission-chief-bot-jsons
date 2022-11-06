@@ -1,1 +1,12 @@
-{"missionId": "54", "missionName": "Accident cu mașina parcată", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "54",
+ "missionName": "Accident cu mașina parcată",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "313765940287906727713804840989697603286"
+}

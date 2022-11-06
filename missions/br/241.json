@@ -1,1 +1,28 @@
-{"missionId": "241", "missionName": "Incêndio residencial", "requirements": [{"requirement": "caminhões plataforma necessários", "qty": "1"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "caminhões de bombeiro necessários", "qty": "4"}, {"requirement": "máx. de pacientes", "qty": "4"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "50"}], "credits": "2000"}
+{
+ "missionId": "241",
+ "missionName": "Incêndio residencial",
+ "requirements": [
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "4"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "50"
+  }
+ ],
+ "credits": "2000",
+ "version": "191482464873294974154088245908280108618"
+}

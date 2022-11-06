@@ -1,1 +1,44 @@
-{"missionId": "143", "missionName": "Velký požár v hotelu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "8"}, {"requirement": "velitelské automobily", "qty": "2"}, {"requirement": "mobilní operační střediska", "qty": "1"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "kombinované hasící automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "3"}, {"requirement": "inspektor provozu", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "20"}], "credits": "8000"}
+{
+ "missionId": "143",
+ "missionName": "Velký požár v hotelu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "8"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobilní operační střediska",
+   "qty": "1"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "kombinované hasící automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "inspektor provozu",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "20"
+  }
+ ],
+ "credits": "8000",
+ "version": "45769136560846628313720169231583724388"
+}

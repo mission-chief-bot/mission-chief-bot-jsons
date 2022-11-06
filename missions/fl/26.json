@@ -1,1 +1,16 @@
-{"missionId": "26", "missionName": "402 Valintamyymäläpalo, keskisuuri", "requirements": [{"requirement": "paloautot", "qty": "4"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "26",
+ "missionName": "402 Valintamyymäläpalo, keskisuuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "210682923947909492998777741200064700366"
+}

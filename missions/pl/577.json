@@ -1,1 +1,40 @@
-{"missionId": "577", "missionName": "Awaryjne lądowanie samolotu pasażerskiego na wodzie", "requirements": [{"requirement": "samochody pożarnicze", "qty": "12"}, {"requirement": "sh lub sd", "qty": "1"}, {"requirement": "slop lub slrr", "qty": "3"}, {"requirement": "samochody ratownictwa technicznego", "qty": "4"}, {"requirement": "samochody dowodzenia i łączności", "qty": "1"}, {"requirement": "helikopteru policyjnego", "qty": "1"}, {"requirement": "łodzie", "qty": "8"}, {"requirement": "maks. pacjenci", "qty": "40"}], "credits": "32000"}
+{
+ "missionId": "577",
+ "missionName": "Awaryjne lądowanie samolotu pasażerskiego na wodzie",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "12"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "4"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  },
+  {
+   "requirement": "łodzie",
+   "qty": "8"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "40"
+  }
+ ],
+ "credits": "32000",
+ "version": "106281879810656214633364552800744083096"
+}

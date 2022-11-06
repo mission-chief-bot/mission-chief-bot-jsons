@@ -1,1 +1,12 @@
-{"missionId": "32", "missionName": "Ceifeira a arder", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "32",
+ "missionName": "Ceifeira a arder",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "20169960159687466535297094586476854365"
+}

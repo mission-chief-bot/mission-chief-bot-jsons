@@ -1,1 +1,16 @@
-{"missionId": "713", "missionName": "Gestohlener Maskenball-Preis", "requirements": [{"requirement": "streifenwagen", "qty": "5"}, {"requirement": "maximale patientenanzahl", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "713",
+ "missionName": "Gestohlener Maskenball-Preis",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "5"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "15482339875033452949716154460188006114"
+}

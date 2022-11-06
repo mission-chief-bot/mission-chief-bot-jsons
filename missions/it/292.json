@@ -1,1 +1,12 @@
-{"missionId": "292", "missionName": "Persona sui binari", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "292",
+ "missionName": "Persona sui binari",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "333430761581986849914753582828475255676"
+}

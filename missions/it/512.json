@@ -1,1 +1,16 @@
-{"missionId": "512", "missionName": "Retata in Discarica Abusiva", "requirements": [{"requirement": "pattuglie", "qty": "2"}, {"requirement": "pattuglia forestale", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "512",
+ "missionName": "Retata in Discarica Abusiva",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglia forestale",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "309830117158322840271090680742208896431"
+}

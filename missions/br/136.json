@@ -1,1 +1,16 @@
-{"missionId": "136", "missionName": "Incêndio de bueiros", "requirements": [{"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "caminhões de bombeiro necessários", "qty": "2"}], "credits": "210"}
+{
+ "missionId": "136",
+ "missionName": "Incêndio de bueiros",
+ "requirements": [
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "210",
+ "version": "10611280608872135633129275201114813075"
+}

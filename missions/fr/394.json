@@ -1,1 +1,16 @@
-{"missionId": "394", "missionName": "Malaise au sport", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "394",
+ "missionName": "Malaise au sport",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "155884457605207573699686753722466534466"
+}

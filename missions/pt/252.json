@@ -1,1 +1,12 @@
-{"missionId": "252", "missionName": "Procura pelo namorado perdido", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "252",
+ "missionName": "Procura pelo namorado perdido",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "13950381939790052023433450884356772100"
+}

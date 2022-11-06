@@ -1,1 +1,12 @@
-{"missionId": "346", "missionName": "Beskyttelse i forbindelsen med påfyldning af brændstof", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "346",
+ "missionName": "Beskyttelse i forbindelsen med påfyldning af brændstof",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "278259455015660419279833919992673199861"
+}

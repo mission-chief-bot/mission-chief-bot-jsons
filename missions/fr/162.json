@@ -1,1 +1,20 @@
-{"missionId": "162", "missionName": "Dégagement d'hélice entravée", "requirements": [ {"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "vpl", "qty": "1"}, {"requirement": "bls", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "162",
+ "missionName": "Dégagement d'hélice entravée",
+ "requirements": [
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  },
+  {
+   "requirement": "vpl",
+   "qty": "1"
+  },
+  {
+   "requirement": "bls",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "147489421783065495280862681548630869449"
+}

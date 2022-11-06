@@ -1,1 +1,12 @@
-{"missionId": "207", "missionName": "Pád osoby na náledí", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "207",
+ "missionName": "Pád osoby na náledí",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "323007480946520682606088760710710269792"
+}

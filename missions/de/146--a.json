@@ -1,1 +1,36 @@
-{"missionId": "146/a", "missionName": "Brennendes Reetdachhaus", "requirements": [{"requirement": "löschfahrzeuge", "qty": "5"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "2"}], "credits": "4600"}
+{
+ "missionId": "146/a",
+ "missionName": "Brennendes Reetdachhaus",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "5"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "2"
+  }
+ ],
+ "credits": "4600",
+ "version": "308642827569078587664652655093565168914"
+}

@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Возгорание в сарае", "requirements": [{"requirement": "пожарные машины", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Возгорание в сарае",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "104600695624116713554234577997900044529"
+}

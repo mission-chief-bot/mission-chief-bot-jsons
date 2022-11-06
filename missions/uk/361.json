@@ -1,1 +1,12 @@
-{"missionId": "361", "missionName": "Non Injury Fall", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "361",
+ "missionName": "Non Injury Fall",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "65492458265036842882298871309338476844"
+}

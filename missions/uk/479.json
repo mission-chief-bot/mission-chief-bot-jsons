@@ -1,1 +1,28 @@
-{"missionId": "479", "missionName": "Locomotive train fire", "requirements": [{"requirement": "fire engines", "qty": "6"}, {"requirement": "fire officers", "qty": "3"}, {"requirement": "water carriers", "qty": "1"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "hazmat units or cbrn vehicles", "qty": "1"}], "credits": "8000"}
+{
+ "missionId": "479",
+ "missionName": "Locomotive train fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "3"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "hazmat units or cbrn vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "8000",
+ "version": "277294044284317603872329149836591045654"
+}

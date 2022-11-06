@@ -1,1 +1,12 @@
-{"missionId": "547", "missionName": "Badestellenüberwachung", "requirements": [{"requirement": "boote", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "547",
+ "missionName": "Badestellenüberwachung",
+ "requirements": [
+  {
+   "requirement": "boote",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "123204428023954771583732767170930678045"
+}

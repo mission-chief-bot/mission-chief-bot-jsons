@@ -1,1 +1,12 @@
-{"missionId": "462", "missionName": "Fabbrica illegale di armi", "requirements": [{"requirement": "pattuglie", "qty": "4"}], "credits": "5000"}
+{
+ "missionId": "462",
+ "missionName": "Fabbrica illegale di armi",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  }
+ ],
+ "credits": "5000",
+ "version": "272033887014047351885146226476829530968"
+}

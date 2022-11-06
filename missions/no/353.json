@@ -1,1 +1,16 @@
-{"missionId": "353", "missionName": "Løvblåser ute av kontroll", "requirements": [{"requirement": "politibiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "353",
+ "missionName": "Løvblåser ute av kontroll",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "231344146975855774922091702733001659910"
+}

@@ -1,1 +1,36 @@
-{"missionId": "163", "missionName": "Desabamento parcial do edifício", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "2"}, {"requirement": "veículos de resgate pesado necessários", "qty": "2"}, {"requirement": "caminhões plataforma necessários", "qty": "1"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "viaturas de polícia necessárias", "qty": "2"}, {"requirement": "máx. de pacientes", "qty": "8"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "50"}], "credits": "7500"}
+{
+ "missionId": "163",
+ "missionName": "Desabamento parcial do edifício",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "8"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "50"
+  }
+ ],
+ "credits": "7500",
+ "version": "150641869601085175544373652416884648393"
+}

@@ -1,1 +1,12 @@
-{"missionId": "253", "missionName": "Observación de sospechoso", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "253",
+ "missionName": "Observación de sospechoso",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "247150442658980784099102765084829161750"
+}

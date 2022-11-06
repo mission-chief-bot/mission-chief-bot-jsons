@@ -1,1 +1,12 @@
-{"missionId": "250-1", "missionName": "Controllo mezzi pesanti", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "250-1",
+ "missionName": "Controllo mezzi pesanti",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "196417279944613295182741364848989616017"
+}

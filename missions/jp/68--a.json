@@ -1,1 +1,48 @@
-{"missionId": "68/a", "missionName": "大型スーパーの火災", "requirements": [{"requirement": "消火サポート拡張", "qty": "1"}, {"requirement": "消防車", "qty": "6"}, {"requirement": "消防隊長車両", "qty": "2"}, {"requirement": "プラットフォームトラック", "qty": "1"}, {"requirement": "大型救助車両", "qty": "1"}, {"requirement": "指令車", "qty": "1"}, {"requirement": "水", "qty": "21000"}, {"requirement": "警察車両", "qty": "1"}, {"requirement": "ポンプ積載車", "qty": "1"}, {"requirement": "最大患者", "qty": "6"}], "credits": "3200"}
+{
+ "missionId": "68/a",
+ "missionName": "大型スーパーの火災",
+ "requirements": [
+  {
+   "requirement": "消火サポート拡張",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "6"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "1"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "指令車",
+   "qty": "1"
+  },
+  {
+   "requirement": "水",
+   "qty": "21000"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "ポンプ積載車",
+   "qty": "1"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "6"
+  }
+ ],
+ "credits": "3200",
+ "version": "13967059178972679546629002409135850333"
+}

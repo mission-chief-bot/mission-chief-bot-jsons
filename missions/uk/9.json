@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "Bale of straw fire", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "Bale of straw fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "54706912245014409049816015079128886701"
+}

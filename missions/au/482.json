@@ -1,1 +1,16 @@
-{"missionId": "482", "missionName": "Thief Attacked By Feral Pig", "requirements": [{"requirement": "ambulances", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "482",
+ "missionName": "Thief Attacked By Feral Pig",
+ "requirements": [
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "219453093810741633237829275450957913532"
+}

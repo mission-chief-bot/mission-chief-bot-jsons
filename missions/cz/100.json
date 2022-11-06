@@ -1,1 +1,12 @@
-{"missionId": "100", "missionName": "Vaření vajec v kotli", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "100",
+ "missionName": "Vaření vajec v kotli",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "279289364598573282151063600497764983953"
+}

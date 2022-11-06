@@ -1,1 +1,16 @@
-{"missionId": "26-1", "missionName": "Garage fire", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "fire investigation unit", "qty": "1"}], "credits": "1900"}
+{
+ "missionId": "26-1",
+ "missionName": "Garage fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "1"
+  }
+ ],
+ "credits": "1900",
+ "version": "33751278115808075836069327227139666980"
+}

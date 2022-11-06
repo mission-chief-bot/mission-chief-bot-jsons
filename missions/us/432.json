@@ -1,1 +1,16 @@
-{"missionId": "432", "missionName": "Small Wildfire", "requirements": [{"requirement": "water tankers", "qty": "1"}, {"requirement": "wildland fire engines", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "432",
+ "missionName": "Small Wildfire",
+ "requirements": [
+  {
+   "requirement": "water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "151031678852270880170741843355652497217"
+}

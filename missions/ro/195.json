@@ -1,1 +1,16 @@
-{"missionId": "195", "missionName": "Accident auto cauzat de folosirea artificiilor în apropiere de drum", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "2"}, {"requirement": "max. pacienți", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "195",
+ "missionName": "Accident auto cauzat de folosirea artificiilor în apropiere de drum",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "10929257381523176277664710082323817060"
+}

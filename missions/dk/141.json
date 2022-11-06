@@ -1,1 +1,12 @@
-{"missionId": "141", "missionName": "Anafylaktisk shock", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "141",
+ "missionName": "Anafylaktisk shock",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "237901059508664752566250062658746517424"
+}

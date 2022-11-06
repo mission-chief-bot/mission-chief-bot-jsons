@@ -1,1 +1,32 @@
-{"missionId": "427", "missionName": "Elicottero Precipitato", "requirements": [{"requirement": "aps/abp", "qty": "4"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "pattuglie", "qty": "4"}, {"requirement": "max pazienti", "qty": "6"}], "credits": "3400"}
+{
+ "missionId": "427",
+ "missionName": "Elicottero Precipitato",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "4"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "6"
+  }
+ ],
+ "credits": "3400",
+ "version": "230294005105855978430192724092700662033"
+}

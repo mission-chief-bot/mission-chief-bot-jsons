@@ -1,1 +1,12 @@
-{"missionId": "358", "missionName": "Brenne en løvhaug", "requirements": [{"requirement": "brannbiler", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "358",
+ "missionName": "Brenne en løvhaug",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "10090862474648597305887645315330274029"
+}

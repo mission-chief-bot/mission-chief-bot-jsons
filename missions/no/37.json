@@ -1,1 +1,12 @@
-{"missionId": "37", "missionName": "Akutt astma", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "37",
+ "missionName": "Akutt astma",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "206727661946554820066446729013801677035"
+}

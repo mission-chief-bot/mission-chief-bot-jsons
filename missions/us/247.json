@@ -1,1 +1,12 @@
-{"missionId": "247", "missionName": "Possible Sepsis", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "247",
+ "missionName": "Possible Sepsis",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "79916861761598344059168143568894035355"
+}

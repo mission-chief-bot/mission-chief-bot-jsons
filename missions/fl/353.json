@@ -1,1 +1,12 @@
-{"missionId": "353", "missionName": "361 Tappelun ääniä asunnosta", "requirements": [{"requirement": "poliisiautot", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "353",
+ "missionName": "361 Tappelun ääniä asunnosta",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "20572647290499002425080314435406841368"
+}

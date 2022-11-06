@@ -1,1 +1,12 @@
-{"missionId": "119", "missionName": "Clothes Recycling Bin ignited by fireworks", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "119",
+ "missionName": "Clothes Recycling Bin ignited by fireworks",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "312882560404720816280245757146126549888"
+}

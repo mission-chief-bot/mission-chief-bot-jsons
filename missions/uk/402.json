@@ -1,1 +1,20 @@
-{"missionId": "402", "missionName": "Fire in allotment (Large)", "requirements": [{"requirement": "fire engines", "qty": "6"}, {"requirement": "fire officers", "qty": "2"}, {"requirement": "water carriers", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "402",
+ "missionName": "Fire in allotment (Large)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "2"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "95342145699318220636498911285302115841"
+}

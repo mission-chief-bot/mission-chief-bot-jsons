@@ -1,1 +1,12 @@
-{"missionId": "196", "missionName": "Personnes sur les voies", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "0"}
+{
+ "missionId": "196",
+ "missionName": "Personnes sur les voies",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "0",
+ "version": "187277228873373360530168264925388627803"
+}

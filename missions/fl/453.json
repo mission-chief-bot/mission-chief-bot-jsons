@@ -1,1 +1,16 @@
-{"missionId": "453", "missionName": "600 Epäilty rahanpesuoperaatio", "requirements": [{"requirement": "rikostutkintayksiköt", "qty": "1"}, {"requirement": "poliisiautot", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "453",
+ "missionName": "600 Epäilty rahanpesuoperaatio",
+ "requirements": [
+  {
+   "requirement": "rikostutkintayksiköt",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "291972758006259963587583254614454747913"
+}

@@ -1,1 +1,12 @@
-{"missionId": "163", "missionName": "Calambre por calor", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1"}
+{
+ "missionId": "163",
+ "missionName": "Calambre por calor",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1",
+ "version": "82222008968939811226414706020080825646"
+}

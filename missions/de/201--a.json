@@ -1,1 +1,36 @@
-{"missionId": "201/a", "missionName": "Fußball Bundesliga-Spiel", "requirements": [{"requirement": "grukw", "qty": "9"}, {"requirement": "lebefkw", "qty": "3"}, {"requirement": "fükw", "qty": "1"}, {"requirement": "gefkw", "qty": "1"}, {"requirement": "dhufükw", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "9400"}
+{
+ "missionId": "201/a",
+ "missionName": "Fußball Bundesliga-Spiel",
+ "requirements": [
+  {
+   "requirement": "grukw",
+   "qty": "9"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "3"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "gefkw",
+   "qty": "1"
+  },
+  {
+   "requirement": "dhufükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "9400",
+ "version": "69546907166808920129715091935599473097"
+}

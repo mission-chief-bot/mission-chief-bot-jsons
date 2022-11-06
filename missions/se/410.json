@@ -1,1 +1,16 @@
-{"missionId": "410", "missionName": "Trafikhändelse, bro - störning", "requirements": [{"requirement": "polisbilar", "qty": "3"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "1300"}
+{
+ "missionId": "410",
+ "missionName": "Trafikhändelse, bro - störning",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "59966791513819604126951950145946414778"
+}

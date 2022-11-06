@@ -1,1 +1,64 @@
-{"missionId": "225/a", "missionName": "鉄道駅火災（大規模)", "requirements": [{"requirement": "消火サポート拡張", "qty": "2"}, {"requirement": "消防車", "qty": "10"}, {"requirement": "水", "qty": "31000"}, {"requirement": "消防隊長車両", "qty": "3"}, {"requirement": "プラットフォームトラック", "qty": "2"}, {"requirement": "大型救助車両", "qty": "3"}, {"requirement": "空気充填照明車", "qty": "1"}, {"requirement": "危険物取扱車両", "qty": "1"}, {"requirement": "指令車", "qty": "1"}, {"requirement": "警察車両", "qty": "8"}, {"requirement": "ポンプ積載車", "qty": "3"}, {"requirement": "化学消火車", "qty": "1"}, {"requirement": "泡沫です", "qty": "7000"}, {"requirement": "最大患者", "qty": "15"}], "credits": "11100"}
+{
+ "missionId": "225/a",
+ "missionName": "鉄道駅火災（大規模)",
+ "requirements": [
+  {
+   "requirement": "消火サポート拡張",
+   "qty": "2"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "10"
+  },
+  {
+   "requirement": "水",
+   "qty": "31000"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "3"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "2"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "3"
+  },
+  {
+   "requirement": "空気充填照明車",
+   "qty": "1"
+  },
+  {
+   "requirement": "危険物取扱車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "指令車",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "8"
+  },
+  {
+   "requirement": "ポンプ積載車",
+   "qty": "3"
+  },
+  {
+   "requirement": "化学消火車",
+   "qty": "1"
+  },
+  {
+   "requirement": "泡沫です",
+   "qty": "7000"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "15"
+  }
+ ],
+ "credits": "11100",
+ "version": "27423077801960950465847425854672188851"
+}

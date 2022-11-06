@@ -1,1 +1,20 @@
-{"missionId": "232/a", "missionName": "Kabeldiebstahl", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "polizeihubschrauber", "qty": "1"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "3900"}
+{
+ "missionId": "232/a",
+ "missionName": "Kabeldiebstahl",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "polizeihubschrauber",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "3900",
+ "version": "318041257042613922985569058808768840417"
+}

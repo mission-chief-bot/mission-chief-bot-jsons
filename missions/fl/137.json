@@ -1,1 +1,16 @@
-{"missionId": "137", "missionName": "511 Kiinniotto, valmiustila", "requirements": [{"requirement": "poliisiautot", "qty": "3"}, {"requirement": "koirapartiot", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "137",
+ "missionName": "511 Kiinniotto, valmiustila",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "84713714563729501458537892019550610728"
+}

@@ -1,1 +1,16 @@
-{"missionId": "456", "missionName": "Alberi secchi pericolanti", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "456",
+ "missionName": "Alberi secchi pericolanti",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "89579075493844647364606895898108538558"
+}

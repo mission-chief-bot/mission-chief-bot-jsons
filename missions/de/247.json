@@ -1,1 +1,36 @@
-{"missionId": "247", "missionName": "Pkw in Wasser", "requirements": [ {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "boote", "qty": "2"}, {"requirement": "gw-taucher", "qty": "2"}, {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "247",
+ "missionName": "Pkw in Wasser",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "boote",
+   "qty": "2"
+  },
+  {
+   "requirement": "gw-taucher",
+   "qty": "2"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "162229486784435929094244548630200960475"
+}

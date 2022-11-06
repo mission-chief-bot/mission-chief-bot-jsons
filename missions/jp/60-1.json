@@ -1,1 +1,28 @@
-{"missionId": "60-1", "missionName": "スポーツホールにて火災", "requirements": [{"requirement": "消防車", "qty": "5"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "プラットフォームトラック", "qty": "1"}, {"requirement": "水", "qty": "12500"}, {"requirement": "最大患者", "qty": "4"}], "credits": "2200"}
+{
+ "missionId": "60-1",
+ "missionName": "スポーツホールにて火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "5"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "1"
+  },
+  {
+   "requirement": "水",
+   "qty": "12500"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "4"
+  }
+ ],
+ "credits": "2200",
+ "version": "310527572800694452437023790597246626182"
+}

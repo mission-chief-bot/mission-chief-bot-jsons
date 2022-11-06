@@ -1,1 +1,32 @@
-{"missionId": "268", "missionName": "Incêndio industrial (grande)", "requirements": [ {"requirement": "caminhões de bombeiro necessários", "qty": "8"}, {"requirement": "caminhões plataforma necessários", "qty": "2"}, {"requirement": "viaturas de batalhão necessárias", "qty": "4"}, {"requirement": "bombas motorizadas necessárias", "qty": "3"}, {"requirement": "viaturas de produtos perigosos necessárias", "qty": "1"}, {"requirement": "máx. de pacientes", "qty": "8"}], "credits": "9000"}
+{
+ "missionId": "268",
+ "missionName": "Incêndio industrial (grande)",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "8"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "4"
+  },
+  {
+   "requirement": "bombas motorizadas necessárias",
+   "qty": "3"
+  },
+  {
+   "requirement": "viaturas de produtos perigosos necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "8"
+  }
+ ],
+ "credits": "9000",
+ "version": "302423612877309074940905336135641955809"
+}

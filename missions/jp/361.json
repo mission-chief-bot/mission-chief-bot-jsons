@@ -1,1 +1,12 @@
-{"missionId": "361", "missionName": "音楽祭での監修", "requirements": [{"requirement": "警察車両", "qty": "8"}], "credits": "8200"}
+{
+ "missionId": "361",
+ "missionName": "音楽祭での監修",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "8"
+  }
+ ],
+ "credits": "8200",
+ "version": "231069977583924545275614861073136863888"
+}

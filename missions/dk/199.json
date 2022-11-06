@@ -1,1 +1,16 @@
-{"missionId": "199", "missionName": "Kontor brugt til krypterings angreb", "requirements": [{"requirement": "påkrævede politibiler", "qty": "8"}, {"requirement": "påkrævede indsatsleder politi", "qty": "2"}], "credits": "0"}
+{
+ "missionId": "199",
+ "missionName": "Kontor brugt til krypterings angreb",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "8"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "2"
+  }
+ ],
+ "credits": "0",
+ "version": "54386969569032401887684641441115669095"
+}

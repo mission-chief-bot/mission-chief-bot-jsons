@@ -1,1 +1,16 @@
-{"missionId": "297", "missionName": "Skottlossning - skadad person", "requirements": [{"requirement": "polisbilar", "qty": "8"}, {"requirement": "mest patienter", "qty": "6"}], "credits": "6000"}
+{
+ "missionId": "297",
+ "missionName": "Skottlossning - skadad person",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "8"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "6"
+  }
+ ],
+ "credits": "6000",
+ "version": "34948500711204306987203593231705414513"
+}

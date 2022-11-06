@@ -1,1 +1,12 @@
-{"missionId": "182", "missionName": "Șofer beat după petrecerea de Revelion", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "182",
+ "missionName": "Șofer beat după petrecerea de Revelion",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "180610947027365019990701094625741438139"
+}

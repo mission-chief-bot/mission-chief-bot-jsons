@@ -1,1 +1,16 @@
-{"missionId": "158", "missionName": "Tiefgarage unter Wasser", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "4"}, {"requirement": "feuerlöschpumpen", "qty": "1"}], "credits": "770"}
+{
+ "missionId": "158",
+ "missionName": "Tiefgarage unter Wasser",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "4"
+  },
+  {
+   "requirement": "feuerlöschpumpen",
+   "qty": "1"
+  }
+ ],
+ "credits": "770",
+ "version": "337722158934451569638613022914532478765"
+}

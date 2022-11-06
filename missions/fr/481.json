@@ -1,1 +1,28 @@
-{"missionId": "481", "missionName": "Disparition inquiétante en forêt", "requirements": [{"requirement": "voitures de police es", "qty": "10"}, {"requirement": "véhicules poste de commandement", "qty": "1"}, {"requirement": "spécialistes imp", "qty": "1"}, {"requirement": "vlhr", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "4200"}
+{
+ "missionId": "481",
+ "missionName": "Disparition inquiétante en forêt",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "10"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "spécialistes imp",
+   "qty": "1"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "4200",
+ "version": "221260623648931751661102033865988770107"
+}

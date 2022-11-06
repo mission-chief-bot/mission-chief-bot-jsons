@@ -1,1 +1,12 @@
-{"missionId": "230", "missionName": "Patrulla de mercado callejero", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "230",
+ "missionName": "Patrulla de mercado callejero",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "288277075546751041494544655215958176748"
+}

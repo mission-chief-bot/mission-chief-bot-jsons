@@ -1,1 +1,12 @@
-{"missionId": "89", "missionName": "Seriøs Hovedskade", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "89",
+ "missionName": "Seriøs Hovedskade",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "12258840625398513502606707258462068769"
+}

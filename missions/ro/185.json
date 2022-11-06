@@ -1,1 +1,12 @@
-{"missionId": "185", "missionName": "Încălcarea Legii cu privire la explozive", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "185",
+ "missionName": "Încălcarea Legii cu privire la explozive",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "337627940355659684428398576553528159901"
+}

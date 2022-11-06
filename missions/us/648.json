@@ -1,1 +1,12 @@
-{"missionId": "648", "missionName": "Car Jacking", "requirements": [{"requirement": "police cars", "qty": "5"}], "credits": "3500"}
+{
+ "missionId": "648",
+ "missionName": "Car Jacking",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  }
+ ],
+ "credits": "3500",
+ "version": "92308817972417684936959625421405987985"
+}

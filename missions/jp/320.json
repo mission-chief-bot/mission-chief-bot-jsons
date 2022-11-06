@@ -1,1 +1,12 @@
-{"missionId": "320", "missionName": "感染疑い", "requirements": [{"requirement": "最大患者", "qty": "5"}], "credits": "650"}
+{
+ "missionId": "320",
+ "missionName": "感染疑い",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "5"
+  }
+ ],
+ "credits": "650",
+ "version": "104241938752954116568005664780048258031"
+}

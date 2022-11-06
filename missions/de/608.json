@@ -1,1 +1,12 @@
-{"missionId": "608", "missionName": "Abgebrochener Notruf", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "608",
+ "missionName": "Abgebrochener Notruf",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "135025507087218651097726503649026709969"
+}

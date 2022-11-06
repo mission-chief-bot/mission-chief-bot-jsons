@@ -1,1 +1,44 @@
-{"missionId": "405-0", "missionName": "Kidnapping", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "traffic cars", "qty": "3"}, {"requirement": "dog support units (dsus)", "qty": "1"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "prvs", "qty": "2"}, {"requirement": "srvs", "qty": "2"}, {"requirement": "welfare vehicles", "qty": "1"}, {"requirement": "armed response personnel", "qty": "6"}, {"requirement": "max. patients", "qty": "2"}], "credits": "12500"}
+{
+ "missionId": "405-0",
+ "missionName": "Kidnapping",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "traffic cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "dog support units (dsus)",
+   "qty": "1"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "prvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "srvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "welfare vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "armed response personnel",
+   "qty": "6"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "12500",
+ "version": "5622487536351789015737311883960468101"
+}

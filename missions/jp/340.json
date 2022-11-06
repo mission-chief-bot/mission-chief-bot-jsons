@@ -1,1 +1,12 @@
-{"missionId": "340", "missionName": "家探し", "requirements": [{"requirement": "警察車両", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "340",
+ "missionName": "家探し",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "85609470504165322371203747681679176324"
+}

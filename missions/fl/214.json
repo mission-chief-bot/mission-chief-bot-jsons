@@ -1,1 +1,16 @@
-{"missionId": "214", "missionName": "202 Hirvikolari", "requirements": [{"requirement": "paloautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "214",
+ "missionName": "202 Hirvikolari",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "71818729612776364909682018969446038413"
+}

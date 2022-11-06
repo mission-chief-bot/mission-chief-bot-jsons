@@ -1,1 +1,12 @@
-{"missionId": "524", "missionName": "Schouder uit de kom", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "524",
+ "missionName": "Schouder uit de kom",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "333783755505688809154686750987784073657"
+}

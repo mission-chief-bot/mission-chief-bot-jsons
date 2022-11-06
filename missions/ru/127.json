@@ -1,1 +1,16 @@
-{"missionId": "127", "missionName": "Компания хулиганов", "requirements": [{"requirement": "полицейские автомобили", "qty": "4"}, {"requirement": "макс. пациенты", "qty": "3"}], "credits": "4"}
+{
+ "missionId": "127",
+ "missionName": "Компания хулиганов",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "4"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "3"
+  }
+ ],
+ "credits": "4",
+ "version": "297606905467663157118524528764510320151"
+}

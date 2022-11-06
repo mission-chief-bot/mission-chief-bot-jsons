@@ -1,1 +1,12 @@
-{"missionId": "212", "missionName": "Lesão por uso indevido de fogo-de-artifício", "requirements": [{"requirement": "máx. de pacientes:", "qty": "3"}], "credits": "100"}
+{
+ "missionId": "212",
+ "missionName": "Lesão por uso indevido de fogo-de-artifício",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "3"
+  }
+ ],
+ "credits": "100",
+ "version": "230444561246722629600674015286249156723"
+}

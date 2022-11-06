@@ -1,1 +1,20 @@
-{"missionId": "674", "missionName": "Aanhouding verdachte in winkelcentrum", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "biketeams", "qty": "1"}, {"requirement": "biketeams, indien beschikbaar", "qty": "Ja"}], "credits": "1055"}
+{
+ "missionId": "674",
+ "missionName": "Aanhouding verdachte in winkelcentrum",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "1"
+  },
+  {
+   "requirement": "biketeams, indien beschikbaar",
+   "qty": "Ja"
+  }
+ ],
+ "credits": "1055",
+ "version": "231619837420037133364091513217206357316"
+}

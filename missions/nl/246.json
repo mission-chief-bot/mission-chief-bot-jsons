@@ -1,1 +1,12 @@
-{"missionId": "246", "missionName": "Persoon vermist", "requirements": [{"requirement": "noodhulpeenheden", "qty": "4"}], "credits": "600"}
+{
+ "missionId": "246",
+ "missionName": "Persoon vermist",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  }
+ ],
+ "credits": "600",
+ "version": "6715283290874441944092011254473882137"
+}

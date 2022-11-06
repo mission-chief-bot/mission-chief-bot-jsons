@@ -1,1 +1,48 @@
-{"missionId": "375", "missionName": "Fire in the stadium (Large)", "requirements": [{"requirement": "fire engines", "qty": "10"}, {"requirement": "turntable ladder trucks", "qty": "2"}, {"requirement": "support vehicles", "qty": "3"}, {"requirement": "major rescue vehicles", "qty": "3"}, {"requirement": "water carriers", "qty": "3"}, {"requirement": "police cars", "qty": "5"}, {"requirement": "hazmat units", "qty": "1"}, {"requirement": "basu", "qty": "1"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "25"}], "credits": "9500"}
+{
+ "missionId": "375",
+ "missionName": "Fire in the stadium (Large)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "10"
+  },
+  {
+   "requirement": "turntable ladder trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "3"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "hazmat units",
+   "qty": "1"
+  },
+  {
+   "requirement": "basu",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "25"
+  }
+ ],
+ "credits": "9500",
+ "version": "179137231680927603082853439049483154593"
+}

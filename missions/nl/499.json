@@ -1,1 +1,12 @@
-{"missionId": "499", "missionName": "Verkeersongeval materieel", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "499",
+ "missionName": "Verkeersongeval materieel",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "9335220297324208735521823279345853197"
+}

@@ -1,1 +1,12 @@
-{"missionId": "559", "missionName": "Suspicious boat", "requirements": [{"requirement": "patrol boats", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "559",
+ "missionName": "Suspicious boat",
+ "requirements": [
+  {
+   "requirement": "patrol boats",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "118986414035682386199421131825675975806"
+}

@@ -1,1 +1,12 @@
-{"missionId": "0", "missionName": "Hořící popelnice", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "0",
+ "missionName": "Hořící popelnice",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "192267620134304710822763695979013860248"
+}

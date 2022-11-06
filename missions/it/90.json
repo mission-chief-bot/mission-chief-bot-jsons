@@ -1,1 +1,12 @@
-{"missionId": "90", "missionName": "Fermata dell'autobus in fiamme a causa di fuochi d'artificio", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "90",
+ "missionName": "Fermata dell'autobus in fiamme a causa di fuochi d'artificio",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "146646904429144597865909719939184933638"
+}

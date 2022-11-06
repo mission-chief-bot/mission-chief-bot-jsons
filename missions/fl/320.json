@@ -1,1 +1,12 @@
-{"missionId": "320", "missionName": "762 Verenvuoto (uro.)", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "250"}
+{
+ "missionId": "320",
+ "missionName": "762 Verenvuoto (uro.)",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "250",
+ "version": "162063682628390100232401056710939706290"
+}

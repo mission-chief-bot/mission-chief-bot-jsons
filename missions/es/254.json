@@ -1,1 +1,12 @@
-{"missionId": "254", "missionName": "Pareja con empacho por comer mucho chocolate", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "254",
+ "missionName": "Pareja con empacho por comer mucho chocolate",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "75320689638338098794189498197432652890"
+}

@@ -1,1 +1,16 @@
-{"missionId": "362", "missionName": "Skadegörelse, skolbyggnad", "requirements": [{"requirement": "polisbilar", "qty": "3"}, {"requirement": "hundenheter", "qty": "2"}], "credits": "530"}
+{
+ "missionId": "362",
+ "missionName": "Skadegörelse, skolbyggnad",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "2"
+  }
+ ],
+ "credits": "530",
+ "version": "288287209319631269361361645811703737497"
+}

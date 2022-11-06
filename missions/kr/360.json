@@ -1,1 +1,24 @@
-{"missionId": "360", "missionName": "무장 차량 추격", "requirements": [{"requirement": "경찰 및 공공 안전", "qty": "2"}, {"requirement": "경찰차", "qty": "3"}, {"requirement": "swat 대원", "qty": "6"}, {"requirement": "최대 환자", "qty": "3"}], "credits": "2000"}
+{
+ "missionId": "360",
+ "missionName": "무장 차량 추격",
+ "requirements": [
+  {
+   "requirement": "경찰 및 공공 안전",
+   "qty": "2"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "3"
+  },
+  {
+   "requirement": "swat 대원",
+   "qty": "6"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "3"
+  }
+ ],
+ "credits": "2000",
+ "version": "146163255644620060891309443407938395642"
+}

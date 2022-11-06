@@ -1,1 +1,12 @@
-{"missionId": "80", "missionName": "Горит рождественский венок", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "80",
+ "missionName": "Горит рождественский венок",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "18665884216570482622514006112374308767"
+}

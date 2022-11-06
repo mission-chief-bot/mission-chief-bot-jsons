@@ -1,1 +1,12 @@
-{"missionId": "241", "missionName": "Sabotáž výročních jukeboxů", "requirements": [{"requirement": "policejní automobily", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "241",
+ "missionName": "Sabotáž výročních jukeboxů",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "181241450836443331629407203929034952864"
+}

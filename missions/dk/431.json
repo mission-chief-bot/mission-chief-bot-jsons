@@ -1,1 +1,12 @@
-{"missionId": "431", "missionName": "Ransagning af virksomhed", "requirements": [{"requirement": "påkrævede politibiler", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "431",
+ "missionName": "Ransagning af virksomhed",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "71995612979644503831225714550271544615"
+}

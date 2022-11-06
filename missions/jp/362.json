@@ -1,1 +1,12 @@
-{"missionId": "362", "missionName": "無許可のテクノパーティー", "requirements": [{"requirement": "警察車両", "qty": "10"}], "credits": "14500"}
+{
+ "missionId": "362",
+ "missionName": "無許可のテクノパーティー",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "10"
+  }
+ ],
+ "credits": "14500",
+ "version": "93716702384052961239801864724383179096"
+}

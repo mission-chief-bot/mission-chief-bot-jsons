@@ -1,1 +1,12 @@
-{"missionId": "182", "missionName": "노상 판매 시장 순찰", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "182",
+ "missionName": "노상 판매 시장 순찰",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "96170073516691599375695424563354007503"
+}

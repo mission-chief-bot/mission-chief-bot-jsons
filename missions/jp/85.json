@@ -1,1 +1,12 @@
-{"missionId": "85", "missionName": "イースターエッグ泥棒", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "85",
+ "missionName": "イースターエッグ泥棒",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "104967043643980864629499075172123637370"
+}

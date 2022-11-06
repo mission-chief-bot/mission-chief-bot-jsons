@@ -1,1 +1,12 @@
-{"missionId": "87", "missionName": "Frankenstein sighted", "requirements": [{"requirement": "police cars", "qty": "3"}], "credits": "550"}
+{
+ "missionId": "87",
+ "missionName": "Frankenstein sighted",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  }
+ ],
+ "credits": "550",
+ "version": "121968841599026095385808367783381922452"
+}

@@ -1,1 +1,12 @@
-{"missionId": "719", "missionName": "Klaplong", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "719",
+ "missionName": "Klaplong",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "298960686492229596970469757937370703359"
+}

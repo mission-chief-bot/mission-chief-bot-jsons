@@ -1,1 +1,20 @@
-{"missionId": "128", "missionName": "Auffahrunfall", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "128",
+ "missionName": "Auffahrunfall",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "35927719622238734345790350085640755789"
+}

@@ -1,1 +1,12 @@
-{"missionId": "105", "missionName": "773 Allerginen reaktio", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "105",
+ "missionName": "773 Allerginen reaktio",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "96481272135763657972302155893966657376"
+}

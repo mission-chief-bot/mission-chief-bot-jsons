@@ -1,1 +1,20 @@
-{"missionId": "560", "missionName": "Absicherung Motocrossrennen", "requirements": [{"requirement": "rtw", "qty": "4"}, {"requirement": "gw-san", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "560",
+ "missionName": "Absicherung Motocrossrennen",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "4"
+  },
+  {
+   "requirement": "gw-san",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "101441984063355835318616044785449654604"
+}

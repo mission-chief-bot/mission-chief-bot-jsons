@@ -1,1 +1,12 @@
-{"missionId": "419", "missionName": "441 Kaatunut rakennusteline", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "419",
+ "missionName": "441 Kaatunut rakennusteline",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "31118879633000570871159977854978368724"
+}

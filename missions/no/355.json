@@ -1,1 +1,12 @@
-{"missionId": "355", "missionName": "Hypotermi etter å ha svømt i kaldt vann", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "355",
+ "missionName": "Hypotermi etter å ha svømt i kaldt vann",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "181819371819806909804253798808538221142"
+}

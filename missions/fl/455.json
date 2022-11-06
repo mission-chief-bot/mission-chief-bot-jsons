@@ -1,1 +1,16 @@
-{"missionId": "455", "missionName": "623 Ajotapavalvonta", "requirements": [{"requirement": "liikenneryhmät", "qty": "1"}, {"requirement": "poliisiautot", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "455",
+ "missionName": "623 Ajotapavalvonta",
+ "requirements": [
+  {
+   "requirement": "liikenneryhmät",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "302242332245723200868272120397559849272"
+}

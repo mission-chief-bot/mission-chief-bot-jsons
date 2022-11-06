@@ -1,1 +1,12 @@
-{"missionId": "372", "missionName": "H32 Raivausharjoitus", "requirements": [{"requirement": "raskaat pelastusautot", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "372",
+ "missionName": "H32 Raivausharjoitus",
+ "requirements": [
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "307722089923927570580674181840901982644"
+}

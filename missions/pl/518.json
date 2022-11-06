@@ -1,1 +1,16 @@
-{"missionId": "518", "missionName": "Pożar w składowisku złomu", "requirements": [{"requirement": "samochody pożarnicze", "qty": "3"}, {"requirement": "slop lub slrr", "qty": "1"}], "credits": "2100"}
+{
+ "missionId": "518",
+ "missionName": "Pożar w składowisku złomu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  }
+ ],
+ "credits": "2100",
+ "version": "286461130053205908424203413291748057704"
+}

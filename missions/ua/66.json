@@ -1,1 +1,16 @@
-{"missionId": "66", "missionName": "Займання у приміщенні", "requirements": [{"requirement": "пожежні машини", "qty": "2"}, {"requirement": "пожежні автодрабини", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "66",
+ "missionName": "Займання у приміщенні",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "2"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "254432294962839213569765382626925849810"
+}

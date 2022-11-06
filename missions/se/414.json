@@ -1,1 +1,32 @@
-{"missionId": "414", "missionName": "Trafikolycka, lastbil - påkörd", "requirements": [{"requirement": "släckbilar", "qty": "3"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "kemskyddsenhet", "qty": "1"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "414",
+ "missionName": "Trafikolycka, lastbil - påkörd",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "kemskyddsenhet",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "27004490564634391892490873025361421118"
+}

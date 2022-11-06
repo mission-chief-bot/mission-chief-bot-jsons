@@ -1,1 +1,20 @@
-{"missionId": "112", "missionName": "Vehículo de mercancía pesada en llamas", "requirements": [{"requirement": "camiones de bomberos", "qty": "3"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}, {"requirement": "coches patrulla", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "112",
+ "missionName": "Vehículo de mercancía pesada en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "3"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "26289260115426685877455788366830221385"
+}

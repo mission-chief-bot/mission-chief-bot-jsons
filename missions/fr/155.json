@@ -1,1 +1,16 @@
-{"missionId": "155", "missionName": "AVP VL contre animal", "requirements": [{"requirement": "voitures de police es", "qty": "1"}, {"requirement": "max. patients", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "155",
+ "missionName": "AVP VL contre animal",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "331067376147758852356486911281256658158"
+}

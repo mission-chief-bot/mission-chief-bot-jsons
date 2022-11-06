@@ -1,1 +1,16 @@
-{"missionId": "489", "missionName": "Guest's anniversary balloon is stuck in tree", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "aerial appliance trucks", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "489",
+ "missionName": "Guest's anniversary balloon is stuck in tree",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "86666485882792446788299309538512250092"
+}

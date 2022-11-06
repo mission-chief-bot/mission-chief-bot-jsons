@@ -1,1 +1,40 @@
-{"missionId": "427", "missionName": "Kirkebrann", "requirements": [{"requirement": "brannbiler", "qty": "10"}, {"requirement": "nødvendig stigebil", "qty": "2"}, {"requirement": "innsatsledere fra brann", "qty": "3"}, {"requirement": "tungredningsbiler", "qty": "2"}, {"requirement": "tankbiler", "qty": "2"}, {"requirement": "røykdykkere", "qty": "1"}, {"requirement": "politibiler", "qty": "4"}, {"requirement": "maks pasienter", "qty": "15"}], "credits": "6000"}
+{
+ "missionId": "427",
+ "missionName": "Kirkebrann",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "nødvendig stigebil",
+   "qty": "2"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "3"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "røykdykkere",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "15"
+  }
+ ],
+ "credits": "6000",
+ "version": "94218285992131605742471162959957894531"
+}

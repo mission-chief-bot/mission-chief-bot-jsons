@@ -1,1 +1,12 @@
-{"missionId": "409", "missionName": "Bulky waste ignited by fireworks", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "440"}
+{
+ "missionId": "409",
+ "missionName": "Bulky waste ignited by fireworks",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "440",
+ "version": "129766298277535109900723894155219979747"
+}

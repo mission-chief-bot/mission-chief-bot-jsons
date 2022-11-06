@@ -1,1 +1,44 @@
-{"missionId": "132-1", "missionName": "Grande incêndio numa fábrica", "requirements": [ {"requirement": "caminhões de bombeiro necessários", "qty": "8"}, {"requirement": "viaturas de batalhão necessárias", "qty": "4"}, {"requirement": "caminhões plataforma necessários", "qty": "2"}, {"requirement": "veículos de resgate pesado necessários", "qty": "2"}, {"requirement": "caminhões pipa necessários", "qty": "1"}, {"requirement": "veículos aéreos móveis necessários", "qty": "1"}, {"requirement": "viaturas de polícia necessárias", "qty": "2"}, {"requirement": "bombas motorizadas necessárias", "qty": "2"}, {"requirement": "máx. de pacientes", "qty": "7"}], "credits": "10400"}
+{
+ "missionId": "132-1",
+ "missionName": "Grande incêndio numa fábrica",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "8"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "4"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos aéreos móveis necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "bombas motorizadas necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "7"
+  }
+ ],
+ "credits": "10400",
+ "version": "201796481662493126756554904494459854386"
+}

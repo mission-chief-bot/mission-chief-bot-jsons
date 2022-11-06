@@ -1,1 +1,16 @@
-{"missionId": "187", "missionName": "Incendio en alcantarilla", "requirements": [{"requirement": "unidades de mando y comunicaciones", "qty": "1"}, {"requirement": "camiones de bomberos", "qty": "2"}], "credits": "210"}
+{
+ "missionId": "187",
+ "missionName": "Incendio en alcantarilla",
+ "requirements": [
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  }
+ ],
+ "credits": "210",
+ "version": "224532780679227600887817445227459918316"
+}

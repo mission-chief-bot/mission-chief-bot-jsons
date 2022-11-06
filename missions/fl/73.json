@@ -1,1 +1,28 @@
-{"missionId": "73", "missionName": "204 Vakava linja-auto-onnettomuus", "requirements": [{"requirement": "paloautot", "qty": "4"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "nostolava-autot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "poliisiautot", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "73",
+ "missionName": "204 Vakava linja-auto-onnettomuus",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "316259807950980819969515450150428678931"
+}

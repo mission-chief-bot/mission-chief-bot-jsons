@@ -1,1 +1,12 @@
-{"missionId": "98", "missionName": "Požár velikonočního košíku", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "98",
+ "missionName": "Požár velikonočního košíku",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "325620310868918614548547680557327790530"
+}

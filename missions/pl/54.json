@@ -1,1 +1,12 @@
-{"missionId": "54", "missionName": "Incydent z zaparkowanym pojazdem", "requirements": [{"requirement": "radiowozy", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "54",
+ "missionName": "Incydent z zaparkowanym pojazdem",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "11484599165118136396462538659075747948"
+}

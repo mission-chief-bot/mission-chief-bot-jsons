@@ -1,1 +1,16 @@
-{"missionId": "416", "missionName": "Humo en una vivienda unifamiliar", "requirements": [{"requirement": "camiones de bomberos", "qty": "4"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "416",
+ "missionName": "Humo en una vivienda unifamiliar",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "4"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "31381503608203548433115055715443689753"
+}

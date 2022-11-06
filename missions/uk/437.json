@@ -1,1 +1,32 @@
-{"missionId": "437", "missionName": "Lightning strike in rabbit hole", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "rescue support vehicles", "qty": "1"}, {"requirement": "aerial appliance trucks", "qty": "1"}, {"requirement": "fire officers", "qty": "1"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "437",
+ "missionName": "Lightning strike in rabbit hole",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "226969300681690139550923323894340322810"
+}

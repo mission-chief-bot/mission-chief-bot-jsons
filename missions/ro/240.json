@@ -1,1 +1,28 @@
-{"missionId": "240", "missionName": "Persoană sub tren", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "4"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "4"}, {"requirement": "vehicule grele de salvare necesare", "qty": "2"}, {"requirement": "mașini de poliție necesare", "qty": "5"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "7000"}
+{
+ "missionId": "240",
+ "missionName": "Persoană sub tren",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "4"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "4"
+  },
+  {
+   "requirement": "vehicule grele de salvare necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "5"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "7000",
+ "version": "136096170937034532951126136501683721296"
+}

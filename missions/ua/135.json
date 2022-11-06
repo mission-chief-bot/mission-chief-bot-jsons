@@ -1,1 +1,12 @@
-{"missionId": "135", "missionName": "Людина під поваленим деревом", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "135",
+ "missionName": "Людина під поваленим деревом",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "221908680171914691191266442857231789785"
+}

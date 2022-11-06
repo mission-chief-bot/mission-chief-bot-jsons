@@ -1,1 +1,32 @@
-{"missionId": "406", "missionName": "Arbetsplatsolycka - gruva, kollaps", "requirements": [{"requirement": "släckbilar", "qty": "10"}, {"requirement": "lastväxlare", "qty": "4"}, {"requirement": "brandbefäl", "qty": "4"}, {"requirement": "polisbilar", "qty": "3"}, {"requirement": "kemskyddsenhet", "qty": "2"}, {"requirement": "mest patienter", "qty": "25"}], "credits": "9000"}
+{
+ "missionId": "406",
+ "missionName": "Arbetsplatsolycka - gruva, kollaps",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "10"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "4"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "4"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "kemskyddsenhet",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "25"
+  }
+ ],
+ "credits": "9000",
+ "version": "48583239084319255788941855284079838451"
+}

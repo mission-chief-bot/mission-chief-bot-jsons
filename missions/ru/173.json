@@ -1,1 +1,12 @@
-{"missionId": "173", "missionName": "Человек на путях", "requirements": [{"requirement": "полицейские автомобили", "qty": "3"}], "credits": "0"}
+{
+ "missionId": "173",
+ "missionName": "Человек на путях",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "3"
+  }
+ ],
+ "credits": "0",
+ "version": "110612535326289013101281563613623696608"
+}

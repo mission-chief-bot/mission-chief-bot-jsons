@@ -1,1 +1,12 @@
-{"missionId": "442", "missionName": "Ejendom Skadet", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "442",
+ "missionName": "Ejendom Skadet",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "180401261866674985250016864079129076245"
+}

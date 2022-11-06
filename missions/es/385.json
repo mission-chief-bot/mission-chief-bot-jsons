@@ -1,1 +1,24 @@
-{"missionId": "385", "missionName": "Incidente en una mina", "requirements": [{"requirement": "camiones de bomberos", "qty": "8"}, {"requirement": "unidades de mando y comunicaciones", "qty": "2"}, {"requirement": "coches patrulla", "qty": "2"}, {"requirement": "vehículos de materiales peligrosos", "qty": "1"}], "credits": "6000"}
+{
+ "missionId": "385",
+ "missionName": "Incidente en una mina",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "8"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "2"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  },
+  {
+   "requirement": "vehículos de materiales peligrosos",
+   "qty": "1"
+  }
+ ],
+ "credits": "6000",
+ "version": "220087972715213984200081944726235555885"
+}

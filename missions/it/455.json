@@ -1,1 +1,12 @@
-{"missionId": "455", "missionName": "Incendio stufa elettrica", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "455",
+ "missionName": "Incendio stufa elettrica",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "37780216952272992924503506325759609554"
+}

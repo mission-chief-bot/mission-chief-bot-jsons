@@ -1,1 +1,20 @@
-{"missionId": "434", "missionName": "Attaque d'un animal sauvage pendant un pique-nique", "requirements": [{"requirement": "voitures de police es", "qty": "1"}, {"requirement": "max. patients", "qty": "3"}, {"requirement": "min. patients", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "434",
+ "missionName": "Attaque d'un animal sauvage pendant un pique-nique",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "256578835783676103632629487829596015078"
+}

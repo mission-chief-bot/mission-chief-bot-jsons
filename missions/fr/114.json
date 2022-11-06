@@ -1,1 +1,20 @@
-{"missionId": "114", "missionName": "Feu de cafétéria", "requirements": [{"requirement": "fourgons d’incendie", "qty": "4"}, {"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1300"}
+{
+ "missionId": "114",
+ "missionName": "Feu de cafétéria",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "4"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1300",
+ "version": "19738797679917465016601553164164408976"
+}

@@ -1,1 +1,12 @@
-{"missionId": "944", "missionName": "Overtreding gebiedsverbod", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "944",
+ "missionName": "Overtreding gebiedsverbod",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "278629518642325962710718460446386188342"
+}

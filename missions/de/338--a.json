@@ -1,1 +1,16 @@
-{"missionId": "338/a", "missionName": "Motorrad-Brand", "requirements": [{"requirement": "streifenwagen", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "490"}
+{
+ "missionId": "338/a",
+ "missionName": "Motorrad-Brand",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "490",
+ "version": "180111341973074328980113401878229147120"
+}

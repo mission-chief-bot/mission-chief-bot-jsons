@@ -1,1 +1,20 @@
-{"missionId": "5", "missionName": "Ild i værelse", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}, {"requirement": "påkrævede stigevogn", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "5",
+ "missionName": "Ild i værelse",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "69280122267446104219251827137459799781"
+}

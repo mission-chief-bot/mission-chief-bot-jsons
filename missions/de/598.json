@@ -1,1 +1,12 @@
-{"missionId": "598", "missionName": "Schmetterlinge im Bauch", "requirements": [{"requirement": "rtw", "qty": 1}], "credits": "150"}
+{
+ "missionId": "598",
+ "missionName": "Schmetterlinge im Bauch",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": 1
+  }
+ ],
+ "credits": "150",
+ "version": "34862775843998327543788018620670339072"
+}

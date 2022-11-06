@@ -1,1 +1,12 @@
-{"missionId": "405", "missionName": "Požár na karnevalové zábavě", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "405",
+ "missionName": "Požár na karnevalové zábavě",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "24904607105818668849662611628805824224"
+}

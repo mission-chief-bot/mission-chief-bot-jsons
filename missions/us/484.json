@@ -1,1 +1,12 @@
-{"missionId": "484", "missionName": "Accident with chainsaw", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "484",
+ "missionName": "Accident with chainsaw",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "171053778895358006931996035398796012640"
+}

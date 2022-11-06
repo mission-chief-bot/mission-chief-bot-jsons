@@ -1,1 +1,28 @@
-{"missionId": "141", "missionName": "Fuoriuscita dalla cisterna di cioccolato", "requirements": [{"requirement": "aps/abp", "qty": "4"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "funzionari", "qty": "2"}, {"requirement": "pattuglie", "qty": "3"}, {"requirement": "nbcr", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "141",
+ "missionName": "Fuoriuscita dalla cisterna di cioccolato",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "4"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "285780050614914814185867050043893468990"
+}

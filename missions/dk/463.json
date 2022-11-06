@@ -1,1 +1,16 @@
-{"missionId": "463", "missionName": "Aggressiv togpassager", "requirements": [{"requirement": "påkrævede politibiler", "qty": "4"}, {"requirement": "maks. antal patienter", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "463",
+ "missionName": "Aggressiv togpassager",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "240736848372574021757993507500035270384"
+}

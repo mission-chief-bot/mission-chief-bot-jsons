@@ -1,1 +1,44 @@
-{"missionId": "289/a", "missionName": "Feu d'appartement - IGH", "requirements": [{"requirement": "fourgons d’incendie", "qty": "4"}, {"requirement": "moyen elévateur aérien", "qty": "2"}, {"requirement": "vlhr", "qty": "4"}, {"requirement": "DSM","qty": "1"}, {"requirement": "véhicules poste de commandement", "qty": "1"}, {"requirement": "max. patients", "qty": "20"}, {"requirement": "camions dévidoir", "qty": "3"}, {"requirement": "motopompes", "qty": "1"}, {"requirement": "DSM","qty": "1"}], "credits": "6800"}
+{
+ "missionId": "289/a",
+ "missionName": "Feu d'appartement - IGH",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "4"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "2"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "4"
+  },
+  {
+   "requirement": "DSM",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "20"
+  },
+  {
+   "requirement": "camions dévidoir",
+   "qty": "3"
+  },
+  {
+   "requirement": "motopompes",
+   "qty": "1"
+  },
+  {
+   "requirement": "DSM",
+   "qty": "1"
+  }
+ ],
+ "credits": "6800",
+ "version": "102041630719072273753072618000986272240"
+}

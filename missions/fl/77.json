@@ -1,1 +1,12 @@
-{"missionId": "77", "missionName": "745 Loukkaantunut juoksija", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "77",
+ "missionName": "745 Loukkaantunut juoksija",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "280160721578015602722680449707835054819"
+}

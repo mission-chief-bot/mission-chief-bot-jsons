@@ -1,1 +1,12 @@
-{"missionId": "189", "missionName": "Kontrollerad brand, liten", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "800"}
+{
+ "missionId": "189",
+ "missionName": "Kontrollerad brand, liten",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "800",
+ "version": "257267392791801341967581329507318059877"
+}

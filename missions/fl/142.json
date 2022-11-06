@@ -1,1 +1,16 @@
-{"missionId": "142", "missionName": "07 Huumausainerikos", "requirements": [{"requirement": "poliisiautot", "qty": "4"}, {"requirement": "koirapartiot", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "142",
+ "missionName": "07 Huumausainerikos",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "77433748553933382731013882564418810009"
+}

@@ -1,1 +1,12 @@
-{"missionId": "130", "missionName": "Convention des cloches de Pâques", "requirements": [{"requirement": "voitures de police es", "qty": "6"}], "credits": "1000"}
+{
+ "missionId": "130",
+ "missionName": "Convention des cloches de Pâques",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "6"
+  }
+ ],
+ "credits": "1000",
+ "version": "177792875004698199064058400511638845462"
+}

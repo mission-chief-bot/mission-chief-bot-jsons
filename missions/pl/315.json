@@ -1,1 +1,28 @@
-{"missionId": "315", "missionName": "Niezidentyfikowana Substancja Chemiczna", "requirements": [{"requirement": "samochody pożarnicze", "qty": "2"}, {"requirement": "samochody spgaz", "qty": "1"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "sp rchem", "qty": "2"}, {"requirement": "radiowozy", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "315",
+ "missionName": "Niezidentyfikowana Substancja Chemiczna",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "274493762472881669418561542087020181580"
+}

@@ -1,1 +1,12 @@
-{"missionId": "380", "missionName": "Storm drain clogged with leaves", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "380",
+ "missionName": "Storm drain clogged with leaves",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "4241890415727776076699008403865639752"
+}

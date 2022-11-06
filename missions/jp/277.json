@@ -1,1 +1,12 @@
-{"missionId": "277", "missionName": "落ち葉の山の炎上", "requirements": [{"requirement": "消防車", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "277",
+ "missionName": "落ち葉の山の炎上",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "223999676082171364691267332186005771921"
+}

@@ -1,1 +1,12 @@
-{"missionId": "151", "missionName": "Essouflement", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "151",
+ "missionName": "Essouflement",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "101722266959610854463081224385821813856"
+}

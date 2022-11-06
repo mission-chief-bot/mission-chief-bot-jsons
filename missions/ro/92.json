@@ -1,1 +1,16 @@
-{"missionId": "92", "missionName": "Accident rutier cu animale", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "92",
+ "missionName": "Accident rutier cu animale",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "7117936478311788405916166519435265588"
+}

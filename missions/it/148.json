@@ -1,1 +1,16 @@
-{"missionId": "148", "missionName": "Bonifica insetti", "requirements": [{"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "aps/abp", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "148",
+ "missionName": "Bonifica insetti",
+ "requirements": [
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "125263621191125113790949339974229772331"
+}

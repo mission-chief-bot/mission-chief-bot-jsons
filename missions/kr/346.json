@@ -1,1 +1,20 @@
-{"missionId": "346", "missionName": "스포츠 경기 감독", "requirements": [{"requirement": "경찰 및 공공 안전", "qty": "2"}, {"requirement": "경찰차", "qty": "4"}, {"requirement": "진압 경찰 그룹 차량", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "346",
+ "missionName": "스포츠 경기 감독",
+ "requirements": [
+  {
+   "requirement": "경찰 및 공공 안전",
+   "qty": "2"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "4"
+  },
+  {
+   "requirement": "진압 경찰 그룹 차량",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "237995854717616442398142740360953653163"
+}

@@ -1,1 +1,12 @@
-{"missionId": "553", "missionName": "Hennepkwekerij aangetroffen", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "500"}
+{
+ "missionId": "553",
+ "missionName": "Hennepkwekerij aangetroffen",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "500",
+ "version": "82778828649223955881423866836087540141"
+}

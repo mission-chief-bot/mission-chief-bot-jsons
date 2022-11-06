@@ -1,1 +1,12 @@
-{"missionId": "178", "missionName": "Hemorrhage", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "178",
+ "missionName": "Hemorrhage",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "265043589655136453759018976292698194160"
+}

@@ -1,1 +1,12 @@
-{"missionId": "331", "missionName": "La coppia ha mangiato troppo cioccolato", "requirements": [{"requirement": "max pazienti", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "331",
+ "missionName": "La coppia ha mangiato troppo cioccolato",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "90949068059191310913722199825062539781"
+}

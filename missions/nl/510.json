@@ -1,1 +1,16 @@
-{"missionId": "510", "missionName": "Brand in schuurtje", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "510",
+ "missionName": "Brand in schuurtje",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "144642986689804537017485862797395923784"
+}

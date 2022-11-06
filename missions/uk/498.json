@@ -1,1 +1,16 @@
-{"missionId": "498", "missionName": "Papercut from opening anniversary presents", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "minimum number of patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "498",
+ "missionName": "Papercut from opening anniversary presents",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "91027041058834935993075182606602442536"
+}

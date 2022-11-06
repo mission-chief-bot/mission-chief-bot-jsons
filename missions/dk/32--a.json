@@ -1,1 +1,16 @@
-{"missionId": "32/a", "missionName": "Ild i landbrugsmaskine", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"},  {"requirement": "skum tender påkrævet", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "32/a",
+ "missionName": "Ild i landbrugsmaskine",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "skum tender påkrævet",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "222570510977100417149924412254419372497"
+}

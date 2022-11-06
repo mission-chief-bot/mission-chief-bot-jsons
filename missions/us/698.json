@@ -1,1 +1,68 @@
-{"missionId": "698", "missionName": "Airplane Crash in Urban Area with Explosion", "requirements": [{"requirement": "firetrucks", "qty": "15"}, {"requirement": "platform trucks", "qty": "5"}, {"requirement": "battalion chief vehicles", "qty": "5"}, {"requirement": "mobile air vehicles", "qty": "3"}, {"requirement": "heavy rescue vehicles", "qty": "6"}, {"requirement": "arff", "qty": "5"}, {"requirement": "mobile command vehicles", "qty": "2"}, {"requirement": "hazmat vehicles", "qty": "3"}, {"requirement": "police cars", "qty": "10"}, {"requirement": "sheriffs", "qty": "2"}, {"requirement": "fbi bomb technician vehicles", "qty": "1"}, {"requirement": "fbi investigation wagons", "qty": "2"}, {"requirement": "fbi mobile command centers", "qty": "1"}, {"requirement": "fbi units", "qty": "2"}, {"requirement": "max. patients", "qty": "35"}], "credits": "22500"}
+{
+ "missionId": "698",
+ "missionName": "Airplane Crash in Urban Area with Explosion",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "15"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "5"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "5"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "6"
+  },
+  {
+   "requirement": "arff",
+   "qty": "5"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "10"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "2"
+  },
+  {
+   "requirement": "fbi bomb technician vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fbi investigation wagons",
+   "qty": "2"
+  },
+  {
+   "requirement": "fbi mobile command centers",
+   "qty": "1"
+  },
+  {
+   "requirement": "fbi units",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "35"
+  }
+ ],
+ "credits": "22500",
+ "version": "56703337057694295600431911514737100528"
+}

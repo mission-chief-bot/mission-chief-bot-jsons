@@ -1,1 +1,12 @@
-{"missionId": "24", "missionName": "Brandend bushokje", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "24",
+ "missionName": "Brandend bushokje",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "35533441713882801825075309364553058293"
+}

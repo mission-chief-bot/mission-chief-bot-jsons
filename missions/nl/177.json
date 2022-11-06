@@ -1,1 +1,12 @@
-{"missionId": "177", "missionName": "Gevallen persoon door gladheid", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "177",
+ "missionName": "Gevallen persoon door gladheid",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "215406429522540033406258895153308052399"
+}

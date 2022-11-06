@@ -1,1 +1,32 @@
-{"missionId": "418", "missionName": "Medium Bushfire Staging Area", "requirements": [{"requirement": "support vehicles", "qty": "3"}, {"requirement": "bulk water tankers", "qty": "2"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "brush trucks", "qty": "4"}, {"requirement": "fire engines", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "418",
+ "missionName": "Medium Bushfire Staging Area",
+ "requirements": [
+  {
+   "requirement": "support vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "bulk water tankers",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "brush trucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "223974257590749169596499775408365076880"
+}

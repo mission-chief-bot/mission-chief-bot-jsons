@@ -1,1 +1,12 @@
-{"missionId": "60", "missionName": "Požiar športovej haly", "requirements": [{"requirement": "hasičské automobily", "qty": "5"}], "credits": "2000"}
+{
+ "missionId": "60",
+ "missionName": "Požiar športovej haly",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "5"
+  }
+ ],
+ "credits": "2000",
+ "version": "275414151210169601948457284170463927255"
+}

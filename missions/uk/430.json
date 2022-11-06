@@ -1,1 +1,12 @@
-{"missionId": "430", "missionName": "Food poisoning from wild berries", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "430",
+ "missionName": "Food poisoning from wild berries",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "216048577507492657393129202475370901350"
+}

@@ -1,1 +1,28 @@
-{"missionId": "145", "missionName": "530 VIP-esiintyminen", "requirements": [{"requirement": "poliisihelikopteritukikohta", "qty": "1"}, {"requirement": "poliisiautot", "qty": "6"}, {"requirement": "poliisihelikopterit", "qty": "1"}, {"requirement": "koirapartiot", "qty": "2"}, {"requirement": "vati-henkilöt", "qty": "10"}], "credits": "6000"}
+{
+ "missionId": "145",
+ "missionName": "530 VIP-esiintyminen",
+ "requirements": [
+  {
+   "requirement": "poliisihelikopteritukikohta",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "6"
+  },
+  {
+   "requirement": "poliisihelikopterit",
+   "qty": "1"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "2"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "10"
+  }
+ ],
+ "credits": "6000",
+ "version": "114671482847193230894105636908005567580"
+}

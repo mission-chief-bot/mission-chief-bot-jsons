@@ -1,1 +1,20 @@
-{"missionId": "124", "missionName": "Incendio de una pila de paja", "requirements": [{"requirement": "camiones de bomberos", "qty": "5"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}, {"requirement": "camiones cisterna", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "124",
+ "missionName": "Incendio de una pila de paja",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "5"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones cisterna",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "205985476547142373708556992870548271572"
+}

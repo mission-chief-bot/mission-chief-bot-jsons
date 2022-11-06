@@ -1,1 +1,16 @@
-{"missionId": "137", "missionName": "マンホール爆発", "requirements": [{"requirement": "指令ユニット", "qty": "1"}, {"requirement": "消防車", "qty": "2"}], "credits": "210"}
+{
+ "missionId": "137",
+ "missionName": "マンホール爆発",
+ "requirements": [
+  {
+   "requirement": "指令ユニット",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  }
+ ],
+ "credits": "210",
+ "version": "225240337970814549060509794287716877144"
+}

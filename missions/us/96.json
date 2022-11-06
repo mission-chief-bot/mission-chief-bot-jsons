@@ -1,1 +1,28 @@
-{"missionId": "96", "missionName": "Missing Person", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "firetrucks", "qty": "2"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "96",
+ "missionName": "Missing Person",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "2314530195438004723908283262488856008"
+}

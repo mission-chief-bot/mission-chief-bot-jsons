@@ -1,1 +1,16 @@
-{"missionId": "125", "missionName": "Redada policial residencial", "requirements": [{"requirement": "coches patrulla", "qty": "4"}, {"requirement": "n.º máximo de presos", "qty": "3"}], "credits": "750"}
+{
+ "missionId": "125",
+ "missionName": "Redada policial residencial",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "3"
+  }
+ ],
+ "credits": "750",
+ "version": "23576657313239306965296318376241126487"
+}

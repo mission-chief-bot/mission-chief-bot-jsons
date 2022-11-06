@@ -1,1 +1,12 @@
-{"missionId": "87", "missionName": "이스터 바구니 화재", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "87",
+ "missionName": "이스터 바구니 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "109039751442424763419085206682122051299"
+}

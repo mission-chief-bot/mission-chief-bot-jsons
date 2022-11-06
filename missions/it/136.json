@@ -1,1 +1,12 @@
-{"missionId": "136", "missionName": "Ladro di uova di Pasqua", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "136",
+ "missionName": "Ladro di uova di Pasqua",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "125190590948833087399887376722740015439"
+}

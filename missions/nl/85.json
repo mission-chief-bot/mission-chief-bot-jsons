@@ -1,1 +1,16 @@
-{"missionId": "85", "missionName": "Aanrijding voetganger (> 30km/h)", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "85",
+ "missionName": "Aanrijding voetganger (> 30km/h)",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "336174290047727635298424953848173719062"
+}

@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "Ild i traktor", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "Ild i traktor",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "220818537196953684173850122798411016568"
+}

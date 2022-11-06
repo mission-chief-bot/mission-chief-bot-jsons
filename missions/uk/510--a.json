@@ -1,1 +1,16 @@
-{"missionId": "510/a", "missionName": "Violent Prison Fight (Small)", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "max. patients", "qty": "2"}], "credits": "7200"}
+{
+ "missionId": "510/a",
+ "missionName": "Violent Prison Fight (Small)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "7200",
+ "version": "211688996307331420543497074380070298384"
+}

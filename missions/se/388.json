@@ -1,1 +1,16 @@
-{"missionId": "388", "missionName": "Attack av vilddjur under picknick", "requirements": [{"requirement": "polisbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "3"}], "credits": "600"}
+{
+ "missionId": "388",
+ "missionName": "Attack av vilddjur under picknick",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "600",
+ "version": "305593115633188879334045461410373672128"
+}

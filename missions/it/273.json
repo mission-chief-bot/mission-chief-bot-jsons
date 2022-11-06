@@ -1,1 +1,12 @@
-{"missionId": "273", "missionName": "Incidente durante la cottura della torta di anniversario", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "273",
+ "missionName": "Incidente durante la cottura della torta di anniversario",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "160833575261678966009300817765274125937"
+}

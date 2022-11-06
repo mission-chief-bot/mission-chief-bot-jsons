@@ -1,1 +1,16 @@
-{"missionId": "264", "missionName": "Feuer auf Balkon durch Feuerwerkskörper", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "drehleitern", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "264",
+ "missionName": "Feuer auf Balkon durch Feuerwerkskörper",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "19835909606492029336884612294393293027"
+}

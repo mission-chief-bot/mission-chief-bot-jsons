@@ -1,1 +1,24 @@
-{"missionId": "659", "missionName": "Ranch fire", "requirements": [{"requirement": "firetrucks", "qty": "6"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "water tankers", "qty": "1"}, {"requirement": "wildland fire engines", "qty": "4"}], "credits": "4500"}
+{
+ "missionId": "659",
+ "missionName": "Ranch fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "6"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "4"
+  }
+ ],
+ "credits": "4500",
+ "version": "191005370954675625872602451015342929813"
+}

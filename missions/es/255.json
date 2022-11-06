@@ -1,1 +1,12 @@
-{"missionId": "255", "missionName": "Mariposas en el estómago", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "255",
+ "missionName": "Mariposas en el estómago",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "79873387336220191380058861594540339626"
+}

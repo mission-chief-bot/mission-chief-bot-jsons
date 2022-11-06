@@ -1,1 +1,12 @@
-{"missionId": "264", "missionName": "Assalto a joalharia", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "264",
+ "missionName": "Assalto a joalharia",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "222514223251436625412790676788786800251"
+}

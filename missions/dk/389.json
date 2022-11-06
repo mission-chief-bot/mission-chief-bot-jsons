@@ -1,1 +1,12 @@
-{"missionId": "389", "missionName": "Bil kapring", "requirements": [{"requirement": "påkrævede politibiler", "qty": "5"}], "credits": "3500"}
+{
+ "missionId": "389",
+ "missionName": "Bil kapring",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "5"
+  }
+ ],
+ "credits": "3500",
+ "version": "27863020266915715151911089668950302955"
+}

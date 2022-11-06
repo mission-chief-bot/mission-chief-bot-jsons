@@ -1,1 +1,12 @@
-{"missionId": "152", "missionName": "Травмированный бегун", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "152",
+ "missionName": "Травмированный бегун",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "280016432697235793892437994619347641696"
+}

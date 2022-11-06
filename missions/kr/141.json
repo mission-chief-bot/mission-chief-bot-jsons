@@ -1,1 +1,20 @@
-{"missionId": "141", "missionName": "공장 소형 화재", "requirements": [{"requirement": "소방차", "qty": "4"}, {"requirement": "지휘차", "qty": "2"}, {"requirement": "구급차", "qty": "3"}], "credits": "2000"}
+{
+ "missionId": "141",
+ "missionName": "공장 소형 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "4"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "2"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "3"
+  }
+ ],
+ "credits": "2000",
+ "version": "73883507504625065522395616268507327155"
+}

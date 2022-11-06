@@ -1,1 +1,12 @@
-{"missionId": "14", "missionName": "Невелике займання на полі", "requirements": [{"requirement": "пожежні машини", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "14",
+ "missionName": "Невелике займання на полі",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "61103409485107851918709980270774880801"
+}

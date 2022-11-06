@@ -1,1 +1,12 @@
-{"missionId": "340", "missionName": "Vol de trophée", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "340",
+ "missionName": "Vol de trophée",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "29489421793180425820893678038787962536"
+}

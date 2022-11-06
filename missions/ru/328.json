@@ -1,1 +1,20 @@
-{"missionId": "328", "missionName": "Возгорание в спальне", "requirements": [{"requirement": "пожарные машины", "qty": "2"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "328",
+ "missionName": "Возгорание в спальне",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "2"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "174907556632054819327883223942394961179"
+}

@@ -1,1 +1,20 @@
-{"missionId": "449", "missionName": "Protest (Large)", "requirements": [{"requirement": "police cars", "qty": "6"}, {"requirement": "mounted units", "qty": "2"}, {"requirement": "max. patients", "qty": "4"}], "credits": "11550"}
+{
+ "missionId": "449",
+ "missionName": "Protest (Large)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "mounted units",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "11550",
+ "version": "63752587086765504612547796414863328748"
+}

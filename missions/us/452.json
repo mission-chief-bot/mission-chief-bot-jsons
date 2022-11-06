@@ -1,1 +1,20 @@
-{"missionId": "452", "missionName": "Motorcycle accident", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "police cars", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "452",
+ "missionName": "Motorcycle accident",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "22098693054225737924725686919460115450"
+}

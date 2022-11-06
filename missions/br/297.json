@@ -1,1 +1,16 @@
-{"missionId": "297", "missionName": "Vendedor ambulante ilegal", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "5"}, {"requirement": "máx. de pacientes", "qty": "2"}], "credits": "3500"}
+{
+ "missionId": "297",
+ "missionName": "Vendedor ambulante ilegal",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "5"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "2"
+  }
+ ],
+ "credits": "3500",
+ "version": "307585421018389571177274096179915768898"
+}

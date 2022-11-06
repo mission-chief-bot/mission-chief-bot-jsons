@@ -1,1 +1,16 @@
-{"missionId": "258", "missionName": "Dezordine la concert", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "3"}, {"requirement": "max. pacienți", "qty": "30"}], "credits": "1150"}
+{
+ "missionId": "258",
+ "missionName": "Dezordine la concert",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "30"
+  }
+ ],
+ "credits": "1150",
+ "version": "168274247863443877314016941300419486578"
+}

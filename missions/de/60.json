@@ -1,6 +1,12 @@
-{"missionId": "60",
- "missionName": "Ladendiebstahl", 
+{
+ "missionId": "60",
+ "missionName": "Ladendiebstahl",
  "requirements": [
-    {"requirement": "streifenwagen", "qty": "1"}
-], 
-"credits": "100"}
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "42225921447043931476313617113288370692"
+}

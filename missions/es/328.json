@@ -1,1 +1,12 @@
-{"missionId": "328", "missionName": "Soplador de hojas fuera de control", "requirements": [{"requirement": "coches patrulla", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "328",
+ "missionName": "Soplador de hojas fuera de control",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "296793555039424386960835910098923441463"
+}

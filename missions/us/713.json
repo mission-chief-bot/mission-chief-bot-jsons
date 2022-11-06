@@ -1,1 +1,12 @@
-{"missionId": "713", "missionName": "Papercut from opening anniversary presents", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "713",
+ "missionName": "Papercut from opening anniversary presents",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "202264704313556442239915486876299851596"
+}

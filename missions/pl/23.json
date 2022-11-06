@@ -1,1 +1,12 @@
-{"missionId": "23", "missionName": "Płonący tłuszcz", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "Płonący tłuszcz",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "73243600635264598443244135441053969516"
+}

@@ -1,1 +1,24 @@
-{"missionId": "159", "missionName": "Pohjaan palanut kurpitsakeitto", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "1"}, {"requirement": "paineilmahuoltoautot", "qty": "1"}, {"requirement": "potilaita enint.", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "159",
+ "missionName": "Pohjaan palanut kurpitsakeitto",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "99979891649595154713665181263107802598"
+}

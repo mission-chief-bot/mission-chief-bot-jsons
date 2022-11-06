@@ -1,1 +1,12 @@
-{"missionId": "211", "missionName": "Patrullering - park", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "211",
+ "missionName": "Patrullering - park",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "64043349783824104786717483940084937570"
+}

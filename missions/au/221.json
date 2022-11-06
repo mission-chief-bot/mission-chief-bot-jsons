@@ -1,1 +1,16 @@
-{"missionId": "221", "missionName": "Manhole fire", "requirements": [{"requirement": "support vehicles", "qty": "1"}, {"requirement": "fire engines", "qty": "2"}], "credits": "210"}
+{
+ "missionId": "221",
+ "missionName": "Manhole fire",
+ "requirements": [
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "210",
+ "version": "136987877361783413188058367545914870590"
+}

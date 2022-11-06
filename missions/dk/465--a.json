@@ -1,1 +1,36 @@
-{"missionId": "465/a", "missionName": "Brand i et tog med brandfarlige produkter", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "5"}, {"requirement": "påkrævede redningsvogn", "qty": "2"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "2"}, {"requirement": "påkrævede ledelses- og kommunikationsmoduler", "qty": "1"}, {"requirement": "påkrævede gift- og kemikaliekøretøjer", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "3"}, {"requirement": "påhængs pumpe påkrævet", "qty": "2"}], "credits": "6800"}
+{
+ "missionId": "465/a",
+ "missionName": "Brand i et tog med brandfarlige produkter",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede ledelses- og kommunikationsmoduler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede gift- og kemikaliekøretøjer",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "påhængs pumpe påkrævet",
+   "qty": "2"
+  }
+ ],
+ "credits": "6800",
+ "version": "304824228473122244417900078815709667594"
+}

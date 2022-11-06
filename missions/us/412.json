@@ -1,1 +1,12 @@
-{"missionId": "412", "missionName": "Burning Bus shelter ignited by fireworks", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "1800"}
+{
+ "missionId": "412",
+ "missionName": "Burning Bus shelter ignited by fireworks",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "1800",
+ "version": "249762046854388311229676049184747830516"
+}

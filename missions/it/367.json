@@ -1,1 +1,16 @@
-{"missionId": "367", "missionName": "Cucina in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "max pazienti", "qty": "2"}], "credits": "1400"}
+{
+ "missionId": "367",
+ "missionName": "Cucina in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "1400",
+ "version": "315690656379636586335455774332947969883"
+}

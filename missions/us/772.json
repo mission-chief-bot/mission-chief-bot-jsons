@@ -1,1 +1,44 @@
-{"missionId": "772", "missionName": "Collision with Jackknifed Semi-Trailer (Major)", "requirements": [{"requirement": "firetrucks", "qty": "11"}, {"requirement": "heavy rescue vehicles", "qty": "4"}, {"requirement": "platform trucks", "qty": "2"}, {"requirement": "battalion chief vehicles", "qty": "3"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "15"}, {"requirement": "sheriffs", "qty": "2"}, {"requirement": "minimum number of patients", "qty": "0"}, {"requirement": "max. patients", "qty": "30"}], "credits": "24000"}
+{
+ "missionId": "772",
+ "missionName": "Collision with Jackknifed Semi-Trailer (Major)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "11"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "15"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "2"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "0"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "30"
+  }
+ ],
+ "credits": "24000",
+ "version": "319667454960843033153744855881251750062"
+}

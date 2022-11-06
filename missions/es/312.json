@@ -1,1 +1,20 @@
-{"missionId": "312", "missionName": "Limpieza de pista", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}, {"requirement": "furgones de útiles varios", "qty": "1"}, {"requirement": "coches patrulla", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "312",
+ "missionName": "Limpieza de pista",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "1"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "292388693322314164852870163861263034400"
+}

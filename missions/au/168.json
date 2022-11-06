@@ -1,1 +1,12 @@
-{"missionId": "168", "missionName": "Injured runner", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "168",
+ "missionName": "Injured runner",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "65533511634521157406260377030492366881"
+}

@@ -1,1 +1,12 @@
-{"missionId": "126", "missionName": "34 Päihtynyt henkilö", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "126",
+ "missionName": "34 Päihtynyt henkilö",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "280839528394312398949692425860594724363"
+}

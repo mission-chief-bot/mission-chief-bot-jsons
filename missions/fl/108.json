@@ -1,1 +1,16 @@
-{"missionId": "108", "missionName": "413 Tavarajunapalo", "requirements": [{"requirement": "paloautot", "qty": "4"}, {"requirement": "johtoautot", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "108",
+ "missionName": "413 Tavarajunapalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "306310334302024576163635509523044836995"
+}

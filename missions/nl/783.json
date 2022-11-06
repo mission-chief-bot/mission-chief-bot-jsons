@@ -1,1 +1,12 @@
-{"missionId": "783", "missionName": "Slagaderlijke bloeding", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "783",
+ "missionName": "Slagaderlijke bloeding",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "331024290535774853903931031981460695980"
+}

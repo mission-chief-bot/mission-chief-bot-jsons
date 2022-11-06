@@ -1,1 +1,12 @@
-{"missionId": "26", "missionName": "Požiar v malom supermarkete", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}], "credits": "1500"}
+{
+ "missionId": "26",
+ "missionName": "Požiar v malom supermarkete",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  }
+ ],
+ "credits": "1500",
+ "version": "101139109666101043548952696682807762997"
+}

@@ -1,1 +1,20 @@
-{"missionId": "743", "missionName": "Schlafzimmer-Feuer durch Kerze", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "743",
+ "missionName": "Schlafzimmer-Feuer durch Kerze",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "166190045548438362238411142998185043911"
+}

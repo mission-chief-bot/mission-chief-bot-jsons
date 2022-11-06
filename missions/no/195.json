@@ -1,1 +1,12 @@
-{"missionId": "195", "missionName": "Monster på rømmen", "requirements": [{"requirement": "politibiler", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "195",
+ "missionName": "Monster på rømmen",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "93402261415619011040545951773558729915"
+}

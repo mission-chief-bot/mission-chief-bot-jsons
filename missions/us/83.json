@@ -1,1 +1,12 @@
-{"missionId": "83", "missionName": "Burning christmas tree", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "870"}
+{
+ "missionId": "83",
+ "missionName": "Burning christmas tree",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "870",
+ "version": "249436176616459779259731215237810521809"
+}

@@ -1,1 +1,20 @@
-{"missionId": "231", "missionName": "Kjellerbrann som følge av fyrverkeri", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "brannbiler", "qty": "3"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "231",
+ "missionName": "Kjellerbrann som følge av fyrverkeri",
+ "requirements": [
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "brannbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "237836360323046876655470857574081416109"
+}

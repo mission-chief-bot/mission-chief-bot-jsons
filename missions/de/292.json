@@ -1,1 +1,12 @@
-{"missionId": "292", "missionName": "Tankbetrug", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "292",
+ "missionName": "Tankbetrug",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "305314699538133601274876707432498386143"
+}

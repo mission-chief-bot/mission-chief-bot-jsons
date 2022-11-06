@@ -1,1 +1,12 @@
-{"missionId": "354", "missionName": "Overvannsledning tettet av løv", "requirements": [{"requirement": "brannbiler", "qty": 1}], "credits": "300"}
+{
+ "missionId": "354",
+ "missionName": "Overvannsledning tettet av løv",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": 1
+  }
+ ],
+ "credits": "300",
+ "version": "92461453674123545192092900498130794741"
+}

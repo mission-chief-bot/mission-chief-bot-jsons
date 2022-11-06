@@ -1,1 +1,12 @@
-{"missionId": "213", "missionName": "Brennende julekrans", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "213",
+ "missionName": "Brennende julekrans",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "263903826733579770020760805386683259717"
+}

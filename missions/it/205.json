@@ -1,1 +1,12 @@
-{"missionId": "205", "missionName": "Rottura delle acque", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "205",
+ "missionName": "Rottura delle acque",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "267941612759578620834406173789628573080"
+}

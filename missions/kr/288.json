@@ -1,1 +1,16 @@
-{"missionId": "288", "missionName": "디스코장 난동 사건", "requirements": [{"requirement": "경찰차", "qty": "6"}, {"requirement": "최대 환자", "qty": "10"}], "credits": "3000"}
+{
+ "missionId": "288",
+ "missionName": "디스코장 난동 사건",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "6"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "10"
+  }
+ ],
+ "credits": "3000",
+ "version": "32608795380317113927779573213486865442"
+}

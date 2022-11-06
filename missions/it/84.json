@@ -1,1 +1,20 @@
-{"missionId": "84", "missionName": "Collisione multipla", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "84",
+ "missionName": "Collisione multipla",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "259427731630867532522076549009733251188"
+}

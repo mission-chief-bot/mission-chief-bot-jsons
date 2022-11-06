@@ -1,1 +1,12 @@
-{"missionId": "285", "missionName": "Patient fell down the stairs", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "285",
+ "missionName": "Patient fell down the stairs",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "311623239269477627111522220154498296317"
+}

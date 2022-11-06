@@ -1,1 +1,28 @@
-{"missionId": "425", "missionName": "Køretøj kørt ned i kløft", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "7"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "2"}, {"requirement": "påkrævede redningsvogn", "qty": "2"}, {"requirement": "påkrævede politibiler", "qty": "2"}, {"requirement": "maks. antal patienter", "qty": "2"}], "credits": "5500"}
+{
+ "missionId": "425",
+ "missionName": "Køretøj kørt ned i kløft",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "7"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "5500",
+ "version": "98111080547825846764000546094344756484"
+}

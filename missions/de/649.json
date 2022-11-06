@@ -1,1 +1,12 @@
-{"missionId": "649", "missionName": "Knalltrauma", "requirements": [{"requirement": "rtw, naw", "qty": "1"}], "credits": "530"}
+{
+ "missionId": "649",
+ "missionName": "Knalltrauma",
+ "requirements": [
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "530",
+ "version": "69757481430013039730771673689476195812"
+}

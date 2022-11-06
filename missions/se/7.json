@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Brand ute - löv", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Brand ute - löv",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "276640819020095336117556363058230495975"
+}

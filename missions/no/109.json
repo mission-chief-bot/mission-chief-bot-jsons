@@ -1,1 +1,12 @@
-{"missionId": "109", "missionName": "Prioritert oppdrag: Påskeegg jakt", "requirements": [{"requirement": "politibiler", "qty": "6"}], "credits": "1000"}
+{
+ "missionId": "109",
+ "missionName": "Prioritert oppdrag: Påskeegg jakt",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "6"
+  }
+ ],
+ "credits": "1000",
+ "version": "30854774032430802977676781057021456919"
+}

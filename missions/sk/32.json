@@ -1,1 +1,12 @@
-{"missionId": "32", "missionName": "Požiar kombajnu", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "32",
+ "missionName": "Požiar kombajnu",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "166071349688261539703424563416418167900"
+}

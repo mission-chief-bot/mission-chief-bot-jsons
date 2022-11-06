@@ -1,1 +1,36 @@
-{"missionId": "396", "missionName": "Crowd Control", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "k-9 units", "qty": "5"}, {"requirement": "riot police group vehicles", "qty": "2"}, {"requirement": "riot police suvs", "qty": "3"}, {"requirement": "riot police equipment vehicles", "qty": "1"}, {"requirement": "senior sergeants", "qty": "1"}, {"requirement": "tog personnel", "qty": "2"}], "credits": "3500"}
+{
+ "missionId": "396",
+ "missionName": "Crowd Control",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "5"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police suvs",
+   "qty": "3"
+  },
+  {
+   "requirement": "riot police equipment vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "1"
+  },
+  {
+   "requirement": "tog personnel",
+   "qty": "2"
+  }
+ ],
+ "credits": "3500",
+ "version": "324279729522770932498548764710821608131"
+}

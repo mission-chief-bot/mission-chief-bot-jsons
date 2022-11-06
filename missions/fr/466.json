@@ -1,1 +1,44 @@
-{"missionId": "466", "missionName": "Incendie de l'église", "requirements": [{"requirement": "fourgons d’incendie", "qty": "10"}, {"requirement": "moyen elévateur aérien", "qty": "2"}, {"requirement": "chefs de groupe ou vlhr", "qty": "3"}, {"requirement": "véhicule de secours routier", "qty": "2"}, {"requirement": "camions-citernes", "qty": "2"}, {"requirement": "véhicules poste de commandement", "qty": "1"}, {"requirement": "assistance respiratoire e", "qty": "1"}, {"requirement": "voitures de police es", "qty": "4"}, {"requirement": "max. patients", "qty": "15"}], "credits": "6000"}
+{
+ "missionId": "466",
+ "missionName": "Incendie de l'église",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "10"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "2"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "3"
+  },
+  {
+   "requirement": "véhicule de secours routier",
+   "qty": "2"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "2"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "assistance respiratoire e",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "15"
+  }
+ ],
+ "credits": "6000",
+ "version": "284072238153868798966843453152142114548"
+}

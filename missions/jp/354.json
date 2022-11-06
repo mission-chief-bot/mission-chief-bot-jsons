@@ -1,1 +1,40 @@
-{"missionId": "354", "missionName": "教会火災", "requirements": [{"requirement": "消防車", "qty": "10"}, {"requirement": "プラットフォームトラック", "qty": "2"}, {"requirement": "消防隊長車両", "qty": "3"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "指令車", "qty": "1"}, {"requirement": "空気充填照明車", "qty": "1"}, {"requirement": "警察車両", "qty": "4"}, {"requirement": "最大患者", "qty": "15"}], "credits": "6000"}
+{
+ "missionId": "354",
+ "missionName": "教会火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "10"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "2"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "3"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "指令車",
+   "qty": "1"
+  },
+  {
+   "requirement": "空気充填照明車",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "4"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "15"
+  }
+ ],
+ "credits": "6000",
+ "version": "86917848349239311882911844470439501564"
+}

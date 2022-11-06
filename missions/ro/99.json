@@ -1,1 +1,11 @@
-{"missionId": "99", "missionName": "\u0218oc termic", "requirements": [{"requirement": "max. pacien\u021bi", "qty": "1"}]}
+{
+ "missionId": "99",
+ "missionName": "Șoc termic",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "version": "183898900817194100870291649286261355272"
+}

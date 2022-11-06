@@ -1,1 +1,12 @@
-{"missionId": "317", "missionName": "15 Vahingonteko", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "777"}
+{
+ "missionId": "317",
+ "missionName": "15 Vahingonteko",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "777",
+ "version": "195262029014598195374918406309148373716"
+}

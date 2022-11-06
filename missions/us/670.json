@@ -1,1 +1,24 @@
-{"missionId": "670", "missionName": "Ambulance accident", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "6"}], "credits": "1500"}
+{
+ "missionId": "670",
+ "missionName": "Ambulance accident",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "1500",
+ "version": "288782762675230606387160087596688438903"
+}

@@ -1,1 +1,28 @@
-{"missionId": "351", "missionName": "Пожар на стадионе (Слабый)", "requirements": [{"requirement": "пожарные машины", "qty": "5"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "цистерны с водой", "qty": "2"}, {"requirement": "полицейские автомобили", "qty": "3"}, {"requirement": "макс. пациенты", "qty": "6"}], "credits": "4000"}
+{
+ "missionId": "351",
+ "missionName": "Пожар на стадионе (Слабый)",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "5"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "1"
+  },
+  {
+   "requirement": "цистерны с водой",
+   "qty": "2"
+  },
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "3"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "6"
+  }
+ ],
+ "credits": "4000",
+ "version": "336807019846315799067319516469671576518"
+}

@@ -1,1 +1,12 @@
-{"missionId": "19", "missionName": "Rimorchio in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "19",
+ "missionName": "Rimorchio in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "219410714186635095822253585519490521493"
+}

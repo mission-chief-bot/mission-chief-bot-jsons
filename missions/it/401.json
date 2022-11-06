@@ -1,1 +1,12 @@
-{"missionId": "401", "missionName": "Bonifica Incendio Boschivo (PICCOLO)", "requirements": [{"requirement": "mezzo aib", "qty": 2}], "credits": "700"}
+{
+ "missionId": "401",
+ "missionName": "Bonifica Incendio Boschivo (PICCOLO)",
+ "requirements": [
+  {
+   "requirement": "mezzo aib",
+   "qty": 2
+  }
+ ],
+ "credits": "700",
+ "version": "271222236499612701625838472746308949679"
+}

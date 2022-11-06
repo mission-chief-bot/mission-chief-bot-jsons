@@ -1,1 +1,16 @@
-{"missionId": "376", "missionName": "Brott mot griftefrid, gravplats", "requirements": [{"requirement": "polisbilar", "qty": "1"}, {"requirement": "hundenheter", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "376",
+ "missionName": "Brott mot griftefrid, gravplats",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "189333129239533396024129273375318358166"
+}

@@ -1,1 +1,24 @@
-{"missionId": "139", "missionName": "Mordforsøg", "requirements": [{"requirement": "påkrævede politibiler", "qty": "6"}, {"requirement": "påkrævede hundepatruljer", "qty": "1"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "139",
+ "missionName": "Mordforsøg",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "6"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "171413884488154143616827812587021064651"
+}

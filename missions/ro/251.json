@@ -1,1 +1,16 @@
-{"missionId": "251", "missionName": "Leziuni grave provocate de cioburi de sticlă", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "251",
+ "missionName": "Leziuni grave provocate de cioburi de sticlă",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "119570328613104956343508044585998638562"
+}

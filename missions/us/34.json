@@ -1,1 +1,12 @@
-{"missionId": "34", "missionName": "Alcoholic intoxication", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "34",
+ "missionName": "Alcoholic intoxication",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "299819614724834167835286693083311571689"
+}

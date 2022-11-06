@@ -1,1 +1,12 @@
-{"missionId": "606", "missionName": "Fire in storage room", "requirements": [{"requirement": "firetrucks", "qty": "3"}], "credits": "850"}
+{
+ "missionId": "606",
+ "missionName": "Fire in storage room",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "3"
+  }
+ ],
+ "credits": "850",
+ "version": "5993210081863712235987860859859921977"
+}

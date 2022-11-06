@@ -1,1 +1,12 @@
-{"missionId": "683", "missionName": "Geweld tegen hulpverleners", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "683",
+ "missionName": "Geweld tegen hulpverleners",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "5171097585628187428424374858373424045"
+}

@@ -1,1 +1,12 @@
-{"missionId": "206", "missionName": "Monster på rymmen", "requirements": [{"requirement": "polisbilar", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "206",
+ "missionName": "Monster på rymmen",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "124959711962838059876201225460266968978"
+}

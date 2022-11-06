@@ -1,1 +1,12 @@
-{"missionId": "494", "missionName": "Object stuck in person", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "494",
+ "missionName": "Object stuck in person",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "36327897796402619799613360236229161295"
+}

@@ -1,1 +1,24 @@
-{"missionId": "425", "missionName": "Misstänkt föremål, bomb - skola", "requirements": [{"requirement": "polisbilar", "qty": "4"}, {"requirement": "släckbilar", "qty": "2"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "hundenheter", "qty": "1"}], "credits": "3700"}
+{
+ "missionId": "425",
+ "missionName": "Misstänkt föremål, bomb - skola",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "1"
+  }
+ ],
+ "credits": "3700",
+ "version": "3209832720019863467654032018926077388"
+}

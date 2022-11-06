@@ -1,1 +1,12 @@
-{"missionId": "337", "missionName": "Amontoado de folhas em chamas", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}], "credits": "320"}
+{
+ "missionId": "337",
+ "missionName": "Amontoado de folhas em chamas",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "320",
+ "version": "61478818249322066533033313027430620783"
+}

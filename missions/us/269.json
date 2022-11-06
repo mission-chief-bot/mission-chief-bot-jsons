@@ -1,1 +1,12 @@
-{"missionId": "269", "missionName": "Transient Ischemic Attack", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "269",
+ "missionName": "Transient Ischemic Attack",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "235946037711887570198749933421682060262"
+}

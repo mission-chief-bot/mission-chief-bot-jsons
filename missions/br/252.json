@@ -1,1 +1,40 @@
-{"missionId": "252", "missionName": "Incêndio em uma Discoteca", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "6"}, {"requirement": "caminhões plataforma necessários", "qty": "2"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "veículos aéreos móveis necessários", "qty": "1"}, {"requirement": "caminhões pipa necessários", "qty": "1"}, {"requirement": "viaturas de polícia necessárias", "qty": "3"}, {"requirement": "máx. de pacientes", "qty": "15"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "10"}], "credits": "5500"}
+{
+ "missionId": "252",
+ "missionName": "Incêndio em uma Discoteca",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "6"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos aéreos móveis necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "3"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "15"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "10"
+  }
+ ],
+ "credits": "5500",
+ "version": "279445019910227963177489158644031339073"
+}

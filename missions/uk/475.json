@@ -1,1 +1,12 @@
-{"missionId": "475", "missionName": "Underground electrical cable fire", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "475",
+ "missionName": "Underground electrical cable fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "253593457475717537242794807980342788737"
+}

@@ -1,1 +1,12 @@
-{"missionId": "30", "missionName": "Fuga de gás", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "30",
+ "missionName": "Fuga de gás",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "113312864963870269756600608001604514083"
+}

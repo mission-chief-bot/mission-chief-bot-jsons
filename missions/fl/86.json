@@ -1,1 +1,12 @@
-{"missionId": "86", "missionName": "783 Selkäkipu", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "86",
+ "missionName": "783 Selkäkipu",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "84295323313867680503285379535929016590"
+}

@@ -1,1 +1,12 @@
-{"missionId": "384", "missionName": "Zatrucie pokarmowe po spożyciu dzikich jagód", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "384",
+ "missionName": "Zatrucie pokarmowe po spożyciu dzikich jagód",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "275178301361479971781158160427645514807"
+}

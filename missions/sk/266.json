@@ -1,1 +1,16 @@
-{"missionId": "266", "missionName": "Výbuch v bankomate", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}, {"requirement": "policajné vozidlá", "qty": "5"}], "credits": "5000"}
+{
+ "missionId": "266",
+ "missionName": "Výbuch v bankomate",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "5"
+  }
+ ],
+ "credits": "5000",
+ "version": "176886758244788239537518990913584694100"
+}

@@ -1,1 +1,12 @@
-{"missionId": "62", "missionName": "Støyklage", "requirements": [ {"requirement": "politibiler", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "62",
+ "missionName": "Støyklage",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "5772160827995121993398414619255534382"
+}

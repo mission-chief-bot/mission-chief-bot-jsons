@@ -1,1 +1,24 @@
-{"missionId": "300", "missionName": "オートバイ同士の衝突", "requirements": [{"requirement": "消防車", "qty": "2"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "警察車両", "qty": "3"}, {"requirement": "最大患者", "qty": "4"}], "credits": "3500"}
+{
+ "missionId": "300",
+ "missionName": "オートバイ同士の衝突",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "4"
+  }
+ ],
+ "credits": "3500",
+ "version": "276118289634886868507437848584727867570"
+}

@@ -1,1 +1,16 @@
-{"missionId": "391", "missionName": "Stort udslip af brændstof fra køretøj", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}, {"requirement": "påkrævede politibiler", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "391",
+ "missionName": "Stort udslip af brændstof fra køretøj",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "239889925958253198347184855737574088553"
+}

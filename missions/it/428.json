@@ -1,1 +1,16 @@
-{"missionId": "428", "missionName": "Trattamento Sanitario Obbligatorio", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "428",
+ "missionName": "Trattamento Sanitario Obbligatorio",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "962492937567104203203740614841023746"
+}

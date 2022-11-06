@@ -1,1 +1,16 @@
-{"missionId": "131", "missionName": "Вооруженное нападение", "requirements": [{"requirement": "полицейские автомобили", "qty": "8"}, {"requirement": "макс. пациенты", "qty": "2"}], "credits": "4100"}
+{
+ "missionId": "131",
+ "missionName": "Вооруженное нападение",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "8"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "2"
+  }
+ ],
+ "credits": "4100",
+ "version": "169246570044844678889751649668053908163"
+}

@@ -1,1 +1,16 @@
-{"missionId": "399", "missionName": "Chokladkanin inlåst i bil", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "polisbilar", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "399",
+ "missionName": "Chokladkanin inlåst i bil",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "334224646851494348909668218474028247251"
+}

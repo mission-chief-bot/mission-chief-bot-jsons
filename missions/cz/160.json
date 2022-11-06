@@ -1,1 +1,16 @@
-{"missionId": "160", "missionName": "Požár skládky", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "8"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "160",
+ "missionName": "Požár skládky",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "8"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "108669882488005224961012365909700872998"
+}

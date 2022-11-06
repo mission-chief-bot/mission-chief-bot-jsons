@@ -1,1 +1,12 @@
-{"missionId": "280", "missionName": "Furto di decorazioni da parte degli invitati", "requirements": [{"requirement": "pattuglie", "qty": "4"}], "credits": "3000"}
+{
+ "missionId": "280",
+ "missionName": "Furto di decorazioni da parte degli invitati",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "2577936295316564411303283239270396288"
+}

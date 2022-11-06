@@ -1,1 +1,12 @@
-{"missionId": "153", "missionName": "362 Henkilö häiriöksi", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "153",
+ "missionName": "362 Henkilö häiriöksi",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "177225276469522088532738637672838332718"
+}

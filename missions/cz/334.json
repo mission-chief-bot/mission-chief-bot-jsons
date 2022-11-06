@@ -1,1 +1,12 @@
-{"missionId": "334", "missionName": "Omrzliny z chladícího spreje", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "334",
+ "missionName": "Omrzliny z chladícího spreje",
+ "requirements": [
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "13983593452614058058255570303231944719"
+}

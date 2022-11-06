@@ -1,1 +1,16 @@
-{"missionId": "234", "missionName": "ild i balkon forårsaget af fyrværkeri", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}, {"requirement": "påkrævede stigevogn", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "234",
+ "missionName": "ild i balkon forårsaget af fyrværkeri",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "64739863045576517085197916215108228673"
+}

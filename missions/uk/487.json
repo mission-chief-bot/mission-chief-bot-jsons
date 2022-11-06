@@ -1,1 +1,16 @@
-{"missionId": "487", "missionName": "Multiple Seizures", "requirements": [{"requirement": "minimum number of patients", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "487",
+ "missionName": "Multiple Seizures",
+ "requirements": [
+  {
+   "requirement": "minimum number of patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "331206649760988123520902255985987141499"
+}

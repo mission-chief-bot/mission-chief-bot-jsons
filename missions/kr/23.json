@@ -1,1 +1,12 @@
-{"missionId": "23", "missionName": "화재 현장(기름)", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "화재 현장(기름)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "51190789925682331517428635483985608837"
+}

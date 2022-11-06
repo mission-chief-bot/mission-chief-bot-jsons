@@ -1,1 +1,12 @@
-{"missionId": "298", "missionName": "Травма от удара о перекладину", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "298",
+ "missionName": "Травма от удара о перекладину",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "299200183337632208724303168668981725818"
+}

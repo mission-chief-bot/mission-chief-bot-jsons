@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "Brennendes Gebüsch", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "Brennendes Gebüsch",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "336031546443094518828568813388543309010"
+}

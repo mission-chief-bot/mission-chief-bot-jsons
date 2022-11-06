@@ -1,1 +1,12 @@
-{"missionId": "212", "missionName": "容疑者の観察", "requirements": [{"requirement": "警察車両", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "212",
+ "missionName": "容疑者の観察",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "120106371965989278882304064721164536442"
+}

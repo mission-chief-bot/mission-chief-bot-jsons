@@ -1,1 +1,20 @@
-{"missionId": "138", "missionName": "Indbrud i øjeblikket", "requirements": [{"requirement": "påkrævede politibiler", "qty": "4"}, {"requirement": "påkrævede hundepatruljer", "qty": "1"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}], "credits": "1250"}
+{
+ "missionId": "138",
+ "missionName": "Indbrud i øjeblikket",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  }
+ ],
+ "credits": "1250",
+ "version": "325990512421003556434342374636004186273"
+}

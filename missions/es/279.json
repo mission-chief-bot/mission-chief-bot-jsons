@@ -1,1 +1,12 @@
-{"missionId": "279", "missionName": "Problemas respiratorios", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "279",
+ "missionName": "Problemas respiratorios",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "196566629680820030119535041452314469383"
+}

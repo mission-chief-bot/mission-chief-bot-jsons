@@ -1,1 +1,20 @@
-{"missionId": "374", "missionName": "Pád stromu na osobu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "374",
+ "missionName": "Pád stromu na osobu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "291700404690790287821329855468193883272"
+}

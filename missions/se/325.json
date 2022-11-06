@@ -1,1 +1,12 @@
-{"missionId": "325", "missionName": "Brott mot blåljusverksamhet", "requirements": [{"requirement": "polisbilar", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "325",
+ "missionName": "Brott mot blåljusverksamhet",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "14221214329938364157106047670737102624"
+}

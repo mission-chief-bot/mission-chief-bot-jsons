@@ -1,1 +1,16 @@
-{"missionId": "284", "missionName": "Mistenkelig pakke", "requirements": [{"requirement": "politibiler", "qty": "2"}, {"requirement": "hundepatruljer", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "284",
+ "missionName": "Mistenkelig pakke",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "203097625060731627504281496247360484516"
+}

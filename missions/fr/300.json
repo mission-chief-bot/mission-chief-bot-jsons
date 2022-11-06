@@ -1,1 +1,16 @@
-{"missionId": "300", "missionName": "Infarctus dû au choc provoqué par une demande en mariage", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "300",
+ "missionName": "Infarctus dû au choc provoqué par une demande en mariage",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "143549237689098166083304975195546446425"
+}

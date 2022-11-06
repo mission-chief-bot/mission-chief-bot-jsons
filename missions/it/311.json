@@ -1,1 +1,12 @@
-{"missionId": "311", "missionName": "Investimento persona con monopattino elettrico", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "311",
+ "missionName": "Investimento persona con monopattino elettrico",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "16755663583293482208866127057864051525"
+}

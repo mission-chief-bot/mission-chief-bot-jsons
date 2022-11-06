@@ -1,1 +1,12 @@
-{"missionId": "923", "missionName": "Wild dier valt picknickers aan", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "923",
+ "missionName": "Wild dier valt picknickers aan",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "8447439477708143966651809973557617090"
+}

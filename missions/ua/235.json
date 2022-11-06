@@ -1,1 +1,16 @@
-{"missionId": "235", "missionName": "Пожежа в закритому приміщенні", "requirements": [{"requirement": "пожежні машини", "qty": "4"}, {"requirement": "штабні автомобілі", "qty": "2"}], "credits": "3500"}
+{
+ "missionId": "235",
+ "missionName": "Пожежа в закритому приміщенні",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "4"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "2"
+  }
+ ],
+ "credits": "3500",
+ "version": "310779085749088289255318760776361403407"
+}

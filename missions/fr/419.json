@@ -1,1 +1,12 @@
-{"missionId": "419", "missionName": "Surveillance de lieu de culte", "requirements": [{"requirement": "vr", "qty": 2}], "credits": "1000"}
+{
+ "missionId": "419",
+ "missionName": "Surveillance de lieu de culte",
+ "requirements": [
+  {
+   "requirement": "vr",
+   "qty": 2
+  }
+ ],
+ "credits": "1000",
+ "version": "69710101377085104108297762986101620259"
+}

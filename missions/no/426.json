@@ -1,1 +1,12 @@
-{"missionId": "426", "missionName": "Kunsttyveri", "requirements": [{"requirement": "politibiler", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "426",
+ "missionName": "Kunsttyveri",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "142803218638774901361712396858518627798"
+}

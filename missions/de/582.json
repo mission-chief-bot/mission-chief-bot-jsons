@@ -1,1 +1,12 @@
-{"missionId": "582", "missionName": "Gestürzter Schlittschuhläufer", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "582",
+ "missionName": "Gestürzter Schlittschuhläufer",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "219917857668349386448691273930719133390"
+}

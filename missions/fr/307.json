@@ -1,1 +1,12 @@
-{"missionId": "307", "missionName": "Chute dans les escaliers", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "307",
+ "missionName": "Chute dans les escaliers",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "18574058908205753958718912468336676336"
+}

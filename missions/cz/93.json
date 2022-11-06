@@ -1,1 +1,12 @@
-{"missionId": "93", "missionName": "Rezidenční policejní razie", "requirements": [{"requirement": "policejní automobily", "qty": "4"}], "credits": "750"}
+{
+ "missionId": "93",
+ "missionName": "Rezidenční policejní razie",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  }
+ ],
+ "credits": "750",
+ "version": "112436972414319411411690207553009820840"
+}

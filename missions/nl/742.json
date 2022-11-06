@@ -1,1 +1,12 @@
-{"missionId": "742", "missionName": "Verjaardagsgast vermist", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "742",
+ "missionName": "Verjaardagsgast vermist",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "63392200638022890789531100066166080678"
+}

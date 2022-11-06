@@ -1,1 +1,12 @@
-{"missionId": "463", "missionName": "Spadlý strom na železnici", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "463",
+ "missionName": "Spadlý strom na železnici",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "110971728088346570518767191929534325977"
+}

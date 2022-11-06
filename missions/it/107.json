@@ -1,1 +1,28 @@
-{"missionId": "107", "missionName": "Auto ribaltata", "requirements": [{"requirement": "autogrù", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "max pazienti", "qty": "4"}], "credits": "2"}
+{
+ "missionId": "107",
+ "missionName": "Auto ribaltata",
+ "requirements": [
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  }
+ ],
+ "credits": "2",
+ "version": "127089835518219697719529490877329070358"
+}

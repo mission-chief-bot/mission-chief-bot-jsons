@@ -1,1 +1,12 @@
-{"missionId": "308", "missionName": "Motorfordon, anträffat stulet", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "308",
+ "missionName": "Motorfordon, anträffat stulet",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "215329513484527586399248071741470672188"
+}

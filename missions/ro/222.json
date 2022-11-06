@@ -1,1 +1,12 @@
-{"missionId": "222", "missionName": "Deșeuri pe pistă", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "222",
+ "missionName": "Deșeuri pe pistă",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "101402381263889944841489560012669609237"
+}

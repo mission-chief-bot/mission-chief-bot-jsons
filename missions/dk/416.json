@@ -1,1 +1,16 @@
-{"missionId": "416", "missionName": "Forårs picnic angrebet af vilde dyr", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "3"}], "credits": "600"}
+{
+ "missionId": "416",
+ "missionName": "Forårs picnic angrebet af vilde dyr",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "600",
+ "version": "234613337324717258895616401848028916454"
+}

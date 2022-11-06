@@ -1,1 +1,12 @@
-{"missionId": "293", "missionName": "두부 외상", "requirements": [{"requirement": "최대 환자", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "293",
+ "missionName": "두부 외상",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "147252734489259101518957970789959488502"
+}

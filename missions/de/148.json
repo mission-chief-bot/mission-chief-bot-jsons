@@ -1,1 +1,12 @@
-{"missionId": "148", "missionName": "Ampelausfall", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "148",
+ "missionName": "Ampelausfall",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "217996580848377412133221700536536061937"
+}

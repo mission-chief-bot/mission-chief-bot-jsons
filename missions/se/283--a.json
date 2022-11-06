@@ -1,1 +1,48 @@
-{"missionId": "283/a", "missionName": "Kärnkraftverk - olycka", "requirements": [{"requirement": "släckbilar", "qty": "25"}, {"requirement": "brandbefäl", "qty": "8"}, {"requirement": "räddningsledningsfordon", "qty": "1"}, {"requirement": "stegbilar", "qty": "2"}, {"requirement": "lastväxlare", "qty": "4"}, {"requirement": "kemskyddsenhet", "qty": "4"}, {"requirement": "fordon med luftapparater", "qty": "2"}, {"requirement": "tankbilar", "qty": "3"}, {"requirement": "polisbilar", "qty": "10"}, {"requirement": "mest patienter", "qty": "80"}], "credits": "37500"}
+{
+ "missionId": "283/a",
+ "missionName": "Kärnkraftverk - olycka",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "25"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "8"
+  },
+  {
+   "requirement": "räddningsledningsfordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "4"
+  },
+  {
+   "requirement": "kemskyddsenhet",
+   "qty": "4"
+  },
+  {
+   "requirement": "fordon med luftapparater",
+   "qty": "2"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "10"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "80"
+  }
+ ],
+ "credits": "37500",
+ "version": "92916757912294739392080806254960668643"
+}

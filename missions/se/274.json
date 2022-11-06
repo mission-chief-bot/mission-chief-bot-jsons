@@ -1,1 +1,12 @@
-{"missionId": "274", "missionName": "Sökande efter försvunnen pojkvän", "requirements": [{"requirement": "polisbilar", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "274",
+ "missionName": "Sökande efter försvunnen pojkvän",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "109970115419806762576526277836103868189"
+}

@@ -1,1 +1,24 @@
-{"missionId": "127", "missionName": "Bin Lorry Fire", "requirements": [{"requirement": "fire engines", "qty": "3"}, {"requirement": "fire officers", "qty": "2"}, {"requirement": "water carriers", "qty": "1"}, {"requirement": "police cars", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "127",
+ "missionName": "Bin Lorry Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "3"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "2"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "121885374277108284739096704978613896484"
+}

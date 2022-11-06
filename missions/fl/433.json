@@ -1,1 +1,12 @@
-{"missionId": "433", "missionName": "570 Pieni rauhallinen mielenosoitus", "requirements": [{"requirement": "poliisiautot", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "433",
+ "missionName": "570 Pieni rauhallinen mielenosoitus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "175955149980640547217994443615951253807"
+}

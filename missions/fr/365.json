@@ -1,1 +1,32 @@
-{"missionId": "365", "missionName": "Théâtre en feu", "requirements": [{"requirement": "fourgons d’incendie", "qty": "8"}, {"requirement": "moyen elévateur aérien", "qty": "2"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}, {"requirement": "camions-citernes", "qty": "1"}, {"requirement": "voitures de police es", "qty": "3"}, {"requirement": "max. patients", "qty": "10"}], "credits": "5750"}
+{
+ "missionId": "365",
+ "missionName": "Théâtre en feu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "8"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "2"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "credits": "5750",
+ "version": "180450068393093154874815886898285656733"
+}

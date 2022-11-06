@@ -1,1 +1,20 @@
-{"missionId": "319", "missionName": "Middels Lyngbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tankbiler", "qty": "2"}, {"requirement": "skogbrann kjøretøy", "qty": "4"}], "credits": "4000"}
+{
+ "missionId": "319",
+ "missionName": "Middels Lyngbrann",
+ "requirements": [
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "skogbrann kjøretøy",
+   "qty": "4"
+  }
+ ],
+ "credits": "4000",
+ "version": "228495075855437281658707196570968243979"
+}

@@ -1,1 +1,16 @@
-{"missionId": "403", "missionName": "Supervisión en un partido deportivo", "requirements": [{"requirement": "coches patrulla", "qty": "4"}, {"requirement": "n.º máximo de presos", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "403",
+ "missionName": "Supervisión en un partido deportivo",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "220521270860569920174168234234337244086"
+}

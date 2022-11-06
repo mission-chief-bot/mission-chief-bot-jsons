@@ -1,1 +1,12 @@
-{"missionId": "306", "missionName": "Cœur volé", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "306",
+ "missionName": "Cœur volé",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "147859534687824447872693432818166663278"
+}

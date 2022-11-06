@@ -1,1 +1,44 @@
-{"missionId": "980", "missionName": "Uit de hand gelopen manifestatie", "requirements": [{"requirement": "noodhulpeenheden", "qty": "50"}, {"requirement": "hondengeleider", "qty": "8"}, {"requirement": "bereden brigade (paarden)", "qty": "24"}, {"requirement": "db-av", "qty": "20"}, {"requirement": "me flexbussen", "qty": "18"}, {"requirement": "me commandovoertuigen", "qty": "3"}, {"requirement": "aanhoudingseenheden", "qty": "3"}, {"requirement": "officiers van dienst politie", "qty": "3"}, {"requirement": "politie helikopters", "qty": "1"}], "credits": "45080"}
+{
+ "missionId": "980",
+ "missionName": "Uit de hand gelopen manifestatie",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "50"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "8"
+  },
+  {
+   "requirement": "bereden brigade (paarden)",
+   "qty": "24"
+  },
+  {
+   "requirement": "db-av",
+   "qty": "20"
+  },
+  {
+   "requirement": "me flexbussen",
+   "qty": "18"
+  },
+  {
+   "requirement": "me commandovoertuigen",
+   "qty": "3"
+  },
+  {
+   "requirement": "aanhoudingseenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "3"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "45080",
+ "version": "226078528818341688072695994386888305627"
+}

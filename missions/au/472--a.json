@@ -1,1 +1,84 @@
-{"missionId": "472/a", "missionName": "Illegal Breach of Research Facility", "requirements": [ {"requirement": "fire engines", "qty": "5"}, {"requirement": "support vehicles", "qty": "3"}, {"requirement": "basu", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "2"}, {"requirement": "bulk water tankers", "qty": "1"}, {"requirement": "police cars", "qty": "13"}, {"requirement": "hazmat units", "qty": "3"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "ambulances", "qty": "15"}, {"requirement": "k-9 units", "qty": "3"}, {"requirement": "riot police group vehicles", "qty": "1"}, {"requirement": "riot police suvs", "qty": "1"}, {"requirement": "riot police equipment vehicles", "qty": "2"}, {"requirement": "paramedic supervisor", "qty": "1"}, {"requirement": "senior sergeants", "qty": "1"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "' swat personnel (in swat vehicles)", "qty": "2"}, {"requirement": "minimum number of patients", "qty": "1"}, {"requirement": "max. patients", "qty": "55"}], "credits": "24500"}
+{
+ "missionId": "472/a",
+ "missionName": "Illegal Breach of Research Facility",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "5"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "basu",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "bulk water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "13"
+  },
+  {
+   "requirement": "hazmat units",
+   "qty": "3"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "15"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "3"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police suvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police equipment vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "paramedic supervisor",
+   "qty": "1"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "1"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "' swat personnel (in swat vehicles)",
+   "qty": "2"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "55"
+  }
+ ],
+ "credits": "24500",
+ "version": "254112058641493436548516466261736075721"
+}

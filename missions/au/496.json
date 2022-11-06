@@ -1,1 +1,12 @@
-{"missionId": "496", "missionName": "Anniversary party guest with joint pain after dancing", "requirements": [{"requirement": "max. patients", "qty": "5"}], "credits": "100"}
+{
+ "missionId": "496",
+ "missionName": "Anniversary party guest with joint pain after dancing",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "100",
+ "version": "180723738212015640051072237111406697226"
+}

@@ -1,1 +1,12 @@
-{"missionId": "840", "missionName": "Spookrijder", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "840"}
+{
+ "missionId": "840",
+ "missionName": "Spookrijder",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "840",
+ "version": "221206471166848516384938936774823601718"
+}

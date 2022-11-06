@@ -1,1 +1,12 @@
-{"missionId": "71", "missionName": "Krvácení z nosu", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "71",
+ "missionName": "Krvácení z nosu",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "207319968742660642724168406897164173873"
+}

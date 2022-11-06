@@ -1,1 +1,16 @@
-{"missionId": "383", "missionName": "Malaise hypoglycémique", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "383",
+ "missionName": "Malaise hypoglycémique",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "13142132810923872813779770757591156419"
+}

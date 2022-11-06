@@ -1,1 +1,16 @@
-{"missionId": "125", "missionName": "Snesení pacienta", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "1300"}
+{
+ "missionId": "125",
+ "missionName": "Snesení pacienta",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "15626048482771070796640969575860739296"
+}

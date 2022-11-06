@@ -1,1 +1,16 @@
-{"missionId": "297", "missionName": "Niebezpiecznie przechylony baner reklamowy", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}, {"requirement": "sh lub sd", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "297",
+ "missionName": "Niebezpiecznie przechylony baner reklamowy",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "222375488631430459290620829000433918260"
+}

@@ -1,1 +1,12 @@
-{"missionId": "239", "missionName": "Bil beskadiget af fyrværkeri", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "239",
+ "missionName": "Bil beskadiget af fyrværkeri",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "8243528091374310257462220136253313753"
+}

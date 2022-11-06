@@ -1,1 +1,12 @@
-{"missionId": "419", "missionName": "Auto Sospetta", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "419",
+ "missionName": "Auto Sospetta",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "93934291871266344030300933458459417818"
+}

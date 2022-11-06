@@ -1,1 +1,36 @@
-{"missionId": "497", "missionName": "Atterraggio Ultraleggero in Autostrada", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "autogrù", "qty": "1"}, {"requirement": "pattuglie", "qty": "4"}, {"requirement": "max pazienti", "qty": "2"}], "credits": "6600"}
+{
+ "missionId": "497",
+ "missionName": "Atterraggio Ultraleggero in Autostrada",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  },
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "6600",
+ "version": "270895783123996202862643532965639927164"
+}

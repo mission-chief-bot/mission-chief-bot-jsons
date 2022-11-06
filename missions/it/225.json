@@ -1,1 +1,20 @@
-{"missionId": "225", "missionName": "Albero su rotaie", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "225",
+ "missionName": "Albero su rotaie",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "95899121302779783855327609211564721991"
+}

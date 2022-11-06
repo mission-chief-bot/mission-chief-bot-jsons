@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "Furt din buzunare", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Furt din buzunare",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "146752316028639034804200960259480679403"
+}

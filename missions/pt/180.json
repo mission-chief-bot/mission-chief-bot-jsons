@@ -1,1 +1,12 @@
-{"missionId": "180", "missionName": "Queima da coroa do Advento", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "180",
+ "missionName": "Queima da coroa do Advento",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "268648163662702211621820305927616661314"
+}

@@ -1,1 +1,12 @@
-{"missionId": "420", "missionName": "Pasajero de tren agresivo", "requirements": [{"requirement": "coches patrulla", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "420",
+ "missionName": "Pasajero de tren agresivo",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "23206922107766665586090999146727101780"
+}

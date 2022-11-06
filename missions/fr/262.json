@@ -1,1 +1,24 @@
-{"missionId": "262", "missionName": "Feu de forêt - Grand", "requirements": [{"requirement": "vlhr", "qty": "6"}, {"requirement": "véhicules poste de commandement", "qty": "1"}, {"requirement": "camions-citernes", "qty": "4"}, {"requirement": "ccf", "qty": "12"}], "credits": "12000"}
+{
+ "missionId": "262",
+ "missionName": "Feu de forêt - Grand",
+ "requirements": [
+  {
+   "requirement": "vlhr",
+   "qty": "6"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "4"
+  },
+  {
+   "requirement": "ccf",
+   "qty": "12"
+  }
+ ],
+ "credits": "12000",
+ "version": "255239146601606431090785013404339797932"
+}

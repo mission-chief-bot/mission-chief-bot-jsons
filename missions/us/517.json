@@ -1,1 +1,24 @@
-{"missionId": "517", "missionName": "Agricultural Chemical Leak", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "hazmat vehicles", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "517",
+ "missionName": "Agricultural Chemical Leak",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "332312209140075561346056381000429839946"
+}

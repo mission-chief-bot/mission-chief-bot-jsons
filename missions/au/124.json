@@ -1,1 +1,16 @@
-{"missionId": "124", "missionName": "Threatening an official", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "124",
+ "missionName": "Threatening an official",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "22863487697476132363601235664376710191"
+}

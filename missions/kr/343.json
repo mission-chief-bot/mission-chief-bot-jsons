@@ -1,1 +1,28 @@
-{"missionId": "343", "missionName": "빈 건물에 화재", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "소방대장 차량", "qty": "1"}, {"requirement": "수상 탱커", "qty": "1"}, {"requirement": "경찰차", "qty": "1"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "2750"}
+{
+ "missionId": "343",
+ "missionName": "빈 건물에 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "수상 탱커",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "2750",
+ "version": "116104817561630876793693727456858666956"
+}

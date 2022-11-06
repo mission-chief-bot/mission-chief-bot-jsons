@@ -1,1 +1,16 @@
-{"missionId": "54", "missionName": "Brand in sporthal", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "230"}
+{
+ "missionId": "54",
+ "missionName": "Brand in sporthal",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "230",
+ "version": "38795505260210248219045511834070777297"
+}

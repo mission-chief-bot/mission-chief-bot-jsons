@@ -1,1 +1,16 @@
-{"missionId": "59", "missionName": "Resgate de animal", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "1"}, {"requirement": "veículos de socorro e assistência tático necessários", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "59",
+ "missionName": "Resgate de animal",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "278093216578309495617873962435230110031"
+}

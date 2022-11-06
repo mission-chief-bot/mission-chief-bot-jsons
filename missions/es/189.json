@@ -1,1 +1,16 @@
-{"missionId": "189", "missionName": "Concierto", "requirements": [{"requirement": "camiones de bomberos", "qty": "2"}, {"requirement": "coches patrulla", "qty": "7"}], "credits": "7000"}
+{
+ "missionId": "189",
+ "missionName": "Concierto",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "7"
+  }
+ ],
+ "credits": "7000",
+ "version": "335895564039373330080517046241306965892"
+}

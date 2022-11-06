@@ -1,1 +1,12 @@
-{"missionId": "433", "missionName": "Small Controlled Burn", "requirements": [{"requirement": "wildland fire engines", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "433",
+ "missionName": "Small Controlled Burn",
+ "requirements": [
+  {
+   "requirement": "wildland fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "73414483857233323981841405888713934054"
+}

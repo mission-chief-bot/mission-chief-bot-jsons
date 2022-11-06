@@ -1,1 +1,24 @@
-{"missionId": "421", "missionName": "Våldsamt upplopp, medium", "requirements": [{"requirement": "polisbilar", "qty": "7"}, {"requirement": "hundenheter", "qty": "1"}, {"requirement": "polishelikoptrar", "qty": "1"}, {"requirement": "mest patienter", "qty": "5"}], "credits": "3000"}
+{
+ "missionId": "421",
+ "missionName": "Våldsamt upplopp, medium",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "7"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "1"
+  },
+  {
+   "requirement": "polishelikoptrar",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "5"
+  }
+ ],
+ "credits": "3000",
+ "version": "270187346249612530444685630604261139727"
+}

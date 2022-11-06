@@ -1,1 +1,12 @@
-{"missionId": "247", "missionName": "Саботированный фейерверк", "requirements": [{"requirement": "полицейские автомобили", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "247",
+ "missionName": "Саботированный фейерверк",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "37949683275445818781814233225564207901"
+}

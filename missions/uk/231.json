@@ -1,1 +1,16 @@
-{"missionId": "231", "missionName": "Speed Enforcement (RPU)", "requirements": [{"requirement": "traffic cars", "qty": "1"}, {"requirement": "police cars", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "231",
+ "missionName": "Speed Enforcement (RPU)",
+ "requirements": [
+  {
+   "requirement": "traffic cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "2501877803326515265259548875945264633"
+}

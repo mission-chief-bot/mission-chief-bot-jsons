@@ -1,1 +1,32 @@
-{"missionId": "389", "missionName": "Europeisk 112 dag feiring", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "brannbiler", "qty": "2"}, {"requirement": "nødvendig stigebil", "qty": "1"}, {"requirement": "ambulanser", "qty": "2"}, {"requirement": "politibiler", "qty": "3"}], "credits": "4500"}
+{
+ "missionId": "389",
+ "missionName": "Europeisk 112 dag feiring",
+ "requirements": [
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "nødvendig stigebil",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulanser",
+   "qty": "2"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  }
+ ],
+ "credits": "4500",
+ "version": "72145847525396902542259068178284900616"
+}

@@ -1,1 +1,12 @@
-{"missionId": "4", "missionName": "Erba che brucia", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "4",
+ "missionName": "Erba che brucia",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "157678687160217695020573960848123138789"
+}

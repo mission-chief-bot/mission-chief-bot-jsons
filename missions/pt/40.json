@@ -1,1 +1,12 @@
-{"missionId": "40", "missionName": "Pessoa caída no solo", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "40",
+ "missionName": "Pessoa caída no solo",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "94449050197798786536035948029190134996"
+}

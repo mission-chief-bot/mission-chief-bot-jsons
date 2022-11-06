@@ -1,1 +1,16 @@
-{"missionId": "97", "missionName": "Warrant Standby", "requirements": [{"requirement": "police cars", "qty": "3"}, {"requirement": "police helicopters", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "97",
+ "missionName": "Warrant Standby",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "125020699615234326426450032138056926149"
+}

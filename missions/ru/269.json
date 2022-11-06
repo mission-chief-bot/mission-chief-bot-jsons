@@ -1,1 +1,12 @@
-{"missionId": "269", "missionName": "Паническая атака", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "269",
+ "missionName": "Паническая атака",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "238334686361197632256663778545241715106"
+}

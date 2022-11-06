@@ -1,1 +1,12 @@
-{"missionId": "362", "missionName": "480 Lapsi lukittu autoon", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "362",
+ "missionName": "480 Lapsi lukittu autoon",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "19571367032169444111910660914186057742"
+}

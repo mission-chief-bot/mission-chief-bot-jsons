@@ -1,1 +1,16 @@
-{"missionId": "69", "missionName": "Neznámy únik z tankera", "requirements": [{"requirement": "hasičské automobily", "qty": "4"}, {"requirement": "policajné vozidlá", "qty": "3"}], "credits": "4300"}
+{
+ "missionId": "69",
+ "missionName": "Neznámy únik z tankera",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "3"
+  }
+ ],
+ "credits": "4300",
+ "version": "72248006703862706212954058133914950899"
+}

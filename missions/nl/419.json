@@ -1,1 +1,16 @@
-{"missionId": "419", "missionName": "Verkeersongeval met lijnbus en fietser", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "419",
+ "missionName": "Verkeersongeval met lijnbus en fietser",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "56073928642327567045434176216669254878"
+}

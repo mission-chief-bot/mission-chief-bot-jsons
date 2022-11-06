@@ -1,1 +1,76 @@
-{"missionId": "932-1", "missionName": "Brand op veerpond", "requirements": [{"requirement": "tankautospuiten", "qty": "6"}, {"requirement": "redvoertuigen", "qty": "2"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "2"}, {"requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams", "qty": "4"}, {"requirement": "bootaanhanger (woa of ba-rb)", "qty": "4"}, {"requirement": "noodhulpeenheden", "qty": "6"}, {"requirement": "adembeschermingsvoertuigen", "qty": "1"}, {"requirement": "verkenningseenheden", "qty": "3"}, {"requirement": "adviseurs gevaarlijke stoffen", "qty": "1"}, {"requirement": "voorlichters", "qty": "1"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "commandowagen", "qty": "1"}, {"requirement": "strandvoertuigen (dat-rb of khv)", "qty": "2"}, {"requirement": "schuimblusvoertuig benodigd", "qty": "2"}, {"requirement": "biketeams", "qty": "1"}, {"requirement": "officiers van dienst politie", "qty": "1"}], "credits": "17125"}
+{
+ "missionId": "932-1",
+ "missionName": "Brand op veerpond",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "6"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "2"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "2"
+  },
+  {
+   "requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams",
+   "qty": "4"
+  },
+  {
+   "requirement": "bootaanhanger (woa of ba-rb)",
+   "qty": "4"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "6"
+  },
+  {
+   "requirement": "adembeschermingsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "verkenningseenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "1"
+  },
+  {
+   "requirement": "voorlichters",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "commandowagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "strandvoertuigen (dat-rb of khv)",
+   "qty": "2"
+  },
+  {
+   "requirement": "schuimblusvoertuig benodigd",
+   "qty": "2"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "1"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "credits": "17125",
+ "version": "290750413466670846062213229796309917805"
+}

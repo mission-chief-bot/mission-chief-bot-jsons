@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "Protest fără aprobare", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "57",
+ "missionName": "Protest fără aprobare",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "192662481396832670941127166715564587486"
+}

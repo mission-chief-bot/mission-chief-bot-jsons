@@ -1,1 +1,24 @@
-{"missionId": "757", "missionName": "Person Pinned Under Tank Trailer", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "hazmat vehicles", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "757",
+ "missionName": "Person Pinned Under Tank Trailer",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "38549906327482111245576844248124743468"
+}

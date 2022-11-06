@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "金属強盗", "requirements": [{"requirement": "警察車両", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "金属強盗",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "298959319833294406338011872932440790414"
+}

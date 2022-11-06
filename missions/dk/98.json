@@ -1,1 +1,20 @@
-{"missionId": "98", "missionName": "Ild i halmoplag", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "5"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede vandtankvogne", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "98",
+ "missionName": "Ild i halmoplag",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede vandtankvogne",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "73357762479842045233338280320643200923"
+}

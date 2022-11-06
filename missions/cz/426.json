@@ -1,1 +1,12 @@
-{"missionId": "426", "missionName": "Rozpuštěný čokoládový zajíček", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "426",
+ "missionName": "Rozpuštěný čokoládový zajíček",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "142745389619281083985777032196142500504"
+}

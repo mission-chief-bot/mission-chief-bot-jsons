@@ -1,1 +1,20 @@
-{"missionId": "20", "missionName": "Incêndio numa cave", "requirements": [{"requirement": "veículos de comando tático necessários", "qty": "1"}, {"requirement": "veículos de combate a incêndios necessários", "qty": "3"}, {"requirement": "máx. de pacientes", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "20",
+ "missionName": "Incêndio numa cave",
+ "requirements": [
+  {
+   "requirement": "veículos de comando tático necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de combate a incêndios necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "132497792752432160640428716938215202236"
+}

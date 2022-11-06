@@ -1,1 +1,12 @@
-{"missionId": "252", "missionName": "Suspicious Person", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "252",
+ "missionName": "Suspicious Person",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "283704252285088510831709348952602533481"
+}

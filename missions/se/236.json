@@ -1,1 +1,12 @@
-{"missionId": "236", "missionName": "Röklukt - byggnad", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "236",
+ "missionName": "Röklukt - byggnad",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "276252107389068298524615902692356575023"
+}

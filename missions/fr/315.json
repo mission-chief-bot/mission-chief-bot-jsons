@@ -1,1 +1,12 @@
-{"missionId": "315", "missionName": "Arythmie cardiaque sévère", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "315",
+ "missionName": "Arythmie cardiaque sévère",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "11686701690079440104835746465161747154"
+}

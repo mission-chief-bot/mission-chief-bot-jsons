@@ -1,1 +1,12 @@
-{"missionId": "325", "missionName": "Persona que ha resbalado con unas hojas mojadas", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "325",
+ "missionName": "Persona que ha resbalado con unas hojas mojadas",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "36953510674580163886371193766759173948"
+}

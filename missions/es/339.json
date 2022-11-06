@@ -1,1 +1,16 @@
-{"missionId": "339", "missionName": "Robo en banco", "requirements": [{"requirement": "coches patrulla", "qty": "5"}, {"requirement": "fuerzas especiales geo", "qty": "4"}], "credits": "2500"}
+{
+ "missionId": "339",
+ "missionName": "Robo en banco",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "5"
+  },
+  {
+   "requirement": "fuerzas especiales geo",
+   "qty": "4"
+  }
+ ],
+ "credits": "2500",
+ "version": "176564047061174559635806492840411966645"
+}

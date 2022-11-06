@@ -1,1 +1,12 @@
-{"missionId": "163", "missionName": "Avistamento do monstro frankenstein", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "3"}], "credits": "550"}
+{
+ "missionId": "163",
+ "missionName": "Avistamento do monstro frankenstein",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  }
+ ],
+ "credits": "550",
+ "version": "176200944801141937041202210723642440118"
+}

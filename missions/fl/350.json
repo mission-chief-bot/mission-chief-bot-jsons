@@ -1,1 +1,32 @@
-{"missionId": "350", "missionName": "416 Liikennevälinepalo tunnelissa, suuri", "requirements": [{"requirement": "paloautot", "qty": "8"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "raskaat pelastusautot", "qty": "3"}, {"requirement": "säiliöautot", "qty": "2"}, {"requirement": "paineilmahuoltoautot", "qty": "1"}], "credits": "7000"}
+{
+ "missionId": "350",
+ "missionName": "416 Liikennevälinepalo tunnelissa, suuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "säiliöautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "7000",
+ "version": "140866675217709836984173663133606156522"
+}

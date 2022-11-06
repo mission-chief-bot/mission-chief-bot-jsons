@@ -1,1 +1,16 @@
-{"missionId": "927", "missionName": "Koeien dief op de vlucht", "requirements": [{"requirement": "noodhulpeenheden", "qty": "5"}, {"requirement": "politie helikopters", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "927",
+ "missionName": "Koeien dief op de vlucht",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "5"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "69256232802126409318414218714813441338"
+}

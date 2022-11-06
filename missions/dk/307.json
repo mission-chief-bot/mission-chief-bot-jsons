@@ -1,1 +1,16 @@
-{"missionId": "307", "missionName": "Person sidder fast på legeplads genstande", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "307",
+ "missionName": "Person sidder fast på legeplads genstande",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "103874440198201356430624934196649669282"
+}

@@ -1,1 +1,12 @@
-{"missionId": "861", "missionName": "Onderkoeling na zwemmen in koud water", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "861",
+ "missionName": "Onderkoeling na zwemmen in koud water",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "100037670284814947909040514350830888977"
+}

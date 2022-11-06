@@ -1,1 +1,12 @@
-{"missionId": "421", "missionName": "Overvalalarm bankkantoor", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "2200"}
+{
+ "missionId": "421",
+ "missionName": "Overvalalarm bankkantoor",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "2200",
+ "version": "109544922939462547473671774735232996124"
+}

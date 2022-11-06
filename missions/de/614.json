@@ -1,1 +1,12 @@
-{"missionId": "614", "missionName": "Unbefugtes Betreten einer Gleisanlage", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "614",
+ "missionName": "Unbefugtes Betreten einer Gleisanlage",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "250528876401846725831256362279416055417"
+}

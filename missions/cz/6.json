@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Požár zahradního altánu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Požár zahradního altánu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "175271792071664645330587641753626112199"
+}

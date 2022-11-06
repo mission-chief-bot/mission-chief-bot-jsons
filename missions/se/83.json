@@ -1,1 +1,20 @@
-{"missionId": "83", "missionName": "Fastklämd", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "lastväxlare", "qty": "2"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "83",
+ "missionName": "Fastklämd",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "128276156485584621437807414113626317498"
+}

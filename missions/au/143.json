@@ -1,1 +1,16 @@
-{"missionId": "143", "missionName": "Officer Down", "requirements": [{"requirement": "police cars", "qty": "6"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "143",
+ "missionName": "Officer Down",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "87256971209391867627644768069937821555"
+}

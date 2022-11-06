@@ -1,1 +1,12 @@
-{"missionId": "108", "missionName": "Ofri luftväg", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "108",
+ "missionName": "Ofri luftväg",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "166417691365901240143989564657781130542"
+}

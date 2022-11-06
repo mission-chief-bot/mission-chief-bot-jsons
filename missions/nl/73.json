@@ -1,1 +1,12 @@
-{"missionId": "73", "missionName": "Tasjesdief", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "73",
+ "missionName": "Tasjesdief",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "72710719418921423302988437057230054141"
+}

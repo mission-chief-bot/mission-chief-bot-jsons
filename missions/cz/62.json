@@ -1,1 +1,12 @@
-{"missionId": "62", "missionName": "Stížnost na hluk", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "62",
+ "missionName": "Stížnost na hluk",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "201180252891501051970057799604348050758"
+}

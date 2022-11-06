@@ -1,1 +1,56 @@
-{"missionId": "571", "missionName": "Średnie ekstremistyczne zamieszki", "requirements": [ {"requirement": "rozbudowy o stanowisko dowodzenia", "qty": "1"},{"requirement": "samochody pożarnicze", "qty": "5"}, {"requirement": "sh lub sd", "qty": "1"}, {"requirement": "slop lub slrr", "qty": "2"}, {"requirement": "samochody ratownictwa technicznego", "qty": "1"}, {"requirement": "radiowozy", "qty": "22"}, {"requirement": "helikopteru policyjnego", "qty": "1"}, {"requirement": "specjalistyczny sprzęt opp (pickup)", "qty": "2"}, {"requirement": "ruchome stanowisko dowodzenia", "qty": "1"}, {"requirement": "armatki wodne", "qty": "2"}, {"requirement": "ambulanse opp", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "3"}], "credits": "14900"}
+{
+ "missionId": "571",
+ "missionName": "Średnie ekstremistyczne zamieszki",
+ "requirements": [
+  {
+   "requirement": "rozbudowy o stanowisko dowodzenia",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "22"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  },
+  {
+   "requirement": "specjalistyczny sprzęt opp (pickup)",
+   "qty": "2"
+  },
+  {
+   "requirement": "ruchome stanowisko dowodzenia",
+   "qty": "1"
+  },
+  {
+   "requirement": "armatki wodne",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulanse opp",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "credits": "14900",
+ "version": "8949082031016624794388018949910776326"
+}

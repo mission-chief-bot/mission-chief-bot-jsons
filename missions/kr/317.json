@@ -1,1 +1,16 @@
-{"missionId": "317", "missionName": "도둑이 소에게 공격받음", "requirements": [{"requirement": "구급차", "qty": "1"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "317",
+ "missionName": "도둑이 소에게 공격받음",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "287753878646768326307793637997058803209"
+}

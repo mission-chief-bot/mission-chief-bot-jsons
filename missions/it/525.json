@@ -1,1 +1,12 @@
-{"missionId": "525", "missionName": "Emoraggia", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "525",
+ "missionName": "Emoraggia",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "326180111295805673864877601280109530585"
+}

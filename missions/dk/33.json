@@ -1,1 +1,20 @@
-{"missionId": "33", "missionName": "Lille supermarkedsbrand", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "4"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "33",
+ "missionName": "Lille supermarkedsbrand",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "168808690037219213560793901943809798456"
+}

@@ -1,1 +1,12 @@
-{"missionId": "161", "missionName": "Protezione VIP", "requirements": [{"requirement": "pattuglie", "qty": "4"}], "credits": "4000"}
+{
+ "missionId": "161",
+ "missionName": "Protezione VIP",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "4"
+  }
+ ],
+ "credits": "4000",
+ "version": "137185732032885100206295202828895147391"
+}

@@ -1,1 +1,20 @@
-{"missionId": "187", "missionName": "Čarodějnice na stromě", "requirements": [{"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "187",
+ "missionName": "Čarodějnice na stromě",
+ "requirements": [
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "225400862174224955128063248671462600003"
+}

@@ -1,1 +1,36 @@
-{"missionId": "422", "missionName": "Sécurisation de Manifestation (Grand)", "requirements": [{"requirement": "voitures de police es", "qty": "8"}, { "requirement": "vr", "qty": "15"}, { "requirement": "vct", "qty": "1"}, { "requirement": "ram", "qty": "1"}, { "requirement": "vat", "qty": "1"}, { "requirement": "vtp", "qty": "1"}, { "requirement": "rebp", "qty": "2"}], "credits": "9500"}
+{
+ "missionId": "422",
+ "missionName": "Sécurisation de Manifestation (Grand)",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "8"
+  },
+  {
+   "requirement": "vr",
+   "qty": "15"
+  },
+  {
+   "requirement": "vct",
+   "qty": "1"
+  },
+  {
+   "requirement": "ram",
+   "qty": "1"
+  },
+  {
+   "requirement": "vat",
+   "qty": "1"
+  },
+  {
+   "requirement": "vtp",
+   "qty": "1"
+  },
+  {
+   "requirement": "rebp",
+   "qty": "2"
+  }
+ ],
+ "credits": "9500",
+ "version": "183253324828069610501353779242967945327"
+}

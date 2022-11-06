@@ -1,1 +1,12 @@
-{"missionId": "383", "missionName": "Čerpání vody ze zatopené cesty", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "383",
+ "missionName": "Čerpání vody ze zatopené cesty",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "325077791839584823365339506606940951349"
+}

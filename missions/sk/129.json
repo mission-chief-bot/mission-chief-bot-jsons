@@ -1,1 +1,12 @@
-{"missionId": "129", "missionName": "Vážne zranenie hlavy", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "129",
+ "missionName": "Vážne zranenie hlavy",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "33269272822099455940275949306098090786"
+}

@@ -1,1 +1,12 @@
-{"missionId": "220", "missionName": "Złamanie otwarte ręki", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "810"}
+{
+ "missionId": "220",
+ "missionName": "Złamanie otwarte ręki",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "810",
+ "version": "279927360953830781792940561962736255786"
+}

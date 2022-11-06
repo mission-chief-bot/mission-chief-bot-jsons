@@ -1,1 +1,16 @@
-{"missionId": "363", "missionName": "小さな抗議", "requirements": [{"requirement": "警察車両", "qty": "4"}, {"requirement": "最大患者", "qty": "3"}], "credits": "5200"}
+{
+ "missionId": "363",
+ "missionName": "小さな抗議",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "4"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "3"
+  }
+ ],
+ "credits": "5200",
+ "version": "328895463215873926505494174508864113586"
+}

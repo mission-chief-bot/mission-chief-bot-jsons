@@ -1,1 +1,20 @@
-{"missionId": "148", "missionName": "Grovt rån", "requirements": [{"requirement": "polisbilar", "qty": "4"}, {"requirement": "polishelikoptrar", "qty": "1"}, {"requirement": "hundenheter", "qty": "1"}], "credits": "1250"}
+{
+ "missionId": "148",
+ "missionName": "Grovt rån",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "polishelikoptrar",
+   "qty": "1"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1250",
+ "version": "76559793857635858731942816398482743080"
+}

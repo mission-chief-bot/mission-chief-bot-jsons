@@ -1,1 +1,12 @@
-{"missionId": "356", "missionName": "Někdo uklouzl na zmoklém listí", "requirements": [ {"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "356",
+ "missionName": "Někdo uklouzl na zmoklém listí",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "213324258553995177562018022045461687559"
+}

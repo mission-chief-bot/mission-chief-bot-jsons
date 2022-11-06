@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "Hořící hromada větví", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "Hořící hromada větví",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "28022328025031191678984780583447921744"
+}

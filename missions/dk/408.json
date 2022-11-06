@@ -1,1 +1,12 @@
-{"missionId": "408", "missionName": "Karnevalskostumer stjålet", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "408",
+ "missionName": "Karnevalskostumer stjålet",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "288227323520289853444241283039851547699"
+}

@@ -1,1 +1,12 @@
-{"missionId": "420", "missionName": "Dyr Fanger I En Brønn", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "420",
+ "missionName": "Dyr Fanger I En Brønn",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "241029096353875128332776502164163615379"
+}

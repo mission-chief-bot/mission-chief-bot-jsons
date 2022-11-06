@@ -1,1 +1,16 @@
-{"missionId": "123", "missionName": "Bank Robbery", "requirements": [{"requirement": "police cars", "qty": "6"}, {"requirement": "swat armoured vehicle", "qty": "2"}], "credits": "1600"}
+{
+ "missionId": "123",
+ "missionName": "Bank Robbery",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "swat armoured vehicle",
+   "qty": "2"
+  }
+ ],
+ "credits": "1600",
+ "version": "264357963276443151343621655746086427761"
+}

@@ -1,1 +1,16 @@
-{"missionId": "188", "missionName": "Gevaarlijk hangende tak", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "188",
+ "missionName": "Gevaarlijk hangende tak",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "60458667421506759382515848872724498956"
+}

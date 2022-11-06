@@ -1,1 +1,12 @@
-{"missionId": "101", "missionName": "Незаконне володіння зброєю", "requirements": [{"requirement": "поліцейські машини", "qty": "4"}], "credits": "2500"}
+{
+ "missionId": "101",
+ "missionName": "Незаконне володіння зброєю",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "4"
+  }
+ ],
+ "credits": "2500",
+ "version": "171382655895265488213978047363652364083"
+}

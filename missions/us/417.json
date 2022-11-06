@@ -1,1 +1,12 @@
-{"missionId": "417", "missionName": "Car damaged by fireworks", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "417",
+ "missionName": "Car damaged by fireworks",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "111220297837483965272704370840762676231"
+}

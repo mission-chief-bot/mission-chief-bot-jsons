@@ -1,1 +1,28 @@
-{"missionId": "103/a", "missionName": "Wypadek motocyklowy", "requirements": [{"requirement": "wydziały ruchu drogowego", "qty": "1"}, {"requirement": "samochody pożarnicze", "qty": "3"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "radiowozy wrd", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "2"}], "credits": "2505"}
+{
+ "missionId": "103/a",
+ "missionName": "Wypadek motocyklowy",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "credits": "2505",
+ "version": "299857787990632546524929016113651017030"
+}

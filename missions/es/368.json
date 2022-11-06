@@ -1,1 +1,12 @@
-{"missionId": "368", "missionName": "Caída desde escalera durante limpieza general", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "500"}
+{
+ "missionId": "368",
+ "missionName": "Caída desde escalera durante limpieza general",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "500",
+ "version": "271590040262235475294345312565128527834"
+}

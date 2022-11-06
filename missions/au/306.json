@@ -1,1 +1,12 @@
-{"missionId": "306", "missionName": "Motorcross Accident", "requirements": [{"requirement": "max. patients", "qty": "3"}], "credits": "1"}
+{
+ "missionId": "306",
+ "missionName": "Motorcross Accident",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "credits": "1",
+ "version": "292988230224046482596488453775418719802"
+}

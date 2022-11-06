@@ -1,1 +1,20 @@
-{"missionId": "93", "missionName": "High-Risk Warrant", "requirements": [{"requirement": "dog support units (dsus)", "qty": "1"}, {"requirement": "police cars", "qty": "4"}, {"requirement": "armed response vehicle", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "93",
+ "missionName": "High-Risk Warrant",
+ "requirements": [
+  {
+   "requirement": "dog support units (dsus)",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "armed response vehicle",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "253533492318685841702396574998139189872"
+}

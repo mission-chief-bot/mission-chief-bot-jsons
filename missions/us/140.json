@@ -1,1 +1,20 @@
-{"missionId": "140", "missionName": "Gas Station Robbery", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "swat armoured vehicle", "qty": "2"}], "credits": "1250"}
+{
+ "missionId": "140",
+ "missionName": "Gas Station Robbery",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "swat armoured vehicle",
+   "qty": "2"
+  }
+ ],
+ "credits": "1250",
+ "version": "204142618960896392728130466129218539402"
+}

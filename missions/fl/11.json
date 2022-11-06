@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "431 Puhelinkoppipalo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "431 Puhelinkoppipalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "84402134329128649999576734665697592678"
+}

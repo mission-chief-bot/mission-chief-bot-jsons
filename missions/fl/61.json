@@ -1,1 +1,16 @@
-{"missionId": "61", "missionName": "231 Pienkoneen maahansyöksy, lentokenttä", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "raskaat pelastusautot", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "61",
+ "missionName": "231 Pienkoneen maahansyöksy, lentokenttä",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "96318280181860384079575226583547945490"
+}

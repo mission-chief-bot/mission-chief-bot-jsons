@@ -1,1 +1,24 @@
-{"missionId": "449", "missionName": "Prison Riot (Small)", "requirements": [{"requirement": "police cars", "qty": "7"}, {"requirement": "k-9 units", "qty": "4"}, {"requirement": "mounted police", "qty": "2"}, {"requirement": "' swat personnel (in swat vehicles)", "qty": "6"}], "credits": "4500"}
+{
+ "missionId": "449",
+ "missionName": "Prison Riot (Small)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "7"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "4"
+  },
+  {
+   "requirement": "mounted police",
+   "qty": "2"
+  },
+  {
+   "requirement": "' swat personnel (in swat vehicles)",
+   "qty": "6"
+  }
+ ],
+ "credits": "4500",
+ "version": "258820856915127107876232542083862727289"
+}

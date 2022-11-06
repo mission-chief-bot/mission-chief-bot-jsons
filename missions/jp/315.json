@@ -1,1 +1,28 @@
-{"missionId": "315", "missionName": "ダンスフロアで行方不明", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "大型救助車両", "qty": "1"}, {"requirement": "プラットフォームトラック", "qty": "1"}, {"requirement": "警察車両", "qty": "1"}, {"requirement": "消防隊長車両", "qty": "1"}], "credits": "7500"}
+{
+ "missionId": "315",
+ "missionName": "ダンスフロアで行方不明",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "7500",
+ "version": "64273892864122547522879775449001841219"
+}

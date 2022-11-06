@@ -1,1 +1,24 @@
-{"missionId": "281", "missionName": "Valentines decorations at restaurant caught fire", "requirements": [{"requirement": "fire engines", "qty": "5"}, {"requirement": "aerial appliance trucks", "qty": "1"}, {"requirement": "fire officers", "qty": "1"}, {"requirement": "max. patients", "qty": "8"}], "credits": "2000"}
+{
+ "missionId": "281",
+ "missionName": "Valentines decorations at restaurant caught fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "5"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "8"
+  }
+ ],
+ "credits": "2000",
+ "version": "337827575320698493483022144900712253401"
+}

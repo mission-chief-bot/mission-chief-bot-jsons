@@ -1,1 +1,12 @@
-{"missionId": "382", "missionName": "Thorax traume", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "382",
+ "missionName": "Thorax traume",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "60065528360272323747426865414055386916"
+}

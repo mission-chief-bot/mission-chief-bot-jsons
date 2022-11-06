@@ -1,1 +1,12 @@
-{"missionId": "307", "missionName": "Skin is turning green", "requirements": [{"requirement": "max. patients", "qty": "4"}], "credits": "100"}
+{
+ "missionId": "307",
+ "missionName": "Skin is turning green",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "credits": "100",
+ "version": "118541120191266461127810259439199954065"
+}

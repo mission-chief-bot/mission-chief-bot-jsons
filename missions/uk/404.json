@@ -1,1 +1,16 @@
-{"missionId": "404", "missionName": "Animal stuck between walls", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "rescue support vehicles", "qty": "1"}], "credits": "1300"}
+{
+ "missionId": "404",
+ "missionName": "Animal stuck between walls",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "168607103085237523252126613878761493973"
+}

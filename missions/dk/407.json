@@ -1,1 +1,12 @@
-{"missionId": "407", "missionName": "Karnevalskostume i brand", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "407",
+ "missionName": "Karnevalskostume i brand",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "68408929720125003701213924947647506693"
+}

@@ -1,1 +1,16 @@
-{"missionId": "383", "missionName": "Kind in PKW eingeschlossen", "requirements": [    {"requirement": "streifenwagen", "qty": "1"},     {"requirement": "rtw, naw", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "383",
+ "missionName": "Kind in PKW eingeschlossen",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw, naw",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "110222267113409531494539395331738947010"
+}

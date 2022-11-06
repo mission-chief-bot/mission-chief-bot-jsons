@@ -1,1 +1,24 @@
-{"missionId": "452", "missionName": "Fuite / Découverte de produit chimique", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}, {"requirement": "voitures de police es", "qty": "2"}, {"requirement": "véhicules risques technologiques", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "452",
+ "missionName": "Fuite / Découverte de produit chimique",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  },
+  {
+   "requirement": "véhicules risques technologiques",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "176709498632965216323119532762772323710"
+}

@@ -1,1 +1,12 @@
-{"missionId": "274", "missionName": "Jaf la un birou", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "274",
+ "missionName": "Jaf la un birou",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "331354181726749839412758984828361298244"
+}

@@ -1,1 +1,44 @@
-{"missionId": "577/a", "missionName": "Skyscraper fire", "requirements": [{"requirement": "firetrucks", "qty": "8"}, {"requirement": "platform trucks", "qty": "2"}, {"requirement": "battalion chief vehicles", "qty": "2"}, {"requirement": "mobile command vehicles", "qty": "1"}, {"requirement": "water tankers", "qty": "1"}, {"requirement": "mobile air vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "3"}, {"requirement": "fire investigation units", "qty": "2"}, {"requirement": "max. patients", "qty": "20"}], "credits": "8500"}
+{
+ "missionId": "577/a",
+ "missionName": "Skyscraper fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "8"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "20"
+  }
+ ],
+ "credits": "8500",
+ "version": "48955560357883872055130082536143128157"
+}

@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "401 Puutarhavajan palo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "401 Puutarhavajan palo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "135779934625290438573030416327281346942"
+}

@@ -1,1 +1,12 @@
-{"missionId": "297", "missionName": "Podozrenie na zápal slepého čreva", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "297",
+ "missionName": "Podozrenie na zápal slepého čreva",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "176589419863108366526517463781958370911"
+}

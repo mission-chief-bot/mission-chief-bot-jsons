@@ -1,1 +1,24 @@
-{"missionId": "550", "missionName": "Person started brushfire (large)", "requirements": [{"requirement": "police car", "qty": "2"}, {"requirement": "firetrucks", "qty": "2"}, {"requirement": "wildland fire engines", "qty": "2"}, {"requirement": "fire investigation unit", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "550",
+ "missionName": "Person started brushfire (large)",
+ "requirements": [
+  {
+   "requirement": "police car",
+   "qty": "2"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "90895181076367333677875157477799077999"
+}

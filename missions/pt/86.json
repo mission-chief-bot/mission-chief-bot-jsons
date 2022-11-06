@@ -1,1 +1,12 @@
-{"missionId": "86", "missionName": "Assalto aos Ovos de Chocolate", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "86",
+ "missionName": "Assalto aos Ovos de Chocolate",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "127677787860443418790853729742939306955"
+}

@@ -1,1 +1,12 @@
-{"missionId": "285", "missionName": "자동차 도둑", "requirements": [{"requirement": "경찰차", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "285",
+ "missionName": "자동차 도둑",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "141303422691003715705142632708712765822"
+}

@@ -1,1 +1,12 @@
-{"missionId": "455", "missionName": "Fire alarm activation in commercial premises", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "455",
+ "missionName": "Fire alarm activation in commercial premises",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "4813767834202790603725308652498708770"
+}

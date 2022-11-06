@@ -1,1 +1,12 @@
-{"missionId": "318", "missionName": "収拾のつかない口論", "requirements": [{"requirement": "警察車両", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "318",
+ "missionName": "収拾のつかない口論",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "156653594831945872358850635211818760437"
+}

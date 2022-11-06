@@ -1,1 +1,16 @@
-{"missionId": "242", "missionName": "Vykoľajenie osobného vlaku", "requirements": [{"requirement": "hasičské automobily", "qty": "11"}, {"requirement": "policajné vozidlá", "qty": "3"}], "credits": "10000"}
+{
+ "missionId": "242",
+ "missionName": "Vykoľajenie osobného vlaku",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "11"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "3"
+  }
+ ],
+ "credits": "10000",
+ "version": "297882239492228996631865639440850772708"
+}

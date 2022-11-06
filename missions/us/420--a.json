@@ -1,1 +1,32 @@
-{"missionId": "420/a", "missionName": "Pier on fire", "requirements": [{"requirement": "firetrucks", "qty": "4"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "1"}, {"requirement": "large rescue boats", "qty": "1"}, {"requirement": "fire investigation units", "qty": "1"}], "credits": "5500"}
+{
+ "missionId": "420/a",
+ "missionName": "Pier on fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "large rescue boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "1"
+  }
+ ],
+ "credits": "5500",
+ "version": "284582441689280028523858111574875084460"
+}

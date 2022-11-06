@@ -1,1 +1,32 @@
-{"missionId": "386", "missionName": "Rozsáhlé pátrání po ztraceném dítěti", "requirements": [{"requirement": "da", "qty": "12"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "16"}, {"requirement": "vozidla kynologů pčr", "qty": "3"}, {"requirement": "policejní vrtulníky", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "20000"}
+{
+ "missionId": "386",
+ "missionName": "Rozsáhlé pátrání po ztraceném dítěti",
+ "requirements": [
+  {
+   "requirement": "da",
+   "qty": "12"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "16"
+  },
+  {
+   "requirement": "vozidla kynologů pčr",
+   "qty": "3"
+  },
+  {
+   "requirement": "policejní vrtulníky",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "20000",
+ "version": "150959148602116088403878213081052653722"
+}

@@ -1,1 +1,28 @@
-{"missionId": "178", "missionName": "Terremoto (GRANDE)", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "4"}, {"requirement": "pattuglie", "qty": "5"}, {"requirement": "max pazienti", "qty": "30"}], "credits": "13"}
+{
+ "missionId": "178",
+ "missionName": "Terremoto (GRANDE)",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "3"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "4"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "5"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "30"
+  }
+ ],
+ "credits": "13",
+ "version": "23191975178131142960129934532067631030"
+}

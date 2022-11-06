@@ -1,1 +1,16 @@
-{"missionId": "226", "missionName": "O balão de aniversário do convidado está preso na árvore", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}, {"requirement": "veículos escada necessários:", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "226",
+ "missionName": "O balão de aniversário do convidado está preso na árvore",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos escada necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "330610073723138542718964839423227823269"
+}

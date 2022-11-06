@@ -1,1 +1,36 @@
-{"missionId": "461/a", "missionName": "Hromadná nehoda na dálnici", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "ta", "qty": "2"}, {"requirement": "policejní automobily", "qty": "4"}, {"requirement": "vya nebo aj", "qty": "2"}, {"requirement": "rza", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "10"}], "credits": "5300"}
+{
+ "missionId": "461/a",
+ "missionName": "Hromadná nehoda na dálnici",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "4"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "2"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "vya nebo aj",
+   "qty": "2"
+  },
+  {
+   "requirement": "rza",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "10"
+  }
+ ],
+ "credits": "5300",
+ "version": "98437485008027846160054840421557420179"
+}

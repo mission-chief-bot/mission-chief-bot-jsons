@@ -1,1 +1,16 @@
-{"missionId": "954", "missionName": "Verkeersruzie", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}, {"requirement": "officiers van dienst politie", "qty": "1"}], "credits": "1640"}
+{
+ "missionId": "954",
+ "missionName": "Verkeersruzie",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "credits": "1640",
+ "version": "210997669543290774000312144880121826156"
+}

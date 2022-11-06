@@ -1,1 +1,20 @@
-{"missionId": "64", "missionName": "Ulykke med buss", "requirements": [{"requirement": "brannbiler", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "12"}], "credits": "1000"}
+{
+ "missionId": "64",
+ "missionName": "Ulykke med buss",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "12"
+  }
+ ],
+ "credits": "1000",
+ "version": "254206498835605356083790106579572934723"
+}

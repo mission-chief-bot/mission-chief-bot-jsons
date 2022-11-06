@@ -1,1 +1,12 @@
-{"missionId": "130", "missionName": "Powerline Down", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "130",
+ "missionName": "Powerline Down",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "97984711800596948530328890548120303752"
+}

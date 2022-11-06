@@ -1,1 +1,12 @@
-{"missionId": "341", "missionName": "Vehicle Crash - Property Damage", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "341",
+ "missionName": "Vehicle Crash - Property Damage",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "130389117073641682273770153250271874809"
+}

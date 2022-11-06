@@ -1,1 +1,12 @@
-{"missionId": "389", "missionName": "Operación de detención de tráfico", "requirements": [{"requirement": "coches patrulla", "qty": "5"}], "credits": "6000"}
+{
+ "missionId": "389",
+ "missionName": "Operación de detención de tráfico",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "5"
+  }
+ ],
+ "credits": "6000",
+ "version": "154960671548007395996598134674546257380"
+}

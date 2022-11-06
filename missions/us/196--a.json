@@ -1,1 +1,16 @@
-{"missionId": "196/a", "missionName": "Kitchen Fire", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "fire investigation units", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "196/a",
+ "missionName": "Kitchen Fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "25423449022633946761666697879275404914"
+}

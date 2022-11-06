@@ -1,1 +1,12 @@
-{"missionId": "202", "missionName": "Diebstahl auf Weihnachtsmarkt", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "202",
+ "missionName": "Diebstahl auf Weihnachtsmarkt",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "222844313873897798909829308204600775944"
+}

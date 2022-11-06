@@ -1,1 +1,28 @@
-{"missionId": "285", "missionName": "コウノトリトラック横転", "requirements": [{"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "消防車", "qty": "1"}, {"requirement": "大型救助車両", "qty": "1"}, {"requirement": "警察車両", "qty": "2"}, {"requirement": "最大患者", "qty": "2"}], "credits": "2750"}
+{
+ "missionId": "285",
+ "missionName": "コウノトリトラック横転",
+ "requirements": [
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "2"
+  }
+ ],
+ "credits": "2750",
+ "version": "194446262759451039159759279613924202983"
+}

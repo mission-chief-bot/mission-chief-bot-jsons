@@ -1,1 +1,12 @@
-{"missionId": "396", "missionName": "Человек, лежащий на земле", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "396",
+ "missionName": "Человек, лежащий на земле",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "248475647057661966477026015868216001728"
+}

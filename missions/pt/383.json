@@ -1,1 +1,16 @@
-{"missionId": "383", "missionName": "Atak dzikiego zwierzęcia podczas pikniku", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "3"}], "credits": "600"}
+{
+ "missionId": "383",
+ "missionName": "Atak dzikiego zwierzęcia podczas pikniku",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "3"
+  }
+ ],
+ "credits": "600",
+ "version": "172232054078280412844888854014152637260"
+}

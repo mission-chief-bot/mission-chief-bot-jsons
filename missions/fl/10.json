@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "412 Traktoripalo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "412 Traktoripalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "3358028435334928546361973958217603060"
+}

@@ -1,1 +1,16 @@
-{"missionId": "126", "missionName": "Brand in landbouwschuur", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "126",
+ "missionName": "Brand in landbouwschuur",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "331202143394459425977778080753535727328"
+}

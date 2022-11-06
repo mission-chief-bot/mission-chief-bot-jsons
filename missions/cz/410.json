@@ -1,1 +1,12 @@
-{"missionId": "410", "missionName": "Loupež kostýmů", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "410",
+ "missionName": "Loupež kostýmů",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "148994618839078663853068080808611552405"
+}

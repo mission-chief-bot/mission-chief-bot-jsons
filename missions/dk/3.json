@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "Ild i motorcykel", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "Ild i motorcykel",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "292829928928575098184548969448641747054"
+}

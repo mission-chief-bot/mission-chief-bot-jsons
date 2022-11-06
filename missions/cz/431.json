@@ -1,1 +1,24 @@
-{"missionId": "431", "missionName": "Čelní střet dvou vozidel", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "vozidla vyšetřovatelů dn", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "8"}], "credits": "4000"}
+{
+ "missionId": "431",
+ "missionName": "Čelní střet dvou vozidel",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "vozidla vyšetřovatelů dn",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "8"
+  }
+ ],
+ "credits": "4000",
+ "version": "318883559186587008072085284932351739352"
+}

@@ -1,1 +1,12 @@
-{"missionId": "84", "missionName": "Bolest zad", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "84",
+ "missionName": "Bolest zad",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "28617144933089721136420799190493289524"
+}

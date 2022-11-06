@@ -1,1 +1,28 @@
-{"missionId": "245/a", "missionName": "안전 가옥 내 화재", "requirements": [{"requirement": "화재 지원 확충", "qty": "2"}, {"requirement": "소방차", "qty": "4"}, {"requirement": "소방대장 차량", "qty": "2"}, {"requirement": "엔진 펌프", "qty": "2"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "3900"}
+{
+ "missionId": "245/a",
+ "missionName": "안전 가옥 내 화재",
+ "requirements": [
+  {
+   "requirement": "화재 지원 확충",
+   "qty": "2"
+  },
+  {
+   "requirement": "소방차",
+   "qty": "4"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "2"
+  },
+  {
+   "requirement": "엔진 펌프",
+   "qty": "2"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "3900",
+ "version": "127815678993053198257484616188508620171"
+}

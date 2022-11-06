@@ -1,1 +1,12 @@
-{"missionId": "472", "missionName": "Ceiling Collapse Minor", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "472",
+ "missionName": "Ceiling Collapse Minor",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "142265413473585956620292483358120735623"
+}

@@ -1,1 +1,24 @@
-{"missionId": "431", "missionName": "Distúrbios num bairro problemático", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "6"}, {"requirement": "ciclopatrulhas necessárias:", "qty": "2"}, {"requirement": "veículos de operações especiais necessários:", "qty": "6"}, {"requirement": "veículos de posto de comando necessários:", "qty": "1"}], "credits": "5125"}
+{
+ "missionId": "431",
+ "missionName": "Distúrbios num bairro problemático",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "6"
+  },
+  {
+   "requirement": "ciclopatrulhas necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de operações especiais necessários:",
+   "qty": "6"
+  },
+  {
+   "requirement": "veículos de posto de comando necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "5125",
+ "version": "283464714833197217939898766599691020561"
+}

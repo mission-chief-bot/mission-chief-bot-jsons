@@ -1,1 +1,12 @@
-{"missionId": "401", "missionName": "Overvalalarm supermarkt", "requirements": [{"requirement": "noodhulpeenheden", "qty": "3"}], "credits": "2250"}
+{
+ "missionId": "401",
+ "missionName": "Overvalalarm supermarkt",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "credits": "2250",
+ "version": "315331610029316694464097852567833326918"
+}

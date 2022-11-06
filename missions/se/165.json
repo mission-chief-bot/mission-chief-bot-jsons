@@ -1,1 +1,12 @@
-{"missionId": "165", "missionName": "Snatteri", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "165",
+ "missionName": "Snatteri",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "276212382772530008970694473813053746951"
+}

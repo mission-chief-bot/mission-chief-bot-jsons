@@ -1,1 +1,16 @@
-{"missionId": "68", "missionName": "Požiar vo veľkom supermarkete", "requirements": [{"requirement": "hasičské automobily", "qty": "6"}, {"requirement": "policajné vozidlá", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "68",
+ "missionName": "Požiar vo veľkom supermarkete",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "6"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "304413272454920271656298634764886899833"
+}

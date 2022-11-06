@@ -1,1 +1,16 @@
-{"missionId": "270", "missionName": "Rissa in discoteca", "requirements": [{"requirement": "pattuglie", "qty": "3"}, {"requirement": "max pazienti", "qty": "2"}], "credits": "950"}
+{
+ "missionId": "270",
+ "missionName": "Rissa in discoteca",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "2"
+  }
+ ],
+ "credits": "950",
+ "version": "136785306133321440502170361457483207878"
+}

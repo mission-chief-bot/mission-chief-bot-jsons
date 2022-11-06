@@ -1,1 +1,12 @@
-{"missionId": "762", "missionName": "Vermisster Jubiläumsgast", "requirements": [{"requirement": "streifenwagen", "qty": "3"}], "credits": "1200"}
+{
+ "missionId": "762",
+ "missionName": "Vermisster Jubiläumsgast",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  }
+ ],
+ "credits": "1200",
+ "version": "325393007170602785587529823494131918627"
+}

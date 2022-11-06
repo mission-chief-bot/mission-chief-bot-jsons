@@ -1,1 +1,12 @@
-{"missionId": "274", "missionName": "Doprowadzenie Do Sądu", "requirements": [{"requirement": "radiowozy", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "274",
+ "missionName": "Doprowadzenie Do Sądu",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "294665024134377373020877853780238913567"
+}

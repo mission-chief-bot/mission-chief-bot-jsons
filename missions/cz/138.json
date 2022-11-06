@@ -1,1 +1,12 @@
-{"missionId": "138", "missionName": "Dehydrovaná osoba", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "138",
+ "missionName": "Dehydrovaná osoba",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "143792566281956893045217151921786391784"
+}

@@ -1,1 +1,16 @@
-{"missionId": "460", "missionName": "Zaseklé dítě v prolézačce", "requirements": [ {"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "460",
+ "missionName": "Zaseklé dítě v prolézačce",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "201152389326092949498069816012927117835"
+}

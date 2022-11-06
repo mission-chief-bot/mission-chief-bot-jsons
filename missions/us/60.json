@@ -1,1 +1,12 @@
-{"missionId": "60", "missionName": "Rioter", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "500"}
+{
+ "missionId": "60",
+ "missionName": "Rioter",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "500",
+ "version": "157128319597405623637645959721644476411"
+}

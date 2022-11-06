@@ -1,1 +1,16 @@
-{"missionId": "203", "missionName": "Пожар товарного вагона", "requirements": [{"requirement": "пожарные машины", "qty": "5"}, {"requirement": "машины командира батальона", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "203",
+ "missionName": "Пожар товарного вагона",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "5"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "280375274743981772264781221492811687436"
+}

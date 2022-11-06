@@ -1,1 +1,40 @@
-{"missionId": "637", "missionName": "Ausgefallenes Kühlsystem", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "gw-werkfeuerwehr", "qty": "1"}, {"requirement": "ulf mit löscharm", "qty": "1"}, {"requirement": "teleskopmasten", "qty": "1"}, {"requirement": "turbolöscher", "qty": "1"}, {"requirement": "elw 1", "qty": "2"}, {"requirement": "elw 2", "qty": "1"}, {"requirement": "gw l 2 wasser", "qty": "1"}], "credits": "8000"}
+{
+ "missionId": "637",
+ "missionName": "Ausgefallenes Kühlsystem",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "gw-werkfeuerwehr",
+   "qty": "1"
+  },
+  {
+   "requirement": "ulf mit löscharm",
+   "qty": "1"
+  },
+  {
+   "requirement": "teleskopmasten",
+   "qty": "1"
+  },
+  {
+   "requirement": "turbolöscher",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 2",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw l 2 wasser",
+   "qty": "1"
+  }
+ ],
+ "credits": "8000",
+ "version": "150590157570549339999135330112228583763"
+}

@@ -1,1 +1,24 @@
-{"missionId": "106", "missionName": "Maxi tamponamento", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "unità polisoccorso", "qty": "3"}, {"requirement": "pattuglie", "qty": "3"}, {"requirement": "max pazienti", "qty": "30"}], "credits": "5"}
+{
+ "missionId": "106",
+ "missionName": "Maxi tamponamento",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "3"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "3"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "30"
+  }
+ ],
+ "credits": "5",
+ "version": "283742580949448463747947416129697118089"
+}

@@ -1,1 +1,12 @@
-{"missionId": "318", "missionName": "621 Puhallusratsia", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1800"}
+{
+ "missionId": "318",
+ "missionName": "621 Puhallusratsia",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1800",
+ "version": "130324672019932859996597509058537001168"
+}

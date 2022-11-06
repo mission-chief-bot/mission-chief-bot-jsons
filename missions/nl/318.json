@@ -1,1 +1,16 @@
-{"missionId": "318", "missionName": "Brand op binnenvaartschip", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "waterongevallenaanhangers", "qty": "1"}], "credits": "1450"}
+{
+ "missionId": "318",
+ "missionName": "Brand op binnenvaartschip",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "waterongevallenaanhangers",
+   "qty": "1"
+  }
+ ],
+ "credits": "1450",
+ "version": "283394012766559820541959518746699242153"
+}

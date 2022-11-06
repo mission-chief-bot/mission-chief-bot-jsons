@@ -1,1 +1,28 @@
-{"missionId": "316", "missionName": "Substancja Ropopochodna Na Rzece", "requirements": [{"requirement": "samochody pożarnicze", "qty": "2"}, {"requirement": "samochody ratownictwa technicznego", "qty": "1"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "sp rchem", "qty": "2"}, {"requirement": "radiowozy", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "316",
+ "missionName": "Substancja Ropopochodna Na Rzece",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "59913360329912447008351053367536331472"
+}

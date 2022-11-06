@@ -1,1 +1,20 @@
-{"missionId": "701", "missionName": "Stolen Police Car", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "sheriffs", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "701",
+ "missionName": "Stolen Police Car",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "31507703574076914499209513888973353461"
+}

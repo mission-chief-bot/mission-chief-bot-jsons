@@ -1,1 +1,12 @@
-{"missionId": "308", "missionName": "Motocross ulykke", "requirements": [{"requirement": "maks pasienter", "qty": "3"}], "credits": "100"}
+{
+ "missionId": "308",
+ "missionName": "Motocross ulykke",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "100",
+ "version": "8208437520779289975304193814327989933"
+}

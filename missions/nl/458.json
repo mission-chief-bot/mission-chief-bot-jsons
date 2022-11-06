@@ -1,1 +1,28 @@
-{"missionId": "458", "missionName": "Brand in manege", "requirements": [{"requirement": "tankautospuiten", "qty": "3"}, {"requirement": "redvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "slangenwagens", "qty": "1"}, {"requirement": "hovd's", "qty": "1"}], "credits": "2750"}
+{
+ "missionId": "458",
+ "missionName": "Brand in manege",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "3"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "slangenwagens",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  }
+ ],
+ "credits": "2750",
+ "version": "23224993771229091168649745980282862740"
+}

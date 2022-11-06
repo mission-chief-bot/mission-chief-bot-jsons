@@ -1,1 +1,12 @@
-{"missionId": "67", "missionName": "Zombie bite", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "67",
+ "missionName": "Zombie bite",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "334736062279525512223808694938244418296"
+}

@@ -1,1 +1,12 @@
-{"missionId": "266", "missionName": "Brennende Hecke durch Feuerwerkskörper", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "266",
+ "missionName": "Brennende Hecke durch Feuerwerkskörper",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "62804358335988077285241609106608599887"
+}

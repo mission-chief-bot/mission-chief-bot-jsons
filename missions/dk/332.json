@@ -1,1 +1,16 @@
-{"missionId": "332", "missionName": "Forsvundet Hold leder bånd", "requirements": [{"requirement": "påkrævede politibiler", "qty": "1"}, {"requirement": "påkrævede politihelikoptere", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "332",
+ "missionName": "Forsvundet Hold leder bånd",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politihelikoptere",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "84539463422709469673550880259688770012"
+}

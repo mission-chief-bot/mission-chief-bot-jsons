@@ -1,1 +1,12 @@
-{"missionId": "221", "missionName": "프로포즈로 인한 심장마비", "requirements": [{"requirement": "최대 환자", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "221",
+ "missionName": "프로포즈로 인한 심장마비",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "191159974747849725789590162987064140474"
+}

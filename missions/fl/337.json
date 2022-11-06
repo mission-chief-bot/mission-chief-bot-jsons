@@ -1,1 +1,12 @@
-{"missionId": "337", "missionName": "401 Palovaroitin soi asunnossa", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "337",
+ "missionName": "401 Palovaroitin soi asunnossa",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "22127325100593156231845274025703277377"
+}

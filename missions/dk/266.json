@@ -1,1 +1,32 @@
-{"missionId": "266", "missionName": "Der mangler folk på dansegulvet", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "1"}, {"requirement": "påkrævede ambulancer", "qty": "1"}, {"requirement": "påkrævede redningsvogn", "qty": "1"}, {"requirement": "påkrævede stigevogn", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "1"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}], "credits": "7500"}
+{
+ "missionId": "266",
+ "missionName": "Der mangler folk på dansegulvet",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede ambulancer",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  }
+ ],
+ "credits": "7500",
+ "version": "199508025044126349736908726612606666727"
+}

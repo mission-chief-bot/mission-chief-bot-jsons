@@ -1,1 +1,24 @@
-{"missionId": "168", "missionName": "Grande incêndio na fazenda", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "9"}, {"requirement": "viaturas de batalhão necessárias", "qty": "2"}, {"requirement": "caminhões plataforma necessários", "qty": "3"}, {"requirement": "caminhões pipa necessários", "qty": "3"}], "credits": "9000"}
+{
+ "missionId": "168",
+ "missionName": "Grande incêndio na fazenda",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "9"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "2"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "caminhões pipa necessários",
+   "qty": "3"
+  }
+ ],
+ "credits": "9000",
+ "version": "109529533645397843065556789388216747902"
+}

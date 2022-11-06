@@ -1,1 +1,12 @@
-{"missionId": "227", "missionName": "滑走路に異物デブリ", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "227",
+ "missionName": "滑走路に異物デブリ",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "224239394323010793605630363603668367800"
+}

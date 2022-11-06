@@ -1,1 +1,12 @@
-{"missionId": "300", "missionName": "Украденный кубок", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "300",
+ "missionName": "Украденный кубок",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "179399000695142537988780236945841520513"
+}

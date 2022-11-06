@@ -1,1 +1,20 @@
-{"missionId": "351", "missionName": "Gun pulled in nightclub", "requirements": [{"requirement": "police cars", "qty": "6"}, {"requirement": "dog support units (dsus)", "qty": "1"}, {"requirement": "armed response vehicle", "qty": "1"}], "credits": "6000"}
+{
+ "missionId": "351",
+ "missionName": "Gun pulled in nightclub",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "dog support units (dsus)",
+   "qty": "1"
+  },
+  {
+   "requirement": "armed response vehicle",
+   "qty": "1"
+  }
+ ],
+ "credits": "6000",
+ "version": "330428382640522190667996061963802401289"
+}

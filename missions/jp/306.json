@@ -1,1 +1,12 @@
-{"missionId": "306", "missionName": "アニバーサリージュークボックス破壊", "requirements": [{"requirement": "警察車両", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "306",
+ "missionName": "アニバーサリージュークボックス破壊",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "235814226502904367624327054533375923098"
+}

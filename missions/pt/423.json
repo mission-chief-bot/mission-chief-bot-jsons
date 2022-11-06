@@ -1,1 +1,16 @@
-{"missionId": "423", "missionName": "Tráfico de Droga", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "4"}, {"requirement": "equipas operacionais cinotécnicas necessárias:", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "423",
+ "missionName": "Tráfico de Droga",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "equipas operacionais cinotécnicas necessárias:",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "6260490602400740038548367679157725064"
+}

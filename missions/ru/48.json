@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "Кража металла со взломом", "requirements": [{"requirement": "полицейские автомобили", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "Кража металла со взломом",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "48045064781773139627758285992605802886"
+}

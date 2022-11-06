@@ -1,1 +1,24 @@
-{"missionId": "460", "missionName": "Bonifica incendio", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}], "credits": "1800"}
+{
+ "missionId": "460",
+ "missionName": "Bonifica incendio",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "1800",
+ "version": "141012963405980780176756721827071947820"
+}

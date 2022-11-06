@@ -1,1 +1,24 @@
-{"missionId": "542", "missionName": "Auto Sommersa nel Sottopassaggio", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "4"}], "credits": "1400"}
+{
+ "missionId": "542",
+ "missionName": "Auto Sommersa nel Sottopassaggio",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  }
+ ],
+ "credits": "1400",
+ "version": "5468962948720860986285279410418510008"
+}

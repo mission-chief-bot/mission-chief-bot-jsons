@@ -1,1 +1,12 @@
-{"missionId": "359", "missionName": "Chocolate Egg heist", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "359",
+ "missionName": "Chocolate Egg heist",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "296562618544199103710633886707463547377"
+}

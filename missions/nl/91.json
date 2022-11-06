@@ -1,1 +1,12 @@
-{"missionId": "91", "missionName": "Psychiatrisch beeld", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "5"}
+{
+ "missionId": "91",
+ "missionName": "Psychiatrisch beeld",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "5",
+ "version": "38145165119454587225221397314362502718"
+}

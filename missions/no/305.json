@@ -1,1 +1,12 @@
-{"missionId": "305", "missionName": "Kvelningsfare", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "305",
+ "missionName": "Kvelningsfare",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "32582287676941906704460451277445371609"
+}

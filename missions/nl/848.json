@@ -1,1 +1,16 @@
-{"missionId": "848", "missionName": "Gevallen groep wielrenners", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "maximale patiënten aantal", "qty": "8"}], "credits": "1520"}
+{
+ "missionId": "848",
+ "missionName": "Gevallen groep wielrenners",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "8"
+  }
+ ],
+ "credits": "1520",
+ "version": "238287978345138430262087067170508969302"
+}

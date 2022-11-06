@@ -1,1 +1,12 @@
-{"missionId": "207", "missionName": "방해 받은 불꽃놀이", "requirements": [{"requirement": "경찰차", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "207",
+ "missionName": "방해 받은 불꽃놀이",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "128577106819941605846740328399493234431"
+}

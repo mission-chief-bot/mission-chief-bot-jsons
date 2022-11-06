@@ -1,1 +1,16 @@
-{"missionId": "52", "missionName": "Brand auf Weihnachtsmarkt", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "52",
+ "missionName": "Brand auf Weihnachtsmarkt",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "91058241246484731618427639911398806762"
+}

@@ -1,1 +1,12 @@
-{"missionId": "159", "missionName": "Intoxication alimentaire", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "159",
+ "missionName": "Intoxication alimentaire",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "87775928650767621195515339541697212031"
+}

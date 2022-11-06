@@ -1,1 +1,12 @@
-{"missionId": "241", "missionName": "Человек, пострадавший от взрыва фейерверка", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "241",
+ "missionName": "Человек, пострадавший от взрыва фейерверка",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "94850481443384275547935575940840584769"
+}

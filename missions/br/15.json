@@ -1,1 +1,12 @@
-{"missionId": "15", "missionName": "Incêndio florestal pequeno", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}], "credits": "1010"}
+{
+ "missionId": "15",
+ "missionName": "Incêndio florestal pequeno",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "1010",
+ "version": "274934595649130997071128819398925677543"
+}

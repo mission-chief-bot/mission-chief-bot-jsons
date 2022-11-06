@@ -1,1 +1,36 @@
-{"missionId": "402", "missionName": "Poliskommendering - datorfestival", "requirements": [{"requirement": "släckbilar", "qty": "1"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "polisbilar", "qty": "6"}, {"requirement": "ambulanser", "qty": "2"}, {"requirement": "polishelikoptrar", "qty": "1"}, {"requirement": "hundenheter", "qty": "2"}, {"requirement": "mest patienter", "qty": "25"}], "credits": "5400"}
+{
+ "missionId": "402",
+ "missionName": "Poliskommendering - datorfestival",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "6"
+  },
+  {
+   "requirement": "ambulanser",
+   "qty": "2"
+  },
+  {
+   "requirement": "polishelikoptrar",
+   "qty": "1"
+  },
+  {
+   "requirement": "hundenheter",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "25"
+  }
+ ],
+ "credits": "5400",
+ "version": "113728699684005659817067313967140952607"
+}

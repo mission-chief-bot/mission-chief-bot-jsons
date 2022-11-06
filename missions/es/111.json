@@ -1,1 +1,12 @@
-{"missionId": "111", "missionName": "Lesión en la mano a causa de los fuegos artificiales", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "111",
+ "missionName": "Lesión en la mano a causa de los fuegos artificiales",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "4889908192779311799117366831257581532"
+}

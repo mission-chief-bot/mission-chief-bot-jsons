@@ -1,1 +1,20 @@
-{"missionId": "77", "missionName": "Pumpkin soup overcooked", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "support vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "77",
+ "missionName": "Pumpkin soup overcooked",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "198900971595867993696675178249095748591"
+}

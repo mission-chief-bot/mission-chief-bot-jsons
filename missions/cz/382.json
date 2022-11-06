@@ -1,1 +1,20 @@
-{"missionId": "382", "missionName": "Odtržení střechy", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "382",
+ "missionName": "Odtržení střechy",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "270279018267863356895849775297950804620"
+}

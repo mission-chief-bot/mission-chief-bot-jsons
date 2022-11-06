@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "덤불 더미", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "덤불 더미",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "84207799336616886867856152200385682818"
+}

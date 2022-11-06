@@ -1,1 +1,12 @@
-{"missionId": "364", "missionName": "Föregivande av allmänställning", "requirements": [{"requirement": "polisbilar", "qty": "3"}], "credits": "670"}
+{
+ "missionId": "364",
+ "missionName": "Föregivande av allmänställning",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  }
+ ],
+ "credits": "670",
+ "version": "129970231156144209347263375451467618080"
+}

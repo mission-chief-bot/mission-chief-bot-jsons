@@ -1,1 +1,12 @@
-{"missionId": "367", "missionName": "Krádež auta", "requirements": [{"requirement": "policejní automobily", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "367",
+ "missionName": "Krádež auta",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "22620107071211910783393541851934045847"
+}

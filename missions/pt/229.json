@@ -1,1 +1,12 @@
-{"missionId": "229", "missionName": "Prenda de aniversário roubada", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "229",
+ "missionName": "Prenda de aniversário roubada",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "235090965390702526178524255624581315202"
+}

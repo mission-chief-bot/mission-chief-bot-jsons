@@ -1,1 +1,12 @@
-{"missionId": "209", "missionName": "Ferimentos na mão causados por fogo-de-artifício", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "209",
+ "missionName": "Ferimentos na mão causados por fogo-de-artifício",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "160370380028868084245827874848766029553"
+}

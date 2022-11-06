@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Feu de cabanon", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "6",
+ "missionName": "Feu de cabanon",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "241383107402503639319272291611155030739"
+}

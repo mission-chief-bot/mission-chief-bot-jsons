@@ -1,1 +1,12 @@
-{"missionId": "203", "missionName": "Krádež na Vánočním trhu", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "203",
+ "missionName": "Krádež na Vánočním trhu",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "248396480868226469100019968215224773154"
+}

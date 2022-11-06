@@ -1,1 +1,28 @@
-{"missionId": "117", "missionName": "Savnet person", "requirements": [{"requirement": "politibiler", "qty": "5"}, {"requirement": "brannbiler", "qty": "2"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "politihelikoptere", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "117",
+ "missionName": "Savnet person",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "politihelikoptere",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "113934782186788086503234721175037980748"
+}

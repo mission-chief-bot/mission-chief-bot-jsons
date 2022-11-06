@@ -1,1 +1,16 @@
-{"missionId": "59", "missionName": "Rescate de animal", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}, {"requirement": "furgones de útiles varios", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "59",
+ "missionName": "Rescate de animal",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "167366234109767923804995968124939513943"
+}

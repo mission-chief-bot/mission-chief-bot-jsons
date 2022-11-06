@@ -1,1 +1,20 @@
-{"missionId": "666", "missionName": "Carnival security", "requirements": [{"requirement": "firetrucks", "qty": "4"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "2"}], "credits": "4000"}
+{
+ "missionId": "666",
+ "missionName": "Carnival security",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "4000",
+ "version": "210514377354718337066712495031709157355"
+}

@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Požár listí", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Požár listí",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "317085287526557565420703742846850692923"
+}

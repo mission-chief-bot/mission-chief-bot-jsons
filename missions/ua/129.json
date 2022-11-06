@@ -1,1 +1,16 @@
-{"missionId": "129", "missionName": "Невелика пожежа на виробництві", "requirements": [{"requirement": "пожежні машини", "qty": "4"}, {"requirement": "штабні автомобілі", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "129",
+ "missionName": "Невелика пожежа на виробництві",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "4"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "181333596244721984113568668481703533954"
+}

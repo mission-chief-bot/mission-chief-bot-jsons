@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "Палаючий мотоцикл", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "Палаючий мотоцикл",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "200619739597818871862093071367090923400"
+}

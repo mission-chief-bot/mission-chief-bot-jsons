@@ -1,1 +1,12 @@
-{"missionId": "626", "missionName": "Person fell in pile of leaves", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "626",
+ "missionName": "Person fell in pile of leaves",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "333907210829332405051043768328381018252"
+}

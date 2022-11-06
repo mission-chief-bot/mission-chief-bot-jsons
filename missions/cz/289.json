@@ -1,1 +1,12 @@
-{"missionId": "289", "missionName": "Infarkt z šoku při žádosti o ruku", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "289",
+ "missionName": "Infarkt z šoku při žádosti o ruku",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "68108530558819850630891122565334627318"
+}

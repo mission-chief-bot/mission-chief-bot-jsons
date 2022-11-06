@@ -1,1 +1,12 @@
-{"missionId": "453", "missionName": "Drunk driving", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "453",
+ "missionName": "Drunk driving",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "62113194140889780832033925584569472832"
+}

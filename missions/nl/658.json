@@ -1,1 +1,12 @@
-{"missionId": "658", "missionName": "Hand in keukenmixer", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "658",
+ "missionName": "Hand in keukenmixer",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "309150163990982534603490630608137731758"
+}

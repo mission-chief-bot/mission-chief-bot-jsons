@@ -1,1 +1,24 @@
-{"missionId": "267", "missionName": "Blåse opp ballonger til jubileumsfest", "requirements": [{"requirement": "brannbiler", "qty": "3"}, {"requirement": "ambulanser", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "2"}, {"requirement": "nødvendig stigebil", "qty": "2"}], "credits": "15000"}
+{
+ "missionId": "267",
+ "missionName": "Blåse opp ballonger til jubileumsfest",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "ambulanser",
+   "qty": "2"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "nødvendig stigebil",
+   "qty": "2"
+  }
+ ],
+ "credits": "15000",
+ "version": "250797078184154892713095574872709874703"
+}

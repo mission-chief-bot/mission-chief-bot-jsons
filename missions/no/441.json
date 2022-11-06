@@ -1,1 +1,20 @@
-{"missionId": "441", "missionName": "Fengselsopprør (Liten)", "requirements": [ {"requirement": "politibiler", "qty": "6"}, {"requirement": "hundepatruljer", "qty": "2"}, {"requirement": "kjøretøy fra demonstrasjonspolitiet", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "441",
+ "missionName": "Fengselsopprør (Liten)",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "6"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "2"
+  },
+  {
+   "requirement": "kjøretøy fra demonstrasjonspolitiet",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "176719155653371664134583837332143170530"
+}

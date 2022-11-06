@@ -1,1 +1,12 @@
-{"missionId": "250", "missionName": "Robo en una joyería", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "250",
+ "missionName": "Robo en una joyería",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "171233894604349357077479679465339261976"
+}

@@ -1,1 +1,12 @@
-{"missionId": "157", "missionName": "Incêndio num campo de abóboras", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "157",
+ "missionName": "Incêndio num campo de abóboras",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "43740543348162714357786708931730019031"
+}

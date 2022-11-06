@@ -1,1 +1,24 @@
-{"missionId": "383", "missionName": "Пожар в столовой", "requirements": [{"requirement": "пожарные машины", "qty": "3"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "полицейские автомобили", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "2"}], "credits": "1300"}
+{
+ "missionId": "383",
+ "missionName": "Пожар в столовой",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "3"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "1"
+  },
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "1"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "2"
+  }
+ ],
+ "credits": "1300",
+ "version": "252289327619833774994698534197297761405"
+}

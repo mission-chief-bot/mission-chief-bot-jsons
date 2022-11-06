@@ -1,1 +1,24 @@
-{"missionId": "447", "missionName": "Olycka under polisjakt", "requirements": [{"requirement": "släckbilar", "qty": "3"}, {"requirement": "lastväxlare", "qty": "1"}, {"requirement": "polisbilar", "qty": "4"}, {"requirement": "mest patienter", "qty": "3"}], "credits": "5000"}
+{
+ "missionId": "447",
+ "missionName": "Olycka under polisjakt",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "5000",
+ "version": "258167251902225068903430223691218993226"
+}

@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "화재 현장(오토바이)", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "화재 현장(오토바이)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "180338326377300210357468709864224464912"
+}

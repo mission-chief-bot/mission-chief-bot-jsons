@@ -1,1 +1,12 @@
-{"missionId": "71", "missionName": "코피 환자", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "71",
+ "missionName": "코피 환자",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "123249734799352815553135711066272990987"
+}

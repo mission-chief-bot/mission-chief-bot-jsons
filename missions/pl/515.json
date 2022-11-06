@@ -1,1 +1,12 @@
-{"missionId": "515", "missionName": "Ukąszenie jadowitego pająka", "requirements": [{"requirement": "maks. pacjenci", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "515",
+ "missionName": "Ukąszenie jadowitego pająka",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "338020092206724265500150346657212113903"
+}

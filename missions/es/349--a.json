@@ -1,1 +1,48 @@
-{"missionId": "349/a", "missionName": "Incendio en estadio (grande)", "requirements": [{"requirement": "camiones de bomberos", "qty": "10"}, {"requirement": "camiones con plataforma", "qty": "2"}, {"requirement": "unidades de mando y comunicaciones", "qty": "3"}, {"requirement": "furgones de útiles varios", "qty": "3"}, {"requirement": "camiones cisterna", "qty": "3"}, {"requirement": "coches patrulla", "qty": "5"}, {"requirement": "vehículos de materiales peligrosos", "qty": "1"}, {"requirement": "vehículos aéreos móviles", "qty": "1"}, {"requirement": "unidades de mando", "qty": "1"}, {"requirement": "vehículos de extinción por espuma", "qty": "1"}], "credits": "9900"}
+{
+ "missionId": "349/a",
+ "missionName": "Incendio en estadio (grande)",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "10"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "2"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "3"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "3"
+  },
+  {
+   "requirement": "camiones cisterna",
+   "qty": "3"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "5"
+  },
+  {
+   "requirement": "vehículos de materiales peligrosos",
+   "qty": "1"
+  },
+  {
+   "requirement": "vehículos aéreos móviles",
+   "qty": "1"
+  },
+  {
+   "requirement": "unidades de mando",
+   "qty": "1"
+  },
+  {
+   "requirement": "vehículos de extinción por espuma",
+   "qty": "1"
+  }
+ ],
+ "credits": "9900",
+ "version": "223868815403167747092236652873909865904"
+}

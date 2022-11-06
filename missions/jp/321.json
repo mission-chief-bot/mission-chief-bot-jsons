@@ -1,1 +1,12 @@
-{"missionId": "321", "missionName": "破壊行為", "requirements": [{"requirement": "警察車両", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "321",
+ "missionName": "破壊行為",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "299278172516204583171804060074551220856"
+}

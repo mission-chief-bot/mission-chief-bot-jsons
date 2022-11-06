@@ -1,1 +1,12 @@
-{"missionId": "150", "missionName": "Monster uitgebroken", "requirements": [{"requirement": "noodhulpeenheden", "qty": "4"}], "credits": "1600"}
+{
+ "missionId": "150",
+ "missionName": "Monster uitgebroken",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  }
+ ],
+ "credits": "1600",
+ "version": "94854771539697579922545454457419511326"
+}

@@ -1,1 +1,12 @@
-{"missionId": "158", "missionName": "사탕 도둑", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "158",
+ "missionName": "사탕 도둑",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "148936446046153532427528328337657268043"
+}

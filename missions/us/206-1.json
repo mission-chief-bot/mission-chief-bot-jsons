@@ -1,1 +1,16 @@
-{"missionId": "206-1", "missionName": "Transformer fire", "requirements": [{"requirement": "firetrucks", "qty": "2"},{"requirement": "fire investigation unit", "qty": "1"}], "credits": "1300"}
+{
+ "missionId": "206-1",
+ "missionName": "Transformer fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation unit",
+   "qty": "1"
+  }
+ ],
+ "credits": "1300",
+ "version": "158696894881615524448150100054044781103"
+}

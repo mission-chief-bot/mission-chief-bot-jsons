@@ -1,1 +1,32 @@
-{"missionId": "371", "missionName": "가연성 제품으로 열차에서 화재", "requirements": [{"requirement": "소방차", "qty": "5"}, {"requirement": "중장비 구조 차량", "qty": "2"}, {"requirement": "소방대장 차량", "qty": "2"}, {"requirement": "기동형 지휘차량", "qty": "1"}, {"requirement": "생화학 차량", "qty": "1"}, {"requirement": "경찰차", "qty": "3"}], "credits": "4300"}
+{
+ "missionId": "371",
+ "missionName": "가연성 제품으로 열차에서 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "5"
+  },
+  {
+   "requirement": "중장비 구조 차량",
+   "qty": "2"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "2"
+  },
+  {
+   "requirement": "기동형 지휘차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "생화학 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "3"
+  }
+ ],
+ "credits": "4300",
+ "version": "142593767899424484139936676356122777363"
+}

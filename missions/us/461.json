@@ -1,1 +1,12 @@
-{"missionId": "461", "missionName": "Petrol fraud", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "461",
+ "missionName": "Petrol fraud",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "275334815433911303546857880908072554318"
+}

@@ -1,1 +1,12 @@
-{"missionId": "12", "missionName": "Baum auf Straße", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "12",
+ "missionName": "Baum auf Straße",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "15825831252918285343580039144892548505"
+}

@@ -1,1 +1,36 @@
-{"missionId": "509", "missionName": "Brennender Stall", "requirements": [{"requirement": "löschfahrzeuge", "qty": "6"}, {"requirement": "drehleitern", "qty": "2"}, {"requirement": "gw l 2 wasser", "qty": "1"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "elw 1", "qty": "2"}, {"requirement": "elw 2", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}], "credits": "3500"}
+{
+ "missionId": "509",
+ "missionName": "Brennender Stall",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "6"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "2"
+  },
+  {
+   "requirement": "gw l 2 wasser",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 2",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "3500",
+ "version": "333792586967446526780877159358534234611"
+}

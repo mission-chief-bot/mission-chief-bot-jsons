@@ -1,1 +1,12 @@
-{"missionId": "62", "missionName": "363 Meluvalitus", "requirements": [{"requirement": "poliisiautot", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "62",
+ "missionName": "363 Meluvalitus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "5043844021640163703269814018008427853"
+}

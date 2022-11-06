@@ -1,1 +1,16 @@
-{"missionId": "412", "missionName": "Trophée du bal masqué volé", "requirements": [{"requirement": "voitures de police es", "qty": "5"}, {"requirement": "max. patients", "qty": "2"}], "credits": "1750"}
+{
+ "missionId": "412",
+ "missionName": "Trophée du bal masqué volé",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "5"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "1750",
+ "version": "204775512060829024935508649964904262003"
+}

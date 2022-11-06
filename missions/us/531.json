@@ -1,1 +1,12 @@
-{"missionId": "531", "missionName": "Broken heart", "requirements": [{"requirement": "max. patients", "qty": "2"}], "credits": "3"}
+{
+ "missionId": "531",
+ "missionName": "Broken heart",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "3",
+ "version": "177081052679960755832338994948750465575"
+}

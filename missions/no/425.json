@@ -1,1 +1,12 @@
-{"missionId": "425", "missionName": "Person som ligger på bakken", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "425",
+ "missionName": "Person som ligger på bakken",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "197332986432668640243744320835542693185"
+}

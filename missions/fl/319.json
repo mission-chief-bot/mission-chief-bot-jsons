@@ -1,1 +1,12 @@
-{"missionId": "319", "missionName": "762 Verenvuoto (gyn.)", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "250"}
+{
+ "missionId": "319",
+ "missionName": "762 Verenvuoto (gyn.)",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "250",
+ "version": "265650959332217523719611945551312849206"
+}

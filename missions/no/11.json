@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Brennende telefonkiosk", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Brennende telefonkiosk",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "99572994866455255633435976282341614584"
+}

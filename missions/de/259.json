@@ -1,1 +1,12 @@
-{"missionId": "259", "missionName": "Brennender PKW durch Feuerwerkskörper", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "370"}
+{
+ "missionId": "259",
+ "missionName": "Brennender PKW durch Feuerwerkskörper",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "370",
+ "version": "95750273809930715594029813889021415673"
+}

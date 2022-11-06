@@ -1,1 +1,16 @@
-{"missionId": "55", "missionName": "Arbede", "requirements": [{"requirement": "gerekli polis arabaları", "qty": "3"}, {"requirement": "maks. hastalar", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "55",
+ "missionName": "Arbede",
+ "requirements": [
+  {
+   "requirement": "gerekli polis arabaları",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks. hastalar",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "221520218293235562946623503199506726922"
+}

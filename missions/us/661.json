@@ -1,1 +1,16 @@
-{"missionId": "661", "missionName": "Mishaps in the carnival procession", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "max. patients", "qty": "6"}], "credits": "1500"}
+{
+ "missionId": "661",
+ "missionName": "Mishaps in the carnival procession",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  }
+ ],
+ "credits": "1500",
+ "version": "72755424635054759791589828158573825019"
+}

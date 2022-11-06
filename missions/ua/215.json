@@ -1,1 +1,12 @@
-{"missionId": "215", "missionName": "Спостереження за підозрюваним", "requirements": [{"requirement": "поліцейські машини", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "215",
+ "missionName": "Спостереження за підозрюваним",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "329741638625522355431824319414791352441"
+}

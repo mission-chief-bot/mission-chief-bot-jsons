@@ -1,1 +1,12 @@
-{"missionId": "228", "missionName": "Gäst åt för mycket jubileumstårta", "requirements": [{"requirement": "mest patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "228",
+ "missionName": "Gäst åt för mycket jubileumstårta",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "189412371785697727550599845846720688469"
+}

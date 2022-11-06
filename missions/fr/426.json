@@ -1,1 +1,12 @@
-{"missionId": "426", "missionName": "Vandalisme", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "426",
+ "missionName": "Vandalisme",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "141946460630264208836294892195015657720"
+}

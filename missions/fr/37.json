@@ -1,1 +1,12 @@
-{"missionId": "37", "missionName": "Crise d'asthme", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "37",
+ "missionName": "Crise d'asthme",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "150522863633226813899075959074291928418"
+}

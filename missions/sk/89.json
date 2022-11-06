@@ -1,1 +1,12 @@
-{"missionId": "89", "missionName": "Stredný požiar hotela", "requirements": [{"requirement": "hasičské automobily", "qty": "6"}], "credits": "5000"}
+{
+ "missionId": "89",
+ "missionName": "Stredný požiar hotela",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "6"
+  }
+ ],
+ "credits": "5000",
+ "version": "282009942035459316090397783014892409279"
+}

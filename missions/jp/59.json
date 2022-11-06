@@ -1,1 +1,16 @@
-{"missionId": "59", "missionName": "動物救助", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "大型救助車両", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "59",
+ "missionName": "動物救助",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "338780326610154370679631518458066282235"
+}

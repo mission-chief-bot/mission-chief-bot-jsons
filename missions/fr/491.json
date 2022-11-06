@@ -1,1 +1,20 @@
-{"missionId": "491", "missionName": "Attaque de requin", "requirements": [{"requirement": "buggy", "qty": "1"}, {"requirement": "canot de sauvetage léger", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "491",
+ "missionName": "Attaque de requin",
+ "requirements": [
+  {
+   "requirement": "buggy",
+   "qty": "1"
+  },
+  {
+   "requirement": "canot de sauvetage léger",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "140711324953021751933194100850727665926"
+}

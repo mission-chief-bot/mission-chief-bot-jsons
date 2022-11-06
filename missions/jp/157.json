@@ -1,1 +1,16 @@
-{"missionId": "157", "missionName": "クリスマスマーケット屋台炎上", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "最大患者", "qty": "1"}], "credits": "610"}
+{
+ "missionId": "157",
+ "missionName": "クリスマスマーケット屋台炎上",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "610",
+ "version": "32854689959022585580721497316765310598"
+}

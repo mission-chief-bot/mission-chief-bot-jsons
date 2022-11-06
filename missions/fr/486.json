@@ -1,1 +1,36 @@
-{"missionId": "486", "missionName": "Feu d'éolienne", "requirements": [{"requirement": "fourgons d’incendie", "qty": "3"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}, {"requirement": "ccf", "qty": "2"}, {"requirement": "voitures de police es", "qty": "1"}, {"requirement": "spécialistes imp", "qty": "2"}, {"requirement": "vgrimp", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "486",
+ "missionName": "Feu d'éolienne",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "3"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "ccf",
+   "qty": "2"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "spécialistes imp",
+   "qty": "2"
+  },
+  {
+   "requirement": "vgrimp",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "60769460441506536584776985069362208843"
+}

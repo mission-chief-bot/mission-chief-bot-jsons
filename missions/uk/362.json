@@ -1,1 +1,24 @@
-{"missionId": "362", "missionName": "Mixing of domestic cleaning chemicals", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "hazmat units or cbrn vehicles", "qty": "1"}, {"requirement": "fire officers", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "362",
+ "missionName": "Mixing of domestic cleaning chemicals",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "hazmat units or cbrn vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "181098053366302651629157113640875537486"
+}

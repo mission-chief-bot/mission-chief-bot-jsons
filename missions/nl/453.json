@@ -1,1 +1,12 @@
-{"missionId": "453", "missionName": "Vissen met zuurstoftekort", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "453",
+ "missionName": "Vissen met zuurstoftekort",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "68291325045767579940871012348584836139"
+}

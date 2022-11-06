@@ -1,1 +1,24 @@
-{"missionId": "138", "missionName": "Tana del coniglio collassata", "requirements": [{"requirement": "aps/abp", "qty": "4"}, {"requirement": "funzionari", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "138",
+ "missionName": "Tana del coniglio collassata",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "4"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "110350176538211159481058035781662362022"
+}

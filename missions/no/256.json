@@ -1,1 +1,12 @@
-{"missionId": "256", "missionName": "Stjålet jubileumspresang", "requirements": [{"requirement": "politibiler", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "256",
+ "missionName": "Stjålet jubileumspresang",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "75049792979507250711955868859493340071"
+}

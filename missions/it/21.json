@@ -1,1 +1,16 @@
-{"missionId": "21", "missionName": "Camino in fiamme", "requirements": [{"requirement": "autoscale", "qty": "1"}, {"requirement": "aps/abp", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "21",
+ "missionName": "Camino in fiamme",
+ "requirements": [
+  {
+   "requirement": "autoscale",
+   "qty": "1"
+  },
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "55792443787642580091418351975857278329"
+}

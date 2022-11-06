@@ -1,1 +1,12 @@
-{"missionId": "595", "missionName": "Ongeval bijtend middel (huishoudelijk)", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "595",
+ "missionName": "Ongeval bijtend middel (huishoudelijk)",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "22803825042324539606025561994799648552"
+}

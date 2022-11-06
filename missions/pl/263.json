@@ -1,1 +1,16 @@
-{"missionId": "263", "missionName": "Niezabezpieczony ładunek w pojeździe", "requirements": [{"requirement": "wydziały ruchu drogowego", "qty": "1"}, {"requirement": "radiowozy wrd", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "263",
+ "missionName": "Niezabezpieczony ładunek w pojeździe",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "128540697053763750429392674149209160032"
+}

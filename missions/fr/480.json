@@ -1,1 +1,64 @@
-{"missionId": "480", "missionName": "Incendie dans un entrepôt de carburant avec risque d'explosion", "requirements": [{"requirement": "fourgons d’incendie", "qty": "14"}, {"requirement": "chefs de groupe ou vlhr", "qty": "4"}, {"requirement": "moyen elévateur aérien", "qty": "2"}, {"requirement": "ambulances es", "qty": "10"}, {"requirement": "véhicule de secours routier", "qty": "2"}, {"requirement": "camions-citernes", "qty": "5"}, {"requirement": "assistance respiratoire e", "qty": "2"}, {"requirement": "véhicules poste de commandement", "qty": "1"}, {"requirement": "voitures de police es", "qty": "10"}, {"requirement": "véhicules risques technologiques", "qty": "2"}, {"requirement": "fmogp", "qty": "2"}, {"requirement": "motopompes", "qty": "1"}, {"requirement": "max. patients", "qty": "15"}, {"requirement": "DSM","qty": "1"}], "credits": "20000"}
+{
+ "missionId": "480",
+ "missionName": "Incendie dans un entrepôt de carburant avec risque d'explosion",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "14"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "4"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulances es",
+   "qty": "10"
+  },
+  {
+   "requirement": "véhicule de secours routier",
+   "qty": "2"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "5"
+  },
+  {
+   "requirement": "assistance respiratoire e",
+   "qty": "2"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "10"
+  },
+  {
+   "requirement": "véhicules risques technologiques",
+   "qty": "2"
+  },
+  {
+   "requirement": "fmogp",
+   "qty": "2"
+  },
+  {
+   "requirement": "motopompes",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "15"
+  },
+  {
+   "requirement": "DSM",
+   "qty": "1"
+  }
+ ],
+ "credits": "20000",
+ "version": "241279397235954768081746493634310148696"
+}

@@ -1,1 +1,12 @@
-{"missionId": "273", "missionName": "Обломки на взлетно-посадочной полосе", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "273",
+ "missionName": "Обломки на взлетно-посадочной полосе",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "18909200505898052840922027492303419262"
+}

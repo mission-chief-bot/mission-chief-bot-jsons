@@ -1,1 +1,12 @@
-{"missionId": "322", "missionName": "蜂アナフィラキシーショック", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "550"}
+{
+ "missionId": "322",
+ "missionName": "蜂アナフィラキシーショック",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "550",
+ "version": "328586911526014627290392992173816919510"
+}

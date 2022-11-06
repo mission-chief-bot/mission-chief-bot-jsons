@@ -1,1 +1,12 @@
-{"missionId": "172", "missionName": "수상한 사람", "requirements": [{"requirement": "경찰차", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "172",
+ "missionName": "수상한 사람",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "95333640744048295169840531476293631242"
+}

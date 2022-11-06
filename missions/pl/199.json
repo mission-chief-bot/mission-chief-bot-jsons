@@ -1,1 +1,32 @@
-{"missionId": "199", "missionName": "Zaginiona osoba w pobliżu wody", "requirements": [ {"requirement": "helikopteru policyjnego", "qty": "1"}, {"requirement": "radiowozy", "qty": "6"}, {"requirement": "samochody pożarnicze", "qty": "1"}, {"requirement": "łodzie", "qty": "4"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}], "credits": "5500"}
+{
+ "missionId": "199",
+ "missionName": "Zaginiona osoba w pobliżu wody",
+ "requirements": [
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "6"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "łodzie",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "5500",
+ "version": "113605414325530505717067479635167634680"
+}

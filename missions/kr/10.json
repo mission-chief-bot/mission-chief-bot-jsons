@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "화재 현장(트랙터)", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "화재 현장(트랙터)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "234387938329974553886184171490144527507"
+}

@@ -1,1 +1,12 @@
-{"missionId": "275", "missionName": "낙엽더미 속 인명 구조", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "275",
+ "missionName": "낙엽더미 속 인명 구조",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "287745817562805791132304064281896335757"
+}

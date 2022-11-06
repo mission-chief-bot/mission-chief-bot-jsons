@@ -1,1 +1,16 @@
-{"missionId": "98", "missionName": "Текущая крыша", "requirements": [{"requirement": "пожарные машины", "qty": "1"}, {"requirement": "платформы", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "98",
+ "missionName": "Текущая крыша",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  },
+  {
+   "requirement": "платформы",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "96152448918356050564655692024139581905"
+}

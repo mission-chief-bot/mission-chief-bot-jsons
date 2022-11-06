@@ -1,1 +1,28 @@
-{"missionId": "81-1", "missionName": "サイロ火事", "requirements": [{"requirement": "消防車", "qty": "8"}, {"requirement": "プラットフォームトラック", "qty": "1"}, {"requirement": "大型救助車両", "qty": "1"}, {"requirement": "消防隊長車両", "qty": "2"}, {"requirement": "水", "qty": "20000"}], "credits": "3200"}
+{
+ "missionId": "81-1",
+ "missionName": "サイロ火事",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "8"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "1"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "水",
+   "qty": "20000"
+  }
+ ],
+ "credits": "3200",
+ "version": "44291599313370090225401762036524179015"
+}

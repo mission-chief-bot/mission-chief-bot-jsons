@@ -1,1 +1,12 @@
-{"missionId": "25", "missionName": "Kolizja drogowa", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "25",
+ "missionName": "Kolizja drogowa",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "134730805862223055538378442325941711690"
+}

@@ -1,1 +1,84 @@
-{"missionId": "651", "missionName": "Container ship fire with explosion", "requirements": [{"requirement": "firetrucks", "qty": "12"}, {"requirement": "platform trucks", "qty": "3"}, {"requirement": "battalion chief vehicles", "qty": "4"}, {"requirement": "mobile command vehicles", "qty": "2"}, {"requirement": "mobile air vehicles", "qty": "2"}, {"requirement": "heavy rescue vehicles", "qty": "3"}, {"requirement": "hazmat vehicles", "qty": "2"}, {"requirement": "police cars", "qty": "5"}, {"requirement": "light boats", "qty": "2"}, {"requirement": "large rescue boats", "qty": "1"}, {"requirement": "large fire boats", "qty": "2"}, {"requirement": "sheriffs", "qty": "1"}, {"requirement": "fbi units", "qty": "2"}, {"requirement": "fbi investigation wagons", "qty": "1"}, {"requirement": "fbi mobile command centers", "qty": "1"}, {"requirement": "fbi bomb technician vehicles", "qty": "1"}, {"requirement": "fire investigation units", "qty": "2"}, {"requirement": "patrol boats", "qty": "1"}, {"requirement": "max. patients", "qty": "25"}], "credits": "22000"}
+{
+ "missionId": "651",
+ "missionName": "Container ship fire with explosion",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "12"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "light boats",
+   "qty": "2"
+  },
+  {
+   "requirement": "large rescue boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "large fire boats",
+   "qty": "2"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  },
+  {
+   "requirement": "fbi units",
+   "qty": "2"
+  },
+  {
+   "requirement": "fbi investigation wagons",
+   "qty": "1"
+  },
+  {
+   "requirement": "fbi mobile command centers",
+   "qty": "1"
+  },
+  {
+   "requirement": "fbi bomb technician vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  },
+  {
+   "requirement": "patrol boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "25"
+  }
+ ],
+ "credits": "22000",
+ "version": "247751216780993370415006860418743530016"
+}

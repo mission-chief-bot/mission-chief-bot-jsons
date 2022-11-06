@@ -1,1 +1,32 @@
-{"missionId": "280", "missionName": "Incêndio numa discoteca", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "6"}, {"requirement": "veículos escada necessários:", "qty": "2"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "veículos tanque necessários:", "qty": "1"}, {"requirement": "carros de patrulha necessários:", "qty": "3"}, {"requirement": "máx. de pacientes:", "qty": "15"}], "credits": "5500"}
+{
+ "missionId": "280",
+ "missionName": "Incêndio numa discoteca",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "6"
+  },
+  {
+   "requirement": "veículos escada necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos tanque necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "15"
+  }
+ ],
+ "credits": "5500",
+ "version": "282429708373008072435534236646771680234"
+}

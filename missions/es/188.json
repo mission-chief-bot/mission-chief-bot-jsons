@@ -1,1 +1,12 @@
-{"missionId": "188", "missionName": "Persona atrapada bajo árbol", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "188",
+ "missionName": "Persona atrapada bajo árbol",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "90591832499869098836177240588842033526"
+}

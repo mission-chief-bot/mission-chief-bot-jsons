@@ -1,1 +1,12 @@
-{"missionId": "153", "missionName": "Violences Domestiques", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "3"}
+{
+ "missionId": "153",
+ "missionName": "Violences Domestiques",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "3",
+ "version": "188356442494580221837127025975104322123"
+}

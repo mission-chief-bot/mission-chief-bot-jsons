@@ -1,1 +1,12 @@
-{"missionId": "352", "missionName": "空きビルで火災発生", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "352",
+ "missionName": "空きビルで火災発生",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "140384269633697300938430996001899979852"
+}

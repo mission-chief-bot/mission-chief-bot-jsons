@@ -1,1 +1,36 @@
-{"missionId": "143", "missionName": "Natuurbrand", "requirements": [{"requirement": "tankautospuiten", "qty": "8"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "2"}, {"requirement": "adembeschermingsvoertuigen", "qty": "1"}, {"requirement": "slangenwagens", "qty": "2"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "commandowagen", "qty": "1"}], "credits": "6470"}
+{
+ "missionId": "143",
+ "missionName": "Natuurbrand",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "8"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "2"
+  },
+  {
+   "requirement": "adembeschermingsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "slangenwagens",
+   "qty": "2"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "commandowagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "6470",
+ "version": "55637174361609275902120873827183637943"
+}

@@ -1,1 +1,12 @@
-{"missionId": "201", "missionName": "Activitate ilegala pe internet", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "201",
+ "missionName": "Activitate ilegala pe internet",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "107326338602527942137386207224029814862"
+}

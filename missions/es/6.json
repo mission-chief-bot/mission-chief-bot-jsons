@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Cobertizo en llamas", "requirements": [{"requirement": "camiones de bomberos", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Cobertizo en llamas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "4020403573756440483039555216828687239"
+}

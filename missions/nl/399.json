@@ -1,1 +1,16 @@
-{"missionId": "399", "missionName": "Inbraakalarm bedrijfspand", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "hondengeleider", "qty": "1"}], "credits": "1850"}
+{
+ "missionId": "399",
+ "missionName": "Inbraakalarm bedrijfspand",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "1"
+  }
+ ],
+ "credits": "1850",
+ "version": "77805093132432464031687911932333736889"
+}

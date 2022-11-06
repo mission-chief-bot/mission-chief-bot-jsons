@@ -1,1 +1,16 @@
-{"missionId": "175", "missionName": "Narkorazzia", "requirements": [{"requirement": "påkrævede indsatsleder politi", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "175",
+ "missionName": "Narkorazzia",
+ "requirements": [
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "235780135782436393660970131642878384261"
+}

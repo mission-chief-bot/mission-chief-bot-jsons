@@ -1,1 +1,12 @@
-{"missionId": "368", "missionName": "Bankran", "requirements": [{"requirement": "politibiler", "qty": "5"}], "credits": "2500"}
+{
+ "missionId": "368",
+ "missionName": "Bankran",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "5"
+  }
+ ],
+ "credits": "2500",
+ "version": "70424926530801716312834722283338653750"
+}

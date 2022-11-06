@@ -1,1 +1,20 @@
-{"missionId": "380", "missionName": "572 Konsertti", "requirements": [{"requirement": "poliisiautot", "qty": "2"}, {"requirement": "koirapartiot", "qty": "2"}, {"requirement": "vati-henkilöt", "qty": "8"}], "credits": "14000"}
+{
+ "missionId": "380",
+ "missionName": "572 Konsertti",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "2"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "8"
+  }
+ ],
+ "credits": "14000",
+ "version": "147447974090983609881956420475329293111"
+}

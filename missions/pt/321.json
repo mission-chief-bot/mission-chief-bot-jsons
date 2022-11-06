@@ -1,1 +1,12 @@
-{"missionId": "321", "missionName": "Assalto a um escritório", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "321",
+ "missionName": "Assalto a um escritório",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "181262642847103385534024314745570969366"
+}

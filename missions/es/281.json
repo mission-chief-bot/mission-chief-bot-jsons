@@ -1,1 +1,12 @@
-{"missionId": "281", "missionName": "Incendio en la escuela (pequeño)", "requirements": [{"requirement": "camiones de bomberos", "qty": "4"}], "credits": "3000"}
+{
+ "missionId": "281",
+ "missionName": "Incendio en la escuela (pequeño)",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "332906459807010272763792823155535462869"
+}

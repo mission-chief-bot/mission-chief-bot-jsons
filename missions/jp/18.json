@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "薪木の山", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "薪木の山",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "158004137152347490492894176190378131952"
+}

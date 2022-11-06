@@ -1,1 +1,36 @@
-{"missionId": "395", "missionName": "Bank robbery (Large)", "requirements": [{"requirement": "police cars", "qty": "9"}, {"requirement": "k-9 units", "qty": "3"}, {"requirement": "riot police group vehicles", "qty": "1"}, {"requirement": "riot police suvs", "qty": "1"}, {"requirement": "riot police equipment vehicles", "qty": "1"}, {"requirement": "senior sergeants", "qty": "2"}, {"requirement": "tog personnel", "qty": "3"}], "credits": "4400"}
+{
+ "missionId": "395",
+ "missionName": "Bank robbery (Large)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "9"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "3"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police suvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police equipment vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "2"
+  },
+  {
+   "requirement": "tog personnel",
+   "qty": "3"
+  }
+ ],
+ "credits": "4400",
+ "version": "224423460331180493664410837654301524780"
+}

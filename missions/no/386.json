@@ -1,1 +1,12 @@
-{"missionId": "386", "missionName": "Øk bevisstheten om skolebarn for 112", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "386",
+ "missionName": "Øk bevisstheten om skolebarn for 112",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "317278262970850672979859538864061368067"
+}

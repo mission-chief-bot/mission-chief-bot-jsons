@@ -1,1 +1,20 @@
-{"missionId": "296", "missionName": "Incêndio Florestal", "requirements": [{"requirement": "veículos de comando tático necessários:", "qty": "2"}, {"requirement": "veículos tanque", "qty": "2" }, {"requirement": "veículos florestais", "qty": "5" }], "credits": "5500"}
+{
+ "missionId": "296",
+ "missionName": "Incêndio Florestal",
+ "requirements": [
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos tanque",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos florestais",
+   "qty": "5"
+  }
+ ],
+ "credits": "5500",
+ "version": "166741855740106890777707251246293204785"
+}

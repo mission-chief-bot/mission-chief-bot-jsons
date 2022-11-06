@@ -1,1 +1,11 @@
-{"missionId": "403", "missionName": "Sunstroke", "requirements": [{"requirement": "max. patients", "qty": "1"}]}
+{
+ "missionId": "403",
+ "missionName": "Sunstroke",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "332458013737008540951800896092255216038"
+}

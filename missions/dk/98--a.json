@@ -1,1 +1,32 @@
-{"missionId": "98/a", "missionName": "Ild i halmoplag", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "5"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede vandtankvogne", "qty": "1"},  {"requirement": "slange tender påkrævet", "qty": "1"}, {"requirement": "skum tender påkrævet", "qty": "1"}, {"requirement": "påhængs pumpe påkrævet", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "98/a",
+ "missionName": "Ild i halmoplag",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede vandtankvogne",
+   "qty": "1"
+  },
+  {
+   "requirement": "slange tender påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "skum tender påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "påhængs pumpe påkrævet",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "304698892195511714037548969301728962682"
+}

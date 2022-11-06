@@ -1,1 +1,16 @@
-{"missionId": "518", "missionName": "Brennender Baum", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "drehleitern", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "518",
+ "missionName": "Brennender Baum",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "296571098085455643650856056881257168459"
+}

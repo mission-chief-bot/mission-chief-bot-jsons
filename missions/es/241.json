@@ -1,1 +1,12 @@
-{"missionId": "241", "missionName": "Accidente automovilístico a causa de fuegos artificiales cerca de la carretera", "requirements": [{"requirement": "coches patrulla", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "241",
+ "missionName": "Accidente automovilístico a causa de fuegos artificiales cerca de la carretera",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "225670027754405252098727433124181376693"
+}

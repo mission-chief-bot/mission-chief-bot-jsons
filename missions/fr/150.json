@@ -1,1 +1,16 @@
-{"missionId": "150", "missionName": "Coupure profonde", "requirements": [{"requirement": "ambulances es", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "150",
+ "missionName": "Coupure profonde",
+ "requirements": [
+  {
+   "requirement": "ambulances es",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "97829253653039810688257978414538641843"
+}

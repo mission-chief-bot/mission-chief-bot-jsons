@@ -1,1 +1,12 @@
-{"missionId": "59", "missionName": "Záchrana zvieraťa", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "59",
+ "missionName": "Záchrana zvieraťa",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "301934528178928464361347086981638129507"
+}

@@ -1,1 +1,28 @@
-{"missionId": "131", "missionName": "Auto nel fiume", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "autogrù", "qty": "1"}, {"requirement": "max pazienti", "qty": "4"}], "credits": "2"}
+{
+ "missionId": "131",
+ "missionName": "Auto nel fiume",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  },
+  {
+   "requirement": "autogrù",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "4"
+  }
+ ],
+ "credits": "2",
+ "version": "12433817016335401808506293212560334342"
+}

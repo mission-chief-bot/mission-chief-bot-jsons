@@ -1,1 +1,24 @@
-{"missionId": "377-0", "missionName": "Pád stromu na dům", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}, {"requirement": "vya nebo aj", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "377-0",
+ "missionName": "Pád stromu na dům",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "vya nebo aj",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "244728439071603671173834083911463422413"
+}

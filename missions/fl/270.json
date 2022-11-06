@@ -1,1 +1,16 @@
-{"missionId": "270", "missionName": "461 Irronnut kattopelti, pieni", "requirements": [{"requirement": "paloautot", "qty": "1"}, {"requirement": "nostolava-autot", "qty": "1"}], "credits": "450"}
+{
+ "missionId": "270",
+ "missionName": "461 Irronnut kattopelti, pieni",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  }
+ ],
+ "credits": "450",
+ "version": "298036207235170415884320539841170461615"
+}

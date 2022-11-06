@@ -1,1 +1,20 @@
-{"missionId": "119", "missionName": "Feu de pile de ballots de paille", "requirements": [{"requirement": "ccf", "qty": "5"}, {"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "camions-citernes", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "119",
+ "missionName": "Feu de pile de ballots de paille",
+ "requirements": [
+  {
+   "requirement": "ccf",
+   "qty": "5"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "281655490159561694712217484930285375466"
+}

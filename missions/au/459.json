@@ -1,1 +1,36 @@
-{"missionId": "459", "missionName": "Threat to Utilities", "requirements": [ {"requirement": "police cars", "qty": "5"}, {"requirement": "k-9 units", "qty": "3"}, {"requirement": "riot police group vehicles", "qty": "1"}, {"requirement": "senior sergeants", "qty": "1"}, {"requirement": "riot police suvs", "qty": "1"}, {"requirement": "riot police equipment vehicles", "qty": "1"}, {"requirement": "' swat personnel (in swat vehicles)", "qty": "2"}], "credits": "5750"}
+{
+ "missionId": "459",
+ "missionName": "Threat to Utilities",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "3"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police suvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police equipment vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "' swat personnel (in swat vehicles)",
+   "qty": "2"
+  }
+ ],
+ "credits": "5750",
+ "version": "154316516937632582893441707433047368654"
+}

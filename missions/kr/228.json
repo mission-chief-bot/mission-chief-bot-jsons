@@ -1,1 +1,24 @@
-{"missionId": "228", "missionName": "부두 화재", "requirements": [{"requirement": "소방차", "qty": "4"}, {"requirement": "지휘차", "qty": "1"}, {"requirement": "고가 사다리(TL)", "qty": "1"}, {"requirement": "구조공작차(MRU)", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "228",
+ "missionName": "부두 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "4"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "1"
+  },
+  {
+   "requirement": "고가 사다리(TL)",
+   "qty": "1"
+  },
+  {
+   "requirement": "구조공작차(MRU)",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "70438748070465402181800081815091675008"
+}

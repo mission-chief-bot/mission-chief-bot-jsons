@@ -1,1 +1,12 @@
-{"missionId": "644", "missionName": "Heterdaad fietsendiefstal", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "0"}
+{
+ "missionId": "644",
+ "missionName": "Heterdaad fietsendiefstal",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "0",
+ "version": "168751070091388344375065507895880423594"
+}

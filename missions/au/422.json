@@ -1,1 +1,40 @@
-{"missionId": "422", "missionName": "Ammonia Leak", "requirements": [{"requirement": "fire engines", "qty": "15"}, {"requirement": "support vehicles", "qty": "6"}, {"requirement": "basu", "qty": "4"}, {"requirement": "major rescue vehicles", "qty": "4"}, {"requirement": "police cars", "qty": "6"}, {"requirement": "hazmat units", "qty": "5"}, {"requirement": "mobile command vehicles", "qty": "2"}, {"requirement": "max. patients", "qty": "30"}], "credits": "9500"}
+{
+ "missionId": "422",
+ "missionName": "Ammonia Leak",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "15"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "6"
+  },
+  {
+   "requirement": "basu",
+   "qty": "4"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "hazmat units",
+   "qty": "5"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "30"
+  }
+ ],
+ "credits": "9500",
+ "version": "97918575871705443109649502497470966978"
+}

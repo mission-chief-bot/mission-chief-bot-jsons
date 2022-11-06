@@ -1,1 +1,12 @@
-{"missionId": "676", "missionName": "Von Laub verstopfter Gulli", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "676",
+ "missionName": "Von Laub verstopfter Gulli",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "4991423679386841858109669712647305243"
+}

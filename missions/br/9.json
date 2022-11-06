@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "Fogo em fardo de palha", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "Fogo em fardo de palha",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "239263436879036329156122690321924209335"
+}

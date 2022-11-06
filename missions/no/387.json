@@ -1,1 +1,12 @@
-{"missionId": "387", "missionName": "Øk bevisstheten om skolebarn for 112", "requirements": [{"requirement": "politibiler", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "387",
+ "missionName": "Øk bevisstheten om skolebarn for 112",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "70558366937119203431416555768417820396"
+}

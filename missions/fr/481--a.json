@@ -1,1 +1,32 @@
-{"missionId": "481/a", "missionName": "Disparition inquiétante en forêt", "requirements": [{"requirement": "voitures de police es", "qty": "10"}, {"requirement": "véhicules poste de commandement", "qty": "1"}, {"requirement": "spécialistes imp", "qty": "1"}, {"requirement": "vlhr", "qty": "1"}, {"requirement": "soutien aérien fag", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "5000"}
+{
+ "missionId": "481/a",
+ "missionName": "Disparition inquiétante en forêt",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "10"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "spécialistes imp",
+   "qty": "1"
+  },
+  {
+   "requirement": "vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "soutien aérien fag",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "5000",
+ "version": "148074509255186324090793541830526590049"
+}

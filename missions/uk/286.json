@@ -1,1 +1,12 @@
-{"missionId": "286", "missionName": "Swan in carriageway", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "286",
+ "missionName": "Swan in carriageway",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "31013387778897431117787678265474433600"
+}

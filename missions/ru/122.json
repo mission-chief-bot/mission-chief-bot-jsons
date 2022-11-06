@@ -1,1 +1,12 @@
-{"missionId": "122", "missionName": "Подозреваемый убегает", "requirements": [{"requirement": "полицейские автомобили", "qty": "5"}], "credits": "3000"}
+{
+ "missionId": "122",
+ "missionName": "Подозреваемый убегает",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "5"
+  }
+ ],
+ "credits": "3000",
+ "version": "253730257360393326879018522886544105761"
+}

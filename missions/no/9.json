@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "Brennende halmball", "requirements": [{"requirement": "brannbiler", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "Brennende halmball",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "133170494152037485581532439554455649668"
+}

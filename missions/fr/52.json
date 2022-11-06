@@ -1,1 +1,12 @@
-{"missionId": "52", "missionName": "Resquilleur", "requirements": [{"requirement": "voitures de police es", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "52",
+ "missionName": "Resquilleur",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "37700539743184272504639591323114159558"
+}

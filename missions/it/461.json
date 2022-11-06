@@ -1,1 +1,12 @@
-{"missionId": "461", "missionName": "Scarica ICD", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "950"}
+{
+ "missionId": "461",
+ "missionName": "Scarica ICD",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "950",
+ "version": "64463505388369422093935587403633362631"
+}

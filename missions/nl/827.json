@@ -1,1 +1,12 @@
-{"missionId": "827", "missionName": "Keelpijn na juichen", "requirements": [{"requirement": "maximale patiënten aantal", "qty": "3"}], "credits": "1"}
+{
+ "missionId": "827",
+ "missionName": "Keelpijn na juichen",
+ "requirements": [
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "3"
+  }
+ ],
+ "credits": "1",
+ "version": "92474267988380610629179426962759222522"
+}

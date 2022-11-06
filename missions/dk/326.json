@@ -1,1 +1,12 @@
-{"missionId": "326", "missionName": "Behandling efter dykning", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "1"}
+{
+ "missionId": "326",
+ "missionName": "Behandling efter dykning",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "1",
+ "version": "242920890885911221993432522234171880156"
+}

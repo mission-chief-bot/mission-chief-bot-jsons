@@ -1,1 +1,12 @@
-{"missionId": "47", "missionName": "Poškodenie zaparkovaného vozidla", "requirements": [{"requirement": "policajné vozidlá", "qty": "1"}], "credits": "120"}
+{
+ "missionId": "47",
+ "missionName": "Poškodenie zaparkovaného vozidla",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "1"
+  }
+ ],
+ "credits": "120",
+ "version": "38693633559575827084008078334287657993"
+}

@@ -1,1 +1,16 @@
-{"missionId": "443", "missionName": "Brand in hotel", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "redvoertuigen", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "443",
+ "missionName": "Brand in hotel",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "59229458262607899599677592552651818923"
+}

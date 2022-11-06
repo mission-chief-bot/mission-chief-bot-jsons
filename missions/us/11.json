@@ -1,1 +1,12 @@
-{"missionId": "11", "missionName": "Burning callbox", "requirements": [{"requirement": "firetrucks", "qty": "1"}], "credits": "240"}
+{
+ "missionId": "11",
+ "missionName": "Burning callbox",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "credits": "240",
+ "version": "312452727240691968292654963843038691833"
+}

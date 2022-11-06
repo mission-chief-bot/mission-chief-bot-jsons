@@ -1,1 +1,12 @@
-{"missionId": "480", "missionName": "Person Stealing Feral Piglets", "requirements": [{"requirement": "police cars", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "480",
+ "missionName": "Person Stealing Feral Piglets",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "160892178645982960821392500314830537175"
+}

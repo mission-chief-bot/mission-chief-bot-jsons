@@ -1,1 +1,16 @@
-{"missionId": "295", "missionName": "違法路上商", "requirements": [{"requirement": "警察車両", "qty": "5"}, {"requirement": "最大患者", "qty": "2"}], "credits": "3500"}
+{
+ "missionId": "295",
+ "missionName": "違法路上商",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "5"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "2"
+  }
+ ],
+ "credits": "3500",
+ "version": "79317313338432428301456953021705277422"
+}

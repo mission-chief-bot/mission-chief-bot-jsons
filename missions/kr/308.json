@@ -1,1 +1,12 @@
-{"missionId": "308", "missionName": "공공 기물 파손", "requirements": [{"requirement": "경찰차", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "308",
+ "missionName": "공공 기물 파손",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "189724749503587641706078576073535263218"
+}

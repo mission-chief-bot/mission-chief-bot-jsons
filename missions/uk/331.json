@@ -1,1 +1,20 @@
-{"missionId": "331", "missionName": "Chemistry accident at school", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "hazmat units or cbrn vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "2"}], "credits": "900"}
+{
+ "missionId": "331",
+ "missionName": "Chemistry accident at school",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "hazmat units or cbrn vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "credits": "900",
+ "version": "39021068642517959659442603192398441999"
+}

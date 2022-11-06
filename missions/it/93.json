@@ -1,1 +1,12 @@
-{"missionId": "93", "missionName": "Siepe in fiamme a causa di un petardo", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "93",
+ "missionName": "Siepe in fiamme a causa di un petardo",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "88379735249268886332605791680894764230"
+}

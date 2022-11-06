@@ -1,1 +1,12 @@
-{"missionId": "313", "missionName": "Burning bouquet", "requirements": [{"requirement": "fire engines", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "313",
+ "missionName": "Burning bouquet",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "183644475904115001304814429577854090015"
+}

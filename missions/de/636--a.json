@@ -1,1 +1,36 @@
-{"missionId": "636/a", "missionName": "Entführung", "requirements": [{"requirement": "streifenwagen", "qty": "4"}, {"requirement": "zivilstreifenwagen", "qty": "2"}, {"requirement": "mek-fahrzeuge", "qty": "4"}, {"requirement": "fükw", "qty": "1"}, {"requirement": "polizeihubschrauber", "qty": "1"}, {"requirement": "rtw", "qty": "1"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "5400"}
+{
+ "missionId": "636/a",
+ "missionName": "Entführung",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "zivilstreifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "mek-fahrzeuge",
+   "qty": "4"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "polizeihubschrauber",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "5400",
+ "version": "220654414661230676857538049950391227366"
+}

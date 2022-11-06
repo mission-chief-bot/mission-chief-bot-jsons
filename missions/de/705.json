@@ -1,1 +1,12 @@
-{"missionId": "705", "missionName": "Schulkinder über den Notruf 112 informieren", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "705",
+ "missionName": "Schulkinder über den Notruf 112 informieren",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "35215754073744304646795939164633535748"
+}

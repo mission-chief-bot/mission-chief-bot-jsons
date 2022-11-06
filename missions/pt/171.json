@@ -1,1 +1,16 @@
-{"missionId": "171", "missionName": "Pacote suspeito", "requirements": [{"requirement": "veículos de inativação de explosivos e segurança em subsolo necessários", "qty": "1"}, {"requirement": "carros de patrulha necessários", "qty": "2"}], "credits": "1500"}
+{
+ "missionId": "171",
+ "missionName": "Pacote suspeito",
+ "requirements": [
+  {
+   "requirement": "veículos de inativação de explosivos e segurança em subsolo necessários",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários",
+   "qty": "2"
+  }
+ ],
+ "credits": "1500",
+ "version": "340012800403764925863234260569732291400"
+}

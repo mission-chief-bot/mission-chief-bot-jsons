@@ -1,1 +1,12 @@
-{"missionId": "241", "missionName": "Hånd skade forårsaget af fyrværkeri", "requirements": [{"requirement": "maks. antal patienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "241",
+ "missionName": "Hånd skade forårsaget af fyrværkeri",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "334037313181472502359702758635638895044"
+}

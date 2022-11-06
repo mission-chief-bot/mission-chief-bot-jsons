@@ -1,1 +1,16 @@
-{"missionId": "212", "missionName": "Slåsskamp på julemarked", "requirements": [{"requirement": "politibiler", "qty": "2"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "212",
+ "missionName": "Slåsskamp på julemarked",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "46290779107435912441066178414889756222"
+}

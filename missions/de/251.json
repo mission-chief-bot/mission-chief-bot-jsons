@@ -1,1 +1,20 @@
-{"missionId": "251", "missionName": "Person in Wasser", "requirements": [ {"requirement": "boote", "qty": "1"}, {"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "251",
+ "missionName": "Person in Wasser",
+ "requirements": [
+  {
+   "requirement": "boote",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "134043467287413899742318994428585915049"
+}

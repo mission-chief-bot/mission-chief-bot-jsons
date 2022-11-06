@@ -1,1 +1,48 @@
-{"missionId": "569", "missionName": "Verward persoon draait gaskraan open", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "4"}, {"requirement": "hondengeleider", "qty": "1"}, {"requirement": "at operators", "qty": "4"}, {"requirement": "at commandanten", "qty": "1"}, {"requirement": "at materiaalwagens", "qty": "1"}, {"requirement": "officiers van dienst politie", "qty": "1"}, {"requirement": "maximale patiënten aantal", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "569",
+ "missionName": "Verward persoon draait gaskraan open",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "1"
+  },
+  {
+   "requirement": "at operators",
+   "qty": "4"
+  },
+  {
+   "requirement": "at commandanten",
+   "qty": "1"
+  },
+  {
+   "requirement": "at materiaalwagens",
+   "qty": "1"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patiënten aantal",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "42551804112788920688971232698334536862"
+}

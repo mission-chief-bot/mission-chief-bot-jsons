@@ -1,1 +1,48 @@
-{"missionId": "466", "missionName": "School Lockdown", "requirements": [{"requirement": "police cars", "qty": "9"}, {"requirement": "k-9 units", "qty": "4"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "riot police group vehicles", "qty": "2"}, {"requirement": "senior sergeants", "qty": "2"}, {"requirement": "riot police suvs", "qty": "2"}, {"requirement": "riot police equipment vehicles", "qty": "2"}, {"requirement": "' swat personnel (in swat vehicles)", "qty": "12"}, {"requirement": "max. patients", "qty": "6"}, {"requirement": "minimum number of patients", "qty": "1"}], "credits": "12500"}
+{
+ "missionId": "466",
+ "missionName": "School Lockdown",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "9"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "4"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police suvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police equipment vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "' swat personnel (in swat vehicles)",
+   "qty": "12"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "12500",
+ "version": "105846337697497901503109009097365589604"
+}

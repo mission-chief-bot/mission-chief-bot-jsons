@@ -1,1 +1,12 @@
-{"missionId": "364", "missionName": "Возможная инфекция", "requirements": [{"requirement": "макс. пациенты", "qty": "5"}], "credits": "650"}
+{
+ "missionId": "364",
+ "missionName": "Возможная инфекция",
+ "requirements": [
+  {
+   "requirement": "макс. пациенты",
+   "qty": "5"
+  }
+ ],
+ "credits": "650",
+ "version": "214687871088980078579921826393755067838"
+}

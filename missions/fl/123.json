@@ -1,1 +1,12 @@
-{"missionId": "123", "missionName": "09 Massapaniikki yökerhossa", "requirements": [{"requirement": "poliisiautot", "qty": "9"}], "credits": "3500"}
+{
+ "missionId": "123",
+ "missionName": "09 Massapaniikki yökerhossa",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "9"
+  }
+ ],
+ "credits": "3500",
+ "version": "286537797148359813463641390921430357846"
+}

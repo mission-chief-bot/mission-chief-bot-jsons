@@ -1,1 +1,16 @@
-{"missionId": "245", "missionName": "Burning freight car", "requirements": [{"requirement": "fire engines", "qty": "5"}, {"requirement": "support vehicles", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "245",
+ "missionName": "Burning freight car",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "5"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "2871594215895497254312881937635710382"
+}

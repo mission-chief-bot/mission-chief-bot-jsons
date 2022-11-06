@@ -1,1 +1,40 @@
-{"missionId": "307/a", "missionName": "Spontaner Aufstand", "requirements": [{"requirement": "streifenwagen", "qty": "7"}, {"requirement": "wasserwerfer", "qty": "3"}, {"requirement": "grukw", "qty": "9"}, {"requirement": "lebefkw", "qty": "4"}, {"requirement": "fükw", "qty": "1"}, {"requirement": "dhufükw", "qty": "1"}, {"requirement": "polizeihubschrauber", "qty": "1"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "7900"}
+{
+ "missionId": "307/a",
+ "missionName": "Spontaner Aufstand",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "7"
+  },
+  {
+   "requirement": "wasserwerfer",
+   "qty": "3"
+  },
+  {
+   "requirement": "grukw",
+   "qty": "9"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "4"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "dhufükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "polizeihubschrauber",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "7900",
+ "version": "102297633403898566860728312757891356423"
+}

@@ -1,1 +1,12 @@
-{"missionId": "213", "missionName": "チョコを食べ過ぎたカップル", "requirements": [{"requirement": "最大患者", "qty": "2"}], "credits": "100"}
+{
+ "missionId": "213",
+ "missionName": "チョコを食べ過ぎたカップル",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "2"
+  }
+ ],
+ "credits": "100",
+ "version": "258532815973985003867578777938384029243"
+}

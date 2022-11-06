@@ -1,1 +1,24 @@
-{"missionId": "188", "missionName": "Skogsbrand, toppbrand", "requirements": [{"requirement": "brandbefäl", "qty": "3"}, {"requirement": "ledningsfordon", "qty": "1"}, {"requirement": "tankbilar", "qty": "8"}, {"requirement": "polisbilar", "qty": "2"}], "credits": "10000"}
+{
+ "missionId": "188",
+ "missionName": "Skogsbrand, toppbrand",
+ "requirements": [
+  {
+   "requirement": "brandbefäl",
+   "qty": "3"
+  },
+  {
+   "requirement": "ledningsfordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "8"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "10000",
+ "version": "65017943555067573219421653325093944290"
+}

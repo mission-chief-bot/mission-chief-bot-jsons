@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "Feu de caravane", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "16",
+ "missionName": "Feu de caravane",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "208948460053111323562273319654863590647"
+}

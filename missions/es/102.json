@@ -1,1 +1,16 @@
-{"missionId": "102", "missionName": "Sótano en llamas a causa de los fuegos artificiales", "requirements": [{"requirement": "unidades de mando y comunicaciones", "qty": "1"}, {"requirement": "camiones de bomberos", "qty": "3"}], "credits": "2500"}
+{
+ "missionId": "102",
+ "missionName": "Sótano en llamas a causa de los fuegos artificiales",
+ "requirements": [
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "3"
+  }
+ ],
+ "credits": "2500",
+ "version": "245317641942395058202961701761660480688"
+}

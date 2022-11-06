@@ -1,1 +1,16 @@
-{"missionId": "460", "missionName": "Traffic surveillance", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "sheriffs", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "460",
+ "missionName": "Traffic surveillance",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "123851247595959876281720824587931629371"
+}

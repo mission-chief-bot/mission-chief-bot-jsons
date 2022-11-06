@@ -1,1 +1,24 @@
-{"missionId": "561", "missionName": "Weapon smuggling by water", "requirements": [{"requirement": "patrol boats", "qty": "2"}, {"requirement": "atf units", "qty": "2"}, {"requirement": "atf lab vehicles", "qty": "1"}, {"requirement": "k-9 units", "qty": "1"}], "credits": "1500"}
+{
+ "missionId": "561",
+ "missionName": "Weapon smuggling by water",
+ "requirements": [
+  {
+   "requirement": "patrol boats",
+   "qty": "2"
+  },
+  {
+   "requirement": "atf units",
+   "qty": "2"
+  },
+  {
+   "requirement": "atf lab vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  }
+ ],
+ "credits": "1500",
+ "version": "253691265934697726230819946459608979748"
+}

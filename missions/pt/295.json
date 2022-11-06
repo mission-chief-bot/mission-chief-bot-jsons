@@ -1,1 +1,20 @@
-{"missionId": "295", "missionName": "Pequeno Incêndio Florestal", "requirements": [{"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "veículos florestais", "qty": "3" }, {"requirement": "veículos tanque", "qty": "1" }], "credits": "2000"}
+{
+ "missionId": "295",
+ "missionName": "Pequeno Incêndio Florestal",
+ "requirements": [
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos florestais",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos tanque",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "237207863820692763998806481015065593650"
+}

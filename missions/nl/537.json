@@ -1,1 +1,12 @@
-{"missionId": "537", "missionName": "Beschonken bestuurder na Oud en Nieuw feest", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "537",
+ "missionName": "Beschonken bestuurder na Oud en Nieuw feest",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "270111189644683856294200012918570587933"
+}

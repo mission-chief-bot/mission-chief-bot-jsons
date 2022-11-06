@@ -1,1 +1,12 @@
-{"missionId": "204", "missionName": "Pacote suspeito", "requirements": [{"requirement": "viaturas de polícia necessárias", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "204",
+ "missionName": "Pacote suspeito",
+ "requirements": [
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "305704727676426704042259365225663673891"
+}

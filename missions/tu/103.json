@@ -1,1 +1,16 @@
-{"missionId": "103", "missionName": "Kayıp Çocuk araniyor", "requirements": [{"requirement": "gerekli polis arabaları", "qty": "3"}, {"requirement": "maks. hastalar", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "103",
+ "missionName": "Kayıp Çocuk araniyor",
+ "requirements": [
+  {
+   "requirement": "gerekli polis arabaları",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks. hastalar",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "340169836060428357890019267741732351420"
+}

@@ -1,1 +1,16 @@
-{"missionId": "298", "missionName": "Požiar trafostanice", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}, {"requirement": "policajné vozidlá", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "298",
+ "missionName": "Požiar trafostanice",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "23061825700429515717788136932638954570"
+}

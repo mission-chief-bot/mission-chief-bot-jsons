@@ -1,1 +1,20 @@
-{"missionId": "153", "missionName": "Incendio en vertedero", "requirements": [{"requirement": "camiones de bomberos", "qty": "5"}, {"requirement": "unidades de mando y comunicaciones", "qty": "1"}, {"requirement": "camiones con plataforma", "qty": "1"}], "credits": "3500"}
+{
+ "missionId": "153",
+ "missionName": "Incendio en vertedero",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "5"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "1"
+  }
+ ],
+ "credits": "3500",
+ "version": "307991039608896911398515574997510016820"
+}

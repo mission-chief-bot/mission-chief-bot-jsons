@@ -1,1 +1,12 @@
-{"missionId": "541", "missionName": "Sequestro Beni di Lusso", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "541",
+ "missionName": "Sequestro Beni di Lusso",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "297090080903915589862285080231229894350"
+}

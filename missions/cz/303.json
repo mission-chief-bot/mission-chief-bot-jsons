@@ -1,1 +1,12 @@
-{"missionId": "303", "missionName": "Vyproštění osoby z výtahu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "1400"}
+{
+ "missionId": "303",
+ "missionName": "Vyproštění osoby z výtahu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "1400",
+ "version": "274225379190777458921490150174907487640"
+}

@@ -1,1 +1,24 @@
-{"missionId": "396", "missionName": "Feu de communs", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}, {"requirement": "voitures de police es", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "396",
+ "missionName": "Feu de communs",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "197000393879574698971721602726080353051"
+}

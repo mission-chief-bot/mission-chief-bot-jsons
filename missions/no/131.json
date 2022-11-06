@@ -1,1 +1,12 @@
-{"missionId": "131", "missionName": "Skadet løper", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "131",
+ "missionName": "Skadet løper",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "220618423603051051811809844874090605956"
+}

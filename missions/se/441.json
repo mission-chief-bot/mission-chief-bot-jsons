@@ -1,1 +1,44 @@
-{"missionId": "441", "missionName": "Brand i byggnad - kyrka", "requirements": [{"requirement": "släckbilar", "qty": "10"}, {"requirement": "stegbilar", "qty": "2"}, {"requirement": "brandbefäl", "qty": "3"}, {"requirement": "lastväxlare", "qty": "2"}, {"requirement": "tankbilar", "qty": "2"}, {"requirement": "räddningsledningsfordon", "qty": "1"}, {"requirement": "fordon med luftapparater", "qty": "1"}, {"requirement": "polisbilar", "qty": "4"}, {"requirement": "mest patienter", "qty": "15"}], "credits": "6000"}
+{
+ "missionId": "441",
+ "missionName": "Brand i byggnad - kyrka",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "10"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "3"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "2"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "räddningsledningsfordon",
+   "qty": "1"
+  },
+  {
+   "requirement": "fordon med luftapparater",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "15"
+  }
+ ],
+ "credits": "6000",
+ "version": "24996925424859845003672409916553317047"
+}

@@ -1,1 +1,12 @@
-{"missionId": "131", "missionName": "Parole Violation", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "131",
+ "missionName": "Parole Violation",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "156124171751287391856541891027003031879"
+}

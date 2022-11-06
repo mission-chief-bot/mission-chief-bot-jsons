@@ -1,1 +1,12 @@
-{"missionId": "255", "missionName": "Ограбление ювелирного магазина", "requirements": [{"requirement": "полицейские автомобили", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "255",
+ "missionName": "Ограбление ювелирного магазина",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "108022905678458726218462725498379197314"
+}

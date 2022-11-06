@@ -1,1 +1,12 @@
-{"missionId": "10", "missionName": "Traktör yangını", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "10",
+ "missionName": "Traktör yangını",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "136554447292880099946877157017683399635"
+}

@@ -1,1 +1,12 @@
-{"missionId": "23", "missionName": "Požiar mazacieho oleja", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "Požiar mazacieho oleja",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "281856655167432945927064908031411099438"
+}

@@ -1,1 +1,16 @@
-{"missionId": "698", "missionName": "Toezicht nieuwjaarsfeest", "requirements": [{"requirement": "ambulances", "qty": "2"}, {"requirement": "noodhulpeenheden", "qty": "4"}], "credits": "15000"}
+{
+ "missionId": "698",
+ "missionName": "Toezicht nieuwjaarsfeest",
+ "requirements": [
+  {
+   "requirement": "ambulances",
+   "qty": "2"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  }
+ ],
+ "credits": "15000",
+ "version": "2368722334912464670610526094654320774"
+}

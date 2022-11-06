@@ -1,1 +1,36 @@
-{"missionId": "41", "missionName": "Großbrand", "requirements": [{"requirement": "löschfahrzeuge", "qty": "6"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "elw 1", "qty": "2"}, {"requirement": "elw 2", "qty": "1"}, {"requirement": "drehleitern", "qty": "2"}, {"requirement": "gw l 2 wasser", "qty": "1"}, {"requirement": "gw-a", "qty": "1"}], "credits": "10010"}
+{
+ "missionId": "41",
+ "missionName": "Großbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "6"
+  },
+  {
+   "requirement": "gw-mess",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 2",
+   "qty": "1"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "2"
+  },
+  {
+   "requirement": "gw l 2 wasser",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  }
+ ],
+ "credits": "10010",
+ "version": "103504611044151098327570000501000985981"
+}

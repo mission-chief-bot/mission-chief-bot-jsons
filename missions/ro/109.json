@@ -1,1 +1,12 @@
-{"missionId": "109", "missionName": "Pasager pe cale ferată", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "3"}], "credits": "0"}
+{
+ "missionId": "109",
+ "missionName": "Pasager pe cale ferată",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "3"
+  }
+ ],
+ "credits": "0",
+ "version": "315713555089817160035099599657578362634"
+}

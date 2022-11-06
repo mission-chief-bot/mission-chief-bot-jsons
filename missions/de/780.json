@@ -1,1 +1,16 @@
-{"missionId": "780", "missionName": "Treppensturz", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "780",
+ "missionName": "Treppensturz",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "89852505695967883272849057434009230580"
+}

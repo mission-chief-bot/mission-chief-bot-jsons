@@ -1,1 +1,24 @@
-{"missionId": "221", "missionName": "Accident rutier pe șantier de construcție", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "3"}, {"requirement": "vehicule pentru șeful de batalion necesare", "qty": "1"}, {"requirement": "vehicule grele de salvare necesare", "qty": "2"}, {"requirement": "max. pacienți", "qty": "1"}], "credits": "950"}
+{
+ "missionId": "221",
+ "missionName": "Accident rutier pe șantier de construcție",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "3"
+  },
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "vehicule grele de salvare necesare",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "950",
+ "version": "48685960806279300199530812781292271899"
+}

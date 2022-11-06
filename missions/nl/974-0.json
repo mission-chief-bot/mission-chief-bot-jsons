@@ -1,1 +1,48 @@
-{"missionId": "974-0", "missionName": "Ontspoorde tram botst tegen gebouw", "requirements": [{"requirement": "tankautospuiten", "qty": "4"}, {"requirement": "hulpverleningsvoertuigen", "qty": "2"}, {"requirement": "ovd-b's", "qty": "2"}, {"requirement": "noodhulpeenheden", "qty": "4"}, {"requirement": "adviseurs gevaarlijke stoffen", "qty": "1"}, {"requirement": "voorlichters", "qty": "1"}, {"requirement": "hovd's", "qty": "1"}, {"requirement": "commandowagen", "qty": "1"}, {"requirement": "biketeams", "qty": "2"}, {"requirement": "officiers van dienst politie", "qty": "1"}], "credits": "8690"}
+{
+ "missionId": "974-0",
+ "missionName": "Ontspoorde tram botst tegen gebouw",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "4"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "2"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "2"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "1"
+  },
+  {
+   "requirement": "voorlichters",
+   "qty": "1"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "commandowagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "2"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "credits": "8690",
+ "version": "131840677835166000391440747101531332396"
+}

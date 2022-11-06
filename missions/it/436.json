@@ -1,1 +1,12 @@
-{"missionId": "436", "missionName": "Guidatore Ubriaco", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "800"}
+{
+ "missionId": "436",
+ "missionName": "Guidatore Ubriaco",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "800",
+ "version": "57960102533802419572663471266324933257"
+}

@@ -1,1 +1,16 @@
-{"missionId": "67", "missionName": "난투 사건", "requirements": [{"requirement": "경찰차", "qty": "3"}, {"requirement": "구급차", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "67",
+ "missionName": "난투 사건",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "3"
+  },
+  {
+   "requirement": "구급차",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "273039835341007572852908140860075920796"
+}

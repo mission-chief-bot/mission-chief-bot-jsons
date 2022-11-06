@@ -1,1 +1,12 @@
-{"missionId": "357", "missionName": "リスキーなファンのエスコート", "requirements": [{"requirement": "警察車両", "qty": "10"}], "credits": "17000"}
+{
+ "missionId": "357",
+ "missionName": "リスキーなファンのエスコート",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "10"
+  }
+ ],
+ "credits": "17000",
+ "version": "66887755986165352783087735508749202127"
+}

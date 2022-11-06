@@ -1,1 +1,16 @@
-{"missionId": "455-0", "missionName": "Robbery", "requirements": [{"requirement": "police cars", "qty": "3"}, {"requirement": "sheriffs", "qty": "1"}], "credits": "1600"}
+{
+ "missionId": "455-0",
+ "missionName": "Robbery",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  }
+ ],
+ "credits": "1600",
+ "version": "191095853540878971927002096392183105227"
+}

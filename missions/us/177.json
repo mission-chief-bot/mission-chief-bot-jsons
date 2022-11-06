@@ -1,1 +1,12 @@
-{"missionId": "177", "missionName": "Unconscious Person", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "177",
+ "missionName": "Unconscious Person",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "144982880309643509493200851057753417750"
+}

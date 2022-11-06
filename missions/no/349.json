@@ -1,1 +1,16 @@
-{"missionId": "349", "missionName": "Demonstrasjon på konsert", "requirements": [{"requirement": "politibiler", "qty": "3"}, {"requirement": "maks pasienter", "qty": "30"}], "credits": "1150"}
+{
+ "missionId": "349",
+ "missionName": "Demonstrasjon på konsert",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "30"
+  }
+ ],
+ "credits": "1150",
+ "version": "229156265668260974067110657127512228004"
+}

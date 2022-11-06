@@ -1,1 +1,12 @@
-{"missionId": "164", "missionName": "Kopfplatzwunde", "requirements": [ {"requirement": "rtw", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "164",
+ "missionName": "Kopfplatzwunde",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "150674313252259486825321502921765279609"
+}

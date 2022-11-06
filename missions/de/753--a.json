@@ -1,1 +1,28 @@
-{"missionId": "753/a", "missionName": "Person in Förderband eingeklemmt", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "753/a",
+ "missionName": "Person in Förderband eingeklemmt",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "71366061120634964267245681382952637313"
+}

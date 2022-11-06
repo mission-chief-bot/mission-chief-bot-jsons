@@ -1,1 +1,16 @@
-{"missionId": "446", "missionName": "Unlicensed Music Event", "requirements": [{"requirement": "police cars", "qty": "9"}, {"requirement": "max. patients", "qty": "12"}], "credits": "6700"}
+{
+ "missionId": "446",
+ "missionName": "Unlicensed Music Event",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "9"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "12"
+  }
+ ],
+ "credits": "6700",
+ "version": "115495830182415629218392491925055560855"
+}

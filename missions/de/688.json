@@ -1,1 +1,20 @@
-{"missionId": "688", "missionName": "Fahndung nach KFZ-Diebstahl", "requirements": [{"requirement": "streifenwagen", "qty": "4"}, {"requirement": "polizeihubschrauber", "qty": "1"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "688",
+ "missionName": "Fahndung nach KFZ-Diebstahl",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "polizeihubschrauber",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "329557121885520534649824951778184027366"
+}

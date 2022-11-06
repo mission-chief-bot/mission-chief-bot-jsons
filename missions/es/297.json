@@ -1,1 +1,12 @@
-{"missionId": "297", "missionName": "Dolor de garganta después de celebración", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1"}
+{
+ "missionId": "297",
+ "missionName": "Dolor de garganta después de celebración",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1",
+ "version": "265004674956603315399135947403366490312"
+}

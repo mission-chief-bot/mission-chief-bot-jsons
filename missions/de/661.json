@@ -1,1 +1,28 @@
-{"missionId": "661", "missionName": "Gewässer gekippt (Klein)", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "schmutzwasserpumpen", "qty": "1"}, {"requirement": "gkw", "qty": "1"}, {"requirement": "gw l 2 wasser", "qty": "1"}, {"requirement": "anhänger drucklufterzeugung", "qty": "1"}], "credits": "1470"}
+{
+ "missionId": "661",
+ "missionName": "Gewässer gekippt (Klein)",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "schmutzwasserpumpen",
+   "qty": "1"
+  },
+  {
+   "requirement": "gkw",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw l 2 wasser",
+   "qty": "1"
+  },
+  {
+   "requirement": "anhänger drucklufterzeugung",
+   "qty": "1"
+  }
+ ],
+ "credits": "1470",
+ "version": "62218717751794748439408303018162129909"
+}

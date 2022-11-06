@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "キャラバン火災", "requirements": [{"requirement": "消防車", "qty": "2"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "キャラバン火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  }
+ ],
+ "credits": "1100",
+ "version": "176994442918790204094376297121423824686"
+}

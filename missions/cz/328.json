@@ -1,1 +1,12 @@
-{"missionId": "328", "missionName": "Nafouknutý fotbalový míč", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "328",
+ "missionName": "Nafouknutý fotbalový míč",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "288883604640503805492100515797491061029"
+}

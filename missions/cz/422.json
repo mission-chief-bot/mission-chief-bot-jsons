@@ -1,1 +1,16 @@
-{"missionId": "422", "missionName": "Zloděje napadla kráva", "requirements": [{"requirement": "rzp", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "422",
+ "missionName": "Zloděje napadla kráva",
+ "requirements": [
+  {
+   "requirement": "rzp",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "196937907166379326592067221922602993573"
+}

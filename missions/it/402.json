@@ -1,1 +1,16 @@
-{"missionId": "402", "missionName": "Bonifica Incendio Boschivo (MEDIO)", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "mezzo aib", "qty": "4"}], "credits": "2000"}
+{
+ "missionId": "402",
+ "missionName": "Bonifica Incendio Boschivo (MEDIO)",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "mezzo aib",
+   "qty": "4"
+  }
+ ],
+ "credits": "2000",
+ "version": "136437776731156237639530956593096938933"
+}

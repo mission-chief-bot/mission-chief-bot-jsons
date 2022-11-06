@@ -1,1 +1,56 @@
-{"missionId": "387/a", "missionName": "Brand på stadion (Stor)", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "15"}, {"requirement": "påkrævede stigevogn", "qty": "3"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "3"}, {"requirement": "påkrævede redningsvogn", "qty": "4"}, {"requirement": "påkrævede vandtankvogne", "qty": "5"}, {"requirement": "påkrævede politibiler", "qty": "10"}, {"requirement": "påkrævede indsatsleder politi", "qty": "2"}, {"requirement": "påkrævede gift- og kemikaliekøretøjer", "qty": "3"}, {"requirement": "påkrævede højtrykskompressor", "qty": "1"}, {"requirement": "påkrævede ledelses- og kommunikationsmoduler", "qty": "1"}, {"requirement": "skum tender påkrævet", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "50"}], "credits": "9900"}
+{
+ "missionId": "387/a",
+ "missionName": "Brand på stadion (Stor)",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "15"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "4"
+  },
+  {
+   "requirement": "påkrævede vandtankvogne",
+   "qty": "5"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "10"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede gift- og kemikaliekøretøjer",
+   "qty": "3"
+  },
+  {
+   "requirement": "påkrævede højtrykskompressor",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede ledelses- og kommunikationsmoduler",
+   "qty": "1"
+  },
+  {
+   "requirement": "skum tender påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "50"
+  }
+ ],
+ "credits": "9900",
+ "version": "296334631879378800793643781945540955583"
+}

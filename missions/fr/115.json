@@ -1,1 +1,24 @@
-{"missionId": "115", "missionName": "Escaladeur coincé", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "115",
+ "missionName": "Escaladeur coincé",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "46828618115608465790932303904259883882"
+}

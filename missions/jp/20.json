@@ -1,1 +1,20 @@
-{"missionId": "20", "missionName": "地下の火事", "requirements": [{"requirement": "指令ユニット", "qty": "1"}, {"requirement": "消防車", "qty": "3"}, {"requirement": "救急車", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "20",
+ "missionName": "地下の火事",
+ "requirements": [
+  {
+   "requirement": "指令ユニット",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "3"
+  },
+  {
+   "requirement": "救急車",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "207330793289473478799847222321208270200"
+}

@@ -1,1 +1,32 @@
-{"missionId": "168", "missionName": "Požár truhlárny", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "10"}, {"requirement": "velitelské automobily", "qty": "2"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "kombinované hasící automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "maximum pacientů", "qty": "3"}], "credits": "4200"}
+{
+ "missionId": "168",
+ "missionName": "Požár truhlárny",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "10"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "kombinované hasící automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "3"
+  }
+ ],
+ "credits": "4200",
+ "version": "31861956662164006377162015718148457442"
+}

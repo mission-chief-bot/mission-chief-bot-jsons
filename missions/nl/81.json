@@ -1,1 +1,12 @@
-{"missionId": "81", "missionName": "Verward persoon", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "81",
+ "missionName": "Verward persoon",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "248239513218433462864984895089628667753"
+}

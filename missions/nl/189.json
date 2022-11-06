@@ -1,1 +1,16 @@
-{"missionId": "189", "missionName": "Boom op dak", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "hulpverleningsvoertuigen", "qty": "1"}], "credits": "330"}
+{
+ "missionId": "189",
+ "missionName": "Boom op dak",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "330",
+ "version": "153867228481421900201520900495022236986"
+}

@@ -1,1 +1,12 @@
-{"missionId": "18", "missionName": "Куча хвороста", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "18",
+ "missionName": "Куча хвороста",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "184366825120207553736496103228659206949"
+}

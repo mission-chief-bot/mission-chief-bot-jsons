@@ -1,1 +1,12 @@
-{"missionId": "910", "missionName": "Gemaskerd bal trofee gestolen", "requirements": [{"requirement": "noodhulpeenheden", "qty": "5"}], "credits": "1750"}
+{
+ "missionId": "910",
+ "missionName": "Gemaskerd bal trofee gestolen",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "5"
+  }
+ ],
+ "credits": "1750",
+ "version": "138343534071734142360075277503216112497"
+}

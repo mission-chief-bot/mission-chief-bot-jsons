@@ -1,1 +1,12 @@
-{"missionId": "220", "missionName": "Vendeur à la sauvette", "requirements": [{"requirement": "voitures de police es", "qty": "3"}], "credits": "3"}
+{
+ "missionId": "220",
+ "missionName": "Vendeur à la sauvette",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "3"
+  }
+ ],
+ "credits": "3",
+ "version": "274027074283174999600774120936182874175"
+}

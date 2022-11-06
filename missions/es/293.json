@@ -1,1 +1,12 @@
-{"missionId": "293", "missionName": "Lesión después de golpear la barra", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1"}
+{
+ "missionId": "293",
+ "missionName": "Lesión después de golpear la barra",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "1",
+ "version": "41002274716670547837198147750651863528"
+}

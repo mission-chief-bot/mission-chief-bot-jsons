@@ -1,1 +1,12 @@
-{"missionId": "87", "missionName": "Rifiuti in fiamme a causa di fuochi d'artificio", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "87",
+ "missionName": "Rifiuti in fiamme a causa di fuochi d'artificio",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "40304693897163922477419148599097062126"
+}

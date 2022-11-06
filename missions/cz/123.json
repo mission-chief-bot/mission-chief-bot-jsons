@@ -1,1 +1,20 @@
-{"missionId": "123", "missionName": "Loupež v muzeu", "requirements": [{"requirement": "policejní automobily", "qty": "4"}, {"requirement": "vozidla kynologů pčr", "qty": "1"}, {"requirement": "personál urny", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "123",
+ "missionName": "Loupež v muzeu",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "vozidla kynologů pčr",
+   "qty": "1"
+  },
+  {
+   "requirement": "personál urny",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "208988925641687889458024721714993124763"
+}

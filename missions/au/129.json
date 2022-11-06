@@ -1,1 +1,12 @@
-{"missionId": "129", "missionName": "Spinal injury", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "2"}
+{
+ "missionId": "129",
+ "missionName": "Spinal injury",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "2",
+ "version": "312151131494289345850980795982511454316"
+}

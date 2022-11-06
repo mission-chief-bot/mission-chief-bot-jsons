@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "Ulovlig demonstration", "requirements": [{"requirement": "påkrævede politibiler", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "57",
+ "missionName": "Ulovlig demonstration",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "287230617654954298141927692286778092421"
+}

@@ -1,1 +1,20 @@
-{"missionId": "254", "missionName": "Brandende goederenwagon", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "ovd-b's", "qty": "1"}, {"requirement": "adviseurs gevaarlijke stoffen", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "254",
+ "missionName": "Brandende goederenwagon",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "256570937715532852810223045977815911252"
+}

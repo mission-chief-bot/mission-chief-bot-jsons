@@ -1,1 +1,12 @@
-{"missionId": "531", "missionName": "Passaggio a Livello Bloccato", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "531",
+ "missionName": "Passaggio a Livello Bloccato",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "241238893253984672273278924796073420739"
+}

@@ -1,1 +1,12 @@
-{"missionId": "242", "missionName": "모터크로스 사고현장", "requirements": [{"requirement": "구급차", "qty": "3"}], "credits": "100"}
+{
+ "missionId": "242",
+ "missionName": "모터크로스 사고현장",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "3"
+  }
+ ],
+ "credits": "100",
+ "version": "221261538449876115825089359920455277604"
+}

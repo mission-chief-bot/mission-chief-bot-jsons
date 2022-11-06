@@ -1,1 +1,24 @@
-{"missionId": "104", "missionName": "Velikonoční zajíc na jeřábu", "requirements": [{"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "104",
+ "missionName": "Velikonoční zajíc na jeřábu",
+ "requirements": [
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "52385848105064764588436373536024939326"
+}

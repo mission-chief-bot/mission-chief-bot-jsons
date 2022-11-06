@@ -1,1 +1,32 @@
-{"missionId": "321/a", "missionName": "Saunabrand", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}], "credits": "2200"}
+{
+ "missionId": "321/a",
+ "missionName": "Saunabrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  }
+ ],
+ "credits": "2200",
+ "version": "10178214921401907535562924261965627022"
+}

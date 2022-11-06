@@ -1,1 +1,12 @@
-{"missionId": "24", "missionName": "Палаюча автобусна зупинка", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "24",
+ "missionName": "Палаюча автобусна зупинка",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "87004280626378335814731354911957987070"
+}

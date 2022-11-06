@@ -1,1 +1,12 @@
-{"missionId": "17", "missionName": "Buca delle lettere in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "17",
+ "missionName": "Buca delle lettere in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "109662125584764188925286086196012013778"
+}

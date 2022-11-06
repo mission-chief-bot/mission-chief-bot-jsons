@@ -1,1 +1,12 @@
-{"missionId": "105", "missionName": "부러진 팔", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "105",
+ "missionName": "부러진 팔",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "74038849045466290450178624695631987640"
+}

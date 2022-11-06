@@ -1,1 +1,20 @@
-{"missionId": "116", "missionName": "Voetbalwedstrijd", "requirements": [{"requirement": "ambulances", "qty": "1"}, {"requirement": "me groepsvoertuig", "qty": "3"}, {"requirement": "me commandovoertuigen", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "116",
+ "missionName": "Voetbalwedstrijd",
+ "requirements": [
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  },
+  {
+   "requirement": "me groepsvoertuig",
+   "qty": "3"
+  },
+  {
+   "requirement": "me commandovoertuigen",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "270352776141007764821632562786290055607"
+}

@@ -1,1 +1,16 @@
-{"missionId": "647", "missionName": "Illegales Lagerfeuer in Park", "requirements": [{"requirement": "löschfahrzeug", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "647",
+ "missionName": "Illegales Lagerfeuer in Park",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeug",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "17592569907124266759075300228868083953"
+}

@@ -1,1 +1,12 @@
-{"missionId": "941", "missionName": "Persoon opgesloten in voertuig", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "941",
+ "missionName": "Persoon opgesloten in voertuig",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "71773241235129973826698163823452707280"
+}

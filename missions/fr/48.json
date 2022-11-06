@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "Vol de Métaux", "requirements": [{"requirement": "voitures de police es", "qty": "2"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "Vol de Métaux",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "credits": "150",
+ "version": "322146655144858217204302833822507947911"
+}

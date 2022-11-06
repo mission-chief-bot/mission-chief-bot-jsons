@@ -1,1 +1,20 @@
-{"missionId": "214", "missionName": "Détenu en fuite", "requirements": [{"requirement": "unité cynophile e", "qty": "1"}, {"requirement": "voitures de police es", "qty": "10"}, {"requirement": "soutien aérien fag", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "214",
+ "missionName": "Détenu en fuite",
+ "requirements": [
+  {
+   "requirement": "unité cynophile e",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "10"
+  },
+  {
+   "requirement": "soutien aérien fag",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "166842249262240929124949529615706822620"
+}

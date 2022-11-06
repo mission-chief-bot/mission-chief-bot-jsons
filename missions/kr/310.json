@@ -1,1 +1,12 @@
-{"missionId": "310", "missionName": "꽃가루 알레르기 반응", "requirements": [{"requirement": "최대 환자", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "310",
+ "missionName": "꽃가루 알레르기 반응",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "42773524390188858618580528141610275376"
+}

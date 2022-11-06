@@ -1,1 +1,24 @@
-{"missionId": "383", "missionName": "Deer crossing accident", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "police cars", "qty": "1"}, {"requirement": "rescue support vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "383",
+ "missionName": "Deer crossing accident",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "52653588239425182894755564800654830635"
+}

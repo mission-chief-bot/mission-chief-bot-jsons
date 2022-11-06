@@ -1,1 +1,24 @@
-{"missionId": "88", "missionName": "Zaseknutý horolezec", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "650"}
+{
+ "missionId": "88",
+ "missionName": "Zaseknutý horolezec",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "650",
+ "version": "30426859186740786761766408843421069519"
+}

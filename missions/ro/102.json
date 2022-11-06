@@ -1,1 +1,11 @@
-{"missionId": "102", "missionName": "Foc de gr\u0103tar", "requirements": [{"requirement": "ma\u0219ini de pompieri necesare", "qty": "1"}]}
+{
+ "missionId": "102",
+ "missionName": "Foc de grătar",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "version": "266770285345006252891591349800111861215"
+}

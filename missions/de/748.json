@@ -1,1 +1,12 @@
-{"missionId": "748", "missionName": "Gestohlene Glückwunschkarte", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "748",
+ "missionName": "Gestohlene Glückwunschkarte",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "337397318054168262464737038982206828103"
+}

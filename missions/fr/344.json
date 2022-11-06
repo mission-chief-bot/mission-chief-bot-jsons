@@ -1,1 +1,12 @@
-{"missionId": "344", "missionName": "Incendie de drapeau de corner", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "344",
+ "missionName": "Incendie de drapeau de corner",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "121859695287605704122837773817721632476"
+}

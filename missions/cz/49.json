@@ -1,1 +1,12 @@
-{"missionId": "49", "missionName": "Kapsáři", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "49",
+ "missionName": "Kapsáři",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "93325146735046166221831639380796212176"
+}

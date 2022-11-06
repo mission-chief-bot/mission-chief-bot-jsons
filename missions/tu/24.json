@@ -1,1 +1,12 @@
-{"missionId": "24", "missionName": "Otobüs durağı yangını", "requirements": [{"requirement": "gerekli i̇tfaiye araçları", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "24",
+ "missionName": "Otobüs durağı yangını",
+ "requirements": [
+  {
+   "requirement": "gerekli i̇tfaiye araçları",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "206220093784551295912675159516240750666"
+}

@@ -1,1 +1,16 @@
-{"missionId": "274", "missionName": "Bewusstlose Person", "requirements": [ {"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}],"credits": "750"}
+{
+ "missionId": "274",
+ "missionName": "Bewusstlose Person",
+ "requirements": [
+  {
+   "requirement": "nef",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "19097502401846998085017358498923126697"
+}

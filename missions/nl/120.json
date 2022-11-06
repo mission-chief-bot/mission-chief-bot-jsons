@@ -1,1 +1,16 @@
-{"missionId": "120", "missionName": "Begeleiding wielrenners", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "ambulances", "qty": "2"}], "credits": "4000"}
+{
+ "missionId": "120",
+ "missionName": "Begeleiding wielrenners",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "2"
+  }
+ ],
+ "credits": "4000",
+ "version": "45763588730369222048638837619786867873"
+}

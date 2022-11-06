@@ -1,1 +1,16 @@
-{"missionId": "293", "missionName": "564 Haavoittuneen eläimen jäljestys", "requirements": [{"requirement": "koirapartiot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "293",
+ "missionName": "564 Haavoittuneen eläimen jäljestys",
+ "requirements": [
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "20543456749967214980700705377253005871"
+}

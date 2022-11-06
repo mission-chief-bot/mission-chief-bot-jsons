@@ -1,1 +1,12 @@
-{"missionId": "391", "missionName": "Lipotimia", "requirements": [{"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "391",
+ "missionName": "Lipotimia",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "105614982048638167699714524589875125634"
+}

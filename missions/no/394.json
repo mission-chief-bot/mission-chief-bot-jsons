@@ -1,1 +1,12 @@
-{"missionId": "394", "missionName": "Hærverk", "requirements": [{"requirement": "politibiler", "qty": "2"}], "credits": "450"}
+{
+ "missionId": "394",
+ "missionName": "Hærverk",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "credits": "450",
+ "version": "185350473355912537567499677510958621916"
+}

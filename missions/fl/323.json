@@ -1,1 +1,20 @@
-{"missionId": "323", "missionName": "426 Turvetuontantoaluepalo, suuri", "requirements": [{"requirement": "paloautot", "qty": "8"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "johtoautot", "qty": "2"}], "credits": "5800"}
+{
+ "missionId": "323",
+ "missionName": "426 Turvetuontantoaluepalo, suuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "5800",
+ "version": "182414188803772119553178932553543957529"
+}

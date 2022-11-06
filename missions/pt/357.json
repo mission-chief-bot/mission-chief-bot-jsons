@@ -1,1 +1,36 @@
-{"missionId": "357", "missionName": "Incêndio em Equipamentos", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "8"}, {"requirement": "veículos de comando tático necessários:", "qty": "2"}, {"requirement": "veículos de socorro e assistência tático necessários:", "qty": "1"}, {"requirement": "veículos tanque necessários:", "qty": "2"}, {"requirement": "carros de patrulha necessários:", "qty": "2"}, {"requirement": "veículos de proteção multiriscos e ambiente necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "4"}], "credits": "5800"}
+{
+ "missionId": "357",
+ "missionName": "Incêndio em Equipamentos",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "8"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de socorro e assistência tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos tanque necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de proteção multiriscos e ambiente necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "4"
+  }
+ ],
+ "credits": "5800",
+ "version": "290345201027292980522127892277574089699"
+}

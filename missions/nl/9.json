@@ -1,1 +1,12 @@
-{"missionId": "9", "missionName": "Brandend hooi", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "9",
+ "missionName": "Brandend hooi",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "57903464541579555752191346809827315278"
+}

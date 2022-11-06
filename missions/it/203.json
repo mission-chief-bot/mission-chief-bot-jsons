@@ -1,1 +1,12 @@
-{"missionId": "203", "missionName": "Ictus", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "203",
+ "missionName": "Ictus",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "229032318652263051592471180747626510383"
+}

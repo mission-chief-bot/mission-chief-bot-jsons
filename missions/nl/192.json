@@ -1,1 +1,16 @@
-{"missionId": "192", "missionName": "Parkeerterrein onder water", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "slangenwagens", "qty": "1"}], "credits": "490"}
+{
+ "missionId": "192",
+ "missionName": "Parkeerterrein onder water",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "slangenwagens",
+   "qty": "1"
+  }
+ ],
+ "credits": "490",
+ "version": "133544537874852986072621810196298373635"
+}

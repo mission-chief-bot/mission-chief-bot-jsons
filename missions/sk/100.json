@@ -1,1 +1,12 @@
-{"missionId": "100", "missionName": "Davová panika na diskotéke", "requirements": [{"requirement": "policajné vozidlá", "qty": "9"}], "credits": "3500"}
+{
+ "missionId": "100",
+ "missionName": "Davová panika na diskotéke",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "9"
+  }
+ ],
+ "credits": "3500",
+ "version": "61852588151165650426301997520735193145"
+}

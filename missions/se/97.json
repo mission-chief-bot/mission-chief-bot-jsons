@@ -1,1 +1,32 @@
-{"missionId": "97", "missionName": "Brand i stråtakshus orsakad av fyrverkerier", "requirements": [{"requirement": "släckbilar", "qty": "5"}, {"requirement": "stegbilar", "qty": "1"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "fordon med luftapparater", "qty": "1"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "2"}], "credits": "4200"}
+{
+ "missionId": "97",
+ "missionName": "Brand i stråtakshus orsakad av fyrverkerier",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "fordon med luftapparater",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "credits": "4200",
+ "version": "48211545695504263168453979295377116197"
+}

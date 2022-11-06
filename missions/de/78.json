@@ -1,1 +1,16 @@
-{"missionId": "78", "missionName": "Kleintier in Not", "requirements": [{"requirement": "drehleitern", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "130"}
+{
+ "missionId": "78",
+ "missionName": "Kleintier in Not",
+ "requirements": [
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "130",
+ "version": "250058502481197943576001908577727081072"
+}

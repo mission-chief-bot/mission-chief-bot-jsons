@@ -1,1 +1,12 @@
-{"missionId": "335", "missionName": "강에 갇힌 동물", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "335",
+ "missionName": "강에 갇힌 동물",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "283799142249710048019273718883921943836"
+}

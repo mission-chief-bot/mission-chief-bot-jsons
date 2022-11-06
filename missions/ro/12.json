@@ -1,1 +1,12 @@
-{"missionId": "12", "missionName": "Copac căzut pe stradă", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "12",
+ "missionName": "Copac căzut pe stradă",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "289257079266349594353725406316040824947"
+}

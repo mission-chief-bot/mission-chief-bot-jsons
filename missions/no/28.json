@@ -1,1 +1,24 @@
-{"missionId": "28", "missionName": "Brennende maskin", "requirements": [{"requirement": "brannbiler", "qty": "3"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tankbiler", "qty": "1"}], "credits": "2470"}
+{
+ "missionId": "28",
+ "missionName": "Brennende maskin",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "1"
+  }
+ ],
+ "credits": "2470",
+ "version": "118784787457951641577256299569416003097"
+}

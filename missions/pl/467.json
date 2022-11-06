@@ -1,1 +1,16 @@
-{"missionId": "467", "missionName": "Zadymienie w tunelu", "requirements": [{"requirement": "samochody pożarnicze", "qty": "4"}, {"requirement": "slop lub slrr", "qty": "1"}], "credits": "4500"}
+{
+ "missionId": "467",
+ "missionName": "Zadymienie w tunelu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  }
+ ],
+ "credits": "4500",
+ "version": "115369204150748152883333099624204410983"
+}

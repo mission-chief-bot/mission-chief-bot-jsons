@@ -1,1 +1,24 @@
-{"missionId": "385", "missionName": "Zabarikádovaná osoba se střelnou zbraní", "requirements": [{"requirement": "policejní automobily", "qty": "7"}, {"requirement": "vozidla kynologů pčr", "qty": "1"}, {"requirement": "policejní vrtulníky", "qty": "1"}, {"requirement": "personál urny", "qty": "2"}], "credits": "7500"}
+{
+ "missionId": "385",
+ "missionName": "Zabarikádovaná osoba se střelnou zbraní",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "7"
+  },
+  {
+   "requirement": "vozidla kynologů pčr",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní vrtulníky",
+   "qty": "1"
+  },
+  {
+   "requirement": "personál urny",
+   "qty": "2"
+  }
+ ],
+ "credits": "7500",
+ "version": "266671946269628171771805915190084434596"
+}

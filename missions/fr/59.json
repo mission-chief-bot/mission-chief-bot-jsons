@@ -1,1 +1,12 @@
-{"missionId": "59", "missionName": "Sauvetage d'animal", "requirements": [{"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "59",
+ "missionName": "Sauvetage d'animal",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "85463348181380192276712705385283520353"
+}

@@ -1,1 +1,12 @@
-{"missionId": "56", "missionName": "Betrunkene Person auf Weihnachtsmarkt", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "56",
+ "missionName": "Betrunkene Person auf Weihnachtsmarkt",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "250622615002875684110569863744117535619"
+}

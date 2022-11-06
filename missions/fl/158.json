@@ -1,1 +1,12 @@
-{"missionId": "158", "missionName": "Kurpitsamaapalo", "requirements": [{"requirement": "paloautot", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "158",
+ "missionName": "Kurpitsamaapalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "43247222408253470131902785877181746548"
+}

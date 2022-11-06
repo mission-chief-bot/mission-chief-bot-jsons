@@ -1,1 +1,12 @@
-{"missionId": "3", "missionName": "411 Moottoripyöräpalo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "3",
+ "missionName": "411 Moottoripyöräpalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "227301113680009807514518900556245936050"
+}

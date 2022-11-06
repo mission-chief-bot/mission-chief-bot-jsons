@@ -1,1 +1,12 @@
-{"missionId": "70", "missionName": "Winkeldiefstal", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "70",
+ "missionName": "Winkeldiefstal",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "139815055745495110223254217935949389586"
+}

@@ -1,1 +1,20 @@
-{"missionId": "177", "missionName": "Incendiu la subsol provocat de artificii", "requirements": [{"requirement": "vehicule pentru șeful de batalion necesare", "qty": "1"}, {"requirement": "mașini de pompieri necesare", "qty": "3"}, {"requirement": "max. pacienți", "qty": "2"}], "credits": "2500"}
+{
+ "missionId": "177",
+ "missionName": "Incendiu la subsol provocat de artificii",
+ "requirements": [
+  {
+   "requirement": "vehicule pentru șeful de batalion necesare",
+   "qty": "1"
+  },
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. pacienți",
+   "qty": "2"
+  }
+ ],
+ "credits": "2500",
+ "version": "236257170840707982056480141672717452309"
+}

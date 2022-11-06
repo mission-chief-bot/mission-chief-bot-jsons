@@ -1,1 +1,16 @@
-{"missionId": "167", "missionName": "Amputação traumática de membros", "requirements": [{"requirement": "máx. de pacientes", "qty": "1"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "75"}], "credits": "100"}
+{
+ "missionId": "167",
+ "missionName": "Amputação traumática de membros",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "1"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "75"
+  }
+ ],
+ "credits": "100",
+ "version": "48732067878826127832790177285974097011"
+}

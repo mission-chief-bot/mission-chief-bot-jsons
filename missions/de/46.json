@@ -1,1 +1,16 @@
-{"missionId": "46", "missionName": "Herzinfarkt", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "46",
+ "missionName": "Herzinfarkt",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "310823651093343663970927289311840104555"
+}

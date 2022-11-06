@@ -1,1 +1,12 @@
-{"missionId": "258", "missionName": "Injury from improper use of fireworks", "requirements": [{"requirement": "max. patients", "qty": "3"}], "credits": "100"}
+{
+ "missionId": "258",
+ "missionName": "Injury from improper use of fireworks",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "credits": "100",
+ "version": "209354656894121200701294487403091878063"
+}

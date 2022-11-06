@@ -1,1 +1,12 @@
-{"missionId": "197", "missionName": "Fire alarm activation in Clad High Rise premises", "requirements": [{"requirement": "fire engines", "qty": "3"}], "credits": "1500"}
+{
+ "missionId": "197",
+ "missionName": "Fire alarm activation in Clad High Rise premises",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "3"
+  }
+ ],
+ "credits": "1500",
+ "version": "96652822730953249077018886283034602673"
+}

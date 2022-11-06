@@ -1,1 +1,12 @@
-{"missionId": "396", "missionName": "Persona tumbada en el suelo", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "900"}
+{
+ "missionId": "396",
+ "missionName": "Persona tumbada en el suelo",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "900",
+ "version": "49179117452670458152228507887118771638"
+}

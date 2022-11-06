@@ -1,1 +1,12 @@
-{"missionId": "28", "missionName": "Horiaci stroj", "requirements": [{"requirement": "hasičské automobily", "qty": "3"}], "credits": "2470"}
+{
+ "missionId": "28",
+ "missionName": "Horiaci stroj",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "3"
+  }
+ ],
+ "credits": "2470",
+ "version": "59275435318199801547082663975964205533"
+}

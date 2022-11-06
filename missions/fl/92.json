@@ -1,1 +1,12 @@
-{"missionId": "92", "missionName": "747 Murtunut jalka", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "92",
+ "missionName": "747 Murtunut jalka",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "250520096991144353832473007795429126951"
+}

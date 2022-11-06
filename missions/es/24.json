@@ -1,1 +1,12 @@
-{"missionId": "24", "missionName": "Estación de autobuses ardiendo", "requirements": [{"requirement": "camiones de bomberos", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "24",
+ "missionName": "Estación de autobuses ardiendo",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "97263092676281688830039506593171712708"
+}

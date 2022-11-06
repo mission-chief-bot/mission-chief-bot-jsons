@@ -1,1 +1,12 @@
-{"missionId": "262", "missionName": "Papirkutt ved åpning av jubileumspresang", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "262",
+ "missionName": "Papirkutt ved åpning av jubileumspresang",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "100548879913282359410119981949520426726"
+}

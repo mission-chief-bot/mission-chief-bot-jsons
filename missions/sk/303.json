@@ -1,1 +1,12 @@
-{"missionId": "303", "missionName": "Pašovanie exotických zvierat", "requirements": [{"requirement": "policajné vozidlá", "qty": "5"}], "credits": "1750"}
+{
+ "missionId": "303",
+ "missionName": "Pašovanie exotických zvierat",
+ "requirements": [
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "5"
+  }
+ ],
+ "credits": "1750",
+ "version": "280606408247483798126765512151496785435"
+}

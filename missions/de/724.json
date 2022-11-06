@@ -1,1 +1,12 @@
-{"missionId": "724", "missionName": "Fall von Leiter beim Frühjahrsputz", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "724",
+ "missionName": "Fall von Leiter beim Frühjahrsputz",
+ "requirements": [
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "328033878405632856585590938387376013556"
+}

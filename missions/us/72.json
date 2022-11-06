@@ -1,1 +1,12 @@
-{"missionId": "72", "missionName": "Person check", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "72",
+ "missionName": "Person check",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "123410097429439990462476630087675926348"
+}

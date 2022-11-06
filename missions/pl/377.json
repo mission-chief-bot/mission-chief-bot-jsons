@@ -1,1 +1,20 @@
-{"missionId": "377", "missionName": "Kolizja trzech samochodów osobowych", "requirements": [{"requirement": "samochody pożarnicze", "qty": "2"}, {"requirement": "samochody ratownictwa technicznego", "qty": "1"}, {"requirement": "slop lub slrr", "qty": "1"}], "credits": "3000"}
+{
+ "missionId": "377",
+ "missionName": "Kolizja trzech samochodów osobowych",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  }
+ ],
+ "credits": "3000",
+ "version": "113342631645391213326945799562229317713"
+}

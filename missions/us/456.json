@@ -1,1 +1,16 @@
-{"missionId": "456", "missionName": "Domestic violence", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}], "credits": "750"}
+{
+ "missionId": "456",
+ "missionName": "Domestic violence",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "750",
+ "version": "47067256463612813260310439748210464646"
+}

@@ -1,1 +1,24 @@
-{"missionId": "569", "missionName": "Tankstellenüberfall - Eskaliert", "requirements": [{"requirement": "streifenwagen", "qty": "6"}, {"requirement": "sek-fahrzeuge", "qty": "4"}, {"requirement": "fükw", "qty": "1"}, {"requirement": "rtw, naw", "qty": "2"}], "credits": "4000"}
+{
+ "missionId": "569",
+ "missionName": "Tankstellenüberfall - Eskaliert",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "6"
+  },
+  {
+   "requirement": "sek-fahrzeuge",
+   "qty": "4"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw, naw",
+   "qty": "2"
+  }
+ ],
+ "credits": "4000",
+ "version": "230118862909056492762179979161270827600"
+}

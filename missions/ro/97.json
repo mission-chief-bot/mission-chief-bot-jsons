@@ -1,1 +1,12 @@
-{"missionId": "97", "missionName": "Intoxicație alimentară", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "97",
+ "missionName": "Intoxicație alimentară",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "212124847347290893110371280763755499108"
+}

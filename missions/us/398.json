@@ -1,1 +1,12 @@
-{"missionId": "398", "missionName": "Traffic light failure", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "398",
+ "missionName": "Traffic light failure",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "74112907757822709036844051102062901907"
+}

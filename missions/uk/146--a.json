@@ -1,1 +1,32 @@
-{"missionId": "146/a", "missionName": "Injured person on high voltage mast", "requirements": [ {"requirement": "fire engines", "qty": "1"}, {"requirement": "aerial appliance trucks", "qty": "1"}, {"requirement": "rescue support vehicles", "qty": "1"}, {"requirement": "prvs", "qty": "1"}, {"requirement": "srvs", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1650"}
+{
+ "missionId": "146/a",
+ "missionName": "Injured person on high voltage mast",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "prvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "srvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "1650",
+ "version": "301237404017268151246333158313016487747"
+}

@@ -1,1 +1,12 @@
-{"missionId": "170", "missionName": "Random Breath Test", "requirements": [{"requirement": "police cars", "qty": "4"}], "credits": "3000"}
+{
+ "missionId": "170",
+ "missionName": "Random Breath Test",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  }
+ ],
+ "credits": "3000",
+ "version": "24633535792874024499773949086094797936"
+}

@@ -1,1 +1,16 @@
-{"missionId": "126", "missionName": "Čiastočné zrútenie budovy", "requirements": [{"requirement": "hasičské automobily", "qty": "2"}, {"requirement": "policajné vozidlá", "qty": "2"}], "credits": "7500"}
+{
+ "missionId": "126",
+ "missionName": "Čiastočné zrútenie budovy",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "2"
+  }
+ ],
+ "credits": "7500",
+ "version": "32900432905456062905803435918077848031"
+}

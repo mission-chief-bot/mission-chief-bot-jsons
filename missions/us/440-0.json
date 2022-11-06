@@ -1,1 +1,12 @@
-{"missionId": "440-0", "missionName": "Eviction standby", "requirements": [{"requirement": "sheriffs", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "440-0",
+ "missionName": "Eviction standby",
+ "requirements": [
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "231025678425445080178929262427789305170"
+}

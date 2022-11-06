@@ -1,1 +1,12 @@
-{"missionId": "6", "missionName": "Займання у сараї", "requirements": [{"requirement": "пожежні машини", "qty": "2"}], "credits": "600"}
+{
+ "missionId": "6",
+ "missionName": "Займання у сараї",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "2"
+  }
+ ],
+ "credits": "600",
+ "version": "101535918061206161834020244441357994559"
+}

@@ -1,1 +1,28 @@
-{"missionId": "29", "missionName": "Únik nafty z cisterny", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "ta", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "2"}, {"requirement": "policejní automobily", "qty": "3"}, {"requirement": "vozidla pro práci s nebezpečnými látkami", "qty": "2"}], "credits": "5300"}
+{
+ "missionId": "29",
+ "missionName": "Únik nafty z cisterny",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "4"
+  },
+  {
+   "requirement": "ta",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "vozidla pro práci s nebezpečnými látkami",
+   "qty": "2"
+  }
+ ],
+ "credits": "5300",
+ "version": "67291447499768072980622205832685545727"
+}

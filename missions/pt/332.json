@@ -1,1 +1,16 @@
-{"missionId": "332", "missionName": "Aspirador de folhas descontrolado", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "332",
+ "missionName": "Aspirador de folhas descontrolado",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "26879849354239432337210314896096750965"
+}

@@ -1,1 +1,12 @@
-{"missionId": "238", "missionName": "Controlli doganali", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "850"}
+{
+ "missionId": "238",
+ "missionName": "Controlli doganali",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "850",
+ "version": "118583113462028817713993131955565402415"
+}

@@ -1,1 +1,12 @@
-{"missionId": "397", "missionName": "Falt av stige under vårrengjøring", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "397",
+ "missionName": "Falt av stige under vårrengjøring",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "317621673121436175277682129098812609043"
+}

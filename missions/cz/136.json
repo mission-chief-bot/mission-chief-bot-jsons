@@ -1,1 +1,12 @@
-{"missionId": "136", "missionName": "Úžeh", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "136",
+ "missionName": "Úžeh",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "58457039695965083564342214603194826385"
+}

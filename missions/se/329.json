@@ -1,1 +1,12 @@
-{"missionId": "329", "missionName": "Sedlighetsbrott", "requirements": [{"requirement": "polisbilar", "qty": "2"}], "credits": "850"}
+{
+ "missionId": "329",
+ "missionName": "Sedlighetsbrott",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "credits": "850",
+ "version": "256477962771490980597710390070103584342"
+}

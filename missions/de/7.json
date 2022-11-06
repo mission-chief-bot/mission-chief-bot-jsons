@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Brennendes Laub", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Brennendes Laub",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "40864250803894703213142924148472822207"
+}

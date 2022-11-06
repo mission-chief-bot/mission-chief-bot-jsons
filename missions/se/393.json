@@ -1,1 +1,16 @@
-{"missionId": "393", "missionName": "Tjuv attackerad av ko", "requirements": [{"requirement": "ambulanser", "qty": "1"}, {"requirement": "mest patienter", "qty": "1"}], "credits": "860"}
+{
+ "missionId": "393",
+ "missionName": "Tjuv attackerad av ko",
+ "requirements": [
+  {
+   "requirement": "ambulanser",
+   "qty": "1"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "860",
+ "version": "46935634483874823941333085335467255968"
+}

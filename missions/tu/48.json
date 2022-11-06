@@ -1,1 +1,12 @@
-{"missionId": "48", "missionName": "Metal hırsızlığı", "requirements": [{"requirement": "gerekli polis arabaları", "qty": "1"}], "credits": "150"}
+{
+ "missionId": "48",
+ "missionName": "Metal hırsızlığı",
+ "requirements": [
+  {
+   "requirement": "gerekli polis arabaları",
+   "qty": "1"
+  }
+ ],
+ "credits": "150",
+ "version": "339916543183072226871108531875208726314"
+}

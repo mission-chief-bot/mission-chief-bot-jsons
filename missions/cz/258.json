@@ -1,1 +1,20 @@
-{"missionId": "258", "missionName": "Nehoda potápěče", "requirements": [{"requirement": "přívěs se člunem", "qty": "1"}, {"requirement": "potápěčský automobil", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "258",
+ "missionName": "Nehoda potápěče",
+ "requirements": [
+  {
+   "requirement": "přívěs se člunem",
+   "qty": "1"
+  },
+  {
+   "requirement": "potápěčský automobil",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "259852084312392473289446553767112556979"
+}

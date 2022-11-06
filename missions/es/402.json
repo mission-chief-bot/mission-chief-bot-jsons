@@ -1,1 +1,24 @@
-{"missionId": "402", "missionName": "Contención y asalto de hinchas de riesgo", "requirements": [{"requirement": "coches patrulla", "qty": "20"}, {"requirement": "helicóptero de la policía", "qty": "1"}, {"requirement": "unidad canina", "qty": "4"}, {"requirement": "n.º máximo de presos", "qty": "40"}], "credits": "23000"}
+{
+ "missionId": "402",
+ "missionName": "Contención y asalto de hinchas de riesgo",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "20"
+  },
+  {
+   "requirement": "helicóptero de la policía",
+   "qty": "1"
+  },
+  {
+   "requirement": "unidad canina",
+   "qty": "4"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "40"
+  }
+ ],
+ "credits": "23000",
+ "version": "87356992788598227520978108034069625753"
+}

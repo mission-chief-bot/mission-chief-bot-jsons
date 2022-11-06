@@ -1,1 +1,12 @@
-{"missionId": "483", "missionName": "Rapina in costume da ballo", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "200"}
+{
+ "missionId": "483",
+ "missionName": "Rapina in costume da ballo",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "200",
+ "version": "130755902382015591327128527120406327116"
+}

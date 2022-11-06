@@ -1,1 +1,36 @@
-{"missionId": "423", "missionName": "Eksplosjon i Restaurant", "requirements": [{"requirement": "brannbiler", "qty": "5"}, {"requirement": "nødvendig stigebil", "qty": "2"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "cbrne enheter", "qty": "1"}, {"requirement": "tankbiler", "qty": "1"}, {"requirement": "politibiler", "qty": "2"}, {"requirement": "maks pasienter", "qty": "4"}], "credits": "5200"}
+{
+ "missionId": "423",
+ "missionName": "Eksplosjon i Restaurant",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "nødvendig stigebil",
+   "qty": "2"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "cbrne enheter",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "5200",
+ "version": "237923905727302660361620791064311923096"
+}

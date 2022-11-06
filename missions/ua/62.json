@@ -1,1 +1,12 @@
-{"missionId": "62", "missionName": "Скарги на шум", "requirements": [{"requirement": "поліцейські машини", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "62",
+ "missionName": "Скарги на шум",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "57428358082562282394567291419949437714"
+}

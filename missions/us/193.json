@@ -1,1 +1,16 @@
-{"missionId": "193", "missionName": "Animal Rescue", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "heavy rescue vehicles", "qty": "1"}], "credits": "900"}
+{
+ "missionId": "193",
+ "missionName": "Animal Rescue",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  }
+ ],
+ "credits": "900",
+ "version": "75358468287668153224549516189305017966"
+}

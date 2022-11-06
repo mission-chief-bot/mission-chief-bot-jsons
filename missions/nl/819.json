@@ -1,1 +1,24 @@
-{"missionId": "819", "missionName": "Toezicht/Begeleiding Surfwedstrijd", "requirements": [{"requirement": "strandvoertuigen (dat-rb of khv)", "qty": "4"}, {"requirement": "bootaanhanger (woa of ba-rb)", "qty": "4"}, {"requirement": "noodhulpeenheden", "qty": "2"}, {"requirement": "ambulances", "qty": "1"}], "credits": "7860"}
+{
+ "missionId": "819",
+ "missionName": "Toezicht/Begeleiding Surfwedstrijd",
+ "requirements": [
+  {
+   "requirement": "strandvoertuigen (dat-rb of khv)",
+   "qty": "4"
+  },
+  {
+   "requirement": "bootaanhanger (woa of ba-rb)",
+   "qty": "4"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  }
+ ],
+ "credits": "7860",
+ "version": "292203727135219699704463854139734930167"
+}

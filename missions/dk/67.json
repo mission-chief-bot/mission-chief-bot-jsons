@@ -1,1 +1,16 @@
-{"missionId": "67", "missionName": "Slagsmål", "requirements": [{"requirement": "påkrævede politibiler", "qty": "3"}, {"requirement": "maks. antal patienter", "qty": "3"}], "credits": "700"}
+{
+ "missionId": "67",
+ "missionName": "Slagsmål",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "3"
+  }
+ ],
+ "credits": "700",
+ "version": "299814258005211172408777599308299640529"
+}

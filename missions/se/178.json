@@ -1,1 +1,12 @@
-{"missionId": "178", "missionName": "Vinglig färd", "requirements": [{"requirement": "polisbilar", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "178",
+ "missionName": "Vinglig färd",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "197386229583205285278717671688887331663"
+}

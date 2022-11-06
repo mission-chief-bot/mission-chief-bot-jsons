@@ -1,1 +1,16 @@
-{"missionId": "85", "missionName": "Tubo acquedotto rotto", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}], "credits": "6"}
+{
+ "missionId": "85",
+ "missionName": "Tubo acquedotto rotto",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  }
+ ],
+ "credits": "6",
+ "version": "57173958230263387280712888720639687147"
+}

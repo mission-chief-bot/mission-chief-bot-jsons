@@ -1,1 +1,12 @@
-{"missionId": "159", "missionName": "Deshidratación", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "100"}
+{
+ "missionId": "159",
+ "missionName": "Deshidratación",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "44412860581127131054278932179161106550"
+}

@@ -1,1 +1,16 @@
-{"missionId": "255", "missionName": "Invité blessé par bouchon de champagne à anniversaire", "requirements": [{"requirement": "max. patients", "qty": "2"}, {"requirement": "min. patients", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "255",
+ "missionName": "Invité blessé par bouchon de champagne à anniversaire",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  },
+  {
+   "requirement": "min. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "252408036249186580039869666830606273361"
+}

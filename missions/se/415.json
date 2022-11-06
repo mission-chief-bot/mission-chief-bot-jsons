@@ -1,1 +1,12 @@
-{"missionId": "415", "missionName": "Upplopp - orolighet", "requirements": [{"requirement": "polisbilar", "qty": "16"}], "credits": "8580"}
+{
+ "missionId": "415",
+ "missionName": "Upplopp - orolighet",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "16"
+  }
+ ],
+ "credits": "8580",
+ "version": "61249901820015270569647757552496618690"
+}

@@ -1,1 +1,12 @@
-{"missionId": "161", "missionName": "DUI Checkpoint", "requirements": [{"requirement": "police cars", "qty": "6"}], "credits": "3500"}
+{
+ "missionId": "161",
+ "missionName": "DUI Checkpoint",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  }
+ ],
+ "credits": "3500",
+ "version": "236084220409866183786580708732722247994"
+}

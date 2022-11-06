@@ -1,1 +1,16 @@
-{"missionId": "738", "missionName": "Starke Blutung", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "738",
+ "missionName": "Starke Blutung",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "16521809927056930911938829013286589701"
+}

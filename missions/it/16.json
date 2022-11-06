@@ -1,1 +1,12 @@
-{"missionId": "16", "missionName": "Roulotte in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "1100"}
+{
+ "missionId": "16",
+ "missionName": "Roulotte in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "1100",
+ "version": "97737710890858914595913678958479432437"
+}

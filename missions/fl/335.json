@@ -1,1 +1,16 @@
-{"missionId": "335", "missionName": "402 Siilopalo", "requirements": [{"requirement": "paloautot", "qty": "2"}, {"requirement": "johtoautot", "qty": "1"}], "credits": "1450"}
+{
+ "missionId": "335",
+ "missionName": "402 Siilopalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1450",
+ "version": "110746092930078614549742090245645772770"
+}

@@ -1,1 +1,36 @@
-{"missionId": "86", "missionName": "Delvist bygningskollaps", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}, {"requirement": "påkrævede redningsvogn", "qty": "2"}, {"requirement": "påkrævede stigevogn", "qty": "1"}, {"requirement": "påkrævede indsatsleder brand-køretøj", "qty": "1"}, {"requirement": "påkrævede politibiler", "qty": "2"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "8"}], "credits": "7500"}
+{
+ "missionId": "86",
+ "missionName": "Delvist bygningskollaps",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede stigevogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "8"
+  }
+ ],
+ "credits": "7500",
+ "version": "181305089745446529338838469441163301844"
+}

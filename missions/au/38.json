@@ -1,1 +1,12 @@
-{"missionId": "38", "missionName": "Seizure", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "3"}
+{
+ "missionId": "38",
+ "missionName": "Seizure",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "3",
+ "version": "102958143482916034667142908705425322445"
+}

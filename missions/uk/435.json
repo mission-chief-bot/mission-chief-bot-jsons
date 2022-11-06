@@ -1,1 +1,12 @@
-{"missionId": "435", "missionName": "Person Locked Out of House", "requirements": [{"requirement": "fire engines", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "435",
+ "missionName": "Person Locked Out of House",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "229547602073870189769775609726966688935"
+}

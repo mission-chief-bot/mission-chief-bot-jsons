@@ -1,1 +1,12 @@
-{"missionId": "284", "missionName": "Ospite della festa con dolori articolari dopo aver ballato", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "284",
+ "missionName": "Ospite della festa con dolori articolari dopo aver ballato",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "261981866115375788679532418774657749831"
+}

@@ -1,1 +1,12 @@
-{"missionId": "379", "missionName": "Čerpání vody ze sklepa", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "600"}
+{
+ "missionId": "379",
+ "missionName": "Čerpání vody ze sklepa",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "600",
+ "version": "156414385406182563688184256392215010171"
+}

@@ -1,1 +1,44 @@
-{"missionId": "467", "missionName": "School Bomb Threat", "requirements": [ {"requirement": "police cars", "qty": "9"}, {"requirement": "k-9 units", "qty": "4"}, {"requirement": "riot police group vehicles", "qty": "2"}, {"requirement": "senior sergeants", "qty": "2"}, {"requirement": "riot police suvs", "qty": "2"}, {"requirement": "riot police equipment vehicles", "qty": "2"}, {"requirement": "' swat personnel (in swat vehicles)", "qty": "12"}, {"requirement": "max. patients", "qty": "6"}, {"requirement": "minimum number of patients", "qty": "1"}], "credits": "12500"}
+{
+ "missionId": "467",
+ "missionName": "School Bomb Threat",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "9"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "4"
+  },
+  {
+   "requirement": "riot police group vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police suvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "riot police equipment vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "' swat personnel (in swat vehicles)",
+   "qty": "12"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "6"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "12500",
+ "version": "144881207899318646185130412132618812051"
+}

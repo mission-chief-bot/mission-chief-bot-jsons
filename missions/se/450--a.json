@@ -1,1 +1,24 @@
-{"missionId": "450/a", "missionName": "Brand i byggnad - apotek", "requirements": [{"requirement": "släckbilar", "qty": "5"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "polisbilar", "qty": "2"}, {"requirement": "mest patienter", "qty": "4"}], "credits": "3150"}
+{
+ "missionId": "450/a",
+ "missionName": "Brand i byggnad - apotek",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "3150",
+ "version": "245440086563754275416125177160708474310"
+}

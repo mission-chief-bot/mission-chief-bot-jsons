@@ -1,1 +1,12 @@
-{"missionId": "418", "missionName": "Anziano Truffato", "requirements": [{"requirement": "pattuglie", "qty": "1"}], "credits": "700"}
+{
+ "missionId": "418",
+ "missionName": "Anziano Truffato",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "credits": "700",
+ "version": "172595023048379089448191238485617526010"
+}

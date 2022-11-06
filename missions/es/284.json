@@ -1,1 +1,12 @@
-{"missionId": "284", "missionName": "Ataque con armas de fuego", "requirements": [{"requirement": "coches patrulla", "qty": "8"}], "credits": "6000"}
+{
+ "missionId": "284",
+ "missionName": "Ataque con armas de fuego",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "8"
+  }
+ ],
+ "credits": "6000",
+ "version": "121975053660638678146857462579107715661"
+}

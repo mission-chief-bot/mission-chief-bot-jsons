@@ -1,1 +1,12 @@
-{"missionId": "357", "missionName": "411 Trukkipalo", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "357",
+ "missionName": "411 Trukkipalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "180501172142325719899237503029710760460"
+}

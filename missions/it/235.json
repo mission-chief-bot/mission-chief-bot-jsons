@@ -1,1 +1,12 @@
-{"missionId": "235", "missionName": "Guidatore Contromano", "requirements": [{"requirement": "pattuglie", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "235",
+ "missionName": "Guidatore Contromano",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "212905999071433512632813239742107454659"
+}

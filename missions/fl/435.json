@@ -1,1 +1,16 @@
-{"missionId": "435", "missionName": "35 Pieni väkivaltainen vastamielenosoitus", "requirements": [{"requirement": "poliisiautot", "qty": "3"}, {"requirement": "vati-henkilöt", "qty": "2"}], "credits": "1600"}
+{
+ "missionId": "435",
+ "missionName": "35 Pieni väkivaltainen vastamielenosoitus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "2"
+  }
+ ],
+ "credits": "1600",
+ "version": "45260601387030799219675317372270988700"
+}

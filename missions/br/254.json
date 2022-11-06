@@ -1,1 +1,36 @@
-{"missionId": "254", "missionName": "Queda de grande estrutura metálica", "requirements": [{"requirement": "caminhões de bombeiro necessários", "qty": "4"}, {"requirement": "caminhões plataforma necessários", "qty": "2"}, {"requirement": "viaturas de batalhão necessárias", "qty": "1"}, {"requirement": "veículos de resgate pesado necessários", "qty": "3"}, {"requirement": "viaturas de polícia necessárias", "qty": "3"}, {"requirement": "máx. de pacientes", "qty": "10"}, {"requirement": "probabilidade de serem necessários cuidados criticos", "qty": "20"}], "credits": "7000"}
+{
+ "missionId": "254",
+ "missionName": "Queda de grande estrutura metálica",
+ "requirements": [
+  {
+   "requirement": "caminhões de bombeiro necessários",
+   "qty": "4"
+  },
+  {
+   "requirement": "caminhões plataforma necessários",
+   "qty": "2"
+  },
+  {
+   "requirement": "viaturas de batalhão necessárias",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de resgate pesado necessários",
+   "qty": "3"
+  },
+  {
+   "requirement": "viaturas de polícia necessárias",
+   "qty": "3"
+  },
+  {
+   "requirement": "máx. de pacientes",
+   "qty": "10"
+  },
+  {
+   "requirement": "probabilidade de serem necessários cuidados criticos",
+   "qty": "20"
+  }
+ ],
+ "credits": "7000",
+ "version": "303641773918514732160339517227314977097"
+}

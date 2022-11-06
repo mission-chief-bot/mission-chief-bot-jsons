@@ -1,1 +1,16 @@
-{"missionId": "82", "missionName": "Einbruch in Wohnung", "requirements": [{"requirement": "dhufükw", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "82",
+ "missionName": "Einbruch in Wohnung",
+ "requirements": [
+  {
+   "requirement": "dhufükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "59275168118010588438982330814540597681"
+}

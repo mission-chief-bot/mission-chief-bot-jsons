@@ -1,1 +1,24 @@
-{"missionId": "253", "missionName": "Grote boek van Sinterklaas aangespoeld", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams", "qty": "1"}, {"requirement": "bootaanhanger (woa of ba-rb)", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "253",
+ "missionName": "Grote boek van Sinterklaas aangespoeld",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams",
+   "qty": "1"
+  },
+  {
+   "requirement": "bootaanhanger (woa of ba-rb)",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "212713579045733190054950851644910161745"
+}

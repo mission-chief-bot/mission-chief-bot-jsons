@@ -1,1 +1,20 @@
-{"missionId": "208", "missionName": "Smyk na náledí", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "policejní automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "208",
+ "missionName": "Smyk na náledí",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "43591026580373595269192054706935232154"
+}

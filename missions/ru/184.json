@@ -1,1 +1,20 @@
-{"missionId": "184", "missionName": "Небольшой пожар на фабрике", "requirements": [{"requirement": "пожарные машины", "qty": "4"}, {"requirement": "машины командира батальона", "qty": "2"}, {"requirement": "макс. пациенты", "qty": "3"}], "credits": "0"}
+{
+ "missionId": "184",
+ "missionName": "Небольшой пожар на фабрике",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "4"
+  },
+  {
+   "requirement": "машины командира батальона",
+   "qty": "2"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "3"
+  }
+ ],
+ "credits": "0",
+ "version": "188877658959188118416494743175164031626"
+}

@@ -1,1 +1,12 @@
-{"missionId": "192", "missionName": "Voiture endommagée par des feux d'artifice", "requirements": [{"requirement": "voitures de police es", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "192",
+ "missionName": "Voiture endommagée par des feux d'artifice",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "260692139595579297335095648248886935433"
+}

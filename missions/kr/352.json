@@ -1,1 +1,28 @@
-{"missionId": "352", "missionName": "대규모 시위", "requirements": [{"requirement": "경찰 및 공공 안전", "qty": "5"}, {"requirement": "경찰차", "qty": "12"}, {"requirement": "진압 경찰 그룹 차량", "qty": "6"}, {"requirement": "진압 경찰 장비 차량", "qty": "1"}, {"requirement": "죄수 수송 차량", "qty": "1"}], "credits": "12500"}
+{
+ "missionId": "352",
+ "missionName": "대규모 시위",
+ "requirements": [
+  {
+   "requirement": "경찰 및 공공 안전",
+   "qty": "5"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "12"
+  },
+  {
+   "requirement": "진압 경찰 그룹 차량",
+   "qty": "6"
+  },
+  {
+   "requirement": "진압 경찰 장비 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "죄수 수송 차량",
+   "qty": "1"
+  }
+ ],
+ "credits": "12500",
+ "version": "59637251209946216364205273711380592491"
+}

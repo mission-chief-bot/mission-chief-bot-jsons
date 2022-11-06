@@ -1,1 +1,12 @@
-{"missionId": "57", "missionName": "Неоголошена демонстрація", "requirements": [{"requirement": "поліцейські машини", "qty": "7"}], "credits": "10020"}
+{
+ "missionId": "57",
+ "missionName": "Неоголошена демонстрація",
+ "requirements": [
+  {
+   "requirement": "поліцейські машини",
+   "qty": "7"
+  }
+ ],
+ "credits": "10020",
+ "version": "171226159393501649961435718842825271668"
+}

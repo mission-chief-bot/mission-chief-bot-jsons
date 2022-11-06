@@ -1,1 +1,16 @@
-{"missionId": "75", "missionName": "Agresywny pasażer", "requirements": [{"requirement": "radiowozy", "qty": "2"}, {"requirement": "maks. pacjenci", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "75",
+ "missionName": "Agresywny pasażer",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "163246398263310639043454906858220031799"
+}

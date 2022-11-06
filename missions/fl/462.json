@@ -1,1 +1,12 @@
-{"missionId": "462", "missionName": "031 Aseiden laiton hallussapito", "requirements": [{"requirement": "poliisiautot", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "462",
+ "missionName": "031 Aseiden laiton hallussapito",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "315969055231905989457614371985182381463"
+}

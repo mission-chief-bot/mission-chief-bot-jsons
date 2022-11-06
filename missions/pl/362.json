@@ -1,1 +1,12 @@
-{"missionId": "362", "missionName": "Nielegalne posiadanie broni", "requirements": [{"requirement": "radiowozy", "qty": "2"}], "credits": "1200"}
+{
+ "missionId": "362",
+ "missionName": "Nielegalne posiadanie broni",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  }
+ ],
+ "credits": "1200",
+ "version": "122948557142971288624960015981323252530"
+}

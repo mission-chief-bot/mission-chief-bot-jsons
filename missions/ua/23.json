@@ -1,1 +1,12 @@
-{"missionId": "23", "missionName": "Займання жиру", "requirements": [{"requirement": "пожежні машини", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "23",
+ "missionName": "Займання жиру",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "249761809543049189922204271461777774458"
+}

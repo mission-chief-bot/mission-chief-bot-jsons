@@ -1,1 +1,16 @@
-{"missionId": "12", "missionName": "Arbre sur la Voie Publique", "requirements": [{"requirement": "vtu", "qty": "1"}, {"requirement": "fourgons d’incendie", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "12",
+ "missionName": "Arbre sur la Voie Publique",
+ "requirements": [
+  {
+   "requirement": "vtu",
+   "qty": "1"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "143808392940416200847863142972623563366"
+}

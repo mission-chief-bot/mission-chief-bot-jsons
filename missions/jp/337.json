@@ -1,1 +1,16 @@
-{"missionId": "337", "missionName": "車に閉じ込められたチョコレートバニー", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "警察車両", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "337",
+ "missionName": "車に閉じ込められたチョコレートバニー",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "261589172128266487660984220096954498393"
+}

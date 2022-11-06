@@ -1,1 +1,12 @@
-{"missionId": "158", "missionName": "クリスマスツリー炎上", "requirements": [{"requirement": "消防車", "qty": "1"}], "credits": "870"}
+{
+ "missionId": "158",
+ "missionName": "クリスマスツリー炎上",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "credits": "870",
+ "version": "170163418879606464226452962465147953242"
+}

@@ -1,1 +1,12 @@
-{"missionId": "884", "missionName": "Doorrijden rood kruis", "requirements": [{"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "670"}
+{
+ "missionId": "884",
+ "missionName": "Doorrijden rood kruis",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "670",
+ "version": "112616255533433488110108782908322589365"
+}

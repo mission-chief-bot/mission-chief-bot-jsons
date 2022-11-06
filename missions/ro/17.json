@@ -1,1 +1,12 @@
-{"missionId": "17", "missionName": "Cutie poștală în flăcări", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}], "credits": "340"}
+{
+ "missionId": "17",
+ "missionName": "Cutie poștală în flăcări",
+ "requirements": [
+  {
+   "requirement": "mașini de pompieri necesare",
+   "qty": "1"
+  }
+ ],
+ "credits": "340",
+ "version": "63892215792467557525449969846525532845"
+}

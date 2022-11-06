@@ -1,1 +1,40 @@
-{"missionId": "154-0", "missionName": "Industribrann", "requirements": [{"requirement": "brannbiler", "qty": "5"}, {"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "cbrne enheter", "qty": "1"}, {"requirement": "stigebil", "qty": "2"}, {"requirement": "slangebiler", "qty": "1"}, {"requirement": "skum tankbiler", "qty": "1"}, {"requirement": "tilhengerpumper", "qty": "1"}, {"requirement": "maks pasienter", "qty": "4"}], "credits": "6800"}
+{
+ "missionId": "154-0",
+ "missionName": "Industribrann",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "2"
+  },
+  {
+   "requirement": "cbrne enheter",
+   "qty": "1"
+  },
+  {
+   "requirement": "stigebil",
+   "qty": "2"
+  },
+  {
+   "requirement": "slangebiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "skum tankbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "tilhengerpumper",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "4"
+  }
+ ],
+ "credits": "6800",
+ "version": "32092764990857232576772259535704447924"
+}

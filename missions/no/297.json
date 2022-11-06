@@ -1,1 +1,16 @@
-{"missionId": "297", "missionName": "Person fast i lekeplassutstyr", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "500"}
+{
+ "missionId": "297",
+ "missionName": "Person fast i lekeplassutstyr",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "credits": "500",
+ "version": "36611684862727347926421719751058652957"
+}

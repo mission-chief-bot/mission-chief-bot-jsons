@@ -1,1 +1,12 @@
-{"missionId": "492", "missionName": "Arrhythmia", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "0"}
+{
+ "missionId": "492",
+ "missionName": "Arrhythmia",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "credits": "0",
+ "version": "248242971244776933581517349405404314151"
+}

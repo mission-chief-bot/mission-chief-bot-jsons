@@ -1,1 +1,24 @@
-{"missionId": "425", "missionName": "Esposizione a Radiazioni", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}], "credits": "1600"}
+{
+ "missionId": "425",
+ "missionName": "Esposizione a Radiazioni",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "1"
+  },
+  {
+   "requirement": "nbcr",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "credits": "1600",
+ "version": "10451209111254432816164468391901434474"
+}

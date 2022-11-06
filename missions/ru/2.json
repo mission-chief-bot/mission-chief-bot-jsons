@@ -1,1 +1,12 @@
-{"missionId": "2", "missionName": "Горящий автомобиль", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "370"}
+{
+ "missionId": "2",
+ "missionName": "Горящий автомобиль",
+ "requirements": [
+  {
+   "requirement": "пожарные машины",
+   "qty": "1"
+  }
+ ],
+ "credits": "370",
+ "version": "120445208229833526941778528462425869507"
+}

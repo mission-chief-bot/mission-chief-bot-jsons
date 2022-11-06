@@ -1,1 +1,12 @@
-{"missionId": "378", "missionName": "706 Sekava ikäihminen", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "500"}
+{
+ "missionId": "378",
+ "missionName": "706 Sekava ikäihminen",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "credits": "500",
+ "version": "138881735985511229063346799722613459560"
+}

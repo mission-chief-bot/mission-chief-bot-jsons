@@ -1,1 +1,12 @@
-{"missionId": "166", "missionName": "Toezicht manifestatie pietendiscussie", "requirements": [{"requirement": "noodhulpeenheden", "qty": "4"}], "credits": "1200"}
+{
+ "missionId": "166",
+ "missionName": "Toezicht manifestatie pietendiscussie",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  }
+ ],
+ "credits": "1200",
+ "version": "190610859099943811655372469817147769341"
+}

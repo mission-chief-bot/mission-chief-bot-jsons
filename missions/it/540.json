@@ -1,1 +1,12 @@
-{"missionId": "540", "missionName": "Crise Hipertensiva", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "540",
+ "missionName": "Crise Hipertensiva",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "270866468790464561128312903038816590993"
+}

@@ -1,1 +1,16 @@
-{"missionId": "275", "missionName": "Flat Fire in Sheltered Housing", "requirements": [{"requirement": "fire engines", "qty": "3"}, {"requirement": "fire officers", "qty": "1"}], "credits": "2500"}
+{
+ "missionId": "275",
+ "missionName": "Flat Fire in Sheltered Housing",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "3"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  }
+ ],
+ "credits": "2500",
+ "version": "249502764777756681544351817599187012513"
+}

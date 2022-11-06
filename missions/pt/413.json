@@ -1,1 +1,16 @@
-{"missionId": "413", "missionName": "Cefaleias", "requirements": [ {"requirement": "ambulâncias de socorro necessárias:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "350"}
+{
+ "missionId": "413",
+ "missionName": "Cefaleias",
+ "requirements": [
+  {
+   "requirement": "ambulâncias de socorro necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "credits": "350",
+ "version": "151417053001037118237795870160108164458"
+}

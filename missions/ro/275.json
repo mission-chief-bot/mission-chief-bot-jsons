@@ -1,1 +1,12 @@
-{"missionId": "275", "missionName": "Furt auto", "requirements": [{"requirement": "mașini de poliție necesare", "qty": "3"}], "credits": "1600"}
+{
+ "missionId": "275",
+ "missionName": "Furt auto",
+ "requirements": [
+  {
+   "requirement": "mașini de poliție necesare",
+   "qty": "3"
+  }
+ ],
+ "credits": "1600",
+ "version": "95633121605758383827653567194782704957"
+}

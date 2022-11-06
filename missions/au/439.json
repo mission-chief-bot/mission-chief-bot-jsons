@@ -1,1 +1,44 @@
-{"missionId": "439", "missionName": "Fire in backpackers hostel (Major)", "requirements": [{"requirement": "fire engines", "qty": "20"}, {"requirement": "ladder platform trucks", "qty": "7"}, {"requirement": "support vehicles", "qty": "5"}, {"requirement": "mobile command vehicles", "qty": "2"}, {"requirement": "major rescue vehicles", "qty": "4"}, {"requirement": "basu", "qty": "4"}, {"requirement": "bulk water tankers", "qty": "5"}, {"requirement": "police cars", "qty": "8"}, {"requirement": "max. patients", "qty": "25"}], "credits": "25000"}
+{
+ "missionId": "439",
+ "missionName": "Fire in backpackers hostel (Major)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "20"
+  },
+  {
+   "requirement": "ladder platform trucks",
+   "qty": "7"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "5"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "basu",
+   "qty": "4"
+  },
+  {
+   "requirement": "bulk water tankers",
+   "qty": "5"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "8"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "25"
+  }
+ ],
+ "credits": "25000",
+ "version": "270577552042714481757932455551049817008"
+}

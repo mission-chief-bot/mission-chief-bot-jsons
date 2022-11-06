@@ -1,1 +1,16 @@
-{"missionId": "265", "missionName": "Taglio anello in Ospedale", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}], "credits": "4"}
+{
+ "missionId": "265",
+ "missionName": "Taglio anello in Ospedale",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  }
+ ],
+ "credits": "4",
+ "version": "316705151234571489731534596429623372565"
+}

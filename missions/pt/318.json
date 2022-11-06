@@ -1,1 +1,16 @@
-{"missionId": "318", "missionName": "Desacatos numa festa popular", "requirements": [{"requirement": "carros de patrulha necessários:", "qty": "3"}, {"requirement": "máx. de pacientes:", "qty": "10"}], "credits": "1150"}
+{
+ "missionId": "318",
+ "missionName": "Desacatos numa festa popular",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "10"
+  }
+ ],
+ "credits": "1150",
+ "version": "339997076748012086121042859370944273157"
+}

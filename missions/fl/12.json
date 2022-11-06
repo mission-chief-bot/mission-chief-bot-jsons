@@ -1,1 +1,12 @@
-{"missionId": "12", "missionName": "461 Puu tiellä", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "310"}
+{
+ "missionId": "12",
+ "missionName": "461 Puu tiellä",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "310",
+ "version": "17043424633762940085861525611116923749"
+}

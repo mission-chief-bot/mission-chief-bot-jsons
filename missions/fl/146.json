@@ -1,1 +1,20 @@
-{"missionId": "146", "missionName": "111 Asuntomurto käynnissä", "requirements": [{"requirement": "poliisiautot", "qty": "4"}, {"requirement": "koirapartiot", "qty": "1"}, {"requirement": "vati-henkilöt", "qty": "4"}], "credits": "1250"}
+{
+ "missionId": "146",
+ "missionName": "111 Asuntomurto käynnissä",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "koirapartiot",
+   "qty": "1"
+  },
+  {
+   "requirement": "vati-henkilöt",
+   "qty": "4"
+  }
+ ],
+ "credits": "1250",
+ "version": "59754477040989060247687353369998878130"
+}

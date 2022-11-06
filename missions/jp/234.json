@@ -1,1 +1,12 @@
-{"missionId": "234", "missionName": "出産", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "234",
+ "missionName": "出産",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "179981479420265565031232043240611596901"
+}

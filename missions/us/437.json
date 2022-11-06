@@ -1,1 +1,12 @@
-{"missionId": "437", "missionName": "Reported fraud", "requirements": [{"requirement": "police cars", "qty": "1"}], "credits": "300"}
+{
+ "missionId": "437",
+ "missionName": "Reported fraud",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "credits": "300",
+ "version": "155298035128426444070597158983319791731"
+}

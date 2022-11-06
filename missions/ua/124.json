@@ -1,1 +1,20 @@
-{"missionId": "124", "missionName": "Пожежа на електростанції", "requirements": [{"requirement": "пожежні машини", "qty": "5"}, {"requirement": "штабні автомобілі", "qty": "1"}, {"requirement": "пожежні автодрабини", "qty": "1"}], "credits": "1850"}
+{
+ "missionId": "124",
+ "missionName": "Пожежа на електростанції",
+ "requirements": [
+  {
+   "requirement": "пожежні машини",
+   "qty": "5"
+  },
+  {
+   "requirement": "штабні автомобілі",
+   "qty": "1"
+  },
+  {
+   "requirement": "пожежні автодрабини",
+   "qty": "1"
+  }
+ ],
+ "credits": "1850",
+ "version": "227714897657291991589427681539347906875"
+}

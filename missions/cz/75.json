@@ -1,1 +1,20 @@
-{"missionId": "75", "missionName": "Dítě zamčené ve vozidle", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "75",
+ "missionName": "Dítě zamčené ve vozidle",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "229445567829284487056496465676685786157"
+}

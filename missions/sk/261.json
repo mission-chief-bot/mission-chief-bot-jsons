@@ -1,1 +1,16 @@
-{"missionId": "261", "missionName": "Požiar na diskotéke", "requirements": [{"requirement": "hasičské automobily", "qty": "6"}, {"requirement": "policajné vozidlá", "qty": "3"}], "credits": "5500"}
+{
+ "missionId": "261",
+ "missionName": "Požiar na diskotéke",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "6"
+  },
+  {
+   "requirement": "policajné vozidlá",
+   "qty": "3"
+  }
+ ],
+ "credits": "5500",
+ "version": "49549224071377278053542392181761845738"
+}

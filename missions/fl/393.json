@@ -1,1 +1,12 @@
-{"missionId": "393", "missionName": "401 Syttynyt huonekalu", "requirements": [{"requirement": "paloautot", "qty": "1"}], "credits": "1200"}
+{
+ "missionId": "393",
+ "missionName": "401 Syttynyt huonekalu",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "credits": "1200",
+ "version": "256412987743914529145704997060419238372"
+}

@@ -1,1 +1,12 @@
-{"missionId": "133", "missionName": "Brandende bestelwagen", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "400"}
+{
+ "missionId": "133",
+ "missionName": "Brandende bestelwagen",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "400",
+ "version": "303486681672229011343743622068853884601"
+}

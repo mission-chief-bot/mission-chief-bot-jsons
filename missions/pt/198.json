@@ -1,1 +1,12 @@
-{"missionId": "198", "missionName": "Incêndio em residuos volumosos cusado por fogo-de-artifício", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}], "credits": "220"}
+{
+ "missionId": "198",
+ "missionName": "Incêndio em residuos volumosos cusado por fogo-de-artifício",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  }
+ ],
+ "credits": "220",
+ "version": "277214443652145688142260479179490300119"
+}

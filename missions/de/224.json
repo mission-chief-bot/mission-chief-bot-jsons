@@ -1,1 +1,16 @@
-{"missionId": "224", "missionName": "Brandsicherheitswachdienst im Theater", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "4000"}
+{
+ "missionId": "224",
+ "missionName": "Brandsicherheitswachdienst im Theater",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  }
+ ],
+ "credits": "4000",
+ "version": "178841484349292257738444694830800174604"
+}

@@ -1,1 +1,16 @@
-{"missionId": "966", "missionName": "Aanhouding persoon zonder geldig toegangsbewijs", "requirements": [{"requirement": "noodhulpeenheden", "qty": "1"}, {"requirement": "biketeams", "qty": "1"}], "credits": "775"}
+{
+ "missionId": "966",
+ "missionName": "Aanhouding persoon zonder geldig toegangsbewijs",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "1"
+  }
+ ],
+ "credits": "775",
+ "version": "208646142431566258445149891519491482008"
+}

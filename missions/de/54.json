@@ -1,1 +1,16 @@
-{"missionId": "54", "missionName": "Personenschaden durch Verbrennung", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "54",
+ "missionName": "Personenschaden durch Verbrennung",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "nef",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "230763683039846602664670602708574360902"
+}

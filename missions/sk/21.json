@@ -1,1 +1,12 @@
-{"missionId": "21", "missionName": "Požiar komína", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "2400"}
+{
+ "missionId": "21",
+ "missionName": "Požiar komína",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "2400",
+ "version": "87365026799905262396139941730514016273"
+}

@@ -1,1 +1,12 @@
-{"missionId": "384", "missionName": "Monitoring vodního toku", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "384",
+ "missionName": "Monitoring vodního toku",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "178195638101542563255571514068769179003"
+}

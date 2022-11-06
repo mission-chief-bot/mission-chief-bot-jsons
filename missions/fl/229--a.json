@@ -1,1 +1,48 @@
-{"missionId": "229/a", "missionName": "403 Rautatieasemapalo, suuri", "requirements": [{"requirement": "paloautot", "qty": "10"}, {"requirement": "johtoautot", "qty": "3"}, {"requirement": "nostolava-autot", "qty": "2"}, {"requirement": "raskaat pelastusautot", "qty": "2"}, {"requirement": "paineilmahuoltoautot", "qty": "1"}, {"requirement": "kemikaalitorjunta-autot", "qty": "1"}, {"requirement": "johtokeskusautot", "qty": "1"}, {"requirement": "poliisiautot", "qty": "8"}, {"requirement": "letkuajoneuvot", "qty": "2"}, {"requirement": "potilaita enint.", "qty": "15"}], "credits": "10600"}
+{
+ "missionId": "229/a",
+ "missionName": "403 Rautatieasemapalo, suuri",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "10"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtokeskusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "8"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "2"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "15"
+  }
+ ],
+ "credits": "10600",
+ "version": "232740597424914378407239906322376695977"
+}

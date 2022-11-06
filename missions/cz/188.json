@@ -1,1 +1,12 @@
-{"missionId": "188", "missionName": "Zombie kousnutí", "requirements": [ {"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "188",
+ "missionName": "Zombie kousnutí",
+ "requirements": [
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "65255268983221444040051045703358358344"
+}

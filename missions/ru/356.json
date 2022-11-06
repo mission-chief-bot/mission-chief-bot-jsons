@@ -1,1 +1,16 @@
-{"missionId": "356", "missionName": "Незаконная уличная торговля", "requirements": [{"requirement": "полицейские автомобили", "qty": "5"}, {"requirement": "макс. пациенты", "qty": "2"}], "credits": "3500"}
+{
+ "missionId": "356",
+ "missionName": "Незаконная уличная торговля",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "5"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "2"
+  }
+ ],
+ "credits": "3500",
+ "version": "236187404904052754713045152918180287344"
+}

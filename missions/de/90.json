@@ -1,1 +1,12 @@
-{"missionId": "90", "missionName": "Ruhestörung", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "90",
+ "missionName": "Ruhestörung",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "50621526788355229427795270248141442060"
+}

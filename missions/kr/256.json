@@ -1,1 +1,12 @@
-{"missionId": "256", "missionName": "저혈당 증세", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "1000"}
+{
+ "missionId": "256",
+ "missionName": "저혈당 증세",
+ "requirements": [
+  {
+   "requirement": "구급차",
+   "qty": "1"
+  }
+ ],
+ "credits": "1000",
+ "version": "70368584250895773514331132482653604888"
+}

@@ -1,1 +1,12 @@
-{"missionId": "129", "missionName": "Bränning påskkorg", "requirements": [{"requirement": "släckbilar", "qty": "1"}], "credits": "110"}
+{
+ "missionId": "129",
+ "missionName": "Bränning påskkorg",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "credits": "110",
+ "version": "179269204585193992353865915988092695"
+}

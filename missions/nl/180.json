@@ -1,1 +1,20 @@
-{"missionId": "180", "missionName": "Bergen object uit water voor politie", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams", "qty": "1"}, {"requirement": "noodhulpeenheden", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "180",
+ "missionName": "Bergen object uit water voor politie",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "227779066091828701956357899177075484446"
+}

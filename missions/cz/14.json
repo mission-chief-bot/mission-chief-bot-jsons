@@ -1,1 +1,12 @@
-{"missionId": "14", "missionName": "Malý požár na poli", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "1000"}
+{
+ "missionId": "14",
+ "missionName": "Malý požár na poli",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  }
+ ],
+ "credits": "1000",
+ "version": "25507061541956588217277666806617395705"
+}

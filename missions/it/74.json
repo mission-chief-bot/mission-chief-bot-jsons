@@ -1,1 +1,28 @@
-{"missionId": "74", "missionName": "Grande incendio", "requirements": [{"requirement": "aps/abp", "qty": "10"}, {"requirement": "funzionari", "qty": "2"}, {"requirement": "autoscale", "qty": "2"}, {"requirement": "kilolitriche", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "2"}], "credits": "9800"}
+{
+ "missionId": "74",
+ "missionName": "Grande incendio",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "10"
+  },
+  {
+   "requirement": "funzionari",
+   "qty": "2"
+  },
+  {
+   "requirement": "autoscale",
+   "qty": "2"
+  },
+  {
+   "requirement": "kilolitriche",
+   "qty": "2"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "2"
+  }
+ ],
+ "credits": "9800",
+ "version": "8172097069371947130595226751233353553"
+}

@@ -1,1 +1,12 @@
-{"missionId": "58", "missionName": "Buitenbrand", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}], "credits": "250"}
+{
+ "missionId": "58",
+ "missionName": "Buitenbrand",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "credits": "250",
+ "version": "27104942747804826148800720552731615283"
+}

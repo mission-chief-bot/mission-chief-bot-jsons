@@ -1,1 +1,12 @@
-{"missionId": "1", "missionName": "Container in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "1"}], "credits": "170"}
+{
+ "missionId": "1",
+ "missionName": "Container in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  }
+ ],
+ "credits": "170",
+ "version": "38160301759159923080395372544480076805"
+}

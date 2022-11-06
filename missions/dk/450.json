@@ -1,1 +1,36 @@
-{"missionId": "450", "missionName": "Stor urolig demonstration", "requirements": [ {"requirement": "påkrævede politibiler", "qty": "16"}, {"requirement": "rydningsvogn påkrævet", "qty": "1"}, {"requirement": "rydningsvogn med vandkanon påkrævet", "qty": "1"}, {"requirement": "påkrævede hundepatruljer", "qty": "2"}, {"requirement": "hollændervogn påkrævet", "qty": "1"}, {"requirement": "påkrævede indsatsleder politi", "qty": "2"}, {"requirement": "gruppevogn påkrævet", "qty": "10"}], "credits": "18000"}
+{
+ "missionId": "450",
+ "missionName": "Stor urolig demonstration",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "16"
+  },
+  {
+   "requirement": "rydningsvogn påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "rydningsvogn med vandkanon påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede hundepatruljer",
+   "qty": "2"
+  },
+  {
+   "requirement": "hollændervogn påkrævet",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder politi",
+   "qty": "2"
+  },
+  {
+   "requirement": "gruppevogn påkrævet",
+   "qty": "10"
+  }
+ ],
+ "credits": "18000",
+ "version": "241102530393202109790187278387419689353"
+}

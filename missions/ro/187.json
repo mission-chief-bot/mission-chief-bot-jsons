@@ -1,1 +1,12 @@
-{"missionId": "187", "missionName": "Animal în panică din cauza artificiilor", "requirements": [{"requirement": "max. pacienți", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "187",
+ "missionName": "Animal în panică din cauza artificiilor",
+ "requirements": [
+  {
+   "requirement": "max. pacienți",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "127766596497416056799006360602371237770"
+}

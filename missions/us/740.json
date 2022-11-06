@@ -1,1 +1,20 @@
-{"missionId": "740", "missionName": "Multiple Whaling Vessels Performing Illegal Operations", "requirements": [{"requirement": "small coastal boats", "qty": "6"}, {"requirement": "large coastal boat", "qty": "3"}, {"requirement": "coastal helicopter", "qty": "2"}], "credits": "10000"}
+{
+ "missionId": "740",
+ "missionName": "Multiple Whaling Vessels Performing Illegal Operations",
+ "requirements": [
+  {
+   "requirement": "small coastal boats",
+   "qty": "6"
+  },
+  {
+   "requirement": "large coastal boat",
+   "qty": "3"
+  },
+  {
+   "requirement": "coastal helicopter",
+   "qty": "2"
+  }
+ ],
+ "credits": "10000",
+ "version": "246629637416289992879938960284937594781"
+}

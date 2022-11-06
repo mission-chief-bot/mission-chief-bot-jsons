@@ -1,1 +1,12 @@
-{"missionId": "78", "missionName": "放火魔の逮捕", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "78",
+ "missionName": "放火魔の逮捕",
+ "requirements": [
+  {
+   "requirement": "救急車",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "243718875459700724749882620362887813510"
+}

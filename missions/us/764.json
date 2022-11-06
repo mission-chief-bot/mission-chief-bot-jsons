@@ -1,1 +1,36 @@
-{"missionId": "764", "missionName": "Vehicle Fallen Into Sinkhole", "requirements": [{"requirement": "firetrucks", "qty": "4"}, {"requirement": "platform trucks", "qty": "2"}, {"requirement": "heavy rescue vehicles", "qty": "2"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "police cars", "qty": "3"}, {"requirement": "minimum number of patients", "qty": "0"}, {"requirement": "max. patients", "qty": "5"}], "credits": "2000"}
+{
+ "missionId": "764",
+ "missionName": "Vehicle Fallen Into Sinkhole",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  },
+  {
+   "requirement": "minimum number of patients",
+   "qty": "0"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "credits": "2000",
+ "version": "170505120216240948133432251333206808416"
+}

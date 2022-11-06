@@ -1,1 +1,12 @@
-{"missionId": "168", "missionName": "622 Ajonopeusvalvonta", "requirements": [{"requirement": "poliisiautot", "qty": "2"}], "credits": "2000"}
+{
+ "missionId": "168",
+ "missionName": "622 Ajonopeusvalvonta",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "credits": "2000",
+ "version": "49899921983846781443691920454073131889"
+}

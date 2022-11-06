@@ -1,1 +1,28 @@
-{"missionId": "74", "missionName": "화재 현장(소방차형)", "requirements": [{"requirement": "소방차", "qty": "10"}, {"requirement": "지휘차", "qty": "3"}, {"requirement": "고가 사다리(TL)", "qty": "2"}, {"requirement": "수상 탱커", "qty": "2"}, {"requirement": "구조공작차(MRU)", "qty": "2"}], "credits": "10210"}
+{
+ "missionId": "74",
+ "missionName": "화재 현장(소방차형)",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "10"
+  },
+  {
+   "requirement": "지휘차",
+   "qty": "3"
+  },
+  {
+   "requirement": "고가 사다리(TL)",
+   "qty": "2"
+  },
+  {
+   "requirement": "수상 탱커",
+   "qty": "2"
+  },
+  {
+   "requirement": "구조공작차(MRU)",
+   "qty": "2"
+  }
+ ],
+ "credits": "10210",
+ "version": "277159871885697901537015519889216633413"
+}

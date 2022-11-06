@@ -1,1 +1,12 @@
-{"missionId": "789", "missionName": "Brandend boeket", "requirements": [{"requirement": "tankautospuiten", "qty": "2"}], "credits": "800"}
+{
+ "missionId": "789",
+ "missionName": "Brandend boeket",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  }
+ ],
+ "credits": "800",
+ "version": "188509853179082283845215160018031328679"
+}

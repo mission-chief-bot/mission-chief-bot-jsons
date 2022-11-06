@@ -1,1 +1,20 @@
-{"missionId": "415", "missionName": "Evadido da prisão", "requirements": [{"requirement": "equipas operacionais cinotécnicas necessárias:", "qty": "2"}, {"requirement": "carros de patrulha necessários:", "qty": "6"}, {"requirement": "veículos do corpo/unidade de intervenção necessários:", "qty": "2"}], "credits": "6000"}
+{
+ "missionId": "415",
+ "missionName": "Evadido da prisão",
+ "requirements": [
+  {
+   "requirement": "equipas operacionais cinotécnicas necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "6"
+  },
+  {
+   "requirement": "veículos do corpo/unidade de intervenção necessários:",
+   "qty": "2"
+  }
+ ],
+ "credits": "6000",
+ "version": "305978239661269509170693288216981276162"
+}

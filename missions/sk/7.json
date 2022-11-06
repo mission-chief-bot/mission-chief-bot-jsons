@@ -1,1 +1,12 @@
-{"missionId": "7", "missionName": "Horiace listy", "requirements": [{"requirement": "hasičské automobily", "qty": "1"}], "credits": "210"}
+{
+ "missionId": "7",
+ "missionName": "Horiace listy",
+ "requirements": [
+  {
+   "requirement": "hasičské automobily",
+   "qty": "1"
+  }
+ ],
+ "credits": "210",
+ "version": "18928565947889565182752145821021056113"
+}

@@ -1,1 +1,12 @@
-{"missionId": "94", "missionName": "Krádež velikonočního vajíčka", "requirements": [{"requirement": "policejní automobily", "qty": 1}], "credits": "100"}
+{
+ "missionId": "94",
+ "missionName": "Krádež velikonočního vajíčka",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": 1
+  }
+ ],
+ "credits": "100",
+ "version": "302982892177462862433580629065083952789"
+}

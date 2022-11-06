@@ -1,1 +1,12 @@
-{"missionId": "322", "missionName": "녹아내린 초콜릿 토끼", "requirements": [{"requirement": "소방차", "qty": "1"}], "credits": "100"}
+{
+ "missionId": "322",
+ "missionName": "녹아내린 초콜릿 토끼",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "credits": "100",
+ "version": "308714984034024631540797896937776073358"
+}

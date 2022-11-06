@@ -1,1 +1,16 @@
-{"missionId": "124", "missionName": "Похищение ребёнка", "requirements": [{"requirement": "полицейские автомобили", "qty": "4"}, {"requirement": "макс. пациенты", "qty": "1"}], "credits": "2000"}
+{
+ "missionId": "124",
+ "missionName": "Похищение ребёнка",
+ "requirements": [
+  {
+   "requirement": "полицейские автомобили",
+   "qty": "4"
+  },
+  {
+   "requirement": "макс. пациенты",
+   "qty": "1"
+  }
+ ],
+ "credits": "2000",
+ "version": "32311854746636546018221540869106816907"
+}

@@ -1,1 +1,16 @@
-{"missionId": "172", "missionName": "Straße unter Wasser", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "5"}, {"requirement": "feuerlöschpumpen", "qty": "1"}], "credits": "3200"}
+{
+ "missionId": "172",
+ "missionName": "Straße unter Wasser",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "5"
+  },
+  {
+   "requirement": "feuerlöschpumpen",
+   "qty": "1"
+  }
+ ],
+ "credits": "3200",
+ "version": "246776288790006845852020197549100002851"
+}

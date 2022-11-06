@@ -1,1 +1,44 @@
-{"missionId": "695-1", "missionName": "Massenanfall beim Fondue essen (riesig)", "requirements": [{"requirement": "löschfahrzeuge", "qty": "16"}, {"requirement": "elw 1", "qty": "3"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "dekon-p", "qty": "1"}, {"requirement": "streifenwagen", "qty": "14"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "elw 2", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "250"}], "credits": "14000"}
+{
+ "missionId": "695-1",
+ "missionName": "Massenanfall beim Fondue essen (riesig)",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "16"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "3"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-mess",
+   "qty": "1"
+  },
+  {
+   "requirement": "dekon-p",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "14"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 2",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "250"
+  }
+ ],
+ "credits": "14000",
+ "version": "199180677223232871882142825144272836453"
+}
