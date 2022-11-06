@@ -1,0 +1,36 @@
+{
+ "missionId": "508/a",
+ "missionName": "Subject Ejected from A MVA",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "senior sergeants",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "7"
+  }
+ ],
+ "version": "55715075495427861934210534435469836309",
+ "credits": "8550"
+}
