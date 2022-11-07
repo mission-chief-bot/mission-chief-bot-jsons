@@ -1,0 +1,12 @@
+{
+ "missionId": "545",
+ "missionName": "Arresto Contrabbandiere",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "version": "130085053700341479188232784127719995127",
+ "credits": "1800"
+}
