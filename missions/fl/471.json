@@ -1,0 +1,16 @@
+{
+ "missionId": "471",
+ "missionName": "792 Varautuminen ensihoitotehtävään",
+ "requirements": [
+  {
+   "requirement": "ambulanssit",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "2"
+  }
+ ],
+ "version": "126935876372514758616417891519561330801",
+ "credits": "250"
+}
