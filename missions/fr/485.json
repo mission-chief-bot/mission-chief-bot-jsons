@@ -3,10 +3,6 @@
  "missionName": "Pollution aquatique",
  "requirements": [
   {
-   "requirement": "unité nautique e",
-   "qty": "4"
-  },
-  {
    "requirement": "chefs de groupe ou vlhr",
    "qty": "1"
   },
