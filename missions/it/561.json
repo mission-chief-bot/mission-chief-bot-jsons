@@ -1,0 +1,20 @@
+{
+ "missionId": "561",
+ "missionName": "Pulizia dei binari",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "unità polisoccorso",
+   "qty": "1"
+  },
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "version": "39581828649119672077178121693007404421",
+ "credits": "1000"
+}

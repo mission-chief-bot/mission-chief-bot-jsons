@@ -1,0 +1,20 @@
+{
+ "missionId": "454",
+ "missionName": "Rengöring av spåren",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "lastväxlare",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "1"
+  }
+ ],
+ "version": "156312592355655746270070434783625353978",
+ "credits": "1000"
+}

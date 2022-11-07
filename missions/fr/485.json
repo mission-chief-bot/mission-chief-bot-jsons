@@ -1,0 +1,36 @@
+{
+ "missionId": "485",
+ "missionName": "Pollution aquatique",
+ "requirements": [
+  {
+   "requirement": "unité nautique e",
+   "qty": "4"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "vtu",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicules risques technologiques",
+   "qty": "2"
+  },
+  {
+   "requirement": "bls ou csl",
+   "qty": "2"
+  },
+  {
+   "requirement": "vpl",
+   "qty": "2"
+  }
+ ],
+ "version": "287612210251988843635291380833956351674",
+ "credits": "4500"
+}

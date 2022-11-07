@@ -1,0 +1,20 @@
+{
+ "missionId": "451",
+ "missionName": "Rengjøring av spor",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "version": "6585984715690527738071685375805809967",
+ "credits": "1000"
+}

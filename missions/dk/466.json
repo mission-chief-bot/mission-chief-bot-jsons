@@ -1,0 +1,20 @@
+{
+ "missionId": "466",
+ "missionName": "Rengøring af spor",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede redningsvogn",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  }
+ ],
+ "version": "217473270957455321280373485218897671016",
+ "credits": "1000"
+}

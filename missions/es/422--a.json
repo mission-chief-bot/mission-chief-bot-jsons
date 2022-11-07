@@ -1,0 +1,36 @@
+{
+ "missionId": "422/a",
+ "missionName": "Incendio en un tren con productos inflamables",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "5"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "2"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "2"
+  },
+  {
+   "requirement": "unidades de mando",
+   "qty": "1"
+  },
+  {
+   "requirement": "vehículos de materiales peligrosos",
+   "qty": "1"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "3"
+  },
+  {
+   "requirement": "bombas accionadas por motor",
+   "qty": "2"
+  }
+ ],
+ "version": "47402457800284623488553992116183717658",
+ "credits": "6800"
+}
