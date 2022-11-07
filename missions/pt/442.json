@@ -3,10 +3,6 @@
  "missionName": "Hematemeses",
  "requirements": [
   {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "7"
-  },
-  {
    "requirement": "máx. de pacientes:",
    "qty": "1"
   }
