@@ -1,0 +1,20 @@
+{
+ "missionId": "381",
+ "missionName": "トラッククリーニング",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "version": "159748813233368432070932965379259213933",
+ "credits": "1000"
+}
