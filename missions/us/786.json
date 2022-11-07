@@ -1,0 +1,12 @@
+{
+ "missionId": "786",
+ "missionName": "Switchboard Fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "version": "188324914926310352937849780495291292448",
+ "credits": "500"
+}
