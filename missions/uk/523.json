@@ -1,0 +1,12 @@
+{
+ "missionId": "523",
+ "missionName": "Debris in carriageway",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "version": "262580719375448350965933676079165067638",
+ "credits": "800"
+}

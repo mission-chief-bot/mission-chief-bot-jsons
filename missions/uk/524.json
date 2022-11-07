@@ -1,0 +1,16 @@
+{
+ "missionId": "524",
+ "missionName": "Debris in carriageway (Fast Road)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "traffic cars",
+   "qty": "1"
+  }
+ ],
+ "version": "193980573171808269717346512533389538596",
+ "credits": "800"
+}
