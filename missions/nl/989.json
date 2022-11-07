@@ -1,0 +1,20 @@
+{
+ "missionId": "989",
+ "missionName": "Diefstal personenauto",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "version": "162893724482492751311110980038226492300",
+ "credits": "2640"
+}
