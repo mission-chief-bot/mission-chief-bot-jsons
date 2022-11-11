@@ -1,0 +1,28 @@
+{
+ "missionId": "5/a",
+ "missionName": "Zimmerbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "3"
+  }
+ ],
+ "version": "300730568790058365321520925998468154159",
+ "credits": "1700"
+}
