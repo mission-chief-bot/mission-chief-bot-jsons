@@ -1,0 +1,12 @@
+{
+ "missionId": "160",
+ "missionName": "Brandende cadeautjes",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "version": "45192075789377579601281668834292631217",
+ "credits": "550"
+}
