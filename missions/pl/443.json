@@ -1,0 +1,12 @@
+{
+ "missionId": "443",
+ "missionName": "Porażenie prądem",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "337234989977742140755631511631361595916",
+ "credits": "1050"
+}

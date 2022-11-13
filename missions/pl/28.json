@@ -1,0 +1,24 @@
+{
+ "missionId": "28",
+ "missionName": "Płonąca maszyna",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  }
+ ],
+ "version": "175840695295088334445824993814370339815",
+ "credits": "2470"
+}

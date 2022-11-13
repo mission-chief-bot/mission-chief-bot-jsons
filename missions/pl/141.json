@@ -1,0 +1,12 @@
+{
+ "missionId": "141",
+ "missionName": "Nalot policyjny na rezydencję",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  }
+ ],
+ "version": "6016883960758267307368036392437909524",
+ "credits": "750"
+}

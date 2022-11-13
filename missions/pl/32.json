@@ -1,0 +1,12 @@
+{
+ "missionId": "32",
+ "missionName": "Pożar kombajnu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "176521529504644452142065579808964183990",
+ "credits": "1200"
+}

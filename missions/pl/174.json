@@ -1,0 +1,12 @@
+{
+ "missionId": "174",
+ "missionName": "Pożar autokaru",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  }
+ ],
+ "version": "184060445628171498561707512235057493167",
+ "credits": "3000"
+}

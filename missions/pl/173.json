@@ -1,0 +1,24 @@
+{
+ "missionId": "173",
+ "missionName": "Próba samobójcza (skok z budynku)",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "260593538278551487019785236294376800705",
+ "credits": "3500"
+}

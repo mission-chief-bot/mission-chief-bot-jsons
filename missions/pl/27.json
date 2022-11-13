@@ -1,0 +1,12 @@
+{
+ "missionId": "27",
+ "missionName": "Pożar garażu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "111149232987105163622226504534883650510",
+ "credits": "1400"
+}

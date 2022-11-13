@@ -1,0 +1,12 @@
+{
+ "missionId": "434",
+ "missionName": "Próba wyłudzenia pieniędzy",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  }
+ ],
+ "version": "312812928722173983470890482502127137283",
+ "credits": "1200"
+}

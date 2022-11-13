@@ -1,0 +1,12 @@
+{
+ "missionId": "132",
+ "missionName": "Pochylone drzewo na budynek mieszkalny",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "107875350846204846556056874404201062706",
+ "credits": "700"
+}

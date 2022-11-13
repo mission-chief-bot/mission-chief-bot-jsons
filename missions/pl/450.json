@@ -1,0 +1,12 @@
+{
+ "missionId": "450",
+ "missionName": "Ktoś poślizgnął się na wilgotnych liściach",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "16898426387701384106370843294749815693",
+ "credits": "100"
+}

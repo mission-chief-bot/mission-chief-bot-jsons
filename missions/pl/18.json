@@ -1,0 +1,12 @@
+{
+ "missionId": "18",
+ "missionName": "Sterta gałęzi",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "222379752725201352014498104892108254422",
+ "credits": "700"
+}

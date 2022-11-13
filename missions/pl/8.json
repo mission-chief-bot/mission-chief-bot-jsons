@@ -1,0 +1,12 @@
+{
+ "missionId": "8",
+ "missionName": "Pożar gabarytów",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "58301816938780625855269209340313535973",
+ "credits": "220"
+}

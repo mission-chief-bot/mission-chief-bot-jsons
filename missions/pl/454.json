@@ -1,0 +1,12 @@
+{
+ "missionId": "454",
+ "missionName": "Kanał burzowy zatkany przez liście",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "132275361499094055730692857209627683803",
+ "credits": "300"
+}

@@ -1,0 +1,20 @@
+{
+ "missionId": "145",
+ "missionName": "Oczekujący nakaz",
+ "requirements": [
+  {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  }
+ ],
+ "version": "30388230914290694856578949515505945143",
+ "credits": "2000"
+}

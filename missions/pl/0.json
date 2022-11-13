@@ -1,0 +1,12 @@
+{
+ "missionId": "0",
+ "missionName": "Pożar kosza na śmieci",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "89954461313289977991250519961861512437",
+ "credits": "110"
+}

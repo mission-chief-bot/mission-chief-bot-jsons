@@ -1,0 +1,36 @@
+{
+ "missionId": "34",
+ "missionName": "Pożar w szpitalu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "10"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "2"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "25"
+  }
+ ],
+ "version": "60627248922278123308895090801616490088",
+ "credits": "6400"
+}

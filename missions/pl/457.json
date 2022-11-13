@@ -1,0 +1,24 @@
+{
+ "missionId": "457",
+ "missionName": "Wypadek na przejściu dla jeleni",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "161802237664784874168536869349107252657",
+ "credits": "1000"
+}

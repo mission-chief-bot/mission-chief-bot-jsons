@@ -1,0 +1,12 @@
+{
+ "missionId": "24",
+ "missionName": "Płonący przystanek autobusowy",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "282841956386874193022897897789434460059",
+ "credits": "900"
+}

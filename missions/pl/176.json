@@ -1,0 +1,16 @@
+{
+ "missionId": "176",
+ "missionName": "Zalany garaż",
+ "requirements": [
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "68399260135391318348553472684360718951",
+ "credits": "1200"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "461",
+ "missionName": "Niebezpieczna osoba z nożem",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  }
+ ],
+ "version": "36137262267861469325731594094134178873",
+ "credits": "1600"
+}

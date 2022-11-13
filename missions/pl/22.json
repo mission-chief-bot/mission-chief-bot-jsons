@@ -1,0 +1,20 @@
+{
+ "missionId": "22",
+ "missionName": "Pożar dachu",
+ "requirements": [
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  }
+ ],
+ "version": "115311299638945400432280223060687424391",
+ "credits": "2700"
+}

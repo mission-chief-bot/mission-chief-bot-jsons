@@ -1,0 +1,12 @@
+{
+ "missionId": "16",
+ "missionName": "Pożar przyczepy kempingowej",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "267571041046623122439242793456787263372",
+ "credits": "1100"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "3",
+ "missionName": "Płonący motocykl",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "106139057078058060038384206041906885997",
+ "credits": "340"
+}
