@@ -1,0 +1,12 @@
+{
+ "missionId": "586",
+ "missionName": "Duża plama oleju",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "163019342333400170904398796378173112424",
+ "credits": "3800"
+}

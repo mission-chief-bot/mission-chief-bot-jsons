@@ -1,0 +1,28 @@
+{
+ "missionId": "573",
+ "missionName": "Wyciek amoniaku",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "1"
+  }
+ ],
+ "version": "324521657521774545694277617265774307310",
+ "credits": "6700"
+}
