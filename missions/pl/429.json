@@ -1,0 +1,12 @@
+{
+ "missionId": "429",
+ "missionName": "Wypadek na siłowni",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "60186135626811473634075163131509581197",
+ "credits": "980"
+}

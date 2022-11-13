@@ -1,0 +1,28 @@
+{
+ "missionId": "430",
+ "missionName": "Rozległy pożar zboża na pniu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "30"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "5"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  }
+ ],
+ "version": "159738366972536922761415154920690050952",
+ "credits": "21500"
+}

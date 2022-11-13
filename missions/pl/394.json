@@ -1,0 +1,28 @@
+{
+ "missionId": "394",
+ "missionName": "Awaria elektrowni",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "8"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "1"
+  }
+ ],
+ "version": "281956690544216735556213208163896892608",
+ "credits": "5300"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "395",
+ "missionName": "Awantura w sklepie",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  }
+ ],
+ "version": "195509389301817276793202284593427786313",
+ "credits": "1150"
+}
