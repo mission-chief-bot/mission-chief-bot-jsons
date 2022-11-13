@@ -1,0 +1,16 @@
+{
+ "missionId": "386",
+ "missionName": "Monitoring przeciwpożarowy (Fabryka)",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  }
+ ],
+ "version": "81758032205774475572481961143023827649",
+ "credits": "5000"
+}

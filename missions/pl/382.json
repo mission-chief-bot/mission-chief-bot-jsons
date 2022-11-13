@@ -1,0 +1,36 @@
+{
+ "missionId": "382",
+ "missionName": "Pożar Obory",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "198233592099772765435611572517800669401",
+ "credits": "4500"
+}

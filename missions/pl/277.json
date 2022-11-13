@@ -1,0 +1,24 @@
+{
+ "missionId": "277",
+ "missionName": "Karambol",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "6"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "4"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "6"
+  }
+ ],
+ "version": "222727762617799615824980126709559330091",
+ "credits": "4300"
+}

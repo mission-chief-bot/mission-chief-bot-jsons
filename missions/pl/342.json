@@ -1,0 +1,12 @@
+{
+ "missionId": "342",
+ "missionName": "Oparzenie twarzy",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "51074071334705049834058522873197389703",
+ "credits": "950"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "381",
+ "missionName": "Pożar Kurnika",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "21425263731360623455332808176264036221",
+ "credits": "1000"
+}
