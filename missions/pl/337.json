@@ -1,0 +1,12 @@
+{
+ "missionId": "337",
+ "missionName": "Silny ból brzucha",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "264550703177806504965576585317685705663",
+ "credits": "650"
+}

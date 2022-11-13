@@ -1,0 +1,20 @@
+{
+ "missionId": "584",
+ "missionName": "Wywrócona żaglówka",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "łodzie",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "4"
+  }
+ ],
+ "version": "142461522813093827110512154852381880131",
+ "credits": "3500"
+}

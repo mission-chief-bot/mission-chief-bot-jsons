@@ -1,0 +1,16 @@
+{
+ "missionId": "268",
+ "missionName": "Nietrzeźwy Kierowca",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "version": "215083176917125024411013935357270579386",
+ "credits": "500"
+}

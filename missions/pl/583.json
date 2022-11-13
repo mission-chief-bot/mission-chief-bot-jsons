@@ -1,0 +1,20 @@
+{
+ "missionId": "583",
+ "missionName": "Wywrócona motorówka",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "łodzie",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "318093641769509530111446638250837463392",
+ "credits": "2900"
+}

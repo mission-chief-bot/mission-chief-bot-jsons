@@ -1,0 +1,24 @@
+{
+ "missionId": "142",
+ "missionName": "Ucieczka więźnia",
+ "requirements": [
+  {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "10"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  }
+ ],
+ "version": "209260437413044940618449854835773623953",
+ "credits": "4000"
+}

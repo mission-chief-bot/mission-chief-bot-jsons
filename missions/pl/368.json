@@ -1,0 +1,28 @@
+{
+ "missionId": "368",
+ "missionName": "Nieudane lądowanie spadochroniarza",
+ "requirements": [
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "124325332461965589188885394685096208763",
+ "credits": "2500"
+}
