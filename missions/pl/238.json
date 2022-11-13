@@ -21,8 +21,12 @@
   {
    "requirement": "cysterny z wodą",
    "qty": "1"
+  },
+  {
+   "requirement": "ratownictwo wyskościowe",
+   "qty": "2"
   }
  ],
- "version": "14745129606797644031608281250346858168",
+ "version": "171871525284684164931817989480113709399",
  "credits": "8000"
 }

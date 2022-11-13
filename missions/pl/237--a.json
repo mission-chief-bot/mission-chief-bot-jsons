@@ -19,10 +19,14 @@
    "qty": "1"
   },
   {
+   "requirement": "ratownictwo wyskościowe",
+   "qty": "1"
+  },
+  {
    "requirement": "samochody ze zbiornikiem na piane",
    "qty": "1"
   }
  ],
- "version": "257471569169069429307797173986734605261",
+ "version": "84924346658634590522029707681302614496",
  "credits": "2000"
 }

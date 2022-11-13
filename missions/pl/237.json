@@ -13,8 +13,12 @@
   {
    "requirement": "slop lub slrr",
    "qty": "1"
+  },
+  {
+   "requirement": "ratownictwo wyskościowe",
+   "qty": "1"
   }
  ],
- "version": "196264675995431125004491819165822881557",
+ "version": "271453095663785531109666020090841479845",
  "credits": "1700"
 }
