@@ -1,0 +1,20 @@
+{
+ "missionId": "179",
+ "missionName": "Potrącenie na przejściu dla pieszych",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "version": "126407682808670690649757989474590145827",
+ "credits": "2500"
+}

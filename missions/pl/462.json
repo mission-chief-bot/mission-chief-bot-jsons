@@ -1,0 +1,12 @@
+{
+ "missionId": "462",
+ "missionName": "Problemy z sercem",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "295750626227913219554062801873747951235",
+ "credits": "1100"
+}

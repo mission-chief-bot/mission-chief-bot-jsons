@@ -1,0 +1,16 @@
+{
+ "missionId": "11/a",
+ "missionName": "Zwarcie w instalacji elektrycznej",
+ "requirements": [
+  {
+   "requirement": "rozbudowy dla pojazdów proszkowych",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "6447329261829717391457660653317275971",
+ "credits": "340"
+}

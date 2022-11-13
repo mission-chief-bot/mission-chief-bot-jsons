@@ -1,0 +1,12 @@
+{
+ "missionId": "36",
+ "missionName": "Ból w klatce piersiowej",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "182100696229357753101692050780211326056",
+ "credits": "100"
+}

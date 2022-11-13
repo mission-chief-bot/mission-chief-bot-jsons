@@ -1,0 +1,12 @@
+{
+ "missionId": "466",
+ "missionName": "Nieprzytomna osoba w tramwaju",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "35016144578195575210316542657730945854",
+ "credits": "800"
+}

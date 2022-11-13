@@ -1,0 +1,12 @@
+{
+ "missionId": "19",
+ "missionName": "Płonąca przyczepa",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "317495760522821571157581807674341648152",
+ "credits": "650"
+}

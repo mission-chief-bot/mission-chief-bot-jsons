@@ -1,0 +1,20 @@
+{
+ "missionId": "26",
+ "missionName": "Pożar małego supermarketu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "32466014223937866499349221815820020223",
+ "credits": "3000"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "196",
+ "missionName": "Pokazy Pożarnicze w przedszkolu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "328728249654327983813916136799806863676",
+ "credits": "800"
+}

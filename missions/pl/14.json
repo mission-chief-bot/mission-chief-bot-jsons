@@ -1,0 +1,12 @@
+{
+ "missionId": "14",
+ "missionName": "Mały pożar pola",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "171756362346357881786865454368371105442",
+ "credits": "1000"
+}

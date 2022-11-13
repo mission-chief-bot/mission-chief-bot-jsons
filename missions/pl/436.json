@@ -1,0 +1,20 @@
+{
+ "missionId": "436",
+ "missionName": "Potrącenie rowerzysty",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "281157645902664483001539211664878574281",
+ "credits": "4000"
+}

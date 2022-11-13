@@ -1,0 +1,12 @@
+{
+ "missionId": "9",
+ "missionName": "Pożar beli słomy",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "107789395401358704136185441931065788502",
+ "credits": "250"
+}

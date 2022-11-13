@@ -1,0 +1,12 @@
+{
+ "missionId": "6",
+ "missionName": "Pożar altanki",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "278545927031649105174644061802487029684",
+ "credits": "600"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "35",
+ "missionName": "Zatrucie alkoholem",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "175905834172257560828823573530742308692",
+ "credits": "100"
+}

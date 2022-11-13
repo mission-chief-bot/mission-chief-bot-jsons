@@ -1,0 +1,12 @@
+{
+ "missionId": "2",
+ "missionName": "Płonący samochód",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "61959229324522680125269459394125498424",
+ "credits": "370"
+}

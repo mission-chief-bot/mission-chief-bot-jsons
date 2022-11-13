@@ -1,0 +1,12 @@
+{
+ "missionId": "484",
+ "missionName": "Bójka w sklepie",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  }
+ ],
+ "version": "190203155169300207197426004979179270276",
+ "credits": "900"
+}
