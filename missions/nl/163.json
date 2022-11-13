@@ -1,0 +1,12 @@
+{
+ "missionId": "163",
+ "missionName": "Piet bestolen",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "version": "58261077965190277833166134707875879930",
+ "credits": "500"
+}

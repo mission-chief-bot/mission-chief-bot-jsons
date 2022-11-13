@@ -1,0 +1,12 @@
+{
+ "missionId": "168",
+ "missionName": "Verstikking in pepernoot",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "324200968509328504204102253073724612386",
+ "credits": "100"
+}
