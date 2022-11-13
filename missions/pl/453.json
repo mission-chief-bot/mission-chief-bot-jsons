@@ -1,0 +1,16 @@
+{
+ "missionId": "453",
+ "missionName": "Awaria dmuchawy do liści",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "274137974185879914407530216130926658037",
+ "credits": "400"
+}

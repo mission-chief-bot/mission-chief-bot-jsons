@@ -1,0 +1,28 @@
+{
+ "missionId": "445",
+ "missionName": "Pożar słupa wysokiego napięcia",
+ "requirements": [
+  {
+   "requirement": "rozbudowy dla pojazdów proszkowych",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ze zbiornikiem na piane",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  }
+ ],
+ "version": "208163885630365811308824987827555271987",
+ "credits": "2800"
+}

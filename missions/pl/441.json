@@ -1,0 +1,36 @@
+{
+ "missionId": "441",
+ "missionName": "Wypadek kolejowy - Zderzenie czołowe dwóch pociągów",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "15"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "5"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "8"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "40"
+  }
+ ],
+ "version": "33960409815053655956244820237256719669",
+ "credits": "28000"
+}

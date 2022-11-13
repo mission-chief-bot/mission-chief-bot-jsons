@@ -1,0 +1,20 @@
+{
+ "missionId": "437",
+ "missionName": "Pożar małego parku",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  }
+ ],
+ "version": "79711928193054648896010158475757275861",
+ "credits": "4750"
+}

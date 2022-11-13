@@ -1,0 +1,12 @@
+{
+ "missionId": "200",
+ "missionName": "Osoba tonąca w wodzie",
+ "requirements": [
+  {
+   "requirement": "łodzie",
+   "qty": "1"
+  }
+ ],
+ "version": "173004827397884673806537948474760459384",
+ "credits": "800"
+}

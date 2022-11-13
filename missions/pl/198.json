@@ -1,0 +1,16 @@
+{
+ "missionId": "198",
+ "missionName": "Wypadek podczas nurkowania",
+ "requirements": [
+  {
+   "requirement": "łodzie",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "106488361109407787736588410167012989755",
+ "credits": "2000"
+}

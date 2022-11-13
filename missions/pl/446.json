@@ -1,0 +1,28 @@
+{
+ "missionId": "446",
+ "missionName": "Pożar rozdzielni elektrycznej",
+ "requirements": [
+  {
+   "requirement": "rozbudowy dla pojazdów proszkowych",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "6"
+  },
+  {
+   "requirement": "samochody ze zbiornikiem na piane",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  }
+ ],
+ "version": "174599499500910284752896545337711788673",
+ "credits": "8450"
+}

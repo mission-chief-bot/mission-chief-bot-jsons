@@ -1,0 +1,20 @@
+{
+ "missionId": "440",
+ "missionName": "Jazda po chodniku",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "version": "13716235124406847801419722121207178446",
+ "credits": "1000"
+}

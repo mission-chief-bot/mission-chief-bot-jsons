@@ -1,0 +1,20 @@
+{
+ "missionId": "439",
+ "missionName": "Awaria sygnalizacji świetlnej - kierowanie ruchem",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "version": "182278322899085687997509041880501506336",
+ "credits": "2000"
+}

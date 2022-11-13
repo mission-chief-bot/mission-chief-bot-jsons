@@ -1,0 +1,12 @@
+{
+ "missionId": "452",
+ "missionName": "Ktoś wpadł w stertę liści",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "152859007503572425324533296461908141607",
+ "credits": "100"
+}
