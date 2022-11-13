@@ -1,0 +1,24 @@
+{
+ "missionId": "490",
+ "missionName": "Niezidentyfikowana substancja na drodze",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "1"
+  }
+ ],
+ "version": "191200165737688236406961233101664377782",
+ "credits": "5000"
+}

@@ -1,0 +1,36 @@
+{
+ "missionId": "483",
+ "missionName": "Napad na bank",
+ "requirements": [
+  {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "10"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "2"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulanse",
+   "qty": "2"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "24"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "5"
+  }
+ ],
+ "version": "154935502929479079844524734795047364091",
+ "credits": "12500"
+}

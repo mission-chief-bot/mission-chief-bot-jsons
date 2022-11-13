@@ -1,0 +1,12 @@
+{
+ "missionId": "479",
+ "missionName": "Pogryzienie przez osy",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "30483630548469073792383266746998128818",
+ "credits": "710"
+}

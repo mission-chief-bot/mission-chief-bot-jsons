@@ -1,0 +1,36 @@
+{
+ "missionId": "552",
+ "missionName": "Duży protest",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "2"
+  },
+  {
+   "requirement": "rozbudowy o stanowisko dowodzenia",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "150x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "12"
+  },
+  {
+   "requirement": "ruchome stanowisko dowodzenia",
+   "qty": "1"
+  },
+  {
+   "requirement": "specjalistyczny sprzęt opp (pickup)",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel",
+   "qty": "76x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "153574132566263415176746042163557636709",
+ "credits": "14300"
+}

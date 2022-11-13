@@ -1,0 +1,20 @@
+{
+ "missionId": "364",
+ "missionName": "Zadymienie w budynku mieszkalnym",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  }
+ ],
+ "version": "10650643577240230567473284463452102774",
+ "credits": "2500"
+}

@@ -1,0 +1,28 @@
+{
+ "missionId": "499",
+ "missionName": "Dachowanie autobusu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "8"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "3"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "18"
+  }
+ ],
+ "version": "55533338835090026509889708339432295935",
+ "credits": "8900"
+}

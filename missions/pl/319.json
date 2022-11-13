@@ -1,0 +1,24 @@
+{
+ "missionId": "319",
+ "missionName": "Napad Na Konwój Z Pieniędzmi",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "12"
+  }
+ ],
+ "version": "143947469789538782956711477425810478337",
+ "credits": "2500"
+}

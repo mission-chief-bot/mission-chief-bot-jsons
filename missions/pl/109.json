@@ -1,0 +1,12 @@
+{
+ "missionId": "109",
+ "missionName": "Udar mózgu",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "339906512149106389718736326998690253638",
+ "credits": "100"
+}

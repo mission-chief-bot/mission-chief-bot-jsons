@@ -1,0 +1,40 @@
+{
+ "missionId": "351",
+ "missionName": "Rozległy pożar lasu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "160"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "5"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "25"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "28"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "5"
+  },
+  {
+   "requirement": "samochody ze zbiornikiem na piane",
+   "qty": "12"
+  },
+  {
+   "requirement": "samochody wężowe",
+   "qty": "10"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "20"
+  }
+ ],
+ "version": "98428648737583976706447016863283947747",
+ "credits": "40000"
+}

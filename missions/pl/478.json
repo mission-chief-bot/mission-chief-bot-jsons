@@ -1,0 +1,12 @@
+{
+ "missionId": "478",
+ "missionName": "Płonący kontener na śmieci",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "322241712249658001590268321397993523206",
+ "credits": "1300"
+}

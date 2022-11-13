@@ -1,0 +1,36 @@
+{
+ "missionId": "277/a",
+ "missionName": "Karambol",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "6"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "4"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "2"
+  },
+  {
+   "requirement": "aprd",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "6"
+  }
+ ],
+ "version": "188274635175282846128761416947093149916",
+ "credits": "4810"
+}

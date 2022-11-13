@@ -1,0 +1,36 @@
+{
+ "missionId": "107/a",
+ "missionName": "Wypadek na przejeździe kolejowym",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "2"
+  },
+  {
+   "requirement": "aprd",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "4"
+  }
+ ],
+ "version": "114304292039827047591971467822538218794",
+ "credits": "4370"
+}

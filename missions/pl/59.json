@@ -1,0 +1,16 @@
+{
+ "missionId": "59",
+ "missionName": "Uwięzione zwierzę",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  }
+ ],
+ "version": "276342139330436617697747008369559317446",
+ "credits": "900"
+}

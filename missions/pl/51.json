@@ -1,0 +1,12 @@
+{
+ "missionId": "51",
+ "missionName": "Jazda bez biletu",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "148351272721581127180430056725774884103",
+ "credits": "120"
+}

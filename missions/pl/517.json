@@ -1,0 +1,24 @@
+{
+ "missionId": "517",
+ "missionName": "Pożar katedry",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "7"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "ratownictwo wyskościowe",
+   "qty": "1"
+  }
+ ],
+ "version": "82049965029854311783931647304549780177",
+ "credits": "6500"
+}

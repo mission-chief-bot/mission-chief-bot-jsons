@@ -1,0 +1,12 @@
+{
+ "missionId": "37",
+ "missionName": "Zaostrzenie astmy",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "3864909251539458551250286220675992111",
+ "credits": "100"
+}

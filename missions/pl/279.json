@@ -1,0 +1,16 @@
+{
+ "missionId": "279",
+ "missionName": "Wypadek rowerzysty na trasie rowerowej",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "323365006053239940885621588897939402733",
+ "credits": "1900"
+}

@@ -1,0 +1,24 @@
+{
+ "missionId": "487",
+ "missionName": "Zderzenie ze zwierzęciem",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "125493797838629001031557199880486842868",
+ "credits": "1900"
+}

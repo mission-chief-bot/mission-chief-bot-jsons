@@ -1,0 +1,24 @@
+{
+ "missionId": "556",
+ "missionName": "Małe zamieszki",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "20x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  },
+  {
+   "requirement": "personel",
+   "qty": "10x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "200380852775006800045501019515138309842",
+ "credits": "5700"
+}

@@ -1,0 +1,20 @@
+{
+ "missionId": "560",
+ "missionName": "Planowane zgromadzenie (małe)",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "12x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "personel",
+   "qty": "6x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "158956685900572762176395394140050389621",
+ "credits": "4000"
+}

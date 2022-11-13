@@ -1,0 +1,16 @@
+{
+ "missionId": "520",
+ "missionName": "Uszkodzony hydrant",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  }
+ ],
+ "version": "207770300722190254917462006776042920635",
+ "credits": "900"
+}

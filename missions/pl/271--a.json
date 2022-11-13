@@ -1,0 +1,32 @@
+{
+ "missionId": "271/a",
+ "missionName": "Wypadek drogowy z udziałem samochodu ciężarowego",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "version": "4573965716622797614131578182425242001",
+ "credits": "2505"
+}

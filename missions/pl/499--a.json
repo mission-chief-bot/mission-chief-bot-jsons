@@ -1,0 +1,40 @@
+{
+ "missionId": "499/a",
+ "missionName": "Dachowanie autobusu",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "8"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "3"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "2"
+  },
+  {
+   "requirement": "aprd",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "18"
+  }
+ ],
+ "version": "271697001505772167203432002240336549425",
+ "credits": "9455"
+}

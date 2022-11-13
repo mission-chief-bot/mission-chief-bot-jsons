@@ -1,0 +1,12 @@
+{
+ "missionId": "489",
+ "missionName": "Mały pożar nasypu kolejowego",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  }
+ ],
+ "version": "114458803969740414394890854271456266056",
+ "credits": "3000"
+}

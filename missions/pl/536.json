@@ -1,0 +1,32 @@
+{
+ "missionId": "536",
+ "missionName": "Katastrofa helikoptera",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "3"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "5"
+  }
+ ],
+ "version": "186528510368397651022994053126382524679",
+ "credits": "8950"
+}

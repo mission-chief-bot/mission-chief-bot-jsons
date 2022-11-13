@@ -1,0 +1,12 @@
+{
+ "missionId": "323",
+ "missionName": "Sprzedaż Alkoholu Nieletnim",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "57864220659760860186148568387089352903",
+ "credits": "450"
+}

@@ -1,0 +1,44 @@
+{
+ "missionId": "555",
+ "missionName": "Duże zamieszki",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "2"
+  },
+  {
+   "requirement": "rozbudowy o stanowisko dowodzenia",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "150x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "15"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "3"
+  },
+  {
+   "requirement": "armatki wodne",
+   "qty": "1"
+  },
+  {
+   "requirement": "ruchome stanowisko dowodzenia",
+   "qty": "1"
+  },
+  {
+   "requirement": "specjalistyczny sprzęt opp (pickup)",
+   "qty": "2"
+  },
+  {
+   "requirement": "personel",
+   "qty": "76x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "119520098897066938283444366105720854954",
+ "credits": "18800"
+}

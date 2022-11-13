@@ -1,0 +1,12 @@
+{
+ "missionId": "114",
+ "missionName": "Uraz kręgosłupa",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "32025414693996406097477548193806691824",
+ "credits": "100"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "486",
+ "missionName": "Pożar lawety przewożącej samochody",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  }
+ ],
+ "version": "139374754765231369412943554925879873022",
+ "credits": "3050"
+}

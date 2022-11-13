@@ -1,0 +1,24 @@
+{
+ "missionId": "482",
+ "missionName": "Napad na jubilera",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "7"
+  },
+  {
+   "requirement": "ambulanse",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "6"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "6"
+  }
+ ],
+ "version": "191441897762400680542834786879088929019",
+ "credits": "6800"
+}

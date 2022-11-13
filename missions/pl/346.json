@@ -1,0 +1,12 @@
+{
+ "missionId": "346",
+ "missionName": "Masowe zatrucie",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "8"
+  }
+ ],
+ "version": "231262856687626486146043167352310345064",
+ "credits": "2250"
+}

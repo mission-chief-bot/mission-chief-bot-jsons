@@ -1,0 +1,32 @@
+{
+ "missionId": "64/a",
+ "missionName": "Wypadek z udziałem autobusu",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "2"
+  },
+  {
+   "requirement": "aprd",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "12"
+  }
+ ],
+ "version": "182675860759664184893616352194300839805",
+ "credits": "1510"
+}

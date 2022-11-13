@@ -1,0 +1,12 @@
+{
+ "missionId": "361",
+ "missionName": "Kradzież z włamaniem",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  }
+ ],
+ "version": "239867243550208534215469472177167965491",
+ "credits": "1800"
+}

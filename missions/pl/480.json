@@ -1,0 +1,12 @@
+{
+ "missionId": "480",
+ "missionName": "Zatrucie substancją żrącą",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "189251265000437411554487006805013406997",
+ "credits": "800"
+}

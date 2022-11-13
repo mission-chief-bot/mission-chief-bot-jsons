@@ -1,0 +1,20 @@
+{
+ "missionId": "353",
+ "missionName": "Zabezpieczenie małej imprezy masowej",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "224228925445046629916033370919548005970",
+ "credits": "4750"
+}

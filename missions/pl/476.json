@@ -1,0 +1,12 @@
+{
+ "missionId": "476",
+ "missionName": "Nielegalne wyścigi samochodowe",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  }
+ ],
+ "version": "44273380243177157034825855165683114886",
+ "credits": "4800"
+}

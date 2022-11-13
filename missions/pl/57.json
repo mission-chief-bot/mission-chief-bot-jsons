@@ -1,0 +1,16 @@
+{
+ "missionId": "57",
+ "missionName": "Niezapowiedziana demonstracja",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "8"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "2"
+  }
+ ],
+ "version": "117715365960215633679803310041499997176",
+ "credits": "15000"
+}

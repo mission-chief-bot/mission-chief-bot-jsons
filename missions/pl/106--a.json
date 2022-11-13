@@ -1,0 +1,32 @@
+{
+ "missionId": "106/a",
+ "missionName": "Wypadek dwóch samochodów - Zderzenie czołowe",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "5"
+  }
+ ],
+ "version": "263168197355467661191121625578516596237",
+ "credits": "3910"
+}

@@ -1,0 +1,32 @@
+{
+ "missionId": "275/a",
+ "missionName": "Pożar tartaku",
+ "requirements": [
+  {
+   "requirement": "rozbudowy dla pojazdów proszkowych",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ze zbiornikiem na piane",
+   "qty": "1"
+  }
+ ],
+ "version": "14626730405730010621228904661418737911",
+ "credits": "2200"
+}

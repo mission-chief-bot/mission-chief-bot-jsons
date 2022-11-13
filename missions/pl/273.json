@@ -1,0 +1,32 @@
+{
+ "missionId": "273",
+ "missionName": "Wypadek samochodowy z udziałem ciężarówki w tunelu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "3"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "4"
+  }
+ ],
+ "version": "174753860677986888868209913538342884967",
+ "credits": "3000"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "365",
+ "missionName": "Zadymienie w domu jednorodzinnym",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  }
+ ],
+ "version": "219439804418321533274550887774736742085",
+ "credits": "4000"
+}

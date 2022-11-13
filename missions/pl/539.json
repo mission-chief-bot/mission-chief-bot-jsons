@@ -1,0 +1,24 @@
+{
+ "missionId": "539",
+ "missionName": "Pożar farmy fotowoltaicznej",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "9"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "3"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  }
+ ],
+ "version": "47853786969762430027537430164150274840",
+ "credits": "8050"
+}

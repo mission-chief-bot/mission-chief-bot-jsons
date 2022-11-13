@@ -1,0 +1,44 @@
+{
+ "missionId": "553",
+ "missionName": "Duży niebezpieczny protest",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "2"
+  },
+  {
+   "requirement": "rozbudowy o stanowisko dowodzenia",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "160x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "16"
+  },
+  {
+   "requirement": "armatki wodne",
+   "qty": "1"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "2"
+  },
+  {
+   "requirement": "specjalistyczny sprzęt opp (pickup)",
+   "qty": "1"
+  },
+  {
+   "requirement": "ruchome stanowisko dowodzenia",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel",
+   "qty": "82x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "161844649200038742177530055587641456354",
+ "credits": "20700"
+}

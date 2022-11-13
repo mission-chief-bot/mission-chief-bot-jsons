@@ -1,6 +1,6 @@
 {
- "missionId": "267",
- "missionName": "Pojazd Blokujący Wjazd na Posesję",
+ "missionId": "268",
+ "missionName": "Nietrzeźwy Kierowca",
  "requirements": [
   {
    "requirement": "wydziały ruchu drogowego",
@@ -11,6 +11,6 @@
    "qty": "1"
   }
  ],
- "version": "185775494460764320615242406619111398226",
- "credits": "600"
+ "version": "23997756895222027998736203448868663988",
+ "credits": "500"
 }

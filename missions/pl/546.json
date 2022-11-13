@@ -1,0 +1,24 @@
+{
+ "missionId": "546",
+ "missionName": "Potrącenie na drodze leśnej",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "274995780784893386600497454168914407158",
+ "credits": "3100"
+}

@@ -1,0 +1,24 @@
+{
+ "missionId": "356",
+ "missionName": "Wypadek dwóch skuterów wodnych",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "łodzie",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "version": "98500660353760625576496125636533405767",
+ "credits": "3500"
+}}

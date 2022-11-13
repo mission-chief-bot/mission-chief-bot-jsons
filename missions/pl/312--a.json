@@ -1,0 +1,24 @@
+{
+ "missionId": "312/a",
+ "missionName": "Pojazd w rowie",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "version": "192954563002414777561661741322938746819",
+ "credits": "1605"
+}

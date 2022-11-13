@@ -1,0 +1,32 @@
+{
+ "missionId": "104/a",
+ "missionName": "Wypadek dwóch samochodów - Zderzenie boczne",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "5"
+  }
+ ],
+ "version": "323959092108506254076284421120457067397",
+ "credits": "3705"
+}

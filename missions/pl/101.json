@@ -1,0 +1,20 @@
+{
+ "missionId": "101",
+ "missionName": "Płonący pojazd ciężarowy",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "334222438772764628877911719333873570726",
+ "credits": "1400"
+}

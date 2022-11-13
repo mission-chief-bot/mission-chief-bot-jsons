@@ -1,0 +1,28 @@
+{
+ "missionId": "498",
+ "missionName": "Zagrożenie skażeniem chemicznym w pociągu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "7"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "4"
+  },
+  {
+   "requirement": "ambulanse",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "20"
+  }
+ ],
+ "version": "271576338369403530575187944442919276408",
+ "credits": "10500"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "516",
+ "missionName": "Ukąszenie jadowitego węża",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "114213739839877048632880496440179877574",
+ "credits": "800"
+}

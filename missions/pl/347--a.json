@@ -1,0 +1,62 @@
+{
+ "missionId": "347/a",
+ "missionName": "Katastrofa samolotu pasażerskiego",
+ "requirements": [
+  {
+   "requirement": "rozbudowy dla pojazdów proszkowych",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "20"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "5"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "15"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "8"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "5"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "10"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ze zbiornikiem na piane",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "70"
+  }
+ ],
+ "version": "233778053192680926080080755598983961677",
+ "credits": "40600"
+}ersion": "41629237225506787596116585554871961916",
+ "credits": "40600"
+}

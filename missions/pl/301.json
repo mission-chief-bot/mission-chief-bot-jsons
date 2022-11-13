@@ -1,0 +1,16 @@
+{
+ "missionId": "301",
+ "missionName": "Zalany magazyn",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "1"
+  }
+ ],
+ "version": "145918352852000173586060178636264984518",
+ "credits": "850"
+}

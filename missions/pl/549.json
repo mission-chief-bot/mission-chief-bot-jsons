@@ -1,0 +1,32 @@
+{
+ "missionId": "549",
+ "missionName": "Zabezpieczenie niezapowiedzianego zgromadzenia (duże)",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "2"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "150x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "specjalistyczny sprzęt opp (pickup)",
+   "qty": "1"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel",
+   "qty": "76x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "142914614449562465402367970888446451926",
+ "credits": "8600"
+}

@@ -1,0 +1,20 @@
+{
+ "missionId": "476/a",
+ "missionName": "Nielegalne wyścigi samochodowe",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "2"
+  }
+ ],
+ "version": "149770827980289842143056363744537709289",
+ "credits": "5210"
+}

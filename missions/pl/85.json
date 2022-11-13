@@ -1,0 +1,24 @@
+{
+ "missionId": "85",
+ "missionName": "Dachowanie samochodu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "5"
+  }
+ ],
+ "version": "121904204836491426122490412557968391789",
+ "credits": "1300"
+}

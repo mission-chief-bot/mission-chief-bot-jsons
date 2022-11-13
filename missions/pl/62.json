@@ -1,0 +1,12 @@
+{
+ "missionId": "62",
+ "missionName": "Skarga na hałas",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "270699078824599531066431437083825647337",
+ "credits": "400"
+}

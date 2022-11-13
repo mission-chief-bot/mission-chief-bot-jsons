@@ -1,0 +1,12 @@
+{
+ "missionId": "341",
+ "missionName": "Hipotermia",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "156704382735338727363545386665664899126",
+ "credits": "800"
+}

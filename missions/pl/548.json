@@ -1,0 +1,24 @@
+{
+ "missionId": "548",
+ "missionName": "Zabezpieczenie niezapowiedzianego zgromadzenia (małe)",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "60x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel",
+   "qty": "28x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "138602584625376995615894795936757267237",
+ "credits": "4300"
+}

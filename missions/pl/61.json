@@ -1,0 +1,24 @@
+{
+ "missionId": "61",
+ "missionName": "Katastrofa lekkiego samolotu (lotnisko)",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "4"
+  }
+ ],
+ "version": "37537770516746786536821783781356152670",
+ "credits": "2500"
+}

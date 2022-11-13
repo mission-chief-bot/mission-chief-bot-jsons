@@ -1,0 +1,28 @@
+{
+ "missionId": "488",
+ "missionName": "Wypadek przy pracy na wysokościach",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "ratownictwo wyskościowe",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "231083221562562915782410586890521753452",
+ "credits": "5800"
+}

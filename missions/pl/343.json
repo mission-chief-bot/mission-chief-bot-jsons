@@ -1,0 +1,12 @@
+{
+ "missionId": "343",
+ "missionName": "Zaburzenia rytmu serca",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "70448687496978676729622165021921485085",
+ "credits": "750"
+}}

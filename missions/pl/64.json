@@ -1,0 +1,20 @@
+{
+ "missionId": "64",
+ "missionName": "Wypadek z udziałem autobusu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "12"
+  }
+ ],
+ "version": "149933052983427248160414770913989671175",
+ "credits": "1000"
+}

@@ -1,0 +1,24 @@
+{
+ "missionId": "271",
+ "missionName": "Wypadek drogowy z udziałem samochodu ciężarowego",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "version": "320430624587954666528105698949167451205",
+ "credits": "2300"
+}

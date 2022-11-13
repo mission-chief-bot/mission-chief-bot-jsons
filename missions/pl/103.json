@@ -1,0 +1,20 @@
+{
+ "missionId": "103",
+ "missionName": "Wypadek motocyklowy",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "179092904592143847418193478350783532431",
+ "credits": "2300"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "318",
+ "missionName": "Podpalenie Samochodu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "33664721787243329914006797487963923704",
+ "credits": "800"
+}}

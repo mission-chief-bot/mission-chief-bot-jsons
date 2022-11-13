@@ -1,0 +1,20 @@
+{
+ "missionId": "532",
+ "missionName": "Rozległy pożar traw",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "9"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  }
+ ],
+ "version": "53751698551911127597401595545691581863",
+ "credits": "5600"
+}

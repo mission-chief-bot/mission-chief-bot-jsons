@@ -1,0 +1,12 @@
+{
+ "missionId": "533",
+ "missionName": "Podpalacz",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  }
+ ],
+ "version": "245112945419409038318616649865209097210",
+ "credits": "1700"
+}

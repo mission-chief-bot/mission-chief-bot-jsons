@@ -1,0 +1,24 @@
+{
+ "missionId": "561",
+ "missionName": "Planowane zgromadzenie (średnie)",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "28x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel",
+   "qty": "14x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "170725305531846675586818592280408348162",
+ "credits": "7400"
+}

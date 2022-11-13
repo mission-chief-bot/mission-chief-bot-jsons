@@ -1,0 +1,20 @@
+{
+ "missionId": "519",
+ "missionName": "Uszkodzona rura wodociągowa",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  }
+ ],
+ "version": "69749477242184284251662832639367065853",
+ "credits": "1200"
+}

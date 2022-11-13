@@ -1,0 +1,16 @@
+{
+ "missionId": "84",
+ "missionName": "Uszkodzony dach",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  }
+ ],
+ "version": "84794412553578944523346344752247366153",
+ "credits": "450"
+}

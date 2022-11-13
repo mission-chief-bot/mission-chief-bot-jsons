@@ -1,0 +1,20 @@
+{
+ "missionId": "537",
+ "missionName": "Wodowanie helikoptera",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "łodzie",
+   "qty": "3"
+  }
+ ],
+ "version": "163004936795187618635870731525454591031",
+ "credits": "6300"
+}

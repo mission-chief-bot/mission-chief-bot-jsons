@@ -1,0 +1,24 @@
+{
+ "missionId": "105",
+ "missionName": "Najechanie na tył samochodu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "153063847148314949984705199775389649766",
+ "credits": "2200"
+}

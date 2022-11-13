@@ -1,0 +1,12 @@
+{
+ "missionId": "534",
+ "missionName": "Pożar łąki",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "267920030571535059938586544881779719992",
+ "credits": "1100"
+}
