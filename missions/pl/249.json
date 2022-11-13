@@ -1,0 +1,12 @@
+{
+ "missionId": "249",
+ "missionName": "Uszkodzenie Mienia",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "181244474948909132052604175212664967022",
+ "credits": "750"
+}

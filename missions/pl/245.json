@@ -1,0 +1,20 @@
+{
+ "missionId": "245",
+ "missionName": "Powódź - układanie worków z piaskiem",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  }
+ ],
+ "version": "43263404754234830381393756336055515002",
+ "credits": "2200"
+}

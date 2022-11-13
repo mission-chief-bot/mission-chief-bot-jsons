@@ -1,0 +1,12 @@
+{
+ "missionId": "45",
+ "missionName": "Kradzież sklepowa",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "288892027458680238713247834167770082943",
+ "credits": "100"
+}

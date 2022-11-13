@@ -1,0 +1,16 @@
+{
+ "missionId": "234",
+ "missionName": "Zawał",
+ "requirements": [
+  {
+   "requirement": "ambulanse",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "179304672261399298312019860289017050040",
+ "credits": "1400"
+}

@@ -1,0 +1,20 @@
+{
+ "missionId": "102",
+ "missionName": "Płonąca śmieciarka",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  }
+ ],
+ "version": "64964506446738235977091881088392149428",
+ "credits": "2000"
+}

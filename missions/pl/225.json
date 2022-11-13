@@ -1,0 +1,28 @@
+{
+ "missionId": "225",
+ "missionName": "Podejrzany pakunek w autobusie/tramwaju",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "18"
+  }
+ ],
+ "version": "49767253119480122579681144798486121126",
+ "credits": "2500"
+}

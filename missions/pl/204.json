@@ -1,0 +1,28 @@
+{
+ "missionId": "204",
+ "missionName": "Bus w Wodzie",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  },
+  {
+   "requirement": "łodzie",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "15"
+  }
+ ],
+ "version": "264399755166322682301283260850324851477",
+ "credits": "4000"
+}

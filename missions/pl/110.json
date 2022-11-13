@@ -1,0 +1,12 @@
+{
+ "missionId": "110",
+ "missionName": "Ciężki uraz miednicy",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "207256490145406404440448884634916230125",
+ "credits": "100"
+}

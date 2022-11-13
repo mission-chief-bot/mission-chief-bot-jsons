@@ -1,0 +1,28 @@
+{
+ "missionId": "472",
+ "missionName": "Zatrucie cyjanowodorem",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "1"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "6"
+  }
+ ],
+ "version": "68066208174726640131976531727651236850",
+ "credits": "4300"
+}

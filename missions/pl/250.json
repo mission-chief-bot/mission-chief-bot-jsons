@@ -1,0 +1,16 @@
+{
+ "missionId": "250",
+ "missionName": "Pobicie",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "10062964785371048970546304180793633494",
+ "credits": "1000"
+}

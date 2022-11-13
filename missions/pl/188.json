@@ -1,0 +1,28 @@
+{
+ "missionId": "188",
+ "missionName": "Zawalenie się wieży kościoła",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "10"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "3"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "5"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "5"
+  }
+ ],
+ "version": "226659103002529206859840745333340520259",
+ "credits": "8000"
+}

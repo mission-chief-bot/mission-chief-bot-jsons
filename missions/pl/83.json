@@ -1,0 +1,20 @@
+{
+ "missionId": "83",
+ "missionName": "Osoba uwięziona pod maszyną",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "220162982221812062942473186874965081583",
+ "credits": "1100"
+}

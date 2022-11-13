@@ -1,0 +1,12 @@
+{
+ "missionId": "470",
+ "missionName": "Obrzęk płuc",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "4476363199407589575248803750331641961",
+ "credits": "980"
+}

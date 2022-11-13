@@ -1,0 +1,28 @@
+{
+ "missionId": "228",
+ "missionName": "Potrącenie przez pociąg",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "5"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "260638670981188126558908680184597470005",
+ "credits": "5425"
+}

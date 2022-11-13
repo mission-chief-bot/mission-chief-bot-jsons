@@ -1,0 +1,12 @@
+{
+ "missionId": "514",
+ "missionName": "Wypalanie gałęzi pod nadzorem",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "282905348983728175506908069179130439381",
+ "credits": "650"
+}

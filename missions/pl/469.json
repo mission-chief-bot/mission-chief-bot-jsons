@@ -1,0 +1,12 @@
+{
+ "missionId": "469",
+ "missionName": "Podejrzenie neuroinfekcji",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "192001853211419275956641548912572285579",
+ "credits": "1100"
+}

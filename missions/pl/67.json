@@ -1,0 +1,16 @@
+{
+ "missionId": "67",
+ "missionName": "Bójka",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "version": "327076498106171289272279368896960352057",
+ "credits": "700"
+}

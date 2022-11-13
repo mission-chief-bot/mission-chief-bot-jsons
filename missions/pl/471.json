@@ -1,0 +1,28 @@
+{
+ "missionId": "471",
+ "missionName": "Wybuch w fabryce fajerwerków",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "15"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "5"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  }
+ ],
+ "version": "247217897882187959855442119100769952070",
+ "credits": "14500"
+}

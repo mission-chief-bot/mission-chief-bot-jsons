@@ -1,0 +1,12 @@
+{
+ "missionId": "481",
+ "missionName": "Gorączka wywołana oparzeniem",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "298682469635386201764547809718942175689",
+ "credits": "200"
+}

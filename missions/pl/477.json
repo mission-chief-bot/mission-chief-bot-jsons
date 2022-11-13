@@ -1,0 +1,20 @@
+{
+ "missionId": "477",
+ "missionName": "Pożar na kempingu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "4"
+  }
+ ],
+ "version": "318819660717279126835102433740805465307",
+ "credits": "5200"
+}

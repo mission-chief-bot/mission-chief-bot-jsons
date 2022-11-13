@@ -1,0 +1,16 @@
+{
+ "missionId": "116",
+ "missionName": "Czujka czadu w budynku mieszkalnym",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "42701368231036169794496832571340877276",
+ "credits": "1100"
+}
