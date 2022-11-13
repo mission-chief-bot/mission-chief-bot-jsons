@@ -1,0 +1,12 @@
+{
+ "missionId": "338",
+ "missionName": "Pogryzienie przez psa",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "146187389012913741614515088989661320026",
+ "credits": "850"
+}

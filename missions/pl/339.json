@@ -1,0 +1,12 @@
+{
+ "missionId": "339",
+ "missionName": "Krwotok wewnętrzny",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "126248320801781537231031856271869294883",
+ "credits": "900"
+}

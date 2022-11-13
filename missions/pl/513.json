@@ -1,0 +1,12 @@
+{
+ "missionId": "513",
+ "missionName": "Ognisko bez nadzoru",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "254847404154511813163662834547920684816",
+ "credits": "700"
+}
