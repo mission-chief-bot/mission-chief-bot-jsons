@@ -1,0 +1,12 @@
+{
+ "missionId": "345",
+ "missionName": "Zaburzenie poruszania",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "91337110407498028485548041476743191695",
+ "credits": "700"
+}

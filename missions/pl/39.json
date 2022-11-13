@@ -1,0 +1,12 @@
+{
+ "missionId": "39",
+ "missionName": "Gorączka",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "110993149698680732476045699900061733661",
+ "credits": "100"
+}

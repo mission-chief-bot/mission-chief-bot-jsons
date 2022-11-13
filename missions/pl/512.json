@@ -1,0 +1,12 @@
+{
+ "missionId": "512",
+ "missionName": "Drzewo powalone na linie energetyczną",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "185031851919308124794637423463488250657",
+ "credits": "800"
+}

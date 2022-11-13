@@ -1,0 +1,24 @@
+{
+ "missionId": "275",
+ "missionName": "Pożar tartaku",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  }
+ ],
+ "version": "326070999457606517024968608546765831528",
+ "credits": "1900"
+}

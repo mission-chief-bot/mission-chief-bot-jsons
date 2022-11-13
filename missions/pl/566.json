@@ -1,0 +1,16 @@
+{
+ "missionId": "566",
+ "missionName": "Pomiar prędkości",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "4"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "version": "155060209792252529353283848499003949799",
+ "credits": "3500"
+}

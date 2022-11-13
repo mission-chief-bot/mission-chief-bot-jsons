@@ -1,0 +1,12 @@
+{
+ "missionId": "579",
+ "missionName": "Nietrzeźwa osoba leżąca na ławce",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "249166128931778120119386187489275627164",
+ "credits": "700"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "86",
+ "missionName": "Pożar samochodu ciężarowego z naczepą",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  }
+ ],
+ "version": "335852134312220730435902721341320828326",
+ "credits": "900"
+}

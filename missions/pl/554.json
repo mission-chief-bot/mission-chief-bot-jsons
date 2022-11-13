@@ -1,0 +1,28 @@
+{
+ "missionId": "554",
+ "missionName": "Średnie zamieszki",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "50x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "5"
+  },
+  {
+   "requirement": "armatki wodne",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel",
+   "qty": "25x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "13880306387539548371290508042776657071",
+ "credits": "9700"
+}

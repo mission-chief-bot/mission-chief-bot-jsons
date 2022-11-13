@@ -1,0 +1,24 @@
+{
+ "missionId": "104",
+ "missionName": "Wypadek dwóch samochodów - Zderzenie boczne",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "5"
+  }
+ ],
+ "version": "305896174815105867878662461691380588313",
+ "credits": "3500"
+}

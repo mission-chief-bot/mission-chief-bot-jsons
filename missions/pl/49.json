@@ -1,0 +1,12 @@
+{
+ "missionId": "49",
+ "missionName": "Kradzież kieszonkowa",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "234366909148867367923602603275711532823",
+ "credits": "150"
+}

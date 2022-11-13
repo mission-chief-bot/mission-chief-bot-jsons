@@ -1,0 +1,12 @@
+{
+ "missionId": "580",
+ "missionName": "Ujęty sprawca kradzieży",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "204865912226678335403426430497173924388",
+ "credits": "900"
+}

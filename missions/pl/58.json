@@ -1,0 +1,12 @@
+{
+ "missionId": "58",
+ "missionName": "Pożar kuchni",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "122949180641311937055000087524525696889",
+ "credits": "1000"
+}

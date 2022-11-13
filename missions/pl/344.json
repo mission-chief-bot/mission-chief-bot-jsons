@@ -1,0 +1,12 @@
+{
+ "missionId": "344",
+ "missionName": "Zaburzenie świadomości",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "158278225736657215062738109254706984152",
+ "credits": "680"
+}

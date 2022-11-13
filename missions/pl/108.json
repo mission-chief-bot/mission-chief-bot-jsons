@@ -1,0 +1,12 @@
+{
+ "missionId": "108",
+ "missionName": "Nagłe zatrzymanie krążenia",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "90856159484267672489090674718329702740",
+ "credits": "100"
+}

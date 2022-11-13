@@ -1,0 +1,12 @@
+{
+ "missionId": "568",
+ "missionName": "Pożar poszycia leśnego",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "261617418133274406495237870556192737756",
+ "credits": "900"
+}
