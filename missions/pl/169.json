@@ -1,0 +1,20 @@
+{
+ "missionId": "169",
+ "missionName": "Ulatniający się gaz",
+ "requirements": [
+  {
+   "requirement": "samochody spgaz",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  }
+ ],
+ "version": "81337185267746866112428202836581165216",
+ "credits": "2200"
+}

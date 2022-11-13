@@ -1,0 +1,12 @@
+{
+ "missionId": "428",
+ "missionName": "Hipoglikemia",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "43723804289090364673608914635671842563",
+ "credits": "1050"
+}

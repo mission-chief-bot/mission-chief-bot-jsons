@@ -1,0 +1,12 @@
+{
+ "missionId": "390",
+ "missionName": "Wypadek podczas pracy",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "208283600796808299137804940969518180352",
+ "credits": "1500"
+}

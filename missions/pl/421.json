@@ -1,0 +1,40 @@
+{
+ "missionId": "421",
+ "missionName": "Alarm Bombowy w Hotelu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "9"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulanse",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "6"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "4"
+  }
+ ],
+ "version": "270101092726025557730224006730961061391",
+ "credits": "11000"
+}

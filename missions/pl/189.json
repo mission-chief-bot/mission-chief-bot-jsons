@@ -1,0 +1,24 @@
+{
+ "missionId": "189",
+ "missionName": "Zderzenie wozu strażackiego z samochodem osobowym",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "4"
+  }
+ ],
+ "version": "102388408416307684953371887138182268165",
+ "credits": "2500"
+}

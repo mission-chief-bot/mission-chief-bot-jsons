@@ -1,0 +1,12 @@
+{
+ "missionId": "372",
+ "missionName": "Wstrząs mózgu",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "206401975297939045107001489256520883821",
+ "credits": "100"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "388",
+ "missionName": "Utknięcie w windzie",
+ "requirements": [
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  }
+ ],
+ "version": "90467857803286366803480734024837002230",
+ "credits": "1200"
+}

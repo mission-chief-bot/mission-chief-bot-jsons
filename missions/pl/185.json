@@ -1,0 +1,24 @@
+{
+ "missionId": "185",
+ "missionName": "Poszukiwania zaginionej osoby",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "8163426881149094004858550722430445785",
+ "credits": "2000"
+}

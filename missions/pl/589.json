@@ -1,0 +1,16 @@
+{
+ "missionId": "589",
+ "missionName": "Kontrola trzeźwości",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "4"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "version": "281088286026935085789375196637942001200",
+ "credits": "3500"
+}

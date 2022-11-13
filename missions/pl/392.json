@@ -1,0 +1,36 @@
+{
+ "missionId": "392",
+ "missionName": "Zawalenie mostu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "12"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "5"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "4"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "8"
+  }
+ ],
+ "version": "195212172366496805258436860450836695302",
+ "credits": "10500"
+}

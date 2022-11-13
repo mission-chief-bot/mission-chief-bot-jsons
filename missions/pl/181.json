@@ -1,0 +1,12 @@
+{
+ "missionId": "181",
+ "missionName": "Pożar transformatora",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "322034152854311933890888302759407603654",
+ "credits": "1500"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "414",
+ "missionName": "Zalana klatka schodowa w bloku",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "1"
+  }
+ ],
+ "version": "308114181486893837132064877755302771330",
+ "credits": "1800"
+}

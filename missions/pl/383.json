@@ -1,0 +1,20 @@
+{
+ "missionId": "383",
+ "missionName": "Głuchy telefon",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "199626897858015996620470826600880074457",
+ "credits": "2500"
+}

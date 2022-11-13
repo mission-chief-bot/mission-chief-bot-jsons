@@ -1,0 +1,12 @@
+{
+ "missionId": "424",
+ "missionName": "Połknięcie rtęci",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "294565060656976397074376554937047977506",
+ "credits": "888"
+}

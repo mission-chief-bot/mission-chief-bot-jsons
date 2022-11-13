@@ -1,0 +1,20 @@
+{
+ "missionId": "417",
+ "missionName": "Zalana szkoła",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "1"
+  }
+ ],
+ "version": "85125776989713658085760235008038376368",
+ "credits": "2400"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "581",
+ "missionName": "Nielegalna plantacja narkotyków (mała)",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  }
+ ],
+ "version": "135647784364776349145988474833337275031",
+ "credits": "3800"
+}

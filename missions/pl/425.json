@@ -1,0 +1,20 @@
+{
+ "missionId": "425",
+ "missionName": "Samopodpalenie",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "37761409086033575176517449599703098141",
+ "credits": "1200"
+}

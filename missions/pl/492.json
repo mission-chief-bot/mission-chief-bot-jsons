@@ -1,0 +1,20 @@
+{
+ "missionId": "492",
+ "missionName": "Pożar na dworcu kolejowym",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "7"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  }
+ ],
+ "version": "207863621057350422450144935186746162268",
+ "credits": "4500"
+}

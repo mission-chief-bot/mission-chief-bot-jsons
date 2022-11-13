@@ -1,0 +1,16 @@
+{
+ "missionId": "146",
+ "missionName": "Ranny funkcjonariusz",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "6"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "57157630713950226709611221009209714818",
+ "credits": "1500"
+}

@@ -1,0 +1,44 @@
+{
+ "missionId": "585/a",
+ "missionName": "Zabezpieczenie procesu sądowego",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "60x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "8"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "specjalistyczny sprzęt opp (pickup)",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "2"
+  },
+  {
+   "requirement": "personel",
+   "qty": "38x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "4"
+  }
+ ],
+ "version": "294614593203420005056962293801673441941",
+ "credits": "8440"
+}

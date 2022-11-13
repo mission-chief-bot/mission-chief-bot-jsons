@@ -1,0 +1,16 @@
+{
+ "missionId": "412",
+ "missionName": "Zalana mała ulica",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "1"
+  }
+ ],
+ "version": "1498990226339068221415929928567037113",
+ "credits": "1400"
+}

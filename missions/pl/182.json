@@ -1,0 +1,32 @@
+{
+ "missionId": "182",
+ "missionName": "Rozległy pożar wysypiska śmieci",
+ "requirements": [
+  {
+   "requirement": "samochody wężowe",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "17"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "1"
+  }
+ ],
+ "version": "65850853267137013500107473616245324444",
+ "credits": "10300"
+}

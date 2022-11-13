@@ -1,0 +1,28 @@
+{
+ "missionId": "562",
+ "missionName": "Planowane zgromadzenie (duże)",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "50x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "specjalistyczny sprzęt opp (pickup)",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel",
+   "qty": "26x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "153443376112695056540779967649105742355",
+ "credits": "8000"
+}

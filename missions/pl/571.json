@@ -1,0 +1,76 @@
+{
+ "missionId": "571",
+ "missionName": "Średnie ekstremistyczne zamieszki",
+ "requirements": [
+  {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "2"
+  },
+  {
+   "requirement": "rozbudowy o stanowisko dowodzenia",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "180x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "22"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  },
+  {
+   "requirement": "specjalistyczny sprzęt opp (pickup)",
+   "qty": "2"
+  },
+  {
+   "requirement": "ruchome stanowisko dowodzenia",
+   "qty": "1"
+  },
+  {
+   "requirement": "armatki wodne",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulanse opp",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "8"
+  },
+  {
+   "requirement": "personel",
+   "qty": "145x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "version": "148661111304529526744603532109151133654",
+ "credits": "17100"
+}

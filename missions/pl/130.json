@@ -1,0 +1,12 @@
+{
+ "missionId": "130",
+ "missionName": "Zatrzymanie akcji serca",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "129567103020192651722691194545924037554",
+ "credits": "100"
+}

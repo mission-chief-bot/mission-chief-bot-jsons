@@ -1,0 +1,20 @@
+{
+ "missionId": "148",
+ "missionName": "Mały niebezpieczny protest",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "version": "101990190175588225026327780157472633843",
+ "credits": "2200"
+}

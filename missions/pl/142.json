@@ -1,0 +1,20 @@
+{
+ "missionId": "142",
+ "missionName": "Ucieczka więźnia",
+ "requirements": [
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "10"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  }
+ ],
+ "version": "57655232558411828902365977692853715079",
+ "credits": "4000"
+}

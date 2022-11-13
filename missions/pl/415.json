@@ -1,0 +1,12 @@
+{
+ "missionId": "415",
+ "missionName": "Zalana droga dojazdowa służb ratunkowych",
+ "requirements": [
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "1"
+  }
+ ],
+ "version": "74594293191023369005559893732924400248",
+ "credits": "1600"
+}

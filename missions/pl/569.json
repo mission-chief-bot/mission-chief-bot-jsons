@@ -1,0 +1,32 @@
+{
+ "missionId": "569",
+ "missionName": "Duży pożar lasu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "28"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "5"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody wężowe",
+   "qty": "1"
+  }
+ ],
+ "version": "56288511868360224408910719084110467360",
+ "credits": "15500"
+}

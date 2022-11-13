@@ -1,0 +1,12 @@
+{
+ "missionId": "373",
+ "missionName": "Wizyta lekarza u pacjenta",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "32267590439193415944987279957252522038",
+ "credits": "100"
+}

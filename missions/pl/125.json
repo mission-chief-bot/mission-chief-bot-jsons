@@ -1,0 +1,36 @@
+{
+ "missionId": "125",
+ "missionName": "Pożar chlewni",
+ "requirements": [
+  {
+   "requirement": "samochody wężowe",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "6"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "48767332602195438644542588139488569868",
+ "credits": "6800"
+}

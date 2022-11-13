@@ -1,0 +1,12 @@
+{
+ "missionId": "171",
+ "missionName": "Zatrzymanie obywatelskie (próba ucieczki sprawcy wypadku)",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  }
+ ],
+ "version": "155240142144373914910517161007033684017",
+ "credits": "2000"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "175",
+ "missionName": "Zalany dom",
+ "requirements": [
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "170498128787321926264490765734783313262",
+ "credits": "1200"
+}

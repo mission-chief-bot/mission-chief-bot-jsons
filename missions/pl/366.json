@@ -1,0 +1,12 @@
+{
+ "missionId": "366",
+ "missionName": "Zatrzymanie oddechu",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "332966227132280633548825060599491649509",
+ "credits": "100"
+}

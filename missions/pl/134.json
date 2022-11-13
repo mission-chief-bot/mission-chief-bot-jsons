@@ -1,0 +1,12 @@
+{
+ "missionId": "134",
+ "missionName": "Zwierzę uwięzione w studni",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "84741537060893797594390738537681070403",
+ "credits": "500"
+}

@@ -1,0 +1,20 @@
+{
+ "missionId": "418",
+ "missionName": "Zalana galeria handlowa",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "2"
+  }
+ ],
+ "version": "270630182304865771724175238429753540410",
+ "credits": "3200"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "126",
+ "missionName": "Zadławienie",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "142813242452091416387233416734135403668",
+ "credits": "100"
+}

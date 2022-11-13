@@ -1,0 +1,12 @@
+{
+ "missionId": "588",
+ "missionName": "Pożar pozostałości roślinnych",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  }
+ ],
+ "version": "144146824129367089323771316064488511560",
+ "credits": "2900"
+}

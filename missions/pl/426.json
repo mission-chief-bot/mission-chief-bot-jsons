@@ -1,0 +1,24 @@
+{
+ "missionId": "426",
+ "missionName": "Przerwanie wału przeciwpowodziowego",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "6"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "2"
+  }
+ ],
+ "version": "55553148510898956083266994930039720760",
+ "credits": "10050"
+}

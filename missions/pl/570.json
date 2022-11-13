@@ -1,0 +1,48 @@
+{
+ "missionId": "570",
+ "missionName": "Małe ekstremistyczne zamieszki",
+ "requirements": [
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "120x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "12"
+  },
+  {
+   "requirement": "specjalistyczny sprzęt opp (pickup)",
+   "qty": "1"
+  },
+  {
+   "requirement": "armatki wodne",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulanse opp",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "4"
+  },
+  {
+   "requirement": "personel",
+   "qty": "80x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "version": "12745964215832283985593194202024421935",
+ "credits": "10900"
+}

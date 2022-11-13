@@ -1,0 +1,16 @@
+{
+ "missionId": "143",
+ "missionName": "Uciekający podejrzany",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "5"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  }
+ ],
+ "version": "39482462517612453980532882787762378998",
+ "credits": "3000"
+}

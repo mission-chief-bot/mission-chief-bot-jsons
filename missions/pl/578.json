@@ -1,0 +1,24 @@
+{
+ "missionId": "578",
+ "missionName": "Wodowanie awionetki",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "łodzie",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "170768305723328184698260372515614566228",
+ "credits": "9000"
+}

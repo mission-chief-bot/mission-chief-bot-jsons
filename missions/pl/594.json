@@ -1,0 +1,24 @@
+{
+ "missionId": "594",
+ "missionName": "Rozległa plama oleju",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "14"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  }
+ ],
+ "version": "329556830894906886582527241536423227681",
+ "credits": "8350"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "147",
+ "missionName": "Przeszukanie pojazdu",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  }
+ ],
+ "version": "295954785319567025897199749542527689940",
+ "credits": "1000"
+}

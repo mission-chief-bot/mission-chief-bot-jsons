@@ -1,0 +1,24 @@
+{
+ "missionId": "378",
+ "missionName": "Wypadek podczas pościgu policyjnego",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "version": "148825679959293989063613690740201315653",
+ "credits": "5000"
+}

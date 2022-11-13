@@ -1,0 +1,56 @@
+{
+ "missionId": "423/a",
+ "missionName": "Pożar na stacji benzynowej",
+ "requirements": [
+  {
+   "requirement": "rozbudowy dla pojazdów proszkowych",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody wężowe",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "12"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "4"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "5"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "2"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "3"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "5"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ze zbiornikiem na piane",
+   "qty": "2"
+  }
+ ],
+ "version": "166114223095497696951902125619315806849",
+ "credits": "18900"
+}

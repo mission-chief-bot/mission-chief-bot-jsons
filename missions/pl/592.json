@@ -1,0 +1,16 @@
+{
+ "missionId": "592",
+ "missionName": "Zabezpieczenie próbnej ewakuacji szkoły",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  }
+ ],
+ "version": "126982957873615749618534393497118831066",
+ "credits": "4100"
+}

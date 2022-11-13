@@ -1,0 +1,12 @@
+{
+ "missionId": "511",
+ "missionName": "Drzewo powalone na chodnik",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "313016562565444939981087635265951125867",
+ "credits": "700"
+}

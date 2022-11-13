@@ -1,0 +1,12 @@
+{
+ "missionId": "138",
+ "missionName": "Uwięziony pies w rzece",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "136095579117540616268453296760082550547",
+ "credits": "1200"
+}

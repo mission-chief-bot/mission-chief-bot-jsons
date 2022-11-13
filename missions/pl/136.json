@@ -1,0 +1,24 @@
+{
+ "missionId": "136",
+ "missionName": "Pożar Stodoły",
+ "requirements": [
+  {
+   "requirement": "samochody wężowe",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "9"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  }
+ ],
+ "version": "90069400100823231858799250350351865680",
+ "credits": "3800"
+}

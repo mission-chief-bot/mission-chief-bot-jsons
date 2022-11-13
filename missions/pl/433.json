@@ -1,0 +1,12 @@
+{
+ "missionId": "433",
+ "missionName": "Podszywanie się pod policjanta",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  }
+ ],
+ "version": "168065662418019381087295593996888046102",
+ "credits": "1000"
+}

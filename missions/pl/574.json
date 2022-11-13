@@ -1,0 +1,32 @@
+{
+ "missionId": "574",
+ "missionName": "Nielegalne składowisko odpadów chemicznych",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "6"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "4"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "4"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "1"
+  }
+ ],
+ "version": "290939220520236743209726813364565741410",
+ "credits": "9600"
+}

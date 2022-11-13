@@ -1,0 +1,12 @@
+{
+ "missionId": "396",
+ "missionName": "Napad na kontrolera biletów",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  }
+ ],
+ "version": "288742667531425796110600640866478773186",
+ "credits": "1300"
+}

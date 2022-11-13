@@ -1,0 +1,36 @@
+{
+ "missionId": "148/a",
+ "missionName": "Mały niebezpieczny protest",
+ "requirements": [
+  {
+   "requirement": "posiadany personel",
+   "qty": "60x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "8"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "armatki wodne",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  },
+  {
+   "requirement": "personel",
+   "qty": "42x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "217071188256379534894203127177422677688",
+ "credits": "9600"
+}

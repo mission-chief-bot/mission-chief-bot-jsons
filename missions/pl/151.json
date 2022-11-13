@@ -1,0 +1,20 @@
+{
+ "missionId": "151",
+ "missionName": "Napad na stację benzynową",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "12"
+  }
+ ],
+ "version": "267946550663289955095656716661964630048",
+ "credits": "1250"
+}

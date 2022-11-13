@@ -1,0 +1,12 @@
+{
+ "missionId": "172",
+ "missionName": "Podejrzana osoba pod szkołą",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "258868315541827605752922479679269092653",
+ "credits": "1000"
+}

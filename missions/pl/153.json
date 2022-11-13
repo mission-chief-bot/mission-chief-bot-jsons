@@ -1,0 +1,24 @@
+{
+ "missionId": "153",
+ "missionName": "Przemówienie VIPa",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "6"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "2"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "18"
+  }
+ ],
+ "version": "236643612741761415286749081174635762863",
+ "credits": "4000"
+}

@@ -1,0 +1,24 @@
+{
+ "missionId": "587",
+ "missionName": "Aktywny strzelec",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "8"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "2"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "20"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "14"
+  }
+ ],
+ "version": "170933324303773712460829409813032046394",
+ "credits": "21300"
+}

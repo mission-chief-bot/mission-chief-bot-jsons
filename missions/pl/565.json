@@ -1,0 +1,92 @@
+{
+ "missionId": "565",
+ "missionName": "Rozległe zamieszki",
+ "requirements": [
+  {
+   "requirement": "stacje helikopterów policji",
+   "qty": "2"
+  },
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "2"
+  },
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "4"
+  },
+  {
+   "requirement": "rozbudowy o stanowisko dowodzenia",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "250x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "6"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "40"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "8"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulanse",
+   "qty": "5"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "3"
+  },
+  {
+   "requirement": "specjalistyczny sprzęt opp (pickup)",
+   "qty": "3"
+  },
+  {
+   "requirement": "ruchome stanowisko dowodzenia",
+   "qty": "1"
+  },
+  {
+   "requirement": "armatki wodne",
+   "qty": "4"
+  },
+  {
+   "requirement": "ambulanse opp",
+   "qty": "3"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "24"
+  },
+  {
+   "requirement": "personel",
+   "qty": "200x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "18"
+  }
+ ],
+ "version": "310087421509539363117233196316126416595",
+ "credits": "48000"
+}

@@ -1,0 +1,44 @@
+{
+ "missionId": "564",
+ "missionName": "Zabezpieczenie przemówienia VIPa",
+ "requirements": [
+  {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "60x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "6"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "2"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulanse opp",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "18"
+  },
+  {
+   "requirement": "personel",
+   "qty": "28x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "329807712087743887711965906269293744745",
+ "credits": "6600"
+}

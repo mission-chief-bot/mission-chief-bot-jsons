@@ -1,0 +1,20 @@
+{
+ "missionId": "427",
+ "missionName": "Zalanie parkingu podziemnego",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "1"
+  }
+ ],
+ "version": "103664833441097104830705607024362887342",
+ "credits": "8300"
+}

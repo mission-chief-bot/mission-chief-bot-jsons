@@ -1,0 +1,16 @@
+{
+ "missionId": "145",
+ "missionName": "Oczekujący nakaz",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  }
+ ],
+ "version": "174198879899288554075566322727840173966",
+ "credits": "2000"
+}

@@ -1,0 +1,28 @@
+{
+ "missionId": "131",
+ "missionName": "Unieruchomiony Wspinacz",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "ratownictwo wyskościowe",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "184952446913537635804992861199862672513",
+ "credits": "650"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "374",
+ "missionName": "Podtopienie",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "247857851688427858509669170688754355353",
+ "credits": "890"
+}

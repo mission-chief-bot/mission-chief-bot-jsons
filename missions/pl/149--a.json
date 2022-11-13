@@ -1,0 +1,44 @@
+{
+ "missionId": "149/a",
+ "missionName": "Średni niebezpieczny protest",
+ "requirements": [
+  {
+   "requirement": "posiadany personel",
+   "qty": "75x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "10"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  },
+  {
+   "requirement": "armatki wodne",
+   "qty": "1"
+  },
+  {
+   "requirement": "specjalistyczny sprzęt opp (pickup)",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "5"
+  },
+  {
+   "requirement": "personel",
+   "qty": "64x Szkolenie Personalne OPP"
+  }
+ ],
+ "version": "7314242628422096850701275870550707856",
+ "credits": "15500"
+}

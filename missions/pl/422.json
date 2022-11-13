@@ -1,0 +1,28 @@
+{
+ "missionId": "422",
+ "missionName": "Czujka czadu w Magazynie",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody spgaz",
+   "qty": "1"
+  }
+ ],
+ "version": "253064386330477033790059237418679901116",
+ "credits": "8500"
+}

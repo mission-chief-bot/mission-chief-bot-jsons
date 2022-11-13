@@ -1,0 +1,12 @@
+{
+ "missionId": "593",
+ "missionName": "Kradzież leków",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "5"
+  }
+ ],
+ "version": "278434275498360658376949389896838864854",
+ "credits": "1500"
+}
