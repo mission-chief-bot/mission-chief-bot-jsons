@@ -1,0 +1,24 @@
+{
+ "missionId": "232",
+ "missionName": "Próba samobójcza - podcięcie żył",
+ "requirements": [
+  {
+   "requirement": "ambulanse",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "262981659617700184981518450001696516843",
+ "credits": "1900"
+}

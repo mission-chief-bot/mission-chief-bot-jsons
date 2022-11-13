@@ -1,0 +1,24 @@
+{
+ "missionId": "213",
+ "missionName": "Duży pożar pola",
+ "requirements": [
+  {
+   "requirement": "samochody wężowe",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "8"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  }
+ ],
+ "version": "233981362260875990496597955218595261996",
+ "credits": "4100"
+}
