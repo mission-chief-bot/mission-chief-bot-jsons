@@ -1,0 +1,16 @@
+{
+ "missionId": "262",
+ "missionName": "Jazda bez włączonych świateł",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "version": "223121560161064208222919052510961397074",
+ "credits": "500"
+}

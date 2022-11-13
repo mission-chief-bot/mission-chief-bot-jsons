@@ -1,0 +1,16 @@
+{
+ "missionId": "264",
+ "missionName": "Zaparkowanie pojazdu na chodniku",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "version": "181886172164919751872466972204965970838",
+ "credits": "500"
+}
