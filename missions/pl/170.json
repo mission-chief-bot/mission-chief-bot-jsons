@@ -1,0 +1,12 @@
+{
+ "missionId": "170",
+ "missionName": "Zatrzymanie obywatelskie (pijany kierowca)",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "252022974387423148820639604377141151032",
+ "credits": "1000"
+}

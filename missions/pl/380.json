@@ -1,0 +1,12 @@
+{
+ "missionId": "380",
+ "missionName": "Pożar w ogrodzie",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "54929025721316150660597767900782240064",
+ "credits": "1500"
+}

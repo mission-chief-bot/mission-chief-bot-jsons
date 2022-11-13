@@ -1,0 +1,12 @@
+{
+ "missionId": "416",
+ "missionName": "Zalany sklep spożywczy",
+ "requirements": [
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "1"
+  }
+ ],
+ "version": "114151848142735348250813359381667683071",
+ "credits": "1600"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "385",
+ "missionName": "Monitoring przeciwpożarowy (Magazyn)",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  }
+ ],
+ "version": "205761292993508351620280066688352723745",
+ "credits": "4500"
+}

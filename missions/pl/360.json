@@ -1,0 +1,12 @@
+{
+ "missionId": "360",
+ "missionName": "Pożar trocin po wycince drzew",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "48722230625473048650047441298287608709",
+ "credits": "2000"
+}

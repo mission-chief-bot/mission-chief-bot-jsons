@@ -1,0 +1,20 @@
+{
+ "missionId": "413",
+ "missionName": "Zalana duża ulica",
+ "requirements": [
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "1"
+  }
+ ],
+ "version": "152023450074299890748189365250656853856",
+ "credits": "2000"
+}

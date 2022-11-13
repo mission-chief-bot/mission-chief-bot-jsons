@@ -1,0 +1,16 @@
+{
+ "missionId": "140",
+ "missionName": "Zalana piwnica",
+ "requirements": [
+  {
+   "requirement": "sprzęt przeciwpowodziowy",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "141425415839057707813690960092227706441",
+ "credits": "1200"
+}

@@ -1,0 +1,28 @@
+{
+ "missionId": "149",
+ "missionName": "Średni niebezpieczny protest",
+ "requirements": [
+  {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "7"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "5"
+  }
+ ],
+ "version": "231858227458299392598627809142116949873",
+ "credits": "3000"
+}

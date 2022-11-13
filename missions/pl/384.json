@@ -1,0 +1,12 @@
+{
+ "missionId": "384",
+ "missionName": "Nadużycie numeru alarmowego",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "195226790983788489519669394462496565849",
+ "credits": "2500"
+}

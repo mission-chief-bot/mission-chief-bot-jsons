@@ -1,0 +1,16 @@
+{
+ "missionId": "128",
+ "missionName": "Pożar w stołówce",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "30846148133831042178792253024242116820",
+ "credits": "1300"
+}

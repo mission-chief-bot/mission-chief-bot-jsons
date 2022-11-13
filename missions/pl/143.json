@@ -1,0 +1,20 @@
+{
+ "missionId": "143",
+ "missionName": "Uciekający podejrzany",
+ "requirements": [
+  {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "5"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  }
+ ],
+ "version": "158674268359572292752269207416792100932",
+ "credits": "3000"
+}

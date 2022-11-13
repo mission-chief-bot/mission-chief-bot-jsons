@@ -1,0 +1,12 @@
+{
+ "missionId": "391",
+ "missionName": "Wypadek w ogrodzie",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "158811499132349754559601542366580395112",
+ "credits": "1000"
+}

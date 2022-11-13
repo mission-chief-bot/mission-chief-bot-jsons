@@ -1,0 +1,12 @@
+{
+ "missionId": "371",
+ "missionName": "Problemy z oddychaniem",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "99775162794215478961254622426128145607",
+ "credits": "100"
+}
