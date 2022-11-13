@@ -1,0 +1,12 @@
+{
+ "missionId": "48",
+ "missionName": "Kradzież metalu",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "312522023717069736121788171609677277714",
+ "credits": "150"
+}

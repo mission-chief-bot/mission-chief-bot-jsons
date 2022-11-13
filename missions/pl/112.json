@@ -1,0 +1,12 @@
+{
+ "missionId": "112",
+ "missionName": "Uraz głowy wymagający pilnej interwencji neurochirurgicznej",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "133879465180325576175356700768595394456",
+ "credits": "100"
+}

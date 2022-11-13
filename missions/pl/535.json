@@ -1,0 +1,12 @@
+{
+ "missionId": "535",
+ "missionName": "Pożar trzciny",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "93494425950921985800528461550619555826",
+ "credits": "1400"
+}

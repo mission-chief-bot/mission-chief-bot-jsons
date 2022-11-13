@@ -1,0 +1,12 @@
+{
+ "missionId": "111",
+ "missionName": "Amputacja urazowa kończyny",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "147339633249470260937892348905737361471",
+ "credits": "100"
+}

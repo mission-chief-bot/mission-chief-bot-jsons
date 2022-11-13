@@ -1,0 +1,16 @@
+{
+ "missionId": "500",
+ "missionName": "Drzewo powalone na dom",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  }
+ ],
+ "version": "239639611528968938450900392271541682565",
+ "credits": "950"
+}

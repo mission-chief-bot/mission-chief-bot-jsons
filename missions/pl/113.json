@@ -1,0 +1,12 @@
+{
+ "missionId": "113",
+ "missionName": "Oparzenie IIº i IIIº przekraczające 20% powierzchni ciała",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "308829747387603707045832946358469926664",
+ "credits": "100"
+}

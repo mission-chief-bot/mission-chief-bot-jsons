@@ -1,0 +1,16 @@
+{
+ "missionId": "230",
+ "missionName": "Nieprzytomna osoba na przystanku autobusowym",
+ "requirements": [
+  {
+   "requirement": "ambulanse",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "308324384662798756824268169815533732679",
+ "credits": "1500"
+}

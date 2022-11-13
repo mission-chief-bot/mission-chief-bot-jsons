@@ -1,0 +1,20 @@
+{
+ "missionId": "87",
+ "missionName": "Wypadek traktora",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "194047341203176299404024964828251409261",
+ "credits": "1700"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "267",
+ "missionName": "Pojazd Blokujący Wjazd na Posesję",
+ "requirements": [
+  {
+   "requirement": "wydziały ruchu drogowego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy wrd",
+   "qty": "1"
+  }
+ ],
+ "version": "202474819268861813015222154191944768377",
+ "credits": "600"
+}

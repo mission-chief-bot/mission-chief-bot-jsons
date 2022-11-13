@@ -1,0 +1,28 @@
+{
+ "missionId": "246",
+ "missionName": "Pożar domu jednorodzinnego",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "6"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "64176771381633730447531463227222273966",
+ "credits": "3200"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "272",
+ "missionName": "Spożywanie alkoholu w miejscu publicznym",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "182643152992848843345917753111862017206",
+ "credits": "600"
+}

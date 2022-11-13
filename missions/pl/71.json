@@ -1,0 +1,12 @@
+{
+ "missionId": "71",
+ "missionName": "Krwawienie z nosa",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "324931327840271295017446857218704703926",
+ "credits": "100"
+}

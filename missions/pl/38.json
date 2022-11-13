@@ -1,0 +1,12 @@
+{
+ "missionId": "38",
+ "missionName": "Napad padaczkowy",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "331402950395298355693715533837707552294",
+ "credits": "100"
+}
