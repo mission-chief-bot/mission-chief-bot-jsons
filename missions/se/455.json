@@ -1,0 +1,12 @@
+{
+ "missionId": "455",
+ "missionName": "Synkope återfanns",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "320540602272700873793613413996375556968",
+ "credits": "750"
+}
