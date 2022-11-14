@@ -1,0 +1,20 @@
+{
+ "missionId": "525",
+ "missionName": "Drowning in swimming pool",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "operational team leaders",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "164211329207780643797512176167524695890",
+ "credits": "1500"
+}
