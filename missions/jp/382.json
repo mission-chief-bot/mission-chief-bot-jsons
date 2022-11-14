@@ -1,0 +1,12 @@
+{
+ "missionId": "382",
+ "missionName": "シンコープの回復",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "version": "78451761657669158941753615305119490308",
+ "credits": "750"
+}
