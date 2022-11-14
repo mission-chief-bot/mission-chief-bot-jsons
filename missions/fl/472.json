@@ -1,0 +1,20 @@
+{
+ "missionId": "472",
+ "missionName": "601 Poltettu ravintola",
+ "requirements": [
+  {
+   "requirement": "rikostutkintayksiköt",
+   "qty": "1"
+  },
+  {
+   "requirement": "tutkintayksiköt",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "version": "92599181601460778371133023820466583870",
+ "credits": "3000"
+}
