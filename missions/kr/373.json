@@ -1,0 +1,12 @@
+{
+ "missionId": "373",
+ "missionName": "실신 회복",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "version": "84089826710624621240170343940851741822",
+ "credits": "750"
+}
