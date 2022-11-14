@@ -3,10 +3,6 @@
  "missionName": "Campside - Gas Canister Explosion",
  "requirements": [
   {
-   "requirement": "foam extensions",
-   "qty": "1"
-  },
-  {
    "requirement": "firetrucks",
    "qty": "5"
   },
