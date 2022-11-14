@@ -1,0 +1,12 @@
+{
+ "missionId": "562",
+ "missionName": "Sincope recuperata",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "version": "319337506741034411160104246381446360208",
+ "credits": "750"
+}

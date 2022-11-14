@@ -1,0 +1,36 @@
+{
+ "missionId": "596/a",
+ "missionName": "Pożar w pociągu z produktami łatwopalnymi",
+ "requirements": [
+  {
+   "requirement": "rozbudowy dla pojazdów proszkowych",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "sp rchem",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  }
+ ],
+ "version": "312377097908829819023917529771231729183",
+ "credits": "6800"
+}
