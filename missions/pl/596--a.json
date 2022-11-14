@@ -3,10 +3,6 @@
  "missionName": "Pożar w pociągu z produktami łatwopalnymi",
  "requirements": [
   {
-   "requirement": "rozbudowy dla pojazdów proszkowych",
-   "qty": "1"
-  },
-  {
    "requirement": "samochody pożarnicze",
    "qty": "5"
   },
