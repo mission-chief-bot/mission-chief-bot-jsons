@@ -1,0 +1,12 @@
+{
+ "missionId": "467",
+ "missionName": "Synkope genoprettet",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "239547629298752608173162713720461246388",
+ "credits": "750"
+}

@@ -1,0 +1,20 @@
+{
+ "missionId": "423",
+ "missionName": "Limpieza de vías",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "1"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "version": "187581269013579747095763532037038375721",
+ "credits": "1000"
+}
