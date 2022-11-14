@@ -1,0 +1,20 @@
+{
+ "missionId": "990",
+ "missionName": "Oefening brandweerduikers",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "waterongevallenvoertuigen / oppervlaktereddingsteams",
+   "qty": "1"
+  },
+  {
+   "requirement": "bootaanhanger (woa of ba-rb)",
+   "qty": "1"
+  }
+ ],
+ "version": "50100882687749092233581233089413470152",
+ "credits": "3300"
+}
