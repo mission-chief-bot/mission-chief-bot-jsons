@@ -1,0 +1,12 @@
+{
+ "missionId": "452",
+ "missionName": "Synkope gjenopprettet",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "version": "228697875708759848052878950394835645888",
+ "credits": "750"
+}
