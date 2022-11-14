@@ -1,0 +1,24 @@
+{
+ "missionId": "443",
+ "missionName": "Incêndio em detritos confinados",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos tanque necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "version": "188521919757386938402060571743097575947",
+ "credits": "3750"
+}
