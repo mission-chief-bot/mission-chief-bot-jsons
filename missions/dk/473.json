@@ -3,7 +3,15 @@
  "missionName": "Kajakrose mangler",
  "requirements": [
   {
-   "requirement": "hangarer til helikoptere",
+   "requirement": "lille kystrednings båd",
+   "qty": "1"
+  },
+  {
+   "requirement": "stor kystrednings båd",
+   "qty": "2"
+  },
+  {
+   "requirement": "kystrednings helikopter",
    "qty": "1"
   },
   {
