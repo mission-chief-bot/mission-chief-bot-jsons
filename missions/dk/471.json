@@ -33,7 +33,11 @@
   {
    "requirement": "påkrævede politibiler",
    "qty": "10"
-  }
+  },
+  {
+   "requirement": "lille kystrednings båd",
+   "qty": "2"
+  },
  ],
  "version": "126179465404246731628753048013337429690",
  "credits": "19360"
