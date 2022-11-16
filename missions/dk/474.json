@@ -3,6 +3,10 @@
  "missionName": "Person, der er syg på skibet",
  "requirements": [
   {
+   "requirement": "lille kystrednings båd",
+   "qty": "1"
+  },
+  {
    "requirement": "maks. antal patienter",
    "qty": "1"
   }
