@@ -3,7 +3,11 @@
  "missionName": "Sejlbåd i problemer",
  "requirements": [
   {
-   "requirement": "hangarer til helikoptere",
+   "requirement": "lille kystrednings båd",
+   "qty": "1"
+  },
+  {
+   "requirement": "kystrednings helikopter",
    "qty": "1"
   },
   {
