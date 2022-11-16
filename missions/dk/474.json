@@ -1,0 +1,12 @@
+{
+ "missionId": "474",
+ "missionName": "Person, der er syg på skibet",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "316337523406187248386973358677617226180",
+ "credits": "1230"
+}

@@ -1,0 +1,20 @@
+{
+ "missionId": "473",
+ "missionName": "Kajakrose mangler",
+ "requirements": [
+  {
+   "requirement": "hangarer til helikoptere",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede overfladeredderbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "47055607252968138833621726387942323546",
+ "credits": "5880"
+}

@@ -1,0 +1,20 @@
+{
+ "missionId": "472",
+ "missionName": "Surfer savnes",
+ "requirements": [
+  {
+   "requirement": "hangarer til helikoptere",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede overfladeredderbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "34677107878959751655309943510854982339",
+ "credits": "4080"
+}

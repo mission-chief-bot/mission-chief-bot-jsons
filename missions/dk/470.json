@@ -1,0 +1,16 @@
+{
+ "missionId": "470",
+ "missionName": "Sejlbåd i problemer",
+ "requirements": [
+  {
+   "requirement": "hangarer til helikoptere",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "2"
+  }
+ ],
+ "version": "295212426733417146811541451444889884403",
+ "credits": "3080"
+}
