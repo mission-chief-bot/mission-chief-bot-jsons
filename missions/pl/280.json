@@ -1,0 +1,12 @@
+{
+ "missionId": "280",
+ "missionName": "Podczas pieczenia tortu rocznicowego zdarzył się wypadek",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "240363496331264221451597096295348946772",
+ "credits": "800"
+}

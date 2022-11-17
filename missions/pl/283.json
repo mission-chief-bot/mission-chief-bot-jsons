@@ -1,0 +1,16 @@
+{
+ "missionId": "283",
+ "missionName": "Pożar wywołany zwarciem elektrycznym rocznicowych instalacji (duży)",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  }
+ ],
+ "version": "314934914882411923934871653598533610668",
+ "credits": "3000"
+}

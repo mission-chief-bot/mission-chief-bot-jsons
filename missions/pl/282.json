@@ -1,0 +1,12 @@
+{
+ "missionId": "282",
+ "missionName": "Pożar wywołany zwarciem elektrycznym rocznicowych instalacji (mały)",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "80328083155936705416516962205056031795",
+ "credits": "1850"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "292",
+ "missionName": "Gość imprezy rocznicowej został trafiony korkiem od butelki",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "228968541142610659247475929330363816728",
+ "credits": "100"
+}

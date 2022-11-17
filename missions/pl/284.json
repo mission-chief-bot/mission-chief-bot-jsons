@@ -1,0 +1,12 @@
+{
+ "missionId": "284",
+ "missionName": "Ukradziono prezent rocznicowy",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "147684456764773421752421160992449454917",
+ "credits": "400"
+}

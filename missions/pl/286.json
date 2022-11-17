@@ -1,0 +1,12 @@
+{
+ "missionId": "286",
+ "missionName": "Brakuje gościa imprezy rocznicowej",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  }
+ ],
+ "version": "189647709602129897697796561419420467622",
+ "credits": "1200"
+}

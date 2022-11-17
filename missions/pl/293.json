@@ -1,0 +1,12 @@
+{
+ "missionId": "293",
+ "missionName": "Gość imprezy rocznicowej stracił przytomność",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "250173281112930542258718040035140971605",
+ "credits": "100"
+}

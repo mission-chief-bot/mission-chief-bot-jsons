@@ -1,0 +1,12 @@
+{
+ "missionId": "290",
+ "missionName": "Nacięcie skóry od otwierania prezentów rocznicowych",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "43133542730336788751041611740718274081",
+ "credits": "100"
+}

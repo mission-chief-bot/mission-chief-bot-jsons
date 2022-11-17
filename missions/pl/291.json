@@ -1,0 +1,12 @@
+{
+ "missionId": "291",
+ "missionName": "Gość imprezy rocznicowej odczuwa ból stawów po tańcach",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "5"
+  }
+ ],
+ "version": "243381832545049282343026124551145140233",
+ "credits": "100"
+}

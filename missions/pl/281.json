@@ -1,0 +1,16 @@
+{
+ "missionId": "281",
+ "missionName": "Balon rocznicowy gościa utknął na drzewie",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  }
+ ],
+ "version": "318123973832590456845655711876607391426",
+ "credits": "600"
+}

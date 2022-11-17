@@ -1,0 +1,12 @@
+{
+ "missionId": "289",
+ "missionName": "Gość zjadł zbyt dużo tortu rocznicowego",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "49369129236696602929412942127273708124",
+ "credits": "100"
+}

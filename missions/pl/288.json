@@ -1,0 +1,12 @@
+{
+ "missionId": "288",
+ "missionName": "Goście ukradli tort z imprezy rocznicowej",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "5"
+  }
+ ],
+ "version": "186670857588038150394881729168200208177",
+ "credits": "5000"
+}

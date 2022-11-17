@@ -1,0 +1,12 @@
+{
+ "missionId": "285",
+ "missionName": "Sabotaż rocznicowych szaf grających",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  }
+ ],
+ "version": "198693025670556323210352756427675935268",
+ "credits": "800"
+}

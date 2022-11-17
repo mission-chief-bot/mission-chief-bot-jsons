@@ -1,0 +1,12 @@
+{
+ "missionId": "287",
+ "missionName": "Goście ukradli ozdoby z imprezy rocznicowej",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  }
+ ],
+ "version": "151605750845578033917655929342943860922",
+ "credits": "3000"
+}
