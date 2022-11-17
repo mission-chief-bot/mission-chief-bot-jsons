@@ -1,0 +1,16 @@
+{
+ "missionId": "222",
+ "missionName": "Stor brand orsakad av elfel på jubileumsfirande",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  }
+ ],
+ "version": "268792385666453153743926031491820725680",
+ "credits": "3000"
+}

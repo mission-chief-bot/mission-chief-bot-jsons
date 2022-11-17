@@ -1,0 +1,12 @@
+{
+ "missionId": "226",
+ "missionName": "Jubileumsgäster stal dekoration",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  }
+ ],
+ "version": "137561683591077548254978823127590957486",
+ "credits": "3000"
+}

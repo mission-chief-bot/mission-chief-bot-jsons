@@ -1,0 +1,12 @@
+{
+ "missionId": "227",
+ "missionName": "Jubileumsgäster stal tårta",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "5"
+  }
+ ],
+ "version": "162025100297803640818627381195643160684",
+ "credits": "5000"
+}
