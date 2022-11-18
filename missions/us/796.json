@@ -1,0 +1,16 @@
+{
+ "missionId": "796",
+ "missionName": "Missing captain armband",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  }
+ ],
+ "version": "5497714277862086743548211463606727615",
+ "credits": "1200"
+}

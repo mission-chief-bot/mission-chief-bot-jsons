@@ -1,0 +1,12 @@
+{
+ "missionId": "792",
+ "missionName": "Goal fell down",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "version": "30896156222051637774441289102165688920",
+ "credits": "300"
+}

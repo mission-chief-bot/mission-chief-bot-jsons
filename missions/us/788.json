@@ -1,0 +1,12 @@
+{
+ "missionId": "788",
+ "missionName": "Inflate Soccer ball",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  }
+ ],
+ "version": "122974652136542291765744158294129712841",
+ "credits": "300"
+}

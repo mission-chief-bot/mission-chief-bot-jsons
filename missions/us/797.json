@@ -1,0 +1,12 @@
+{
+ "missionId": "797",
+ "missionName": "Burning corner flag",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "version": "195206371323633539354270457244732944279",
+ "credits": "450"
+}

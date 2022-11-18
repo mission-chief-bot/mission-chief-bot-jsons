@@ -1,0 +1,12 @@
+{
+ "missionId": "793",
+ "missionName": "Stolen trophy",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "version": "292612542707702593327009616817406007921",
+ "credits": "600"
+}
