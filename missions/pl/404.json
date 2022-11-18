@@ -1,0 +1,12 @@
+{
+ "missionId": "404",
+ "missionName": "Ból gardła po świętowaniu",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "version": "59437956788172816625830106655937754001",
+ "credits": "100"
+}

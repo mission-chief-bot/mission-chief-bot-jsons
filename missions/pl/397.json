@@ -1,0 +1,12 @@
+{
+ "missionId": "397",
+ "missionName": "Sflaczała piłka",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "327789334928970757589866030164934792114",
+ "credits": "300"
+}

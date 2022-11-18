@@ -1,0 +1,12 @@
+{
+ "missionId": "337",
+ "missionName": "Team bus parked in no stopping zone",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "version": "329905900941603697161602094305685299417",
+ "credits": "300"
+}

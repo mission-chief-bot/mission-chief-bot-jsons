@@ -1,0 +1,12 @@
+{
+ "missionId": "382",
+ "missionName": "얼음 스프레이로 인한 동상",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "version": "274313473393112494692717005906649772147",
+ "credits": "100"
+}

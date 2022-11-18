@@ -1,0 +1,16 @@
+{
+ "missionId": "405",
+ "missionName": "Zgubiona opaska kapitana",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "1"
+  }
+ ],
+ "version": "272523271482367668480081693693046624104",
+ "credits": "1200"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "406",
+ "missionName": "Płonąca chorągiewka w narożniku boiska",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "273388391945804490592802798757730771739",
+ "credits": "450"
+}

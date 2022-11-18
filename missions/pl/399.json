@@ -1,0 +1,12 @@
+{
+ "missionId": "399",
+ "missionName": "Fałszywa kontuzja",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "53110500300757933601924872726494242409",
+ "credits": "100"
+}

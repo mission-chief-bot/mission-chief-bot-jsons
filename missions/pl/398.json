@@ -1,0 +1,12 @@
+{
+ "missionId": "398",
+ "missionName": "Autobus zespołu stojący na zakazie",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "192151405487381438275737852811261002499",
+ "credits": "300"
+}

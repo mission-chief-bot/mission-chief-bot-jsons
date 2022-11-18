@@ -1,0 +1,12 @@
+{
+ "missionId": "400",
+ "missionName": "Kontuzja po uderzeniu w poprzeczkę",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "274337824416855578175035978673927841928",
+ "credits": "100"
+}

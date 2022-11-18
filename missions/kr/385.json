@@ -1,0 +1,12 @@
+{
+ "missionId": "385",
+ "missionName": "불타는 모퉁이 깃발",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  }
+ ],
+ "version": "324442793260006026480976915267854725928",
+ "credits": "450"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "377",
+ "missionName": "정차 금지 구역에 주차된 팀 버스",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "version": "207225537810826368531028692311935294660",
+ "credits": "300"
+}

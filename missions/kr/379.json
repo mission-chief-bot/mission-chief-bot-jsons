@@ -1,0 +1,12 @@
+{
+ "missionId": "379",
+ "missionName": "막대를 친 후 부상",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "version": "283831115550562942716578896296488344935",
+ "credits": "100"
+}

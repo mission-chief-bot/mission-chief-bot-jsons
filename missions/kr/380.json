@@ -1,0 +1,12 @@
+{
+ "missionId": "380",
+ "missionName": "골이 떨어졌다",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "version": "39039185822314911112977168458563897507",
+ "credits": "300"
+}

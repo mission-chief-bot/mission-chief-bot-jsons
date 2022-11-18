@@ -1,0 +1,12 @@
+{
+ "missionId": "384",
+ "missionName": "실종된 선장 완장",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "version": "178829068922382500532416764379866731591",
+ "credits": "1200"
+}

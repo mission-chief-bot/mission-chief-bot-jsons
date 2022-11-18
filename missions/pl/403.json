@@ -1,0 +1,12 @@
+{
+ "missionId": "403",
+ "missionName": "Odmrożenie od sprayu przeciwbólowego",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "27363663111424517865851326325364863492",
+ "credits": "100"
+}
