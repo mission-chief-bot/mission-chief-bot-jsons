@@ -1,0 +1,12 @@
+{
+ "missionId": "385",
+ "missionName": "かきゅう",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "version": "222812821257580907157302174734479249113",
+ "credits": "300"
+}

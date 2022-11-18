@@ -1,0 +1,12 @@
+{
+ "missionId": "514",
+ "missionName": "Goal fell down",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "version": "55527347006838577818972633206688451419",
+ "credits": "300"
+}

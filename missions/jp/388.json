@@ -1,0 +1,12 @@
+{
+ "missionId": "388",
+ "missionName": "当り屋",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "version": "116144396036996793735885202802005644309",
+ "credits": "100"
+}

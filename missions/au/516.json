@@ -1,0 +1,12 @@
+{
+ "missionId": "516",
+ "missionName": "Frostbite from ice spray",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "302937256714990697238052020760619704013",
+ "credits": "100"
+}

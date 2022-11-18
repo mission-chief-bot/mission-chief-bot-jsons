@@ -1,0 +1,12 @@
+{
+ "missionId": "391",
+ "missionName": "氷のしぶきによる凍傷",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "version": "14763614318824442241805735818469166196",
+ "credits": "100"
+}

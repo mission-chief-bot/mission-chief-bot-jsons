@@ -1,0 +1,12 @@
+{
+ "missionId": "394",
+ "missionName": "バーニングコーナーフラッグ",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  }
+ ],
+ "version": "338964149416291257528247052922002350786",
+ "credits": "450"
+}

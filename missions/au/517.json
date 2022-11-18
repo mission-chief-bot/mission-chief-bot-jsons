@@ -1,0 +1,12 @@
+{
+ "missionId": "517",
+ "missionName": "Sore throat after celebrating",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "version": "317232308526282354248616818954331714860",
+ "credits": "100"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "389",
+ "missionName": "こけらおとし",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "version": "228256763741783510753564463390770219980",
+ "credits": "300"
+}

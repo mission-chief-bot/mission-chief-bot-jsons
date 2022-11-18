@@ -1,0 +1,12 @@
+{
+ "missionId": "392",
+ "missionName": "祝杯後の喉の痛み",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "3"
+  }
+ ],
+ "version": "32973299805385693667596144491816247300",
+ "credits": "100"
+}

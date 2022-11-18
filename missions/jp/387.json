@@ -1,0 +1,12 @@
+{
+ "missionId": "387",
+ "missionName": "とびこみすがた",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "version": "206154136407034548445291860251573952177",
+ "credits": "100"
+}

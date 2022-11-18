@@ -1,0 +1,12 @@
+{
+ "missionId": "513",
+ "missionName": "Injury after hitting bar",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "224549102674382456584704292359371717586",
+ "credits": "100"
+}

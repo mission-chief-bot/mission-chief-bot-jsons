@@ -1,0 +1,12 @@
+{
+ "missionId": "386",
+ "missionName": "ノーストール・バス",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "version": "186752310374550849825376217610778772027",
+ "credits": "300"
+}

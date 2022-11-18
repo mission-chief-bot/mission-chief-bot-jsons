@@ -1,0 +1,12 @@
+{
+ "missionId": "512",
+ "missionName": "Treatment after diving",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "259470892791181354216408476046129897385",
+ "credits": "100"
+}

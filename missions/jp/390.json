@@ -1,0 +1,12 @@
+{
+ "missionId": "390",
+ "missionName": "てんのうはい",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "version": "150045487960609906978784934454033851621",
+ "credits": "600"
+}

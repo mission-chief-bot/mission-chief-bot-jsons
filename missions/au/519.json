@@ -1,0 +1,12 @@
+{
+ "missionId": "519",
+ "missionName": "Burning corner flag",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "version": "252994762874920619795611519808419101416",
+ "credits": "450"
+}

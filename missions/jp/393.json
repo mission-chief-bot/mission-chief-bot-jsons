@@ -1,0 +1,12 @@
+{
+ "missionId": "393",
+ "missionName": "キャプテン腕章の紛失",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "version": "136240388621263986566081922178076041254",
+ "credits": "1200"
+}
