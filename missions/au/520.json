@@ -1,0 +1,52 @@
+{
+ "missionId": "520",
+ "missionName": "Library Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "10"
+  },
+  {
+   "requirement": "ladder platform trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "basu",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "bulk water tankers",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "hazmat units",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "version": "1745343178389753830201008474467383667",
+ "credits": "8500"
+}
