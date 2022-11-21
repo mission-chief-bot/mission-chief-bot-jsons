@@ -3,10 +3,6 @@
  "missionName": "Assalto num centro comercial",
  "requirements": [
   {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "7"
-  },
-  {
    "requirement": "carros de patrulha necessários:",
    "qty": "5"
   },
