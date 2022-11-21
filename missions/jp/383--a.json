@@ -1,0 +1,40 @@
+{
+ "missionId": "383/a",
+ "missionName": "ガスボンベの爆発",
+ "requirements": [
+  {
+   "requirement": "消火サポート拡張",
+   "qty": "1"
+  },
+  {
+   "requirement": "消防車",
+   "qty": "5"
+  },
+  {
+   "requirement": "プラットフォームトラック",
+   "qty": "2"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  },
+  {
+   "requirement": "危険物取扱車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "化学消火車",
+   "qty": "1"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "25"
+  }
+ ],
+ "version": "38997649091486035377214615686640732485",
+ "credits": "10200"
+}
