@@ -1,0 +1,12 @@
+{
+ "missionId": "424",
+ "missionName": "Síncope recuperado",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "33338994014168007794765064565630059731",
+ "credits": "750"
+}

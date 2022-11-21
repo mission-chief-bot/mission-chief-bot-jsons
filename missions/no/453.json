@@ -1,0 +1,36 @@
+{
+ "missionId": "453",
+ "missionName": "Gassbeholdereksplosjon",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "5"
+  },
+  {
+   "requirement": "nødvendig stigebil",
+   "qty": "2"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "cbrne enheter",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "25"
+  }
+ ],
+ "version": "296239880424219372260735955086713840060",
+ "credits": "9800"
+}
