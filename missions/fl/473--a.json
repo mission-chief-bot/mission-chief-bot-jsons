@@ -1,0 +1,44 @@
+{
+ "missionId": "473/a",
+ "missionName": "443 Kaasusäiliön räjähdys",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "5"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "säiliöautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "kemikaalitorjunta-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "letkuajoneuvot",
+   "qty": "1"
+  },
+  {
+   "requirement": "suurtehopumput",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "12"
+  }
+ ],
+ "version": "6785023149484534176149045443900980115",
+ "credits": "10200"
+}
