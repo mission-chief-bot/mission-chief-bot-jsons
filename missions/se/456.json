@@ -1,0 +1,36 @@
+{
+ "missionId": "456",
+ "missionName": "Explosion av gasbehållare",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "5"
+  },
+  {
+   "requirement": "stegbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  },
+  {
+   "requirement": "kemskyddsenhet",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "25"
+  }
+ ],
+ "version": "261231650399999032231610478494667679425",
+ "credits": "9800"
+}

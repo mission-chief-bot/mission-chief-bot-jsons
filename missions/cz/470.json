@@ -1,0 +1,28 @@
+{
+ "missionId": "470",
+ "missionName": "Zasypaná osoba uvnitř sila",
+ "requirements": [
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "3"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "version": "300144486905314788901188716464234570403",
+ "credits": "3000"
+}

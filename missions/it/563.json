@@ -1,0 +1,16 @@
+{
+ "missionId": "563",
+ "missionName": "Sequestro Reti da Pesca Illegali",
+ "requirements": [
+  {
+   "requirement": "personnel available",
+   "qty": "6x Ufficiale di Polizia Marittima"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "2x Ufficiale di Polizia Marittima"
+  }
+ ],
+ "version": "267494636306135424630987752428244976603",
+ "credits": "1200"
+}
