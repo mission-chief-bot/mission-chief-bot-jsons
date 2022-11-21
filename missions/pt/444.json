@@ -1,0 +1,40 @@
+{
+ "missionId": "444",
+ "missionName": "Assalto num centro comercial",
+ "requirements": [
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "7"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "equipas de prevenção e reacção imediata necessárias:",
+   "qty": "3"
+  },
+  {
+   "requirement": "equipas operacionais cinotécnicas necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos do corpo/unidade de intervenção necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de operações especiais necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de posto de comando necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "10"
+  }
+ ],
+ "version": "62544675031128805018864530407335587036",
+ "credits": "12550"
+}
