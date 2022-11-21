@@ -1,0 +1,16 @@
+{
+ "missionId": "798",
+ "missionName": "Peaceful Demonstration (Small)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  }
+ ],
+ "version": "214846281337617274712175095693590010206",
+ "credits": "5000"
+}

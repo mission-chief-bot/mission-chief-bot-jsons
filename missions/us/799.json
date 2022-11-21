@@ -1,0 +1,16 @@
+{
+ "missionId": "799",
+ "missionName": "Peaceful Demonstration (Large)",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "15"
+  },
+  {
+   "requirement": "k-9 units",
+   "qty": "1"
+  }
+ ],
+ "version": "51833995943780418307597461498277597793",
+ "credits": "10000"
+}
