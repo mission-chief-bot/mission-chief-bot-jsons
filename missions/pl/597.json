@@ -1,0 +1,12 @@
+{
+ "missionId": "597",
+ "missionName": "Bójka w barze",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "22919519131398072052094880471298926502",
+ "credits": "800"
+}
