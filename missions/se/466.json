@@ -1,0 +1,12 @@
+{
+ "missionId": "466",
+ "missionName": "Sjötrafikkontroll",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "164636959146979282280349118143341751095",
+ "credits": "500"
+}

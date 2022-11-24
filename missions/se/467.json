@@ -1,0 +1,12 @@
+{
+ "missionId": "467",
+ "missionName": "Övervakning till sjöss",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "275440609959263106959878129177353128768",
+ "credits": "400"
+}

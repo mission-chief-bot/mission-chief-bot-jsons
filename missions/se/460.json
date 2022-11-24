@@ -1,0 +1,12 @@
+{
+ "missionId": "460",
+ "missionName": "Oljespill - liten",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "230363070976900696878713535890873219883",
+ "credits": "2500"
+}

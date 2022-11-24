@@ -1,0 +1,12 @@
+{
+ "missionId": "465",
+ "missionName": "Kontroll - Hummerfiske",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "30996774962863017355132778934891886358",
+ "credits": "600"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "463",
+ "missionName": "Grovt sjöfylleri - fartyg",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "2"
+  }
+ ],
+ "version": "108381683262390069975780368519465328915",
+ "credits": "750"
+}
