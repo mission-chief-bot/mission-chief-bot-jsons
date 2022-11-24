@@ -3,9 +3,13 @@
  "missionName": "Strandnära oljespill",
  "requirements": [
   {
-   "requirement": "ambulance",
-   "qty": 1
-  }
+    "requirement": "högfartsfartyg",
+    "qty": "2"
+   },
+   {
+    "requirement": "miljöfartyg",
+    "qty": "1"
+   }
  ],
  "version": "135287588416715143029705066464134600853",
  "credits": "700"

@@ -2,6 +2,14 @@
  "missionId": "463",
  "missionName": "Grovt sjöfylleri - fartyg",
  "requirements": [
+{
+     "requirement": "högfartsfartyg",
+     "qty": "1"
+   },
+   {
+      "requirement": "övervakningsfartyg",
+      "qty": "1"
+    },
   {
    "requirement": "mest patienter",
    "qty": "2"

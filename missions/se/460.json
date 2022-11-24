@@ -3,9 +3,25 @@
  "missionName": "Oljespill - liten",
  "requirements": [
   {
-   "requirement": "ambulance",
-   "qty": 1
-  }
+   "requirement": "högfartsfartyg",
+   "qty": "1"
+  },
+  {
+    "requirement": "övervakningsfartyg",
+    "qty": "1"
+   },
+   {
+    "requirement": "miljöfartyg",
+    "qty": "1"
+   },
+   {
+    "requirement": "pråm",
+    "qty": "1"
+   },
+   {
+    "requirement": "svävare",
+    "qty": "1"
+   }
  ],
  "version": "230363070976900696878713535890873219883",
  "credits": "2500"

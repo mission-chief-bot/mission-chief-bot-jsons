@@ -3,12 +3,8 @@
  "missionName": "Kontroll",
  "requirements": [
   {
-   "requirement": "personnel available",
-   "qty": "5x Livräddare"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "2x Livräddare"
+   "requirement": "högfartsfartyg",
+   "qty": "1"
   }
  ],
  "version": "23514175587245102757036635951791914716",

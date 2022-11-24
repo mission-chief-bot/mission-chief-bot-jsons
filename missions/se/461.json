@@ -3,9 +3,25 @@
  "missionName": "Oljespill - stor",
  "requirements": [
   {
-   "requirement": "ambulance",
-   "qty": 1
-  }
+    "requirement": "högfartsfartyg",
+    "qty": "4"
+   },
+   {
+     "requirement": "övervakningsfartyg",
+     "qty": "3"
+    },
+    {
+     "requirement": "miljöfartyg",
+     "qty": "2"
+    },
+    {
+     "requirement": "pråm",
+     "qty": "2"
+    },
+    {
+     "requirement": "svävare",
+     "qty": "1"
+    }
  ],
  "version": "84238390431557995022822548424852108315",
  "credits": "4500"

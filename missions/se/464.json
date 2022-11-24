@@ -2,10 +2,14 @@
  "missionId": "464",
  "missionName": "Nödbogsering - fartyg",
  "requirements": [
-  {
-   "requirement": "ambulance",
-   "qty": 1
-  }
+    {
+        "requirement": "miljöfartyg",
+        "qty": "1"
+       },
+       {
+        "requirement": "svävare",
+        "qty": "1"
+       }
  ],
  "version": "254124292147381439302538361342185000061",
  "credits": "1050"

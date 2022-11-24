@@ -3,8 +3,8 @@
  "missionName": "Övervakning till sjöss",
  "requirements": [
   {
-   "requirement": "ambulance",
-   "qty": 1
+   "requirement": "övervakningsfartyg",
+   "qty": "1"
   }
  ],
  "version": "275440609959263106959878129177353128768",

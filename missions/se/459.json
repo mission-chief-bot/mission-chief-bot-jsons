@@ -3,8 +3,8 @@
  "missionName": "Sjöfylleri",
  "requirements": [
   {
-   "requirement": "ambulance",
-   "qty": 1
+   "requirement": "högfartsfartyg",
+   "qty": "1"
   }
  ],
  "version": "271595080954417636584795599971977554914",
