@@ -1,0 +1,36 @@
+{
+ "missionId": "521",
+ "missionName": "Silage Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "9"
+  },
+  {
+   "requirement": "ladder platform trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "basu",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "bulk water tankers",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "version": "53550175395162413458782976810110858208",
+ "credits": "11000"
+}
