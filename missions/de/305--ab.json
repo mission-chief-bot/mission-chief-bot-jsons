@@ -3,14 +3,6 @@
  "missionName": "Fußball Bundesliga-Risikospiel",
  "requirements": [
   {
-   "requirement": "polizei-motorradstaffeln",
-   "qty": "2"
-  },
-  {
-   "requirement": "bereitschaftspolizei-ausbauten              züge der 1. hundertschaft              sonderfahrzeug: gefangenenkraftwagen              technische züge: wasserwerfer",
-   "qty": "12              3              1"
-  },
-  {
    "requirement": "dhufükw",
    "qty": "2"
   },
