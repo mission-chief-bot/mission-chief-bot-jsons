@@ -1,0 +1,12 @@
+{
+ "missionId": "469",
+ "missionName": "Brand i omstillingsbord",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  }
+ ],
+ "version": "114777741522172153339041039172208269506",
+ "credits": "500"
+}

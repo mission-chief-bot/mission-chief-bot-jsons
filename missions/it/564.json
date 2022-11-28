@@ -1,0 +1,12 @@
+{
+ "missionId": "564",
+ "missionName": "Delfino Spiaggiato",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "298896172243920966224275927133789755629",
+ "credits": "1200"
+}

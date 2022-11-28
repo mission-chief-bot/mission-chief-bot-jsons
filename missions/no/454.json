@@ -1,0 +1,12 @@
+{
+ "missionId": "454",
+ "missionName": "Sentralbord brann",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  }
+ ],
+ "version": "255372172033101393869391246677887513614",
+ "credits": "500"
+}

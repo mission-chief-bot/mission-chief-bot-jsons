@@ -1,0 +1,32 @@
+{
+ "missionId": "501",
+ "missionName": "Amerrissage petit avion",
+ "requirements": [
+  {
+   "requirement": "hangar pour hélicoptère",
+   "qty": "1"
+  },
+  {
+   "requirement": "compagnies de gendarmerie maritime es",
+   "qty": "1"
+  },
+  {
+   "requirement": "canot tous temps",
+   "qty": "5"
+  },
+  {
+   "requirement": "dragon",
+   "qty": "3"
+  },
+  {
+   "requirement": "vedette côtière de surveillance maritime e",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "version": "16226676715892477458438641822726694809",
+ "credits": "6000"
+}

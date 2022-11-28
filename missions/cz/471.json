@@ -1,0 +1,28 @@
+{
+ "missionId": "471",
+ "missionName": "Výbuch metanu v dole",
+ "requirements": [
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "5"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "3"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "8"
+  }
+ ],
+ "version": "315334650353059092188870310051361102707",
+ "credits": "7000"
+}

@@ -1,0 +1,32 @@
+{
+ "missionId": "502",
+ "missionName": "Amerrissage d'un avion de ligne",
+ "requirements": [
+  {
+   "requirement": "compagnies de gendarmerie maritime es",
+   "qty": "2"
+  },
+  {
+   "requirement": "hangar pour hélicoptère",
+   "qty": "1"
+  },
+  {
+   "requirement": "canot tous temps",
+   "qty": "7"
+  },
+  {
+   "requirement": "dragon",
+   "qty": "5"
+  },
+  {
+   "requirement": "vedette côtière de surveillance maritime e",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "15"
+  }
+ ],
+ "version": "128623675033301101523801302013545544237",
+ "credits": "8000"
+}

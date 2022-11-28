@@ -1,0 +1,16 @@
+{
+ "missionId": "598",
+ "missionName": "Wypadek na strzelnicy",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "86191743474612944339650869309313854373",
+ "credits": "500"
+}
