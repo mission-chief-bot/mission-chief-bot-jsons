@@ -1,0 +1,12 @@
+{
+ "missionId": "384",
+ "missionName": "配電盤火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  }
+ ],
+ "version": "168338162691214342175099842758695197202",
+ "credits": "500"
+}
