@@ -3,10 +3,6 @@
  "missionName": "Factory Fire (Major Incident) (Persons Reported)",
  "requirements": [
   {
-   "requirement": "foam extensions",
-   "qty": "1"
-  },
-  {
    "requirement": "fire engines",
    "qty": "14"
   },
