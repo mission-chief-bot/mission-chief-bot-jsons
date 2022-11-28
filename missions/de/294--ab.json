@@ -3,14 +3,6 @@
  "missionName": "Fußball Bundesliga-Risikospiel",
  "requirements": [
   {
-   "requirement": "polizei-motorradstaffeln",
-   "qty": "2"
-  },
-  {
-   "requirement": "bereitschaftspolizei-ausbauten              züge der 1. hundertschaft              sonderfahrzeug: gefangenenkraftwagen",
-   "qty": "12              3"
-  },
-  {
    "requirement": "grukw",
    "qty": "27"
   },
