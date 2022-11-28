@@ -3,14 +3,6 @@
  "missionName": "Gijzeling",
  "requirements": [
   {
-   "requirement": "hondenbrigade uitbreidingen",
-   "qty": "1"
-  },
-  {
-   "requirement": "arrestatieteam uitbreidingen",
-   "qty": "1"
-  },
-  {
    "requirement": "noodhulpeenheden",
    "qty": "10"
   },
