@@ -3,14 +3,6 @@
  "missionName": "Amerrissage d'un avion de ligne",
  "requirements": [
   {
-   "requirement": "compagnies de gendarmerie maritime es",
-   "qty": "2"
-  },
-  {
-   "requirement": "hangar pour hélicoptère",
-   "qty": "1"
-  },
-  {
    "requirement": "canot tous temps",
    "qty": "7"
   },
