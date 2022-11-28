@@ -1,0 +1,44 @@
+{
+ "missionId": "227/ab",
+ "missionName": "Angemeldete Demonstration",
+ "requirements": [
+  {
+   "requirement": "polizei-motorradstaffeln",
+   "qty": "1"
+  },
+  {
+   "requirement": "bereitschaftspolizei-ausbauten              züge der 1. hundertschaft",
+   "qty": "3"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "5"
+  },
+  {
+   "requirement": "grukw",
+   "qty": "6"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "2"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "polizeimotorräder",
+   "qty": "2"
+  }
+ ],
+ "version": "197655353320439016230837169793299005466",
+ "credits": "5970"
+}

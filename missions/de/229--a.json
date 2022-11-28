@@ -1,0 +1,24 @@
+{
+ "missionId": "229/a",
+ "missionName": "Absicherung Radrennen",
+ "requirements": [
+  {
+   "requirement": "polizei-motorradstaffeln",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "2"
+  },
+  {
+   "requirement": "polizeimotorräder",
+   "qty": "2"
+  }
+ ],
+ "version": "206252893993163727806845893581943833766",
+ "credits": "4570"
+}
