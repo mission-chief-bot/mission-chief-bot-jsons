@@ -3,14 +3,6 @@
  "missionName": "Angemeldete Demonstration - Gefahrenpotential",
  "requirements": [
   {
-   "requirement": "polizei-motorradstaffeln",
-   "qty": "2"
-  },
-  {
-   "requirement": "bereitschaftspolizei-ausbauten              züge der 1. hundertschaft              technische züge: wasserwerfer",
-   "qty": "3              1"
-  },
-  {
    "requirement": "rtw",
    "qty": "3"
   },
