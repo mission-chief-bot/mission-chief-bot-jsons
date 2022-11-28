@@ -3,10 +3,6 @@
  "missionName": "Assalto numa paragem de autocarro",
  "requirements": [
   {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "3"
-  },
-  {
    "requirement": "carros de patrulha necessários:",
    "qty": "3"
   },
