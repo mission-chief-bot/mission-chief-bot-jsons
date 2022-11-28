@@ -1,0 +1,56 @@
+{
+ "missionId": "992",
+ "missionName": "Gijzeling",
+ "requirements": [
+  {
+   "requirement": "hondenbrigade uitbreidingen",
+   "qty": "1"
+  },
+  {
+   "requirement": "arrestatieteam uitbreidingen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "10"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "3"
+  },
+  {
+   "requirement": "db-av",
+   "qty": "1"
+  },
+  {
+   "requirement": "me flexbussen",
+   "qty": "2"
+  },
+  {
+   "requirement": "aanhoudingseenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "at operators",
+   "qty": "4"
+  },
+  {
+   "requirement": "at commandanten",
+   "qty": "1"
+  },
+  {
+   "requirement": "at materiaalwagens",
+   "qty": "1"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "version": "304203231814038543405797732652916595502",
+ "credits": "9930"
+}

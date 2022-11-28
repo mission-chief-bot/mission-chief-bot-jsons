@@ -1,0 +1,12 @@
+{
+ "missionId": "993",
+ "missionName": "Straat afzetten voor politie",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "version": "308788565129803836242144841939460315591",
+ "credits": "840"
+}
