@@ -1,0 +1,32 @@
+{
+ "missionId": "425",
+ "missionName": "Explosión de una bombona de gas",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "5"
+  },
+  {
+   "requirement": "camiones con plataforma",
+   "qty": "2"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones cisterna",
+   "qty": "2"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "3"
+  },
+  {
+   "requirement": "vehículos de materiales peligrosos",
+   "qty": "2"
+  }
+ ],
+ "version": "184559239276656062498718040253757011585",
+ "credits": "9800"
+}

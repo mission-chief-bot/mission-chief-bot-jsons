@@ -1,0 +1,12 @@
+{
+ "missionId": "457",
+ "missionName": "Brand i växeln",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "1"
+  }
+ ],
+ "version": "208642478553391386521651434450846319154",
+ "credits": "500"
+}
