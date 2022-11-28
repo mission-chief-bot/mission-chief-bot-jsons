@@ -1,0 +1,52 @@
+{
+ "missionId": "803/a",
+ "missionName": "Conflagration (Major)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "20"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "10"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "6"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "6"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "6"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "14"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "50"
+  }
+ ],
+ "version": "128599941228037852680391022267979605030",
+ "credits": "21200"
+}

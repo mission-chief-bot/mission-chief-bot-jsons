@@ -1,0 +1,28 @@
+{
+ "missionId": "800",
+ "missionName": "Conflagration (Small)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "5"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  }
+ ],
+ "version": "61477587872445808444426835722659122649",
+ "credits": "3000"
+}

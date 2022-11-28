@@ -1,0 +1,48 @@
+{
+ "missionId": "802",
+ "missionName": "Conflagration (Large)",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "10"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "4"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "mobile air vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "10"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "20"
+  }
+ ],
+ "version": "232705990206982711088265414127939724243",
+ "credits": "13000"
+}
