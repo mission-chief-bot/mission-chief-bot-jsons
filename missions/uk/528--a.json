@@ -1,0 +1,76 @@
+{
+ "missionId": "528/a",
+ "missionName": "Factory Fire (Major Incident) (Persons Reported)",
+ "requirements": [
+  {
+   "requirement": "foam extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "14"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "8"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "hazmat units or cbrn vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "iccu or ambulance control units",
+   "qty": "1"
+  },
+  {
+   "requirement": "breathing apparatus support units",
+   "qty": "1"
+  },
+  {
+   "requirement": "operational team leaders",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  },
+  {
+   "requirement": "prvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "srvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "welfare vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "foam units",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "20"
+  }
+ ],
+ "version": "183925134628019413163003267550843440021",
+ "credits": "35650"
+}

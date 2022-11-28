@@ -1,0 +1,56 @@
+{
+ "missionId": "527",
+ "missionName": "Factory Fire (Major Incident)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "12"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "8"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "rescue support vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "6"
+  },
+  {
+   "requirement": "hazmat units or cbrn vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "iccu or ambulance control units",
+   "qty": "1"
+  },
+  {
+   "requirement": "breathing apparatus support units",
+   "qty": "1"
+  },
+  {
+   "requirement": "operational team leaders",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "5"
+  }
+ ],
+ "version": "230937560755389464591242109961012191968",
+ "credits": "25000"
+}
