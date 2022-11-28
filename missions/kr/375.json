@@ -1,0 +1,12 @@
+{
+ "missionId": "375",
+ "missionName": "배전반 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  }
+ ],
+ "version": "280185894179967028541331815310668572127",
+ "credits": "500"
+}
