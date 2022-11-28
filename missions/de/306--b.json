@@ -3,14 +3,6 @@
  "missionName": "Absicherung Rockkonzert - Gefahrenpotential",
  "requirements": [
   {
-   "requirement": "polizei-motorradstaffeln",
-   "qty": "2"
-  },
-  {
-   "requirement": "bereitschaftspolizei-ausbauten              züge der 1. hundertschaft              technische züge: wasserwerfer",
-   "qty": "4              1"
-  },
-  {
    "requirement": "streifenwagen",
    "qty": "16"
   },
