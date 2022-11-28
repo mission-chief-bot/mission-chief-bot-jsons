@@ -1,0 +1,48 @@
+{
+ "missionId": "275/ab",
+ "missionName": "Absicherung Rockkonzert",
+ "requirements": [
+  {
+   "requirement": "polizei-motorradstaffeln",
+   "qty": "2"
+  },
+  {
+   "requirement": "bereitschaftspolizei-ausbauten              züge der 1. hundertschaft",
+   "qty": "5"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "8"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "3"
+  },
+  {
+   "requirement": "grukw",
+   "qty": "9"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "4"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "polizeimotorräder",
+   "qty": "4"
+  }
+ ],
+ "version": "305931973082298170445184348205194080061",
+ "credits": "8540"
+}

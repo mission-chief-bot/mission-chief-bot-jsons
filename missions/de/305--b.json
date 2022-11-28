@@ -1,0 +1,56 @@
+{
+ "missionId": "305/b",
+ "missionName": "Fußball Bundesliga-Risikospiel",
+ "requirements": [
+  {
+   "requirement": "polizei-motorradstaffeln",
+   "qty": "2"
+  },
+  {
+   "requirement": "bereitschaftspolizei-ausbauten              züge der 1. hundertschaft              sonderfahrzeug: gefangenenkraftwagen              technische züge: wasserwerfer",
+   "qty": "12              3              1"
+  },
+  {
+   "requirement": "dhufükw",
+   "qty": "2"
+  },
+  {
+   "requirement": "grukw",
+   "qty": "27"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "10"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "3"
+  },
+  {
+   "requirement": "gefkw",
+   "qty": "2"
+  },
+  {
+   "requirement": "wasserwerfer",
+   "qty": "3"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "4"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "11"
+  },
+  {
+   "requirement": "polizeimotorräder",
+   "qty": "4"
+  }
+ ],
+ "version": "152041303231979349441536537825005077255",
+ "credits": "14140"
+}

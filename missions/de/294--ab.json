@@ -1,0 +1,56 @@
+{
+ "missionId": "294/ab",
+ "missionName": "Fußball Bundesliga-Risikospiel",
+ "requirements": [
+  {
+   "requirement": "polizei-motorradstaffeln",
+   "qty": "2"
+  },
+  {
+   "requirement": "bereitschaftspolizei-ausbauten              züge der 1. hundertschaft              sonderfahrzeug: gefangenenkraftwagen",
+   "qty": "12              3"
+  },
+  {
+   "requirement": "grukw",
+   "qty": "27"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "9"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "3"
+  },
+  {
+   "requirement": "gefkw",
+   "qty": "2"
+  },
+  {
+   "requirement": "dhufükw",
+   "qty": "2"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "4"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "9"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "polizeimotorräder",
+   "qty": "4"
+  }
+ ],
+ "version": "22869508637264249883951524094200828476",
+ "credits": "13540"
+}

@@ -1,0 +1,52 @@
+{
+ "missionId": "304/b",
+ "missionName": "Angemeldete Demonstration - Gefahrenpotential",
+ "requirements": [
+  {
+   "requirement": "polizei-motorradstaffeln",
+   "qty": "2"
+  },
+  {
+   "requirement": "bereitschaftspolizei-ausbauten              züge der 1. hundertschaft              technische züge: wasserwerfer",
+   "qty": "3              1"
+  },
+  {
+   "requirement": "rtw",
+   "qty": "3"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "10"
+  },
+  {
+   "requirement": "grukw",
+   "qty": "6"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "3"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "wasserwerfer",
+   "qty": "3"
+  },
+  {
+   "requirement": "dhufükw",
+   "qty": "2"
+  },
+  {
+   "requirement": "polizeimotorräder",
+   "qty": "4"
+  }
+ ],
+ "version": "137730059599092842059590101987697675278",
+ "credits": "7640"
+}
