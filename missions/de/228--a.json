@@ -3,10 +3,6 @@
  "missionName": "Absicherung Musikumzug",
  "requirements": [
   {
-   "requirement": "polizei-motorradstaffeln",
-   "qty": "1"
-  },
-  {
    "requirement": "streifenwagen",
    "qty": "4"
   },
