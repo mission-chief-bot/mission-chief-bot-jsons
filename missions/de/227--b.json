@@ -3,14 +3,6 @@
  "missionName": "Angemeldete Demonstration",
  "requirements": [
   {
-   "requirement": "polizei-motorradstaffeln",
-   "qty": "1"
-  },
-  {
-   "requirement": "bereitschaftspolizei-ausbauten              züge der 1. hundertschaft",
-   "qty": "3"
-  },
-  {
    "requirement": "rtw",
    "qty": "1"
   },
