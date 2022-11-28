@@ -3,10 +3,6 @@
  "missionName": "Výbuch metanu v dole",
  "requirements": [
   {
-   "requirement": "výjezdové stanoviště zzs",
-   "qty": "5"
-  },
-  {
    "requirement": "cisternové automobilové stříkačky",
    "qty": "3"
   },
