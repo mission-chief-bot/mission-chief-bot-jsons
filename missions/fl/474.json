@@ -1,0 +1,12 @@
+{
+ "missionId": "474",
+ "missionName": "401 Kytkinhuoneessa savunhajua",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "version": "338922193966462152417617290132157505516",
+ "credits": "500"
+}
