@@ -1,0 +1,16 @@
+{
+ "missionId": "487",
+ "missionName": "223 Ahdinkoon joutunut jahti joutui hirmumyrskyn kouriin",
+ "requirements": [
+  {
+   "requirement": "lentokonehangaarit",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "4"
+  }
+ ],
+ "version": "193940849007103196858796525161195448768",
+ "credits": "5000"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "475",
+ "missionName": "221 Kaatunut pieni alus",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "2"
+  }
+ ],
+ "version": "106316931745903953473698294064875497283",
+ "credits": "8000"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "485",
+ "missionName": "223 Useat valaanpyyntialukset harjoittavat laitonta toimintaa",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "295995285605359570085859336964575175524",
+ "credits": "10000"
+}

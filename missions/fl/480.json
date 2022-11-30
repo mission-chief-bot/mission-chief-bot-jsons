@@ -1,0 +1,12 @@
+{
+ "missionId": "480",
+ "missionName": "610 Salakuljetus veneellä",
+ "requirements": [
+  {
+   "requirement": "lentokonehangaarit",
+   "qty": "1"
+  }
+ ],
+ "version": "94182276524277873131641167972167343476",
+ "credits": "4000"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "477",
+ "missionName": "68 Rajatarkastus",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "180911196966054641966417747395997688468",
+ "credits": "1000"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "483",
+ "missionName": "480 Panttivankien pelastaminen rahtilaivalla",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "8"
+  }
+ ],
+ "version": "71975144272396316474024239583366212089",
+ "credits": "8500"
+}

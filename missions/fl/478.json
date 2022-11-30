@@ -1,0 +1,12 @@
+{
+ "missionId": "478",
+ "missionName": "481 Kadonnut alus",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "5"
+  }
+ ],
+ "version": "177822826641540377057892205076792753188",
+ "credits": "7000"
+}

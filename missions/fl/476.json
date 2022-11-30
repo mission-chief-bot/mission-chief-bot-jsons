@@ -1,0 +1,12 @@
+{
+ "missionId": "476",
+ "missionName": "222 Kaatunut suuri alus",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "5"
+  }
+ ],
+ "version": "224807847206566638946211471639553222564",
+ "credits": "14000"
+}
