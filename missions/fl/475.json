@@ -5,6 +5,14 @@
   {
    "requirement": "potilaita enint.",
    "qty": "2"
+  },
+  {
+    "requirement": "rvl partiovene",
+    "qty": "1"
+  },
+  {
+    "requirement": "h215s",
+    "qty": "1"
   }
  ],
  "version": "106316931745903953473698294064875497283",

@@ -3,12 +3,20 @@
  "missionName": "223 Ahdinkoon joutunut jahti joutui hirmumyrskyn kouriin",
  "requirements": [
   {
-   "requirement": "lentokonehangaarit",
-   "qty": "1"
-  },
-  {
    "requirement": "potilaita enint.",
    "qty": "4"
+  },
+  {
+    "requirement": "do228",
+    "qty": "1"
+  },
+  {
+    "requirement": "h215s",
+    "qty": "1"
+  },
+  {
+    "requirement": "rvl rannikkovartiovene",
+    "qty": "1"
   }
  ],
  "version": "193940849007103196858796525161195448768",

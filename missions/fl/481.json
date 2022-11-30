@@ -3,8 +3,16 @@
  "missionName": "391 Laskuvarjohyppyonnettomuus",
  "requirements": [
   {
-   "requirement": "potilaita enint.",
-   "qty": "4"
+   "requirement": "rvl partioauto",
+   "qty": "2"
+  },
+  {
+    "requirement": "rvl partiovene",
+    "qty": "1"
+  },
+  {
+    "requirement": "h215s",
+    "qty": "1"
   }
  ],
  "version": "234457877086223521280950795013951251703",

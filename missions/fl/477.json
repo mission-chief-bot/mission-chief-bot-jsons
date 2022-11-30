@@ -3,7 +3,7 @@
  "missionName": "68 Rajatarkastus",
  "requirements": [
   {
-   "requirement": "ambulance",
+   "requirement": "rvl partioauto",
    "qty": 1
   }
  ],

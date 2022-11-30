@@ -3,8 +3,8 @@
  "missionName": "68 Rajavalvonta",
  "requirements": [
   {
-   "requirement": "ambulance",
-   "qty": 1
+   "requirement": "rvl partioauto",
+   "qty": 2
   }
  ],
  "version": "261069385623206664789602531331625120147",

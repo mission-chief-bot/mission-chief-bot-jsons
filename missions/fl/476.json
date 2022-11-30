@@ -5,6 +5,18 @@
   {
    "requirement": "potilaita enint.",
    "qty": "5"
+  },
+  {
+    "requirement": "rvl partiovene",
+    "qty": "4"
+  },
+  {
+    "requirement": "h215s",
+    "qty": "2"
+  },
+  {
+    "requirement": "rvl rannikkovartiovene",
+    "qty": "1"
   }
  ],
  "version": "224807847206566638946211471639553222564",

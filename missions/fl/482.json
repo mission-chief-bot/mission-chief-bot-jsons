@@ -2,10 +2,14 @@
  "missionId": "482",
  "missionName": "481 Syvän veden etsintä ja pelastus",
  "requirements": [
-  {
-   "requirement": "potilaita enint.",
-   "qty": "3"
-  }
+    {
+        "requirement": "rvl partiovene",
+        "qty": "4"
+      },
+      {
+        "requirement": "h215s",
+        "qty": "2"
+      }
  ],
  "version": "183234382680244474731063716630502681228",
  "credits": "4000"

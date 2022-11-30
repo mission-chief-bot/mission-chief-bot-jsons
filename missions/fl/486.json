@@ -5,6 +5,14 @@
   {
    "requirement": "potilaita enint.",
    "qty": "4"
+  },
+  {
+    "requirement": "h215s",
+    "qty": "1"
+  },
+  {
+    "requirement": "rvl rannikkovartiovene",
+    "qty": "2"
   }
  ],
  "version": "78482180094099913130631739496131588306",

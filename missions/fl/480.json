@@ -3,8 +3,16 @@
  "missionName": "610 Salakuljetus veneellä",
  "requirements": [
   {
-   "requirement": "lentokonehangaarit",
+   "requirement": "do228",
    "qty": "1"
+  },
+  {
+    "requirement": "h215s",
+    "qty": "2"
+  },
+  {
+    "requirement": "rvl rannikkovartiovene",
+    "qty": "2"
   }
  ],
  "version": "94182276524277873131641167972167343476",
