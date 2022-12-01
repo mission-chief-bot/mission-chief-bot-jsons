@@ -1,0 +1,16 @@
+{
+ "missionId": "173",
+ "missionName": "Joulumarkkinakojun palo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "version": "84282944091142105939067735748818286252",
+ "credits": "610"
+}

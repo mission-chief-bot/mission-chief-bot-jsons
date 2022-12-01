@@ -1,0 +1,16 @@
+{
+ "missionId": "155",
+ "missionName": "クリスマスマーケットのけんか",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "2"
+  }
+ ],
+ "version": "246883958073134478013290029377765801999",
+ "credits": "600"
+}

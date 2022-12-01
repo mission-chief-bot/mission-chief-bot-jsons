@@ -1,0 +1,12 @@
+{
+ "missionId": "174",
+ "missionName": "Joulukuusipalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "version": "79498835638849763049449948132632723456",
+ "credits": "870"
+}

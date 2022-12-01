@@ -1,0 +1,20 @@
+{
+ "missionId": "177",
+ "missionName": "Liikenneonnettomuus – jää",
+ "requirements": [
+  {
+   "requirement": "raskaat pelastusautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "3"
+  }
+ ],
+ "version": "61621246653177063538848548736609766894",
+ "credits": "1410"
+}

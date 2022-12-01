@@ -1,0 +1,16 @@
+{
+ "missionId": "175",
+ "missionName": "Tulipalo joulumarkkinoilla",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "version": "262388790332240961509873220685786280212",
+ "credits": "310"
+}

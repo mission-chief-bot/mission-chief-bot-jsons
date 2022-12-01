@@ -1,0 +1,12 @@
+{
+ "missionId": "176",
+ "missionName": "Varkaus joulumarkkinoilla",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "version": "229273678126418547150793872983309914747",
+ "credits": "300"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "178",
+ "missionName": "Humalainen henkilö joulumarkkinoilla",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "version": "47679496123280242547805477627191292729",
+ "credits": "100"
+}

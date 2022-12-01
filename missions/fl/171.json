@@ -1,0 +1,16 @@
+{
+ "missionId": "171",
+ "missionName": "Tappelu joulumarkkinoilla",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "2"
+  }
+ ],
+ "version": "170700855673768100209669102650862744349",
+ "credits": "600"
+}

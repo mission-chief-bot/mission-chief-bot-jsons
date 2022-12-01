@@ -1,0 +1,12 @@
+{
+ "missionId": "172",
+ "missionName": "Jouluseppelepalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "version": "262859147245144532319031437780376279998",
+ "credits": "800"
+}
