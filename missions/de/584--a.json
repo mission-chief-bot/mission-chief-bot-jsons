@@ -35,8 +35,16 @@
    "qty": "1"
   },
   {
-   "requirement": "maximale patientenanzahl",
+   "requirement": "rtw",
    "qty": "70"
+  },
+{
+   "requirement": "lna",
+   "qty": "1"
+  },
+{
+   "requirement": "orgl",
+   "qty": "1"
   }
  ],
  "version": "139308786438584010199585517636862537506",
