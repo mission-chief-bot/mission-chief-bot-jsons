@@ -1,0 +1,12 @@
+{
+ "missionId": "76",
+ "missionName": "Kradzież na jarmarku bożonarodzeniowym",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "167476950962013328024382227531143190628",
+ "credits": "300"
+}

@@ -1,0 +1,20 @@
+{
+ "missionId": "78/a",
+ "missionName": "Pożar na jarmarku bożonarodzeniowym",
+ "requirements": [
+  {
+   "requirement": "rozbudowy dla pojazdów proszkowych",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "121502765386996166012253287637361004789",
+ "credits": "460"
+}

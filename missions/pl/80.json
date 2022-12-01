@@ -1,0 +1,12 @@
+{
+ "missionId": "80",
+ "missionName": "Płonąca choinka",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "209999987415374886257014113461213362003",
+ "credits": "870"
+}

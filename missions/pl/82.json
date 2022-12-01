@@ -1,0 +1,16 @@
+{
+ "missionId": "82",
+ "missionName": "Bójka na jarmarku bożonarodzeniowym",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "242442378555698462129569303184382331211",
+ "credits": "600"
+}

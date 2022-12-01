@@ -1,0 +1,16 @@
+{
+ "missionId": "81",
+ "missionName": "Rixe au marché de Noël",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "3"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "version": "322313865533847264819234806273439090189",
+ "credits": "700"
+}

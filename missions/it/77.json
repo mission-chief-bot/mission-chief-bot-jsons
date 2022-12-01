@@ -1,0 +1,16 @@
+{
+ "missionId": "77",
+ "missionName": "Fuoco al mercatino di Natale",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "version": "200068051055802906497296238689078198617",
+ "credits": "310"
+}

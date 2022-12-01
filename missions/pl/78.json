@@ -1,0 +1,16 @@
+{
+ "missionId": "78",
+ "missionName": "Pożar na jarmarku bożonarodzeniowym",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "45624600638148999555402007982671963938",
+ "credits": "310"
+}

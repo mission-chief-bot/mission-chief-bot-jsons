@@ -1,0 +1,20 @@
+{
+ "missionId": "79",
+ "missionName": "Wypadek drogowy - lód",
+ "requirements": [
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "version": "57670638371766346924006777675119436527",
+ "credits": "1410"
+}

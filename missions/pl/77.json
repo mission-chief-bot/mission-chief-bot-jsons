@@ -1,0 +1,16 @@
+{
+ "missionId": "77",
+ "missionName": "Płonący stragan bożonarodzeniowy",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "44404977710984364309379977512776207344",
+ "credits": "610"
+}

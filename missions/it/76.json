@@ -1,0 +1,16 @@
+{
+ "missionId": "76",
+ "missionName": "Bancarella del mercatino di Natale in fiamme",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "1"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "version": "69338843898812249548954967306919835438",
+ "credits": "610"
+}

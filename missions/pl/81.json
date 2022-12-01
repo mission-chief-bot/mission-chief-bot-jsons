@@ -1,0 +1,12 @@
+{
+ "missionId": "81",
+ "missionName": "Płonący wieniec adwentowy",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "318659241919218751944083325079707024961",
+ "credits": "800"
+}
