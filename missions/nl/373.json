@@ -1,0 +1,12 @@
+{
+ "missionId": "373",
+ "missionName": "Brandwonden door gourmetstel",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "58665545698002896551793354961313799507",
+ "credits": "100"
+}
