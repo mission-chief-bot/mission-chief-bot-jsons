@@ -1,0 +1,48 @@
+{
+ "missionId": "585/a",
+ "missionName": "Massenanfall durch Lebkuchenverzehr (riesig)",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "14"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "16"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "3"
+  },
+  {
+   "requirement": "elw 2",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-mess",
+   "qty": "1"
+  },
+  {
+   "requirement": "dekon-p",
+   "qty": "1"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "250"
+  }
+ ],
+ "version": "330765174497624150298259756193539755057",
+ "credits": "14800"
+}

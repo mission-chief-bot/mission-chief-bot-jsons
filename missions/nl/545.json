@@ -1,0 +1,12 @@
+{
+ "missionId": "545",
+ "missionName": "Gevallen persoon door gladheid",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "239174541267203520480073618210660467439",
+ "credits": "100"
+}
