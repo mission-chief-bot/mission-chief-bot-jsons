@@ -1,0 +1,12 @@
+{
+ "missionId": "781",
+ "missionName": "Gartenschuppenbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "version": "98559132379349994773350513067672675869",
+ "credits": "600"
+}
