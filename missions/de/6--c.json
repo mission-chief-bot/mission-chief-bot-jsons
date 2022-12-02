@@ -1,0 +1,16 @@
+{
+ "missionId": "6/c",
+ "missionName": "Gartenlaubenbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "3"
+  }
+ ],
+ "version": "201031186471279918660338196577661444604",
+ "credits": "600"
+}
