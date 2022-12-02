@@ -1,0 +1,16 @@
+{
+ "missionId": "6/a",
+ "missionName": "Gartenlaubenbrand",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  }
+ ],
+ "version": "81930956898962348871054905395694625264",
+ "credits": "775"
+}
