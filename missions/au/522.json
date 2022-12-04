@@ -1,0 +1,52 @@
+{
+ "missionId": "522",
+ "missionName": "Server Fire at Data Centre",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "11"
+  },
+  {
+   "requirement": "ladder platform trucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "support vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "basu",
+   "qty": "2"
+  },
+  {
+   "requirement": "major rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "bulk water tankers",
+   "qty": "3"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "hazmat units",
+   "qty": "3"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "10"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "33"
+  }
+ ],
+ "version": "29869098877414076337683911713348841183",
+ "credits": "18888"
+}
