@@ -1,0 +1,12 @@
+{
+ "missionId": "395",
+ "missionName": "銃器不法所持",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "4"
+  }
+ ],
+ "version": "127254815181411029862101647107272886878",
+ "credits": "3750"
+}
