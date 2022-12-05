@@ -1,0 +1,24 @@
+{
+ "missionId": "386",
+ "missionName": "총기 불법 소지",
+ "requirements": [
+  {
+   "requirement": "경찰 및 공공 안전",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "4"
+  },
+  {
+   "requirement": "진압 경찰 그룹 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "swat 대원",
+   "qty": "6"
+  }
+ ],
+ "version": "177393535859378244647614464075155531047",
+ "credits": "3750"
+}
