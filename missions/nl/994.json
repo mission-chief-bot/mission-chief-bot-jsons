@@ -1,0 +1,32 @@
+{
+ "missionId": "994",
+ "missionName": "Helikopter crash",
+ "requirements": [
+  {
+   "requirement": "vliegtuigbrandbestrijding uitbreidingen",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "afo/osc benodigd",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "version": "250545002914880183973364988323412963930",
+ "credits": "4800"
+}
