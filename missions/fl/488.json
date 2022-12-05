@@ -1,0 +1,12 @@
+{
+ "missionId": "488",
+ "missionName": "68 Moottorivenettä ei voi hallita",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "254328132804862763936897996848283331629",
+ "credits": "1200"
+}
