@@ -1,0 +1,24 @@
+{
+ "missionId": "529",
+ "missionName": "Threats to commit arson",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "111627726809759402947580960651425740744",
+ "credits": "300"
+}
