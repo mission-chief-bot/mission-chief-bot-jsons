@@ -1,0 +1,40 @@
+{
+ "missionId": "446",
+ "missionName": "Reféns num banco",
+ "requirements": [
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "6"
+  },
+  {
+   "requirement": "equipas de prevenção e reacção imediata necessárias:",
+   "qty": "3"
+  },
+  {
+   "requirement": "equipas operacionais cinotécnicas necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos do corpo/unidade de intervenção necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de operações especiais necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de posto de comando necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "10"
+  }
+ ],
+ "version": "198694344047184365192655111853385523029",
+ "credits": "11750"
+}
