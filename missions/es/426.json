@@ -1,0 +1,12 @@
+{
+ "missionId": "426",
+ "missionName": "Incendio en la centralita",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  }
+ ],
+ "version": "75262832545805522383679319779300089399",
+ "credits": "500"
+}

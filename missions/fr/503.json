@@ -1,0 +1,64 @@
+{
+ "missionId": "503",
+ "missionName": "Feu usine de textile",
+ "requirements": [
+  {
+   "requirement": "extensions de soutien à incendie s",
+   "qty": "2"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "8"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "3"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "3"
+  },
+  {
+   "requirement": "vtu",
+   "qty": "2"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "2"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "4"
+  },
+  {
+   "requirement": "véhicules risques technologiques",
+   "qty": "2"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "assistance respiratoire e",
+   "qty": "1"
+  },
+  {
+   "requirement": "fmogp s",
+   "qty": "2"
+  },
+  {
+   "requirement": "camions dévidoirs s",
+   "qty": "2"
+  },
+  {
+   "requirement": "motopompes s",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "8"
+  }
+ ],
+ "version": "302931511447510261082001375309798238720",
+ "credits": "20000"
+}

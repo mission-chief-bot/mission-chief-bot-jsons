@@ -1,0 +1,56 @@
+{
+ "missionId": "504",
+ "missionName": "incendie dans un centre d'accueil et d'hébergement",
+ "requirements": [
+  {
+   "requirement": "extensions de soutien à incendie s",
+   "qty": "1"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "10"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "4"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "2"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "5"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "assistance respiratoire e",
+   "qty": "2"
+  },
+  {
+   "requirement": "directeur des secours médicaux",
+   "qty": "1"
+  },
+  {
+   "requirement": "camions dévidoirs s",
+   "qty": "1"
+  },
+  {
+   "requirement": "motopompes s",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "version": "314240818095420032841706037666486406944",
+ "credits": "10000"
+}
