@@ -3,10 +3,6 @@
  "missionName": "incendie dans un centre d'accueil et d'hébergement",
  "requirements": [
   {
-   "requirement": "extensions de soutien à incendie s",
-   "qty": "1"
-  },
-  {
    "requirement": "fourgons d’incendie",
    "qty": "10"
   },
