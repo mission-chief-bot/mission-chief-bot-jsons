@@ -3,10 +3,6 @@
  "missionName": "Feu usine de textile",
  "requirements": [
   {
-   "requirement": "extensions de soutien à incendie s",
-   "qty": "2"
-  },
-  {
    "requirement": "fourgons d’incendie",
    "qty": "8"
   },
