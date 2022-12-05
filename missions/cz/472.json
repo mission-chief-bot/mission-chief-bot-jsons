@@ -3,10 +3,6 @@
  "missionName": "Resuscitace novorozence",
  "requirements": [
   {
-   "requirement": "výjezdové stanoviště zzs",
-   "qty": "4"
-  },
-  {
    "requirement": "maximum pacientů",
    "qty": "1"
   }
