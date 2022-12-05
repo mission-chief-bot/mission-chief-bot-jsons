@@ -1,0 +1,20 @@
+{
+ "missionId": "804",
+ "missionName": "Boat at Anchor in a Protected Area",
+ "requirements": [
+  {
+   "requirement": "personnel available",
+   "qty": "10x TACLET"
+  },
+  {
+   "requirement": "small coastal boats",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "4x TACLET"
+  }
+ ],
+ "version": "55611269066655213759450334293570930511",
+ "credits": "1200"
+}
