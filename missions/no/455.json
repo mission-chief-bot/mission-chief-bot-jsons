@@ -1,0 +1,20 @@
+{
+ "missionId": "455",
+ "missionName": "Ulovlig besittelse av et skytevåpen",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "4"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "1"
+  },
+  {
+   "requirement": "kjøretøy fra demonstrasjonspolitiet",
+   "qty": "1"
+  }
+ ],
+ "version": "266683426193336950686811873557190433200",
+ "credits": "3750"
+}
