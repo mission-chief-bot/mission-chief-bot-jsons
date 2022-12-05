@@ -1,0 +1,16 @@
+{
+ "missionId": "475",
+ "missionName": "Speedbåd ude af kontrol",
+ "requirements": [
+  {
+   "requirement": "nødvendigt personale til rådighed",
+   "qty": "6x Maritim Politi"
+  },
+  {
+   "requirement": "nødvendigt personale",
+   "qty": "2x Maritim Politi"
+  }
+ ],
+ "version": "147872751676932302552863440427067774569",
+ "credits": "1200"
+}

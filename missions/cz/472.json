@@ -1,0 +1,16 @@
+{
+ "missionId": "472",
+ "missionName": "Resuscitace novorozence",
+ "requirements": [
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "4"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "version": "280110452978391600824701748230085486527",
+ "credits": "1200"
+}

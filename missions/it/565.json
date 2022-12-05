@@ -1,0 +1,16 @@
+{
+ "missionId": "565",
+ "missionName": "Motoscafo Fuori Controllo",
+ "requirements": [
+  {
+   "requirement": "personnel available",
+   "qty": "6x Ufficiale di Polizia Marittima"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "2x Ufficiale di Polizia Marittima"
+  }
+ ],
+ "version": "190520308183820087557816604459039159061",
+ "credits": "1200"
+}

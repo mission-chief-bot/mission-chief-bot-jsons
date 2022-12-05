@@ -1,0 +1,28 @@
+{
+ "missionId": "599",
+ "missionName": "Samochód w rzece",
+ "requirements": [
+  {
+   "requirement": "łodzie",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "148950569078315818453288713268078889437",
+ "credits": "1400"
+}
