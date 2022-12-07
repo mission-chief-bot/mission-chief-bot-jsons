@@ -1,0 +1,48 @@
+{
+ "missionId": "605",
+ "missionName": "Zawalony dach budynku",
+ "requirements": [
+  {
+   "requirement": "rozbudowy poszukiwawczo - ratownicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "3"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "ratownictwo wyskościowe",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody poszukiwawczo - ratownicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "psy ratownicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "personel",
+   "qty": "8x Ratownictwo poszukiwawczo - ratownicze"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "4"
+  }
+ ],
+ "version": "246980025918101235891847033062825359986",
+ "credits": "12500"
+}

@@ -1,0 +1,40 @@
+{
+ "missionId": "600",
+ "missionName": "Zaginięcie w lesie",
+ "requirements": [
+  {
+   "requirement": "rozbudowy poszukiwawczo - ratownicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody poszukiwawczo - ratownicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "psy ratownicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "personel",
+   "qty": "8x Ratownictwo poszukiwawczo - ratownicze"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "2896443659739570828129515007993878067",
+ "credits": "12800"
+}

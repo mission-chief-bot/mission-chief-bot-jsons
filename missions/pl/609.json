@@ -1,0 +1,48 @@
+{
+ "missionId": "609",
+ "missionName": "Zawalenie się wieży kościoła",
+ "requirements": [
+  {
+   "requirement": "rozbudowy poszukiwawczo - ratownicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "8"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "ratownictwo wyskościowe",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody poszukiwawczo - ratownicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "personel",
+   "qty": "14x Ratownictwo poszukiwawczo - ratownicze"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "8"
+  }
+ ],
+ "version": "4888656007458217718137578008081043944",
+ "credits": "10200"
+}

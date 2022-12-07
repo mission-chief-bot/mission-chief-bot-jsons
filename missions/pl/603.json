@@ -1,0 +1,48 @@
+{
+ "missionId": "603",
+ "missionName": "Poszukiwania wielkoobszarowe",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "46"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "10"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "12"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "2"
+  },
+  {
+   "requirement": "helikopteru policyjnego",
+   "qty": "2"
+  },
+  {
+   "requirement": "ruchome stanowisko dowodzenia",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody poszukiwawczo - ratownicze",
+   "qty": "6"
+  },
+  {
+   "requirement": "psy ratownicze",
+   "qty": "16"
+  },
+  {
+   "requirement": "personel",
+   "qty": "40x Ratownictwo poszukiwawczo - ratownicze                            82x Szkolenie Personalne OPP"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "132166966448901164081410396207891805763",
+ "credits": "42000"
+}

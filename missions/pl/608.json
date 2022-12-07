@@ -1,0 +1,60 @@
+{
+ "missionId": "608",
+ "missionName": "Zawalona kamienica",
+ "requirements": [
+  {
+   "requirement": "rozbudowy poszukiwawczo - ratownicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "18"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "3"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "8"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "7"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "9"
+  },
+  {
+   "requirement": "jednostki k-9",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody dowodzenia i łączności",
+   "qty": "1"
+  },
+  {
+   "requirement": "ratownictwo wyskościowe",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody poszukiwawczo - ratownicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "psy ratownicze",
+   "qty": "10"
+  },
+  {
+   "requirement": "personel",
+   "qty": "25x Ratownictwo poszukiwawczo - ratownicze"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "24"
+  }
+ ],
+ "version": "271173502721601167610507837420858399514",
+ "credits": "38000"
+}
