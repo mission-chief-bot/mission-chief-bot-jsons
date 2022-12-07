@@ -1,0 +1,16 @@
+{
+ "missionId": "479",
+ "missionName": "Transport invalidní osoby z letadla",
+ "requirements": [
+  {
+   "requirement": "rozšíření letiště",
+   "qty": "1"
+  },
+  {
+   "requirement": "letištní speciály",
+   "qty": "1"
+  }
+ ],
+ "version": "58077082226267889826124321738909188772",
+ "credits": "100"
+}

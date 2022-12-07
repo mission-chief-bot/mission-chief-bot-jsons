@@ -1,0 +1,48 @@
+{
+ "missionId": "474",
+ "missionName": "Pád letadla",
+ "requirements": [
+  {
+   "requirement": "rozšíření letiště",
+   "qty": "2"
+  },
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "10"
+  },
+  {
+   "requirement": "letištní speciály",
+   "qty": "4"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "10"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "ta",
+   "qty": "4"
+  },
+  {
+   "requirement": "vya nebo aj",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobilní operační střediska",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "8"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "50"
+  }
+ ],
+ "version": "289257753887109320624664894400697500686",
+ "credits": "15000"
+}

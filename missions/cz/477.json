@@ -1,0 +1,16 @@
+{
+ "missionId": "477",
+ "missionName": "Asistence při přistávnání letadla",
+ "requirements": [
+  {
+   "requirement": "rozšíření letiště",
+   "qty": "1"
+  },
+  {
+   "requirement": "letištní speciály",
+   "qty": "1"
+  }
+ ],
+ "version": "183798133952686954541514297117166600359",
+ "credits": "300"
+}

@@ -1,0 +1,48 @@
+{
+ "missionId": "475",
+ "missionName": "Požár letadla",
+ "requirements": [
+  {
+   "requirement": "rozšíření letiště",
+   "qty": "2"
+  },
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "10"
+  },
+  {
+   "requirement": "letištní speciály",
+   "qty": "4"
+  },
+  {
+   "requirement": "záchranné evakuační schody",
+   "qty": "2"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "12"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  },
+  {
+   "requirement": "protiplynové automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "kombinované hasící automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "10"
+  }
+ ],
+ "version": "210495510903542872963242144091435143931",
+ "credits": "10000"
+}

@@ -1,0 +1,36 @@
+{
+ "missionId": "482",
+ "missionName": "Požár v hangáru",
+ "requirements": [
+  {
+   "requirement": "rozšíření letiště",
+   "qty": "1"
+  },
+  {
+   "requirement": "letištní speciály",
+   "qty": "2"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "10"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "2"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "3"
+  },
+  {
+   "requirement": "protiplynové automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "kombinované hasící automobily",
+   "qty": "1"
+  }
+ ],
+ "version": "152543190313870109234752287931938461482",
+ "credits": "3000"
+}

@@ -1,0 +1,28 @@
+{
+ "missionId": "480",
+ "missionName": "Zdravotní problém pasažéra v letadle",
+ "requirements": [
+  {
+   "requirement": "rozšíření letiště",
+   "qty": "1"
+  },
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "1"
+  },
+  {
+   "requirement": "záchranné evakuační schody",
+   "qty": "1"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "version": "116455740692366010762974762388987288697",
+ "credits": "150"
+}

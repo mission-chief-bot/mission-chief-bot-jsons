@@ -1,0 +1,20 @@
+{
+ "missionId": "473",
+ "missionName": "Kouř v kabině letadla",
+ "requirements": [
+  {
+   "requirement": "rozšíření letiště",
+   "qty": "1"
+  },
+  {
+   "requirement": "letištní speciály",
+   "qty": "2"
+  },
+  {
+   "requirement": "záchranné evakuační schody",
+   "qty": "2"
+  }
+ ],
+ "version": "12781589713828866383190657726595787488",
+ "credits": "4000"
+}

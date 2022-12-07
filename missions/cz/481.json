@@ -1,0 +1,44 @@
+{
+ "missionId": "481",
+ "missionName": "Požár v letištním terminálu",
+ "requirements": [
+  {
+   "requirement": "rozšíření letiště",
+   "qty": "2"
+  },
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "5"
+  },
+  {
+   "requirement": "letištní speciály",
+   "qty": "4"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "15"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "3"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "protiplynové automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "da",
+   "qty": "5"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "20"
+  }
+ ],
+ "version": "171536831717199317323143934146666788624",
+ "credits": "5000"
+}

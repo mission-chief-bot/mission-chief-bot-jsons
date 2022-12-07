@@ -1,0 +1,20 @@
+{
+ "missionId": "478",
+ "missionName": "Únik leteckého paliva na ranvej",
+ "requirements": [
+  {
+   "requirement": "rozšíření letiště",
+   "qty": "1"
+  },
+  {
+   "requirement": "letištní speciály",
+   "qty": "1"
+  },
+  {
+   "requirement": "ta",
+   "qty": "1"
+  }
+ ],
+ "version": "189159849738446605168128088566950789091",
+ "credits": "1000"
+}
