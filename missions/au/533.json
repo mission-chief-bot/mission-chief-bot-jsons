@@ -3,10 +3,6 @@
  "missionName": "Vessel Breakdown",
  "requirements": [
   {
-   "requirement": "volunteer marine rescue",
-   "qty": "2"
-  },
-  {
    "requirement": "mvr boat",
    "qty": "1"
   },

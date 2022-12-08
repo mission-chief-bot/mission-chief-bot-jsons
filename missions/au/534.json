@@ -2,6 +2,10 @@
  "missionId": "534",
  "missionName": "Police Search",
  "requirements": [
+    {
+        "requirement": "ses vehicle",
+        "qty": "2"
+       },
   {
    "requirement": "boats",
    "qty": "2"
@@ -23,6 +27,6 @@
    "qty": "1"
   }
  ],
- "version": "229073244753598826763766152545011100021",
+ "version": "229073244753598826763766152545011100022",
  "credits": "1250"
 }

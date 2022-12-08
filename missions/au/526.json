@@ -3,10 +3,6 @@
  "missionName": "Boat Fire",
  "requirements": [
   {
-   "requirement": "volunteer marine rescue",
-   "qty": "1"
-  },
-  {
    "requirement": "mvr boat",
    "qty": "1"
   },

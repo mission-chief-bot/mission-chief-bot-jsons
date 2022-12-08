@@ -3,10 +3,6 @@
  "missionName": "Boat Lost Mast",
  "requirements": [
   {
-   "requirement": "volunteer marine rescue",
-   "qty": "2"
-  },
-  {
    "requirement": "mvr boat",
    "qty": "1"
   }

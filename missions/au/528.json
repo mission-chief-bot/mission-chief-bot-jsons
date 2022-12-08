@@ -3,10 +3,6 @@
  "missionName": "Kayakers Blown Off Course",
  "requirements": [
   {
-   "requirement": "volunteer marine rescue",
-   "qty": "1"
-  },
-  {
    "requirement": "mvr boat",
    "qty": "1"
   },
