@@ -1,0 +1,16 @@
+{
+ "missionId": "530",
+ "missionName": "Yacht Race Support",
+ "requirements": [
+  {
+   "requirement": "volunteer marine rescue",
+   "qty": "2"
+  },
+  {
+   "requirement": "mvr boat",
+   "qty": "1"
+  }
+ ],
+ "version": "177214143703018326996528361849733016558",
+ "credits": "830"
+}

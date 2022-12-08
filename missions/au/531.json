@@ -1,0 +1,16 @@
+{
+ "missionId": "531",
+ "missionName": "Boat Lost Mast",
+ "requirements": [
+  {
+   "requirement": "volunteer marine rescue",
+   "qty": "2"
+  },
+  {
+   "requirement": "mvr boat",
+   "qty": "1"
+  }
+ ],
+ "version": "67492804455589441822892244891448156806",
+ "credits": "830"
+}
