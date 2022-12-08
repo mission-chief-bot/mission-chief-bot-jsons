@@ -1,0 +1,12 @@
+{
+ "missionId": "253",
+ "missionName": "Coupure par papier après ouverture des cadeaux d’anniversaire",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "249600220528223260237746379097017301088",
+ "credits": "100"
+}

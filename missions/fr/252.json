@@ -1,0 +1,12 @@
+{
+ "missionId": "252",
+ "missionName": "Consommation excessive de gâteau d’anniversaire par un invité",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "114185441051606505891851578927341160385",
+ "credits": "100"
+}
