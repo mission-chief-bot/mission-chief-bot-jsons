@@ -3,10 +3,6 @@
  "missionName": "Zawalony dach sklepu",
  "requirements": [
   {
-   "requirement": "rozbudowy poszukiwawczo - ratownicze",
-   "qty": "1"
-  },
-  {
    "requirement": "samochody pożarnicze",
    "qty": "10"
   },
@@ -33,10 +29,6 @@
   {
    "requirement": "psy ratownicze",
    "qty": "6"
-  },
-  {
-   "requirement": "personel",
-   "qty": "16x Ratownictwo poszukiwawczo - ratownicze"
   },
   {
    "requirement": "maks. pacjenci",

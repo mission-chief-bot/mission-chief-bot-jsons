@@ -3,14 +3,6 @@
  "missionName": "Zdravotní problém pasažéra v letadle",
  "requirements": [
   {
-   "requirement": "rozšíření letiště",
-   "qty": "1"
-  },
-  {
-   "requirement": "výjezdové stanoviště zzs",
-   "qty": "1"
-  },
-  {
    "requirement": "záchranné evakuační schody",
    "qty": "1"
   },

@@ -3,10 +3,6 @@
  "missionName": "Zawalony dach budynku",
  "requirements": [
   {
-   "requirement": "rozbudowy poszukiwawczo - ratownicze",
-   "qty": "1"
-  },
-  {
    "requirement": "samochody pożarnicze",
    "qty": "5"
   },
@@ -33,10 +29,6 @@
   {
    "requirement": "psy ratownicze",
    "qty": "4"
-  },
-  {
-   "requirement": "personel",
-   "qty": "8x Ratownictwo poszukiwawczo - ratownicze"
   },
   {
    "requirement": "maks. pacjenci",

@@ -3,14 +3,6 @@
  "missionName": "Pád letadla",
  "requirements": [
   {
-   "requirement": "rozšíření letiště",
-   "qty": "2"
-  },
-  {
-   "requirement": "výjezdové stanoviště zzs",
-   "qty": "10"
-  },
-  {
    "requirement": "letištní speciály",
    "qty": "4"
   },
@@ -34,6 +26,10 @@
    "requirement": "mobilní operační střediska",
    "qty": "1"
   },
+  {
+    "requirement": "inspektor provozu",
+    "qty": "1"
+   },
   {
    "requirement": "policejní automobily",
    "qty": "8"

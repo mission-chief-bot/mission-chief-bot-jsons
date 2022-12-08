@@ -35,10 +35,6 @@
    "qty": "16"
   },
   {
-   "requirement": "personel",
-   "qty": "40x Ratownictwo poszukiwawczo - ratownicze                            82x Szkolenie Personalne OPP"
-  },
-  {
    "requirement": "maks. pacjenci",
    "qty": "1"
   }

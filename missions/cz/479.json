@@ -3,10 +3,6 @@
  "missionName": "Transport invalidní osoby z letadla",
  "requirements": [
   {
-   "requirement": "rozšíření letiště",
-   "qty": "1"
-  },
-  {
    "requirement": "letištní speciály",
    "qty": "1"
   }

@@ -3,10 +3,6 @@
  "missionName": "Poszukiwania osoby na otwartym terenie",
  "requirements": [
   {
-   "requirement": "rozbudowy poszukiwawczo - ratownicze",
-   "qty": "1"
-  },
-  {
    "requirement": "samochody pożarnicze",
    "qty": "5"
   },
@@ -25,10 +21,6 @@
   {
    "requirement": "psy ratownicze",
    "qty": "4"
-  },
-  {
-   "requirement": "personel",
-   "qty": "14x Ratownictwo poszukiwawczo - ratownicze"
   },
   {
    "requirement": "maks. pacjenci",

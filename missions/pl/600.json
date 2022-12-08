@@ -3,10 +3,6 @@
  "missionName": "Zaginięcie w lesie",
  "requirements": [
   {
-   "requirement": "rozbudowy poszukiwawczo - ratownicze",
-   "qty": "1"
-  },
-  {
    "requirement": "samochody pożarnicze",
    "qty": "3"
   },
@@ -25,10 +21,6 @@
   {
    "requirement": "psy ratownicze",
    "qty": "2"
-  },
-  {
-   "requirement": "personel",
-   "qty": "8x Ratownictwo poszukiwawczo - ratownicze"
   },
   {
    "requirement": "maks. pacjenci",

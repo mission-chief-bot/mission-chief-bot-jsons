@@ -3,10 +3,6 @@
  "missionName": "Požár v hangáru",
  "requirements": [
   {
-   "requirement": "rozšíření letiště",
-   "qty": "1"
-  },
-  {
    "requirement": "letištní speciály",
    "qty": "2"
   },
