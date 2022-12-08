@@ -1,0 +1,20 @@
+{
+ "missionId": "526",
+ "missionName": "Boat Fire",
+ "requirements": [
+  {
+   "requirement": "volunteer marine rescue",
+   "qty": "1"
+  },
+  {
+   "requirement": "mvr boat",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "30870281820461469380937498672669333335",
+ "credits": "500"
+}
