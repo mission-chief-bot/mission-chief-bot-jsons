@@ -1,0 +1,56 @@
+{
+ "missionId": "782",
+ "missionName": "Tankstellenbrand",
+ "requirements": [
+  {
+   "requirement": "rüstwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "4"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "2"
+  },
+  {
+   "requirement": "elw 2",
+   "qty": "1"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-mess",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-gefahrgut",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-öl",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-werkfeuerwehr",
+   "qty": "1"
+  },
+  {
+   "requirement": "ulf mit löscharm",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "2"
+  }
+ ],
+ "version": "312703008822913750256520076081755499384",
+ "credits": "4100"
+}
