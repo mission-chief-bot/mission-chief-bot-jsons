@@ -1,0 +1,32 @@
+{
+ "missionId": "523",
+ "missionName": "Impalement",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "ladder platform trucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "major rescue or ses rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  },
+  {
+   "requirement": "ambulances",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "version": "139019180301332636729901879938627243648",
+ "credits": "555"
+}
