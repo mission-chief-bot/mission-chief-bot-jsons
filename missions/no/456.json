@@ -1,0 +1,24 @@
+{
+ "missionId": "456",
+ "missionName": "Gaffeltruckulykke",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "tungredningsbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "version": "269853112068689962075755626859087703572",
+ "credits": "1250"
+}

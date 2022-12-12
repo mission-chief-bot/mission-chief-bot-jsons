@@ -1,0 +1,36 @@
+{
+ "missionId": "610",
+ "missionName": "Osoba uwięziona w silosie",
+ "requirements": [
+  {
+   "requirement": "rozbudowy poszukiwawczo - ratownicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody poszukiwawczo - ratownicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "personel",
+   "qty": "8x Ratownictwo poszukiwawczo - ratownicze"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "96361109481156896402333780041380706910",
+ "credits": "1860"
+}

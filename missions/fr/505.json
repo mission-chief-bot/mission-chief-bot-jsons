@@ -1,0 +1,40 @@
+{
+ "missionId": "505",
+ "missionName": "Visite présidentielle",
+ "requirements": [
+  {
+   "requirement": "compagnies de crs s",
+   "qty": "2"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "8"
+  },
+  {
+   "requirement": "unité cynophile e",
+   "qty": "2"
+  },
+  {
+   "requirement": "soutien aérien fag",
+   "qty": "2"
+  },
+  {
+   "requirement": "vr",
+   "qty": "10"
+  },
+  {
+   "requirement": "vct",
+   "qty": "1"
+  },
+  {
+   "requirement": "ram",
+   "qty": "1"
+  },
+  {
+   "requirement": "vat",
+   "qty": "1"
+  }
+ ],
+ "version": "214676173963235596953595678502146106970",
+ "credits": "5000"
+}

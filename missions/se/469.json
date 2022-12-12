@@ -1,0 +1,12 @@
+{
+ "missionId": "469",
+ "missionName": "Båt för ankar i ett skyddat område",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "133699736730196538940306364481956114768",
+ "credits": "1200"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "476",
+ "missionName": "Båd for anker i et beskyttet område",
+ "requirements": [
+  {
+   "requirement": "nødvendigt personale til rådighed",
+   "qty": "6x Maritim Politi"
+  },
+  {
+   "requirement": "nødvendigt personale",
+   "qty": "2x Maritim Politi"
+  }
+ ],
+ "version": "258798309913198634406742685169704086282",
+ "credits": "1200"
+}
