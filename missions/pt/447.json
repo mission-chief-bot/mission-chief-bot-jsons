@@ -3,14 +3,6 @@
  "missionName": "Incêndio numa sucata",
  "requirements": [
   {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "6"
-  },
-  {
-   "requirement": "extensões de apoio a incêndios necessárias:",
-   "qty": "1"
-  },
-  {
    "requirement": "veículos de combate a incêndios necessários:",
    "qty": "8"
   },
