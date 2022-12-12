@@ -1,0 +1,20 @@
+{
+ "missionId": "995-1",
+ "missionName": "Opvang slachtoffers",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "6"
+  },
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  }
+ ],
+ "version": "26899795277028281694425544812838493770",
+ "credits": "3170"
+}

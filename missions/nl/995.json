@@ -1,0 +1,12 @@
+{
+ "missionId": "995",
+ "missionName": "Opvang slachtoffers",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "version": "99261358729135453282654131588614160027",
+ "credits": "1350"
+}
