@@ -1,0 +1,12 @@
+{
+ "missionId": "536",
+ "missionName": "Santa's Sled Blocking the Road",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "version": "333842876711812910647162404512908168595",
+ "credits": "300"
+}

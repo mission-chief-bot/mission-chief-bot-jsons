@@ -1,0 +1,12 @@
+{
+ "missionId": "479",
+ "missionName": "Julemandens slæde blokerer vejen",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "version": "335279906863823201809861061014608787922",
+ "credits": "300"
+}

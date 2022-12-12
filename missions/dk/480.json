@@ -1,0 +1,12 @@
+{
+ "missionId": "480",
+ "missionName": "Juletræ stjålet",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "3"
+  }
+ ],
+ "version": "213753529295785395893025606193798406891",
+ "credits": "300"
+}

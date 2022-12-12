@@ -1,0 +1,12 @@
+{
+ "missionId": "481",
+ "missionName": "Julegaver stjålet i indkøbscenter",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "2"
+  }
+ ],
+ "version": "23681716052540139976101814693857957301",
+ "credits": "300"
+}

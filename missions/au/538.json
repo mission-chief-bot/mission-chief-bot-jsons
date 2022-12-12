@@ -1,0 +1,12 @@
+{
+ "missionId": "538",
+ "missionName": "Christmas Presents Stolen in Mall",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  }
+ ],
+ "version": "28378439302838109331018768217942629280",
+ "credits": "300"
+}

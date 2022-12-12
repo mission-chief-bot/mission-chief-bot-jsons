@@ -1,0 +1,12 @@
+{
+ "missionId": "478",
+ "missionName": "Juledekoration brød i brand",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  }
+ ],
+ "version": "289263241175660726496943611933963635641",
+ "credits": "300"
+}
