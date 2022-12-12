@@ -1,0 +1,12 @@
+{
+ "missionId": "486",
+ "missionName": "Krádež vánočního stromku",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "3"
+  }
+ ],
+ "version": "29405446636727864661549858367573314528",
+ "credits": "300"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "487",
+ "missionName": "Krádež vánočních dárků v nákupním centru",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  }
+ ],
+ "version": "259888105407539609567292254483373525216",
+ "credits": "300"
+}
