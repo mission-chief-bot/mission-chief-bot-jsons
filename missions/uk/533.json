@@ -1,0 +1,40 @@
+{
+ "missionId": "533",
+ "missionName": "Library Fire (Major)",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "15"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "4"
+  },
+  {
+   "requirement": "aerial appliance trucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "water carriers",
+   "qty": "3"
+  },
+  {
+   "requirement": "breathing apparatus support units",
+   "qty": "2"
+  },
+  {
+   "requirement": "iccu or ambulance control units",
+   "qty": "1"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "50"
+  }
+ ],
+ "version": "174734968690306212262918560121594338990",
+ "credits": "20000"
+}
