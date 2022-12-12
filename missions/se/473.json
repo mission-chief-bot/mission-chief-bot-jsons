@@ -1,0 +1,12 @@
+{
+ "missionId": "473",
+ "missionName": "Julgran stulen",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  }
+ ],
+ "version": "33518549714528148762221297307377362673",
+ "credits": "300"
+}

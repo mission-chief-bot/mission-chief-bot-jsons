@@ -1,0 +1,12 @@
+{
+ "missionId": "460",
+ "missionName": "Juletre stjålet",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  }
+ ],
+ "version": "280634965620565092217365469243088799157",
+ "credits": "300"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "474",
+ "missionName": "Julklappar stulna i köpcentrum",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "version": "123280518410518362825695356384676229228",
+ "credits": "300"
+}

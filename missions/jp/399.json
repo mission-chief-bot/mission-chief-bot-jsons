@@ -1,0 +1,12 @@
+{
+ "missionId": "399",
+ "missionName": "道路を塞ぐサンタのソリ",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  }
+ ],
+ "version": "320438171884403783698811014314316668937",
+ "credits": "300"
+}

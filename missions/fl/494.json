@@ -1,0 +1,12 @@
+{
+ "missionId": "494",
+ "missionName": "12 Joululahjat varastettu ostoskeskuksessa",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "version": "90947549423690144455053722958874270028",
+ "credits": "300"
+}

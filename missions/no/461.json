@@ -1,0 +1,12 @@
+{
+ "missionId": "461",
+ "missionName": "Julegaver stjålet i kjøpesenter",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "version": "809555028496088360975215851321877954",
+ "credits": "300"
+}

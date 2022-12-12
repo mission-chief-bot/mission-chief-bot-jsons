@@ -1,0 +1,12 @@
+{
+ "missionId": "450",
+ "missionName": "Trenó do Pai Natal a bloquear a estrada",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "version": "28957173328937186976362983228071969492",
+ "credits": "300"
+}

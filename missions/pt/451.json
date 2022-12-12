@@ -1,0 +1,12 @@
+{
+ "missionId": "451",
+ "missionName": "Árvore de Natal Roubada",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  }
+ ],
+ "version": "146565335206951119720176682922675107860",
+ "credits": "300"
+}

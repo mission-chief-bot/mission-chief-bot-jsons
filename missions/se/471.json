@@ -1,0 +1,12 @@
+{
+ "missionId": "471",
+ "missionName": "Juldekoration fattade eld",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  }
+ ],
+ "version": "225092338423931615315467705492194411015",
+ "credits": "300"
+}

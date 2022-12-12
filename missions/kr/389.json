@@ -1,0 +1,12 @@
+{
+ "missionId": "389",
+ "missionName": "크리스마스 장식에 불이 붙다",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  }
+ ],
+ "version": "103017282054629304822564244976509346153",
+ "credits": "300"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "452",
+ "missionName": "Presentes de Natal Roubados no Shopping",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  }
+ ],
+ "version": "303302315713202288118309195102730967091",
+ "credits": "300"
+}

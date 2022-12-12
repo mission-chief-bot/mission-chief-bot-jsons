@@ -1,0 +1,12 @@
+{
+ "missionId": "485",
+ "missionName": "Santovy saně blokující silnici",
+ "requirements": [
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  }
+ ],
+ "version": "180047323032308881391146259525865862690",
+ "credits": "300"
+}

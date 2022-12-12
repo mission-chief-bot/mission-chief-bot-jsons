@@ -1,0 +1,12 @@
+{
+ "missionId": "472",
+ "missionName": "Jultomtens släde blockerar vägen",
+ "requirements": [
+  {
+   "requirement": "polisbilar",
+   "qty": "2"
+  }
+ ],
+ "version": "125624986557978878314836996016456462523",
+ "credits": "300"
+}

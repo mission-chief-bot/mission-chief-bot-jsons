@@ -1,0 +1,12 @@
+{
+ "missionId": "449",
+ "missionName": "Decoração de Natal Apanhado Fogo",
+ "requirements": [
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "2"
+  }
+ ],
+ "version": "281356616032804763435850922730999803018",
+ "credits": "300"
+}

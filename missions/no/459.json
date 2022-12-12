@@ -1,0 +1,12 @@
+{
+ "missionId": "459",
+ "missionName": "Julenissens slede blokkerer veien",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "2"
+  }
+ ],
+ "version": "244860503340932258027549407535143256745",
+ "credits": "300"
+}

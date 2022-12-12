@@ -1,0 +1,12 @@
+{
+ "missionId": "458",
+ "missionName": "Julepynt tok fyr",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  }
+ ],
+ "version": "301892830912566879015999526544444740175",
+ "credits": "300"
+}

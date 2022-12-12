@@ -1,0 +1,12 @@
+{
+ "missionId": "392",
+ "missionName": "몰에서 도난당한 크리스마스 선물",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "2"
+  }
+ ],
+ "version": "35413806542372685904969968209580754942",
+ "credits": "300"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "493",
+ "missionName": "12 Joulukuusi varastettu",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  }
+ ],
+ "version": "8382557975743690954708433042616870544",
+ "credits": "300"
+}

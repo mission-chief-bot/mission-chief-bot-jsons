@@ -1,0 +1,12 @@
+{
+ "missionId": "398",
+ "missionName": "クリスマス装飾の火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  }
+ ],
+ "version": "114178345492176745391130226018456433337",
+ "credits": "300"
+}

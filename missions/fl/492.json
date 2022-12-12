@@ -1,0 +1,12 @@
+{
+ "missionId": "492",
+ "missionName": "25 Joulupukin reki tukkii tien",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "version": "337140877874675447368012194898126042560",
+ "credits": "300"
+}
