@@ -1,0 +1,12 @@
+{
+ "missionId": "570",
+ "missionName": "Albero di Natale rubato",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "3"
+  }
+ ],
+ "version": "246250656596994859475492104225067336978",
+ "credits": "300"
+}

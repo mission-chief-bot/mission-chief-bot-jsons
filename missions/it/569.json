@@ -1,0 +1,12 @@
+{
+ "missionId": "569",
+ "missionName": "La slitta di Babbo Natale blocca la strada",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "version": "137241695373287379901976739004900029027",
+ "credits": "300"
+}

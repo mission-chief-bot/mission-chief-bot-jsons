@@ -1,0 +1,12 @@
+{
+ "missionId": "568",
+ "missionName": "Decorazione natalizia andata a fuoco",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  }
+ ],
+ "version": "183247022763793837179210904538593767998",
+ "credits": "300"
+}

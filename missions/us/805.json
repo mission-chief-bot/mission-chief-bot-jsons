@@ -1,0 +1,12 @@
+{
+ "missionId": "805",
+ "missionName": "Christmas Decoration Caught Fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  }
+ ],
+ "version": "219937011968250605070226843640979917860",
+ "credits": "300"
+}

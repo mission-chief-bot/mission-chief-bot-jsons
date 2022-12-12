@@ -1,0 +1,12 @@
+{
+ "missionId": "811",
+ "missionName": "Boat Lost Mast",
+ "requirements": [
+  {
+   "requirement": "small coastal boats",
+   "qty": "1"
+  }
+ ],
+ "version": "240036584785360934865129899771886496589",
+ "credits": "1200"
+}
