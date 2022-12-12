@@ -1,0 +1,24 @@
+{
+ "missionId": "396",
+ "missionName": "フォークリフト事故",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "1"
+  },
+  {
+   "requirement": "大型救助車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "version": "142350634532217027634578794428539522615",
+ "credits": "1250"
+}
