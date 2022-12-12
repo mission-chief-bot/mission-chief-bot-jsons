@@ -1,0 +1,16 @@
+{
+ "missionId": "427",
+ "missionName": "Posesión ilegal de un arma de fuego",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "2"
+  }
+ ],
+ "version": "295489436720003590503099837323189095421",
+ "credits": "3750"
+}
