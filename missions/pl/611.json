@@ -1,0 +1,12 @@
+{
+ "missionId": "611",
+ "missionName": "Dekoracja świąteczna zapaliła się",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "270401210183516563963437128254068874907",
+ "credits": "300"
+}

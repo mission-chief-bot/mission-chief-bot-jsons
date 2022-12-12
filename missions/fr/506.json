@@ -1,0 +1,12 @@
+{
+ "missionId": "506",
+ "missionName": "La décoration de Noël a pris feu",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  }
+ ],
+ "version": "45449922921156896040273890163430631433",
+ "credits": "300"
+}

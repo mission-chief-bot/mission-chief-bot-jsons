@@ -1,0 +1,12 @@
+{
+ "missionId": "430",
+ "missionName": "El trineo de Santa Claus bloquea la carretera",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "version": "238994020192786242808520106776161429461",
+ "credits": "300"
+}

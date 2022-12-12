@@ -1,0 +1,12 @@
+{
+ "missionId": "429",
+ "missionName": "La decoración navideña se incendia",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  }
+ ],
+ "version": "212696921399576224994207211483656535061",
+ "credits": "300"
+}

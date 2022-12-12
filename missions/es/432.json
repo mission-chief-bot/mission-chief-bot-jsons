@@ -1,0 +1,12 @@
+{
+ "missionId": "432",
+ "missionName": "Robo de regalos de Navidad en un centro comercial",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "version": "250631624295449229999405165016359941925",
+ "credits": "300"
+}

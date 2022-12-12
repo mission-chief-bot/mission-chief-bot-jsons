@@ -1,0 +1,12 @@
+{
+ "missionId": "612",
+ "missionName": "Sanie Mikołaja blokują drogę",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  }
+ ],
+ "version": "77979894705842846413081314573517810818",
+ "credits": "300"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "509",
+ "missionName": "Des cadeaux de Noël volés dans un centre commercial",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "version": "206970142232422644959155682184558989242",
+ "credits": "300"
+}

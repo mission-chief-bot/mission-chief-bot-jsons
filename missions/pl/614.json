@@ -1,0 +1,12 @@
+{
+ "missionId": "614",
+ "missionName": "Kradzież prezentów świątecznych w centrum handlowym",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  }
+ ],
+ "version": "188212301261567713788050461726493917757",
+ "credits": "300"
+}

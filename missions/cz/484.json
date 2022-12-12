@@ -1,0 +1,12 @@
+{
+ "missionId": "484",
+ "missionName": "Požár vánoční výzdoby",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  }
+ ],
+ "version": "64583282179276405541522337378559629093",
+ "credits": "300"
+}

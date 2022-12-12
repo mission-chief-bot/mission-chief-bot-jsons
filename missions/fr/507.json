@@ -1,0 +1,12 @@
+{
+ "missionId": "507",
+ "missionName": "La luge du Père Noël bloque la route",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "version": "60027092522253134197479991121045164522",
+ "credits": "300"
+}

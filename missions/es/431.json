@@ -1,0 +1,12 @@
+{
+ "missionId": "431",
+ "missionName": "Robo del árbol de Navidad",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "3"
+  }
+ ],
+ "version": "259875719968236388847272839898255271017",
+ "credits": "300"
+}
