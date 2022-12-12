@@ -1,0 +1,12 @@
+{
+ "missionId": "533",
+ "missionName": "Christmas Tree Stolen",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "3"
+  }
+ ],
+ "version": "174625053637125575322616884697697346034",
+ "credits": "300"
+}

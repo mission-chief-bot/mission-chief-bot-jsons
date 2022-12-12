@@ -1,0 +1,12 @@
+{
+ "missionId": "531",
+ "missionName": "Christmas Decoration Caught Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  }
+ ],
+ "version": "27520856387163637043535384153742837255",
+ "credits": "300"
+}
