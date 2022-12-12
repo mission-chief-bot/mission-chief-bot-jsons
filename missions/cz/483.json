@@ -3,14 +3,6 @@
  "missionName": "Porucha letadla v podvozku",
  "requirements": [
   {
-   "requirement": "rozšíření letiště",
-   "qty": "1"
-  },
-  {
-   "requirement": "výjezdové stanoviště zzs",
-   "qty": "8"
-  },
-  {
    "requirement": "cisternové automobilové stříkačky",
    "qty": "4"
   },
