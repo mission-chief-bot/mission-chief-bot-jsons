@@ -3,10 +3,6 @@
  "missionName": "Osoba uwięziona w silosie",
  "requirements": [
   {
-   "requirement": "rozbudowy poszukiwawczo - ratownicze",
-   "qty": "1"
-  },
-  {
    "requirement": "samochody pożarnicze",
    "qty": "5"
   },
