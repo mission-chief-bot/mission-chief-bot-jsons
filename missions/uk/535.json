@@ -1,0 +1,12 @@
+{
+ "missionId": "535",
+ "missionName": "Lithium Battery Fire",
+ "requirements": [
+  {
+   "requirement": "fire engines",
+   "qty": "1"
+  }
+ ],
+ "version": "186433467933972831543284793460130032569",
+ "credits": "1000"
+}
