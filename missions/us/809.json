@@ -1,0 +1,12 @@
+{
+ "missionId": "809",
+ "missionName": "Jetski out of fuel",
+ "requirements": [
+  {
+   "requirement": "small coastal boats",
+   "qty": "1"
+  }
+ ],
+ "version": "140830007085491116175392150419631371576",
+ "credits": "1200"
+}

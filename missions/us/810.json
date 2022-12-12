@@ -1,0 +1,12 @@
+{
+ "missionId": "810",
+ "missionName": "Kayakers Blown Off Course",
+ "requirements": [
+  {
+   "requirement": "small coastal boats",
+   "qty": "1"
+  }
+ ],
+ "version": "13239940770110145957269758482669663917",
+ "credits": "1200"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "571",
+ "missionName": "Regali di Natale rubati in un centro commerciale",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "2"
+  }
+ ],
+ "version": "269512148990732637948592314140934057440",
+ "credits": "300"
+}
