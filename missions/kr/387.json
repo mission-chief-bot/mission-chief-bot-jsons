@@ -1,0 +1,24 @@
+{
+ "missionId": "387",
+ "missionName": "지게차 사고",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "1"
+  },
+  {
+   "requirement": "중장비 구조 차량",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "2"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "version": "157098596198397289368324652840008000694",
+ "credits": "1250"
+}
