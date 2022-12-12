@@ -3,12 +3,8 @@
  "missionName": "Imbarcazione alla Fonda in Area Protetta",
  "requirements": [
   {
-   "requirement": "personnel available",
-   "qty": "6x Ufficiale di Polizia Marittima"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "2x Ufficiale di Polizia Marittima"
+   "requirement": "battello litoraneo",
+   "qty": "1"
   }
  ],
  "version": "207959553014074264902343826678890089201",
