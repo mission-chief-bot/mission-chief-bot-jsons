@@ -1,0 +1,12 @@
+{
+ "missionId": "489",
+ "missionName": "Vene ankkurissa suojelualueella",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "147183289202321885537522240276435006367",
+ "credits": "1200"
+}
