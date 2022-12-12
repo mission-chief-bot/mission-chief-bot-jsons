@@ -3,10 +3,6 @@
  "missionName": "Visite présidentielle",
  "requirements": [
   {
-   "requirement": "compagnies de crs s",
-   "qty": "2"
-  },
-  {
    "requirement": "voitures de police es",
    "qty": "8"
   },
