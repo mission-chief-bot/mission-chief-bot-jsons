@@ -1,0 +1,52 @@
+{
+ "missionId": "447",
+ "missionName": "Incêndio numa sucata",
+ "requirements": [
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "6"
+  },
+  {
+   "requirement": "extensões de apoio a incêndios necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "8"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos tanque necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "veículos de proteção multiriscos e ambiente necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "unidades autónomas de ar respirável necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de comando e comunicações necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos especiais de combate a incêndios necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "4"
+  }
+ ],
+ "version": "321413779186138434480083077438976437004",
+ "credits": "8250"
+}
