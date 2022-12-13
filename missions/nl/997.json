@@ -1,0 +1,12 @@
+{
+ "missionId": "997",
+ "missionName": "Kerstdecoratie in brand",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "2"
+  }
+ ],
+ "version": "86311269854945557121820687395108010176",
+ "credits": "670"
+}

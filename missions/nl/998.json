@@ -1,0 +1,12 @@
+{
+ "missionId": "998",
+ "missionName": "De slee van de kerstman blokkeert de weg",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "2"
+  }
+ ],
+ "version": "218139686062817937903235436062581492646",
+ "credits": "670"
+}

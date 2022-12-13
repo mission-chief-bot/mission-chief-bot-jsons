@@ -1,0 +1,12 @@
+{
+ "missionId": "999",
+ "missionName": "Kerstboom gestolen",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "3"
+  }
+ ],
+ "version": "332534343878743969570935250624189653275",
+ "credits": "840"
+}
