@@ -2,14 +2,8 @@
  "missionId": "459",
  "missionName": "Pré-afogamento",
  "requirements": [
-  {
-   "requirement": "expansões de resgate aquático necessárias:",
-   "qty": "1"
-  },
-  {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "1"
-  },
+  
+  
   {
    "requirement": "embarcações de reconhecimento, socorro e transporte necessárias:",
    "qty": "1"

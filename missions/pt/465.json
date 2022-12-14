@@ -2,14 +2,7 @@
  "missionId": "465",
  "missionName": "Contrabando através de barco",
  "requirements": [
-  {
-   "requirement": "capitanias necessárias:",
-   "qty": "3"
-  },
-  {
-   "requirement": "personnel available",
-   "qty": "20x GAT"
-  },
+
   {
    "requirement": "botes de resgate necessários:",
    "qty": "2"
@@ -17,10 +10,6 @@
   {
    "requirement": "grupos de ações táticas necessários:",
    "qty": "1"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "10x GAT"
   }
  ],
  "version": "206701177254560091971107829564745543093",

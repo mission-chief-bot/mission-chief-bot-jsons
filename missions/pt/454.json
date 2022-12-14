@@ -1,15 +1,7 @@
 {
  "missionId": "454",
  "missionName": "Camião Submerso",
- "requirements": [
-  {
-   "requirement": "expansões de resgate aquático necessárias:",
-   "qty": "3"
-  },
-  {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "1"
-  },
+ "requirements": [  
   {
    "requirement": "carros de patrulha necessários:",
    "qty": "3"

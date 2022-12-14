@@ -2,14 +2,8 @@
  "missionId": "460",
  "missionName": "Navio pequeno virado",
  "requirements": [
-  {
-   "requirement": "capitanias necessárias:",
-   "qty": "1"
-  },
-  {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "3"
-  },
+  
+  
   {
    "requirement": "botes de patrulhamento necessários:",
    "qty": "1"

@@ -3,18 +3,6 @@
  "missionName": "Resgate de reféns abordo de navio de carga",
  "requirements": [
   {
-   "requirement": "capitanias necessárias:",
-   "qty": "4"
-  },
-  {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "5"
-  },
-  {
-   "requirement": "personnel available",
-   "qty": "30x GAT"
-  },
-  {
    "requirement": "botes de patrulhamento necessários:",
    "qty": "2"
   },
@@ -25,10 +13,6 @@
   {
    "requirement": "grupos de ações táticas necessários:",
    "qty": "2"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "20x GAT"
   },
   {
    "requirement": "máx. de pacientes:",

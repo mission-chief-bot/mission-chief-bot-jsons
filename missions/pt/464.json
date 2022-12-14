@@ -2,14 +2,8 @@
  "missionId": "464",
  "missionName": "Ataque de tubarão",
  "requirements": [
-  {
-   "requirement": "capitanias necessárias:",
-   "qty": "3"
-  },
-  {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "2"
-  },
+  
+  
   {
    "requirement": "veículos de multi-transporte necessários:",
    "qty": "1"

@@ -3,14 +3,6 @@
  "missionName": "Carro Submerso",
  "requirements": [
   {
-   "requirement": "expansões de resgate aquático necessárias:",
-   "qty": "2"
-  },
-  {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "1"
-  },
-  {
    "requirement": "carros de patrulha necessários:",
    "qty": "2"
   },

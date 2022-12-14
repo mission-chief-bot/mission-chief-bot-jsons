@@ -3,14 +3,6 @@
  "missionName": "Vários navios baleeiros a executar operações ilegais",
  "requirements": [
   {
-   "requirement": "capitanias necessárias:",
-   "qty": "6"
-  },
-  {
-   "requirement": "personnel available",
-   "qty": "40x GAT"
-  },
-  {
    "requirement": "botes de patrulhamento necessários:",
    "qty": "6"
   },
@@ -21,10 +13,6 @@
   {
    "requirement": "grupos de ações táticas necessários:",
    "qty": "2"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "20x GAT"
   }
  ],
  "version": "88650347425338611853774359790622766389",

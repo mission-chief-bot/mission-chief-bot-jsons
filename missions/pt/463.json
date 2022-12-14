@@ -2,14 +2,8 @@
  "missionId": "463",
  "missionName": "Navio desaparecido",
  "requirements": [
-  {
-   "requirement": "capitanias necessárias:",
-   "qty": "2"
-  },
-  {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "3"
-  },
+  
+  
   {
    "requirement": "botes de patrulhamento necessários:",
    "qty": "3"

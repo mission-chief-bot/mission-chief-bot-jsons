@@ -2,10 +2,7 @@
  "missionId": "458",
  "missionName": "Pessoa na Água",
  "requirements": [
-  {
-   "requirement": "expansões de resgate aquático necessárias:",
-   "qty": "1"
-  },
+  
   {
    "requirement": "embarcações de reconhecimento, socorro e transporte necessárias:",
    "qty": "1"

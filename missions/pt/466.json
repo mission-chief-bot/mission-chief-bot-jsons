@@ -2,14 +2,8 @@
  "missionId": "466",
  "missionName": "Acidente com parasailing",
  "requirements": [
-  {
-   "requirement": "capitanias necessárias:",
-   "qty": "4"
-  },
-  {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "2"
-  },
+  
+  
   {
    "requirement": "veículos de multi-transporte necessários:",
    "qty": "2"
