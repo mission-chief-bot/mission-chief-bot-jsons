@@ -1,0 +1,40 @@
+{
+ "missionId": "453",
+ "missionName": "Carro Submerso",
+ "requirements": [
+  {
+   "requirement": "expansões de resgate aquático necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "embarcações de reconhecimento, socorro e transporte necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de apoio a merguladores necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "version": "154591451631324589583541757510163498550",
+ "credits": "1400"
+}
