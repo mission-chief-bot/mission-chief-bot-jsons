@@ -1,0 +1,28 @@
+{
+ "missionId": "461",
+ "missionName": "Navio grande virado",
+ "requirements": [
+  {
+   "requirement": "capitanias necessárias:",
+   "qty": "4"
+  },
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "8"
+  },
+  {
+   "requirement": "botes de patrulhamento necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "botes de resgate necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "5"
+  }
+ ],
+ "version": "90280518763982466057246728062848874314",
+ "credits": "14000"
+}

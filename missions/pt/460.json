@@ -1,0 +1,24 @@
+{
+ "missionId": "460",
+ "missionName": "Navio pequeno virado",
+ "requirements": [
+  {
+   "requirement": "capitanias necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "botes de patrulhamento necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "2"
+  }
+ ],
+ "version": "20287088081941286177774358026498812768",
+ "credits": "8000"
+}

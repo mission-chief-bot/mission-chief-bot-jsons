@@ -1,0 +1,24 @@
+{
+ "missionId": "471",
+ "missionName": "Marinheiros encurralados em embarcação",
+ "requirements": [
+  {
+   "requirement": "capitanias necessárias:",
+   "qty": "7"
+  },
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "botes de resgate necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "4"
+  }
+ ],
+ "version": "73023908100436642800411862818661424604",
+ "credits": "9000"
+}

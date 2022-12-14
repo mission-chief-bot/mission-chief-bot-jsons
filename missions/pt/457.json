@@ -1,0 +1,36 @@
+{
+ "missionId": "457",
+ "missionName": "Pessoa Perdida Perto da Água",
+ "requirements": [
+  {
+   "requirement": "expansões de resgate aquático necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "6"
+  },
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "embarcações de reconhecimento, socorro e transporte necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "version": "39013858834874392060296271211776362264",
+ "credits": "3000"
+}

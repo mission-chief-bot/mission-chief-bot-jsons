@@ -1,6 +1,6 @@
 {
- "missionId": "454",
- "missionName": "Camião Submerso",
+ "missionId": "455",
+ "missionName": "Autocarro Submerso",
  "requirements": [
   {
    "requirement": "expansões de resgate aquático necessárias:",
@@ -8,7 +8,7 @@
   },
   {
    "requirement": "postos pem/aem necessários:",
-   "qty": "1"
+   "qty": "10"
   },
   {
    "requirement": "carros de patrulha necessários:",
@@ -32,9 +32,9 @@
   },
   {
    "requirement": "máx. de pacientes:",
-   "qty": "1"
+   "qty": "15"
   }
  ],
- "version": "264167355695451203007863164720524031513",
- "credits": "2000"
+ "version": "326045821212556720175003079282649993998",
+ "credits": "3000"
 }

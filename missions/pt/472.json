@@ -1,0 +1,24 @@
+{
+ "missionId": "472",
+ "missionName": "Iate apanhado num furacão",
+ "requirements": [
+  {
+   "requirement": "capitanias necessárias:",
+   "qty": "4"
+  },
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "botes de resgate necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "4"
+  }
+ ],
+ "version": "171230490709807221697356218244436419150",
+ "credits": "5000"
+}

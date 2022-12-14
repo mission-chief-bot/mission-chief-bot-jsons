@@ -1,0 +1,36 @@
+{
+ "missionId": "466",
+ "missionName": "Acidente com parasailing",
+ "requirements": [
+  {
+   "requirement": "capitanias necessárias:",
+   "qty": "4"
+  },
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de multi-transporte necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "botes de patrulhamento necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "equipas de patrulhamento costeiro necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "motos de água de reconhecimento, socorro e transporte necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "4"
+  }
+ ],
+ "version": "310609650259762971454112496213177897755",
+ "credits": "2500"
+}

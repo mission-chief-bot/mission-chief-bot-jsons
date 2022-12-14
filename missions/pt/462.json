@@ -1,0 +1,32 @@
+{
+ "missionId": "462",
+ "missionName": "Surfista afogado",
+ "requirements": [
+  {
+   "requirement": "capitanias necessárias:",
+   "qty": "4"
+  },
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de multi-transporte necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "equipas de patrulhamento costeiro necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "motos de água de reconhecimento, socorro e transporte necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "version": "242153723394424483342866385075908199858",
+ "credits": "1000"
+}

@@ -1,0 +1,32 @@
+{
+ "missionId": "464",
+ "missionName": "Ataque de tubarão",
+ "requirements": [
+  {
+   "requirement": "capitanias necessárias:",
+   "qty": "3"
+  },
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "veículos de multi-transporte necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "equipas de patrulhamento costeiro necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "motos de água de reconhecimento, socorro e transporte necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "version": "54780461721596998886863022732261807787",
+ "credits": "1000"
+}

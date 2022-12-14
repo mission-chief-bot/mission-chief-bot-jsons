@@ -1,33 +1,21 @@
 {
- "missionId": "454",
- "missionName": "Camião Submerso",
+ "missionId": "456",
+ "missionName": "Acidente de Mergulho",
  "requirements": [
   {
    "requirement": "expansões de resgate aquático necessárias:",
-   "qty": "3"
+   "qty": "1"
   },
   {
    "requirement": "postos pem/aem necessários:",
    "qty": "1"
   },
   {
-   "requirement": "carros de patrulha necessários:",
-   "qty": "3"
-  },
-  {
    "requirement": "embarcações de reconhecimento, socorro e transporte necessárias:",
-   "qty": "3"
+   "qty": "1"
   },
   {
    "requirement": "veículos de apoio a merguladores necessários:",
-   "qty": "3"
-  },
-  {
-   "requirement": "veículos de combate a incêndios necessários:",
-   "qty": "5"
-  },
-  {
-   "requirement": "veículos de comando tático necessários:",
    "qty": "1"
   },
   {
@@ -35,6 +23,6 @@
    "qty": "1"
   }
  ],
- "version": "264167355695451203007863164720524031513",
- "credits": "2000"
+ "version": "255604762249627875888065778415777432085",
+ "credits": "1000"
 }

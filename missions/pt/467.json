@@ -1,0 +1,24 @@
+{
+ "missionId": "467",
+ "missionName": "Busca e salvamento em águas profundas",
+ "requirements": [
+  {
+   "requirement": "capitanias necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "botes de patrulhamento necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "3"
+  }
+ ],
+ "version": "339776521496348450218331264564720053997",
+ "credits": "4000"
+}
