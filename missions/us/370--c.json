@@ -1,0 +1,24 @@
+{
+ "missionId": "370/c",
+ "missionName": "Large Wildfire",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "3"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "4"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "6"
+  }
+ ],
+ "version": "169331644882733601615672316907282581135",
+ "credits": "12000"
+}

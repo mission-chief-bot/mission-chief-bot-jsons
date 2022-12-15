@@ -1,0 +1,40 @@
+{
+ "missionId": "370/bd",
+ "missionName": "Large Wildfire",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "3"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "80x Hotshot"
+  },
+  {
+   "requirement": "wildland commando extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "4"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "wildland mccs",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "40x Hotshot"
+  }
+ ],
+ "version": "306191825805494433411113471876656877943",
+ "credits": "8900"
+}

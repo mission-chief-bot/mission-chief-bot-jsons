@@ -1,0 +1,24 @@
+{
+ "missionId": "369/b",
+ "missionName": "Medium Wildfire",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "4"
+  }
+ ],
+ "version": "233956625744690238797840964655246692173",
+ "credits": "5000"
+}
