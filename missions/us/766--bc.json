@@ -3,10 +3,7 @@
  "missionName": "Light Aircraft Crash in Wildland",
  "requirements": [
   
-  {
-   "requirement": "smoke jumper teams",
-   "qty": "1"
-  },
+  
   
   {
    "requirement": "firetrucks",

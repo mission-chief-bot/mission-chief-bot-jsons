@@ -3,15 +3,9 @@
  "missionName": "Large Aircraft Crash in Wildland",
  "requirements": [
   
-  {
-   "requirement": "foam extensions",
-   "qty": "1"
-  },
   
-  {
-   "requirement": "smoke jumper teams",
-   "qty": "1"
-  },
+  
+  
   
   
   {

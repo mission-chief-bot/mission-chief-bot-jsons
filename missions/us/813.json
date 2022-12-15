@@ -3,10 +3,7 @@
  "missionName": "Dam break",
  "requirements": [
   
-  {
-   "requirement": "smoke jumper teams",
-   "qty": "1"
-  },
+  
   
   {
    "requirement": "firetrucks",
