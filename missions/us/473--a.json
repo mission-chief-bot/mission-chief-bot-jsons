@@ -3,10 +3,7 @@
  "missionName": "Major wildfire cleanup",
  "requirements": [
   
-  {
-   "requirement": "personnel available",
-   "qty": "120x Hotshot"
-  },
+  
   {
    "requirement": "wildland fire engines",
    "qty": "10"

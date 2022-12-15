@@ -3,18 +3,9 @@
  "missionName": "Major Forest Fire",
  "requirements": [
   
-  {
-   "requirement": "personnel available",
-   "qty": "160x Hotshot"
-  },
-  {
-   "requirement": "wildland air command extensions",
-   "qty": "1"
-  },
-  {
-   "requirement": "wildland commando extensions",
-   "qty": "1"
-  },
+  
+  
+  
   {
    "requirement": "wildland fire engines",
    "qty": "10"

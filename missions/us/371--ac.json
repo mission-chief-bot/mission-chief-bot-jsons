@@ -3,10 +3,7 @@
  "missionName": "Major Wildfire",
  "requirements": [
   
-  {
-   "requirement": "personnel available",
-   "qty": "120x Hotshot"
-  },
+  
   {
    "requirement": "battalion chief vehicles",
    "qty": "3"

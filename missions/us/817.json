@@ -3,10 +3,7 @@
  "missionName": "Large Rapid Wildfire",
  "requirements": [
   
-  {
-   "requirement": "wildland commando extensions",
-   "qty": "1"
-  },
+  
   {
    "requirement": "smoke jumper teams",
    "qty": "1"

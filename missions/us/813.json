@@ -2,10 +2,7 @@
  "missionId": "813",
  "missionName": "Dam break",
  "requirements": [
-  {
-   "requirement": "wildland commando extensions",
-   "qty": "2"
-  },
+  
   {
    "requirement": "smoke jumper teams",
    "qty": "1"

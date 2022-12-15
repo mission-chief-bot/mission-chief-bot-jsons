@@ -3,10 +3,7 @@
  "missionName": "Large Forest Fire",
  "requirements": [
   
-  {
-   "requirement": "personnel available",
-   "qty": "120x Hotshot"
-  },
+  
   {
    "requirement": "wildland fire engines",
    "qty": "8"

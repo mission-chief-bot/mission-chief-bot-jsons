@@ -2,10 +2,7 @@
  "missionId": "812",
  "missionName": "Dam threatens to break",
  "requirements": [
-  {
-   "requirement": "wildland commando extensions",
-   "qty": "1"
-  },
+  
   {
    "requirement": "firetrucks",
    "qty": "8"

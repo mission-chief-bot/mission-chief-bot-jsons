@@ -3,14 +3,8 @@
  "missionName": "Major Rapid Wildfire",
  "requirements": [
   
-  {
-   "requirement": "wildland commando extensions",
-   "qty": "1"
-  },
-  {
-   "requirement": "smoke jumper teams",
-   "qty": "2"
-  },
+  
+  
   
   {
    "requirement": "battalion chief vehicles",

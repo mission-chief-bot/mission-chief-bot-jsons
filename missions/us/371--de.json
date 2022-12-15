@@ -3,14 +3,8 @@
  "missionName": "Major Wildfire",
  "requirements": [
   
-  {
-   "requirement": "wildland commando extensions",
-   "qty": "1"
-  },
-  {
-   "requirement": "wildland air command extensions",
-   "qty": "1"
-  },
+  
+  
   {
    "requirement": "battalion chief vehicles",
    "qty": "3"
