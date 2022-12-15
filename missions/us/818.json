@@ -1,0 +1,52 @@
+{
+ "missionId": "818",
+ "missionName": "Major Rapid Wildfire",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "3"
+  },
+  {
+   "requirement": "wildland commando extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "smoke jumper teams",
+   "qty": "2"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "80x Hotshot"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland mccs",
+   "qty": "2"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "3"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "wildland lead planes",
+   "qty": "1"
+  },
+  {
+   "requirement": "smoke jumpers (in smoke jumper planes)",
+   "qty": "40"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "40x Hotshot"
+  }
+ ],
+ "version": "239647571852392329405160177268561189264",
+ "credits": "13200"
+}

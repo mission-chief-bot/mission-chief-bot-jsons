@@ -1,0 +1,44 @@
+{
+ "missionId": "812",
+ "missionName": "Dam threatens to break",
+ "requirements": [
+  {
+   "requirement": "wildland commando extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "8"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "3"
+  },
+  {
+   "requirement": "wildland mccs",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "light boats",
+   "qty": "2"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "5"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  }
+ ],
+ "version": "261860498599407735068205572412808146319",
+ "credits": "12500"
+}

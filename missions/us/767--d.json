@@ -1,0 +1,64 @@
+{
+ "missionId": "767/d",
+ "missionName": "Large Aircraft Crash in Wildland",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "2"
+  },
+  {
+   "requirement": "foam extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland commando extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "8"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "0"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "4"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland mccs",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "40"
+  }
+ ],
+ "version": "97148432350513311937937246548246716381",
+ "credits": "6900"
+}

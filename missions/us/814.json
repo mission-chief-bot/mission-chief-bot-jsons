@@ -1,0 +1,20 @@
+{
+ "missionId": "814",
+ "missionName": "Smoke Sighting",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  }
+ ],
+ "version": "254419637981141582954959215167699049432",
+ "credits": "1600"
+}

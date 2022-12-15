@@ -1,0 +1,52 @@
+{
+ "missionId": "766/c",
+ "missionName": "Light Aircraft Crash in Wildland",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland air command extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "6"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "3"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland lead planes",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "version": "206350867675409439706248006492903756947",
+ "credits": "9400"
+}

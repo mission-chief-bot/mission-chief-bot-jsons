@@ -1,0 +1,72 @@
+{
+ "missionId": "767/bc",
+ "missionName": "Large Aircraft Crash in Wildland",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "2"
+  },
+  {
+   "requirement": "foam extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "smoke jumper teams",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland air command extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "8"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "4"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "sheriffs",
+   "qty": "1"
+  },
+  {
+   "requirement": "smoke jumpers (in smoke jumper planes)",
+   "qty": "20"
+  },
+  {
+   "requirement": "wildland lead planes",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "40"
+  }
+ ],
+ "version": "326303363080276734785757030461737493605",
+ "credits": "11650"
+}

@@ -1,0 +1,68 @@
+{
+ "missionId": "813",
+ "missionName": "Dam break",
+ "requirements": [
+  {
+   "requirement": "wildland commando extensions",
+   "qty": "2"
+  },
+  {
+   "requirement": "smoke jumper teams",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "20x Hotshot"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "35"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "6"
+  },
+  {
+   "requirement": "wildland mccs",
+   "qty": "2"
+  },
+  {
+   "requirement": "platform trucks",
+   "qty": "3"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "4"
+  },
+  {
+   "requirement": "light boats",
+   "qty": "6"
+  },
+  {
+   "requirement": "police helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "6"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "8"
+  },
+  {
+   "requirement": "smoke jumpers (in smoke jumper planes)",
+   "qty": "20"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "10x Hotshot"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "15"
+  }
+ ],
+ "version": "206999876647285846427530969025735145221",
+ "credits": "35500"
+}

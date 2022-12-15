@@ -1,0 +1,52 @@
+{
+ "missionId": "766/b",
+ "missionName": "Light Aircraft Crash in Wildland",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "1"
+  },
+  {
+   "requirement": "smoke jumper teams",
+   "qty": "1"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "6"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "heavy rescue vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "hazmat vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "3"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "smoke jumpers (in smoke jumper planes)",
+   "qty": "20"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "version": "317450257778453796970863657090591886638",
+ "credits": "8750"
+}
