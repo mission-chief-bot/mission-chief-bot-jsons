@@ -1,0 +1,28 @@
+{
+ "missionId": "471/a",
+ "missionName": "Medium wildfire cleanup",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "2"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "40x Hotshot"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "4"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "20x Hotshot"
+  }
+ ],
+ "version": "232110665564214062884058608015171017550",
+ "credits": "3000"
+}

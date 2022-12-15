@@ -1,0 +1,36 @@
+{
+ "missionId": "473/a",
+ "missionName": "Major wildfire cleanup",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "2"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "120x Hotshot"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "10"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "60x Hotshot"
+  }
+ ],
+ "version": "113628801255459140262283499557058066048",
+ "credits": "12500"
+}
