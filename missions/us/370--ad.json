@@ -2,10 +2,7 @@
  "missionId": "370/ad",
  "missionName": "Large Wildfire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "3"
-  },
+  
   {
    "requirement": "wildland commando extensions",
    "qty": "1"

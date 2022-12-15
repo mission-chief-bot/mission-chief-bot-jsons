@@ -2,10 +2,7 @@
  "missionId": "371/abd",
  "missionName": "Major Wildfire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "4"
-  },
+  
   {
    "requirement": "battalion chief vehicles",
    "qty": "3"

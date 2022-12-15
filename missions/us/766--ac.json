@@ -2,14 +2,8 @@
  "missionId": "766/ac",
  "missionName": "Light Aircraft Crash in Wildland",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "1"
-  },
-  {
-   "requirement": "personnel available",
-   "qty": "40x Hotshot"
-  },
+  
+  
   {
    "requirement": "wildland air command extensions",
    "qty": "1"
@@ -49,10 +43,6 @@
   {
    "requirement": "max. patients",
    "qty": "4"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "20x Hotshot"
   }
  ],
  "version": "229240570109121347711414678406125886247",

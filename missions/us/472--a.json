@@ -2,14 +2,8 @@
  "missionId": "472/a",
  "missionName": "Large wildfire cleanup",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "2"
-  },
-  {
-   "requirement": "personnel available",
-   "qty": "80x Hotshot"
-  },
+  
+  
   {
    "requirement": "wildland fire engines",
    "qty": "7"
@@ -21,10 +15,6 @@
   {
    "requirement": "battalion chief vehicles",
    "qty": "1"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "40x Hotshot"
   }
  ],
  "version": "286431540441013368279655749428564393935",

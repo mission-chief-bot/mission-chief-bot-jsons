@@ -2,14 +2,8 @@
  "missionId": "815",
  "missionName": "Small Rapid Wildfire",
  "requirements": [
-  {
-   "requirement": "personnel available",
-   "qty": "20x Hotshot"
-  },
-  {
-   "requirement": "forestry expansions",
-   "qty": "3"
-  },
+  
+  
   {
    "requirement": "water tankers",
    "qty": "1"
@@ -17,10 +11,6 @@
   {
    "requirement": "wildland fire engines",
    "qty": "1"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "10x Hotshot"
   }
  ],
  "version": "33498188763722683203011913188808320851",

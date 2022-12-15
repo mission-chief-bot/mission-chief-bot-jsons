@@ -2,14 +2,8 @@
  "missionId": "369/ab",
  "missionName": "Medium Wildfire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "2"
-  },
-  {
-   "requirement": "personnel available",
-   "qty": "40x Hotshot"
-  },
+  
+  
   {
    "requirement": "battalion chief vehicles",
    "qty": "1"
@@ -25,10 +19,6 @@
   {
    "requirement": "fire investigation units",
    "qty": "1"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "20x Hotshot"
   }
  ],
  "version": "122435646345769072690387556591228478337",

@@ -2,10 +2,7 @@
  "missionId": "371/bd",
  "missionName": "Major Wildfire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "4"
-  },
+  
   {
    "requirement": "smoke jumper teams",
    "qty": "2"

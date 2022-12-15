@@ -2,10 +2,7 @@
  "missionId": "371/abce",
  "missionName": "Major Wildfire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "4"
-  },
+  
   {
    "requirement": "smoke jumper teams",
    "qty": "2"
@@ -49,10 +46,6 @@
   {
    "requirement": "wildland lead planes",
    "qty": "1"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "60x Hotshot"
   }
  ],
  "version": "267881626456592952854114240018147008766",

@@ -2,10 +2,7 @@
  "missionId": "395/c",
  "missionName": "Major Forest Fire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "7"
-  },
+  
   {
    "requirement": "wildland air command extensions",
    "qty": "1"

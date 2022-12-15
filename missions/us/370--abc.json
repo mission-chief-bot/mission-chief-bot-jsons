@@ -2,10 +2,7 @@
  "missionId": "370/abc",
  "missionName": "Large Wildfire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "3"
-  },
+  
   {
    "requirement": "battalion chief vehicles",
    "qty": "2"

@@ -2,10 +2,7 @@
  "missionId": "767/cd",
  "missionName": "Large Aircraft Crash in Wildland",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "2"
-  },
+  
   {
    "requirement": "foam extensions",
    "qty": "1"

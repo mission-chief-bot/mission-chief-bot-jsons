@@ -2,10 +2,7 @@
  "missionId": "814",
  "missionName": "Smoke Sighting",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "1"
-  },
+  
   {
    "requirement": "wildland fire engines",
    "qty": "1"

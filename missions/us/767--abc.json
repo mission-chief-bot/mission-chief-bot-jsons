@@ -2,18 +2,12 @@
  "missionId": "767/abc",
  "missionName": "Large Aircraft Crash in Wildland",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "2"
-  },
+  
   {
    "requirement": "foam extensions",
    "qty": "1"
   },
-  {
-   "requirement": "personnel available",
-   "qty": "80x Hotshot"
-  },
+  
   {
    "requirement": "smoke jumper teams",
    "qty": "1"
@@ -69,10 +63,6 @@
   {
    "requirement": "max. patients",
    "qty": "40"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "40x Hotshot"
   }
  ],
  "version": "250782995899917267054215866504285207951",

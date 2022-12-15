@@ -10,10 +10,7 @@
    "requirement": "smoke jumper teams",
    "qty": "1"
   },
-  {
-   "requirement": "personnel available",
-   "qty": "20x Hotshot"
-  },
+  
   {
    "requirement": "firetrucks",
    "qty": "35"
@@ -53,10 +50,6 @@
   {
    "requirement": "smoke jumpers (in smoke jumper planes)",
    "qty": "20"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "10x Hotshot"
   },
   {
    "requirement": "max. patients",

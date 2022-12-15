@@ -2,10 +2,7 @@
  "missionId": "395/d",
  "missionName": "Major Forest Fire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "7"
-  },
+  
   {
    "requirement": "wildland fire engines",
    "qty": "10"

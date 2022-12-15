@@ -2,10 +2,7 @@
  "missionId": "371/ac",
  "missionName": "Major Wildfire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "4"
-  },
+  
   {
    "requirement": "personnel available",
    "qty": "120x Hotshot"
@@ -33,10 +30,6 @@
   {
    "requirement": "fire investigation units",
    "qty": "2"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "60x Hotshot"
   }
  ],
  "version": "157087149090138610123735865169613389439",

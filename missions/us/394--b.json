@@ -2,10 +2,7 @@
  "missionId": "394/b",
  "missionName": "Large Forest Fire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "5"
-  },
+  
   {
    "requirement": "personnel available",
    "qty": "120x Hotshot"
@@ -25,10 +22,6 @@
   {
    "requirement": "water tankers",
    "qty": "3"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "60x Hotshot"
   }
  ],
  "version": "270530607058897843486321465661913271822",

@@ -2,10 +2,7 @@
  "missionId": "393/b",
  "missionName": "Medium forest fire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "3"
-  },
+  
   {
    "requirement": "wildland fire engines",
    "qty": "5"

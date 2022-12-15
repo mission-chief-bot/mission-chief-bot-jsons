@@ -2,10 +2,7 @@
  "missionId": "395/abc",
  "missionName": "Major Forest Fire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "7"
-  },
+  
   {
    "requirement": "personnel available",
    "qty": "160x Hotshot"
@@ -45,10 +42,6 @@
   {
    "requirement": "wildland lead planes",
    "qty": "1"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "80x Hotshot"
   }
  ],
  "version": "6573737712812487736513210092619599970",

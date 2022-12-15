@@ -2,10 +2,7 @@
  "missionId": "766/b",
  "missionName": "Light Aircraft Crash in Wildland",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "1"
-  },
+  
   {
    "requirement": "smoke jumper teams",
    "qty": "1"

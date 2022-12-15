@@ -2,10 +2,7 @@
  "missionId": "395/abd",
  "missionName": "Major Forest Fire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "7"
-  },
+  
   {
    "requirement": "personnel available",
    "qty": "160x Hotshot"
@@ -45,10 +42,6 @@
   {
    "requirement": "wildland mccs",
    "qty": "1"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "80x Hotshot"
   }
  ],
  "version": "283850564156515756973246818036384294158",

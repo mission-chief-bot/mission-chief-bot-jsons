@@ -2,10 +2,7 @@
  "missionId": "394/ac",
  "missionName": "Large Forest Fire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "5"
-  },
+  
   {
    "requirement": "wildland fire engines",
    "qty": "8"

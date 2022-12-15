@@ -2,10 +2,7 @@
  "missionId": "766/c",
  "missionName": "Light Aircraft Crash in Wildland",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "1"
-  },
+  
   {
    "requirement": "wildland air command extensions",
    "qty": "1"

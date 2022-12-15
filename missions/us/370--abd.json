@@ -2,14 +2,8 @@
  "missionId": "370/abd",
  "missionName": "Large Wildfire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "3"
-  },
-  {
-   "requirement": "personnel available",
-   "qty": "80x Hotshot"
-  },
+  
+  
   {
    "requirement": "wildland commando extensions",
    "qty": "1"
@@ -33,10 +27,6 @@
   {
    "requirement": "wildland mccs",
    "qty": "1"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "40x Hotshot"
   }
  ],
  "version": "217740444308212108123814906626230178508",

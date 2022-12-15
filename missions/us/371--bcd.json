@@ -2,10 +2,7 @@
  "missionId": "371/bcd",
  "missionName": "Major Wildfire",
  "requirements": [
-  {
-   "requirement": "forestry expansions",
-   "qty": "4"
-  },
+  
   {
    "requirement": "smoke jumper teams",
    "qty": "2"
@@ -45,10 +42,6 @@
   {
    "requirement": "wildland mccs",
    "qty": "1"
-  },
-  {
-   "requirement": "personnel",
-   "qty": "60x Hotshot"
   }
  ],
  "version": "49189450523757647879126175823248425004",
