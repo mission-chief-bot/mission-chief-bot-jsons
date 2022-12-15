@@ -1,0 +1,56 @@
+{
+ "missionId": "395/abd",
+ "missionName": "Major Forest Fire",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "7"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "160x Hotshot"
+  },
+  {
+   "requirement": "wildland commando extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "10"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "7"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "airborne firefighting vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland mccs",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "80x Hotshot"
+  }
+ ],
+ "version": "283850564156515756973246818036384294158",
+ "credits": "15400"
+}

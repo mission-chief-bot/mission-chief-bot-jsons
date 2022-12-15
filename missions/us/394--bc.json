@@ -1,0 +1,28 @@
+{
+ "missionId": "394/bc",
+ "missionName": "Large Forest Fire",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "5"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "8"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "5"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "3"
+  }
+ ],
+ "version": "191751430824570362422065441137129618856",
+ "credits": "13900"
+}

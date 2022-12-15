@@ -1,10 +1,14 @@
 {
- "missionId": "371/c",
+ "missionId": "371/ab",
  "missionName": "Major Wildfire",
  "requirements": [
   {
    "requirement": "forestry expansions",
    "qty": "4"
+  },
+  {
+   "requirement": "smoke jumper teams",
+   "qty": "2"
   },
   {
    "requirement": "battalion chief vehicles",
@@ -25,8 +29,16 @@
   {
    "requirement": "wildland fire engines",
    "qty": "8"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  },
+  {
+   "requirement": "smoke jumpers (in smoke jumper planes)",
+   "qty": "40"
   }
  ],
- "version": "151237155304120900612965159860579817254",
- "credits": "13000"
+ "version": "140061035139378687046657919341265677356",
+ "credits": "16500"
 }

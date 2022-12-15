@@ -1,0 +1,36 @@
+{
+ "missionId": "395/cd",
+ "missionName": "Major Forest Fire",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "7"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "10"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "7"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "airborne firefighting vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  }
+ ],
+ "version": "284302432203540344391631165045501191385",
+ "credits": "14300"
+}

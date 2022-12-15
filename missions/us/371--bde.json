@@ -1,0 +1,56 @@
+{
+ "missionId": "371/bde",
+ "missionName": "Major Wildfire",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "4"
+  },
+  {
+   "requirement": "smoke jumper teams",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland commando extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland air command extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "0"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "8"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "8"
+  },
+  {
+   "requirement": "smoke jumpers (in smoke jumper planes)",
+   "qty": "40"
+  },
+  {
+   "requirement": "wildland mccs",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland lead planes",
+   "qty": "1"
+  }
+ ],
+ "version": "102549385845536284360786009017030361692",
+ "credits": "18800"
+}

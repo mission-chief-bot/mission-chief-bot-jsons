@@ -1,0 +1,48 @@
+{
+ "missionId": "394/abc",
+ "missionName": "Large Forest Fire",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "5"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "120x Hotshot"
+  },
+  {
+   "requirement": "wildland air command extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "8"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "5"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "3"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland lead planes",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "60x Hotshot"
+  }
+ ],
+ "version": "107675034974971545959529070604254484664",
+ "credits": "14900"
+}

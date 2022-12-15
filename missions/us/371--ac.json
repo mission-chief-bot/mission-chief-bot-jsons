@@ -1,10 +1,14 @@
 {
- "missionId": "371/c",
+ "missionId": "371/ac",
  "missionName": "Major Wildfire",
  "requirements": [
   {
    "requirement": "forestry expansions",
    "qty": "4"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "120x Hotshot"
   },
   {
    "requirement": "battalion chief vehicles",
@@ -25,8 +29,16 @@
   {
    "requirement": "wildland fire engines",
    "qty": "8"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "60x Hotshot"
   }
  ],
- "version": "151237155304120900612965159860579817254",
- "credits": "13000"
+ "version": "157087149090138610123735865169613389439",
+ "credits": "14000"
 }

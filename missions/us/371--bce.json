@@ -1,5 +1,5 @@
 {
- "missionId": "371/c",
+ "missionId": "371/bce",
  "missionName": "Major Wildfire",
  "requirements": [
   {
@@ -27,6 +27,6 @@
    "qty": "8"
   }
  ],
- "version": "151237155304120900612965159860579817254",
- "credits": "13000"
+ "version": "92554009707267864984713300763218056460",
+ "credits": "21400"
 }

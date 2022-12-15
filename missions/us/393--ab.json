@@ -1,0 +1,36 @@
+{
+ "missionId": "393/ab",
+ "missionName": "Medium forest fire",
+ "requirements": [
+  {
+   "requirement": "forestry expansions",
+   "qty": "3"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "40x Hotshot"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "5"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "20x Hotshot"
+  }
+ ],
+ "version": "154025208961774973258986936064537456666",
+ "credits": "7000"
+}
