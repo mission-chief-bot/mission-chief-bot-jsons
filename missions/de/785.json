@@ -1,0 +1,12 @@
+{
+ "missionId": "785",
+ "missionName": "Diebstahl von Weihnachtsgeschenken in Einkaufszentrum",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "3"
+  }
+ ],
+ "version": "90526133862069906197597895701864248993",
+ "credits": "300"
+}

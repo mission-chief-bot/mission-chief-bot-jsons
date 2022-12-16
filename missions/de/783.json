@@ -1,0 +1,20 @@
+{
+ "missionId": "783",
+ "missionName": "Brennende Weihnachtsdekoration",
+ "requirements": [
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "2"
+  }
+ ],
+ "version": "28845769995379346816208921559849319088",
+ "credits": "300"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "786",
+ "missionName": "Weihnachtsmann-Schlitten blockiert Straße",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  }
+ ],
+ "version": "2589065045674586714609332988401149938",
+ "credits": "300"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "784",
+ "missionName": "Gestohlener Weihnachtsbaum",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  }
+ ],
+ "version": "155323268527851100230593866108397659442",
+ "credits": "300"
+}
