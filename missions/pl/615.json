@@ -3,10 +3,6 @@
  "missionName": "Uwięziony pies",
  "requirements": [
   {
-   "requirement": "rozbudowy poszukiwawczo - ratownicze",
-   "qty": "1"
-  },
-  {
    "requirement": "samochody pożarnicze",
    "qty": "2"
   },
