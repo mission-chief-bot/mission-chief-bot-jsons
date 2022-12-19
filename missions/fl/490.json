@@ -1,0 +1,12 @@
+{
+ "missionId": "490",
+ "missionName": "Vesiliikenneonnettomuus merellä (pieni)",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "4"
+  }
+ ],
+ "version": "12187205857290694109340157454599225045",
+ "credits": "1500"
+}
