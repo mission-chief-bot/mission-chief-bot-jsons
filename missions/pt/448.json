@@ -1,0 +1,24 @@
+{
+ "missionId": "448",
+ "missionName": "Ataque de animal selvagem",
+ "requirements": [
+  {
+   "requirement": "postos pem/aem necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "4"
+  },
+  {
+   "requirement": "ambulâncias de socorro necessárias:",
+   "qty": "2"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "2"
+  }
+ ],
+ "version": "23288841616096102009235284013230726737",
+ "credits": "1250"
+}
