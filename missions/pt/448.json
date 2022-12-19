@@ -3,10 +3,6 @@
  "missionName": "Ataque de animal selvagem",
  "requirements": [
   {
-   "requirement": "postos pem/aem necessários:",
-   "qty": "5"
-  },
-  {
    "requirement": "carros de patrulha necessários:",
    "qty": "4"
   },
