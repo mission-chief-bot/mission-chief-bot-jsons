@@ -1,0 +1,36 @@
+{
+ "missionId": "615",
+ "missionName": "Uwięziony pies",
+ "requirements": [
+  {
+   "requirement": "rozbudowy poszukiwawczo - ratownicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody ratownictwa technicznego",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody poszukiwawczo - ratownicze",
+   "qty": "1"
+  },
+  {
+   "requirement": "personel",
+   "qty": "5x Ratownictwo poszukiwawczo - ratownicze"
+  }
+ ],
+ "version": "129499062075266706345516097748023593112",
+ "credits": "1860"
+}
