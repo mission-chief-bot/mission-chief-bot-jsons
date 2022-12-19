@@ -1,0 +1,16 @@
+{
+ "missionId": "397",
+ "missionName": "バス停留所での暴行",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "2"
+  }
+ ],
+ "version": "284380535335628315210209226715984680575",
+ "credits": "3125"
+}

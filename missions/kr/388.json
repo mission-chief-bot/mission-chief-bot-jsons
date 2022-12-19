@@ -1,0 +1,24 @@
+{
+ "missionId": "388",
+ "missionName": "버스 정류장에서의 폭행",
+ "requirements": [
+  {
+   "requirement": "경찰 및 공공 안전",
+   "qty": "1"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "3"
+  },
+  {
+   "requirement": "swat 대원",
+   "qty": "6"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "2"
+  }
+ ],
+ "version": "2744637030152232489180604929648510331",
+ "credits": "3125"
+}
