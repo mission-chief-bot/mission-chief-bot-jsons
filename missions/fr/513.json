@@ -1,0 +1,12 @@
+{
+ "missionId": "513",
+ "missionName": "Vol de carburant",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  }
+ ],
+ "version": "90628127622483754527309162969158515543",
+ "credits": "800"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "470",
+ "missionName": "Sjunkande båt (liten)",
+ "requirements": [
+  {
+   "requirement": "mest patienter",
+   "qty": "4"
+  }
+ ],
+ "version": "51980679102046461999288082653933567462",
+ "credits": "1500"
+}

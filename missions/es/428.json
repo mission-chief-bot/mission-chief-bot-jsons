@@ -1,0 +1,20 @@
+{
+ "missionId": "428",
+ "missionName": "Accidente de carretilla elevadora",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "1"
+  },
+  {
+   "requirement": "furgones de útiles varios",
+   "qty": "1"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "2"
+  }
+ ],
+ "version": "127779107331682902413714796613040431902",
+ "credits": "1250"
+}

@@ -1,0 +1,20 @@
+{
+ "missionId": "457",
+ "missionName": "Overgrep på en bussholdeplass",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  },
+  {
+   "requirement": "hundepatruljer",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "2"
+  }
+ ],
+ "version": "36387859121664287250091817954590182709",
+ "credits": "3125"
+}
