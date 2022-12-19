@@ -1,0 +1,48 @@
+{
+ "missionId": "996",
+ "missionName": "Overval waardetransport",
+ "requirements": [
+  {
+   "requirement": "hondenbrigade uitbreidingen",
+   "qty": "1"
+  },
+  {
+   "requirement": "arrestatieteam uitbreidingen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "20"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "3"
+  },
+  {
+   "requirement": "db-av",
+   "qty": "1"
+  },
+  {
+   "requirement": "at operators",
+   "qty": "4"
+  },
+  {
+   "requirement": "at commandanten",
+   "qty": "1"
+  },
+  {
+   "requirement": "at materiaalwagens",
+   "qty": "1"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "3"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "2"
+  }
+ ],
+ "version": "126911992459790567696829830285314446993",
+ "credits": "13580"
+}
