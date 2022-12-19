@@ -1,0 +1,64 @@
+{
+ "missionId": "956-2",
+ "missionName": "Brand in station",
+ "requirements": [
+  {
+   "requirement": "hondenbrigade uitbreidingen",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  },
+  {
+   "requirement": "redvoertuigen",
+   "qty": "2"
+  },
+  {
+   "requirement": "adembeschermingsvoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "verkenningseenheden",
+   "qty": "3"
+  },
+  {
+   "requirement": "adviseurs gevaarlijke stoffen",
+   "qty": "1"
+  },
+  {
+   "requirement": "voorlichters",
+   "qty": "1"
+  },
+  {
+   "requirement": "ovd-b's",
+   "qty": "2"
+  },
+  {
+   "requirement": "hovd's",
+   "qty": "1"
+  },
+  {
+   "requirement": "commandowagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "8"
+  },
+  {
+   "requirement": "biketeams",
+   "qty": "2"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "2"
+  },
+  {
+   "requirement": "biketeams, indien beschikbaar",
+   "qty": "Ja"
+  }
+ ],
+ "version": "135684186361037816364520786078031627671",
+ "credits": "13220"
+}
