@@ -1,0 +1,16 @@
+{
+ "missionId": "820",
+ "missionName": "Industrial Fire Drill",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "1"
+  }
+ ],
+ "version": "1264439475372939568942306694093839771",
+ "credits": "3000"
+}
