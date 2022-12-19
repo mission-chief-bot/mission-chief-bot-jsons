@@ -3,10 +3,6 @@
  "missionName": "Brand in station",
  "requirements": [
   {
-   "requirement": "hondenbrigade uitbreidingen",
-   "qty": "1"
-  },
-  {
    "requirement": "tankautospuiten",
    "qty": "1"
   },
