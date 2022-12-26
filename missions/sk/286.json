@@ -1,5 +1,5 @@
 {
- "missionId": "180",
+ "missionId": "286",
  "missionName": "502 Bad Gateway",
  "requirements": [
   {
@@ -7,6 +7,6 @@
    "qty": 1
   }
  ],
- "version": "6183247729985697823449014237512070003",
- "credits": "100"
+ "version": "171944165380828707364131294048127123408",
+ "credits": "800"
 }
