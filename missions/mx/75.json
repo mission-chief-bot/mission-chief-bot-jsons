@@ -1,0 +1,12 @@
+{
+ "missionId": "75",
+ "missionName": "504 Gateway Time-out",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "282871762218784132451469813856248709136",
+ "credits": "350"
+}

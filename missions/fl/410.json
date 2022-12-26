@@ -1,0 +1,12 @@
+{
+ "missionId": "410",
+ "missionName": "502 Bad Gateway",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "183041325720450732242046741075925557695",
+ "credits": "250"
+}
