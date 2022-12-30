@@ -1,0 +1,20 @@
+{
+ "missionId": "91",
+ "missionName": "Pożar piwnicy wywołany fajerwerkami",
+ "requirements": [
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "3"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "170588840216091792346441892450806303952",
+ "credits": "2500"
+}

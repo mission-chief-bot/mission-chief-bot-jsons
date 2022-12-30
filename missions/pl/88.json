@@ -1,0 +1,12 @@
+{
+ "missionId": "88",
+ "missionName": "Pożar pojazdu wywołany fajerwerkami",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "327244602730518103995403560595698191999",
+ "credits": "370"
+}

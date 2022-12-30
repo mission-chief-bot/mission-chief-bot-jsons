@@ -1,0 +1,16 @@
+{
+ "missionId": "93",
+ "missionName": "Pożar balkonu wywołany fajerwerkami",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "sh lub sd",
+   "qty": "1"
+  }
+ ],
+ "version": "142647702753355953655994352265486690638",
+ "credits": "1500"
+}

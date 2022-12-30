@@ -1,0 +1,12 @@
+{
+ "missionId": "89",
+ "missionName": "Pożar gabarytów wywołany fajerwerkami",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "290808573160816972068503116438859819703",
+ "credits": "220"
+}

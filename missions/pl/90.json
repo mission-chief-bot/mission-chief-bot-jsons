@@ -1,0 +1,12 @@
+{
+ "missionId": "90",
+ "missionName": "Pożar małego pola wywołany fajerwerkami",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  }
+ ],
+ "version": "332408707999004571353912042172634966600",
+ "credits": "1000"
+}
