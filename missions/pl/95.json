@@ -1,0 +1,12 @@
+{
+ "missionId": "95",
+ "missionName": "Pożar żywopłotu podpalonego przez petardę",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "83940115314139689927060801339278642779",
+ "credits": "400"
+}

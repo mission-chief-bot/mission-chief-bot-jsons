@@ -1,0 +1,12 @@
+{
+ "missionId": "195",
+ "missionName": "35 Räjähderikkomus",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "version": "96936865688063968112850815976225654727",
+ "credits": "200"
+}

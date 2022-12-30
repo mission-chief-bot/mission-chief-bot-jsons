@@ -1,0 +1,12 @@
+{
+ "missionId": "192",
+ "missionName": "241 Juhlista ajoneuvolla juopuneena poistunut henkilö",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "version": "328001550484948298075673412219986850708",
+ "credits": "150"
+}

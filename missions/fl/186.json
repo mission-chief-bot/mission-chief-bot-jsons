@@ -1,0 +1,12 @@
+{
+ "missionId": "186",
+ "missionName": "421 Ilotulitteiden sytyttämä maastopalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "version": "237721223028425041547232037038172618412",
+ "credits": "1000"
+}

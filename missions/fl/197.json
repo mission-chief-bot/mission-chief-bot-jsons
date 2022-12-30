@@ -1,0 +1,16 @@
+{
+ "missionId": "197",
+ "missionName": "35 Ilotulitteiden säikyttämä eläin",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "version": "175813828505051590257837256688369811316",
+ "credits": "100"
+}

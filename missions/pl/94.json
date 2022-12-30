@@ -1,0 +1,12 @@
+{
+ "missionId": "94",
+ "missionName": "Płonące kontenery z papierem podpalone przez fajerwerki",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "1"
+  }
+ ],
+ "version": "51764429458043621539427816265974872828",
+ "credits": "400"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "203",
+ "missionName": "35 Laittomien ilotulitteiden käyttö",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "version": "11776861240238746147532785935070201925",
+ "credits": "800"
+}

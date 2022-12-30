@@ -1,0 +1,40 @@
+{
+ "missionId": "94/a",
+ "missionName": "Feu de chaumière causé par des feux d'artifice",
+ "requirements": [
+  {
+   "requirement": "extensions de soutien à incendie s",
+   "qty": "1"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "5"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "1"
+  },
+  {
+   "requirement": "assistance respiratoire e",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "2"
+  },
+  {
+   "requirement": "camions dévidoirs s",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "version": "329214718082993080406325148074234360225",
+ "credits": "4500"
+}

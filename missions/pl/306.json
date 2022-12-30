@@ -1,0 +1,12 @@
+{
+ "missionId": "306",
+ "missionName": "Atak padaczki spowodowany ogladaniem fajerweków",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "4081543631647322708625427290695450564",
+ "credits": "100"
+}

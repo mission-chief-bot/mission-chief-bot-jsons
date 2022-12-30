@@ -1,0 +1,20 @@
+{
+ "missionId": "187",
+ "missionName": "405 Ilotulitteiden sytyttämä kellaripalo",
+ "requirements": [
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "2"
+  }
+ ],
+ "version": "91421766419652252572615972788673458457",
+ "credits": "2500"
+}

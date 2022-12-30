@@ -1,0 +1,12 @@
+{
+ "missionId": "204",
+ "missionName": "35 Ilotulitteita ammuttu tielle",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "version": "232143238140200274357688047594407969336",
+ "credits": "300"
+}

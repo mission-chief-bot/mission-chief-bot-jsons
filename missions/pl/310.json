@@ -1,0 +1,16 @@
+{
+ "missionId": "310",
+ "missionName": "Wypadek spowodowany używaniem fajerwerków obok drogi",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "4"
+  }
+ ],
+ "version": "57428907727978592356932368165088238962",
+ "credits": "1200"
+}

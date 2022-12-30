@@ -1,0 +1,12 @@
+{
+ "missionId": "196",
+ "missionName": "747 Käsille räjähtänyt ilotulite",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "version": "45872506132257928554586760339605974582",
+ "credits": "100"
+}

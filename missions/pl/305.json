@@ -1,0 +1,12 @@
+{
+ "missionId": "305",
+ "missionName": "Osoba trafiona wybuchową racą",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "134431408719450788285447729876670032404",
+ "credits": "100"
+}

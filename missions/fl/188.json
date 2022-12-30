@@ -1,0 +1,12 @@
+{
+ "missionId": "188",
+ "missionName": "431 Ilotulitteiden sytyttämä linja-autokatospalo",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "version": "261205355287296418748551535001698219040",
+ "credits": "900"
+}

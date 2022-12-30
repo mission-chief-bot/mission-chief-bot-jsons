@@ -1,0 +1,12 @@
+{
+ "missionId": "201",
+ "missionName": "772 Ilotulitteiden katselusta johtuva sairaskohtaus",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "version": "233524143326334749600763256584848686441",
+ "credits": "100"
+}

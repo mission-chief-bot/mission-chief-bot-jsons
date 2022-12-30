@@ -1,0 +1,12 @@
+{
+ "missionId": "304",
+ "missionName": "Poranienie związane z niewłaściwym wykorzystaniem fajerwerków",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "3"
+  }
+ ],
+ "version": "141769763440323191956408984719552784153",
+ "credits": "100"
+}

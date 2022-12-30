@@ -1,0 +1,16 @@
+{
+ "missionId": "205",
+ "missionName": "201 Tielle heitettyjen ilotulitteiden aiheuttama kolari",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "4"
+  }
+ ],
+ "version": "169066024189751948528473002586023445325",
+ "credits": "1200"
+}

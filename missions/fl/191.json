@@ -1,0 +1,12 @@
+{
+ "missionId": "191",
+ "missionName": "421 Ilotulitteiden sytyttämä pensasaita",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "version": "303093210188775403056795544727434829340",
+ "credits": "400"
+}

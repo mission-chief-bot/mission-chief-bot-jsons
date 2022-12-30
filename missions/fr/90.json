@@ -1,0 +1,16 @@
+{
+ "missionId": "90",
+ "missionName": "Feu de balcon causé par des feux d'artifice",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "2"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "1"
+  }
+ ],
+ "version": "267334805783046561362300889600192983260",
+ "credits": "1500"
+}

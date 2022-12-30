@@ -1,0 +1,12 @@
+{
+ "missionId": "91",
+ "missionName": "Feu de container papier causé par des feux d'artifice",
+ "requirements": [
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "1"
+  }
+ ],
+ "version": "292229559440605763548054554467917995132",
+ "credits": "400"
+}

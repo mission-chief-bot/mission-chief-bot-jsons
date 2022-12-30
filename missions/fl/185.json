@@ -1,0 +1,12 @@
+{
+ "missionId": "185",
+ "missionName": "431 Ilotulitteiden sytyttämä jäteastia",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "version": "127463851989075045271807666381293450218",
+ "credits": "220"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "194",
+ "missionName": "15 Ilotulitteista johtuva ajoneuvovaurio",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "version": "305460026211932147750871663460530272997",
+ "credits": "200"
+}

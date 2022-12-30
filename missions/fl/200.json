@@ -1,0 +1,12 @@
+{
+ "missionId": "200",
+ "missionName": "747 Henkilöön osunut ilotulite",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "version": "153506838711117528361928810178296121888",
+ "credits": "100"
+}

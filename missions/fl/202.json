@@ -1,0 +1,12 @@
+{
+ "missionId": "202",
+ "missionName": "611 Järjestyksenvalvonta uudenvuodenaattona",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  }
+ ],
+ "version": "129240069984665716650797382181973668093",
+ "credits": "10000"
+}

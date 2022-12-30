@@ -1,0 +1,12 @@
+{
+ "missionId": "199",
+ "missionName": "747 Ilotulitteiden väärinkäytöstä johtuva vamma",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "3"
+  }
+ ],
+ "version": "246589993117135395145230584528117195944",
+ "credits": "100"
+}

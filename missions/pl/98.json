@@ -1,0 +1,12 @@
+{
+ "missionId": "98",
+ "missionName": "Uszkodzenie pojazdu wywołane fajerwerkami",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "309737235863656458476601155639613177512",
+ "credits": "200"
+}

@@ -1,0 +1,36 @@
+{
+ "missionId": "268/a",
+ "missionName": "Brennendes Reetdachhaus durch Feuerwerkskörper",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "5"
+  },
+  {
+   "requirement": "drehleitern",
+   "qty": "1"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "2"
+  }
+ ],
+ "version": "155312907042980650561909795262886036292",
+ "credits": "4600"
+}

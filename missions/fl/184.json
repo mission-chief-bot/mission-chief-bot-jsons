@@ -1,0 +1,12 @@
+{
+ "missionId": "184",
+ "missionName": "411 Ilotulitteiden sytyttämä auto",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "version": "135510421678934756868280887687760313143",
+ "credits": "370"
+}

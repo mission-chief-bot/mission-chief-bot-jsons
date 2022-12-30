@@ -1,0 +1,12 @@
+{
+ "missionId": "96",
+ "missionName": "Kierowca pijany po imprezie sylwestrowej",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  }
+ ],
+ "version": "70670051274530133497486373064590629670",
+ "credits": "150"
+}

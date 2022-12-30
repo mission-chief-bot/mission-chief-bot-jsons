@@ -1,0 +1,12 @@
+{
+ "missionId": "100",
+ "missionName": "Uraz ręki w wyniku użycia fajerwerków",
+ "requirements": [
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "64288107709566410540813032987379937410",
+ "credits": "100"
+}

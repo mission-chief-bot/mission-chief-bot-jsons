@@ -1,0 +1,12 @@
+{
+ "missionId": "190",
+ "missionName": "431 Ilotulitteiden sytyttämä paperiastia",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "version": "287963314395715654447872431882063973580",
+ "credits": "400"
+}

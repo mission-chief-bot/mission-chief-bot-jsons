@@ -1,0 +1,32 @@
+{
+ "missionId": "193",
+ "missionName": "403 Ilotulitteiden sytyttämä logistiikkakeskus",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "5"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "paineilmahuoltoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "2"
+  }
+ ],
+ "version": "190455950818561472736225325441870579861",
+ "credits": "4200"
+}

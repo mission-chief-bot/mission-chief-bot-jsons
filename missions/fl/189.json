@@ -1,0 +1,20 @@
+{
+ "missionId": "189",
+ "missionName": "402 Ilotulitteiden sytyttämä parvekepalo",
+ "requirements": [
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "paloautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "nostolava-autot",
+   "qty": "1"
+  }
+ ],
+ "version": "18193420487797374731509762701293913630",
+ "credits": "1500"
+}

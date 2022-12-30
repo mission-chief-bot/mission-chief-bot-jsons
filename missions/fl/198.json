@@ -1,0 +1,12 @@
+{
+ "missionId": "198",
+ "missionName": "747 Räjähtäneen suutarin aiheuttama vamma",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "2"
+  }
+ ],
+ "version": "91579090901190503314329109523373253986",
+ "credits": "100"
+}
