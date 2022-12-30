@@ -1,0 +1,12 @@
+{
+ "missionId": "702",
+ "missionName": "Gesabotteerde vuurwerkshow",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "4"
+  }
+ ],
+ "version": "163928362428146284062846951715782991482",
+ "credits": "2000"
+}

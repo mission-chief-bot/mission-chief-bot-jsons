@@ -1,0 +1,40 @@
+{
+ "missionId": "695-0",
+ "missionName": "Massenanfall beim Fondue essen (groß)",
+ "requirements": [
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "3"
+  },
+  {
+   "requirement": "elw 1",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-a",
+   "qty": "1"
+  },
+  {
+   "requirement": "gw-mess",
+   "qty": "1"
+  },
+  {
+   "requirement": "dekon-p",
+   "qty": "1"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "6"
+  },
+  {
+   "requirement": "rüstwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "70"
+  }
+ ],
+ "version": "274051639800037617345897751521104481589",
+ "credits": "5000"
+}
