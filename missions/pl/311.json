@@ -1,0 +1,12 @@
+{
+ "missionId": "311",
+ "missionName": "Sabotowana fajerwerka",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  }
+ ],
+ "version": "103878562124731113859127745709647393812",
+ "credits": "2000"
+}

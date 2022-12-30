@@ -1,0 +1,12 @@
+{
+ "missionId": "534",
+ "missionName": "Brandende heg door vuurwerk",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "version": "261195237713000853407211619573904118845",
+ "credits": "500"
+}

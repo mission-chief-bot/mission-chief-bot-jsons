@@ -1,0 +1,16 @@
+{
+ "missionId": "530",
+ "missionName": "Kelderbrand door vuurwerk",
+ "requirements": [
+  {
+   "requirement": "ovd-b's",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankautospuiten",
+   "qty": "3"
+  }
+ ],
+ "version": "205475324291339561350697705273589004800",
+ "credits": "1180"
+}

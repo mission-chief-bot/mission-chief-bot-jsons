@@ -1,0 +1,12 @@
+{
+ "missionId": "527",
+ "missionName": "Afval in brand door vuurwerk",
+ "requirements": [
+  {
+   "requirement": "tankautospuiten",
+   "qty": "1"
+  }
+ ],
+ "version": "173838998649081053164316876323312010502",
+ "credits": "500"
+}
