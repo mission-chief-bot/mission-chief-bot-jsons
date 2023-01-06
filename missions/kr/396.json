@@ -1,0 +1,12 @@
+{
+ "missionId": "396",
+ "missionName": "스케이트 선수가 미끄러졌다",
+ "requirements": [
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "version": "206485168926877963367705336947696473820",
+ "credits": "100"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "484",
+ "missionName": "Slagsmål på frossen sø",
+ "requirements": [
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "2"
+  }
+ ],
+ "version": "310104109119927055828477594463344408842",
+ "credits": "650"
+}

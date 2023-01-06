@@ -1,0 +1,16 @@
+{
+ "missionId": "483",
+ "missionName": "Lejrbål sætter ild til brændeskur",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "42409499831027106604125182245343615040",
+ "credits": "500"
+}

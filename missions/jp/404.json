@@ -1,0 +1,16 @@
+{
+ "missionId": "404",
+ "missionName": "凍った湖での乱闘",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "2"
+  }
+ ],
+ "version": "166669747187049350466286921786500095284",
+ "credits": "650"
+}

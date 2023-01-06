@@ -1,0 +1,16 @@
+{
+ "missionId": "492",
+ "missionName": "Iceskater sklouzl",
+ "requirements": [
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "version": "86459288568901676825290580800629681497",
+ "credits": "100"
+}

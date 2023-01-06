@@ -1,0 +1,12 @@
+{
+ "missionId": "405",
+ "missionName": "アイススケーターが滑った",
+ "requirements": [
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "version": "20725737245487990942970526952515353789",
+ "credits": "100"
+}

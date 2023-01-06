@@ -1,0 +1,16 @@
+{
+ "missionId": "394",
+ "missionName": "장작불에 불을 붙인 모닥불",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "2"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "1"
+  }
+ ],
+ "version": "16360183790961274416743683995930365019",
+ "credits": "500"
+}

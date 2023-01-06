@@ -1,0 +1,16 @@
+{
+ "missionId": "403",
+ "missionName": "焚き火で薪小屋に火がつく",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "1"
+  }
+ ],
+ "version": "43968367836280937819831751506011788298",
+ "credits": "500"
+}

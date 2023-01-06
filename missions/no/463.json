@@ -1,0 +1,16 @@
+{
+ "missionId": "463",
+ "missionName": "Bål setter fyr i vedskjulet",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "version": "263950234933935299127140393867465305448",
+ "credits": "500"
+}

@@ -1,0 +1,16 @@
+{
+ "missionId": "490",
+ "missionName": "Táborák zapálí kůlnu",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "2"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "1"
+  }
+ ],
+ "version": "132633492187177049380549037535694628321",
+ "credits": "500"
+}

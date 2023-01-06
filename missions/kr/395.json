@@ -1,0 +1,16 @@
+{
+ "missionId": "395",
+ "missionName": "얼어붙은 호수에서의 싸움",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "2"
+  }
+ ],
+ "version": "175452105654530665417844319166751410520",
+ "credits": "650"
+}

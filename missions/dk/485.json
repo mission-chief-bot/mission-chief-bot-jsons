@@ -1,0 +1,12 @@
+{
+ "missionId": "485",
+ "missionName": "Iceskater gled ud",
+ "requirements": [
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "16847465682720987078884927945176653841",
+ "credits": "100"
+}

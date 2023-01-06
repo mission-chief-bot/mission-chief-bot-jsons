@@ -1,0 +1,12 @@
+{
+ "missionId": "406",
+ "missionName": "雪合戦をする",
+ "requirements": [
+  {
+   "requirement": "警察車両",
+   "qty": "1"
+  }
+ ],
+ "version": "7258881852094376715019492530780582300",
+ "credits": "550"
+}

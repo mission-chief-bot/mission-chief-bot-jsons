@@ -1,0 +1,12 @@
+{
+ "missionId": "397",
+ "missionName": "계속되는 눈싸움",
+ "requirements": [
+  {
+   "requirement": "경찰차",
+   "qty": "1"
+  }
+ ],
+ "version": "299661079222002095612275377056994012229",
+ "credits": "550"
+}
