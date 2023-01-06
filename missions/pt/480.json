@@ -1,0 +1,12 @@
+{
+ "missionId": "480",
+ "missionName": "Luta de bolas de neve em curso",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "1"
+  }
+ ],
+ "version": "282095800441819935511338654397383852591",
+ "credits": "550"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "498",
+ "missionName": "Jääpelaaja liukastui",
+ "requirements": [
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "version": "182810530627124637785416023429861569964",
+ "credits": "100"
+}

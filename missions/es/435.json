@@ -1,0 +1,12 @@
+{
+ "missionId": "435",
+ "missionName": "Pelea en un lago helado",
+ "requirements": [
+  {
+   "requirement": "coches patrulla",
+   "qty": "1"
+  }
+ ],
+ "version": "232494282901251389096331835446937321763",
+ "credits": "650"
+}

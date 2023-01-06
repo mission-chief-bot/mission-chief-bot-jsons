@@ -1,0 +1,16 @@
+{
+ "missionId": "476",
+ "missionName": "En lägereld sätter eld på en vedbod",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "335481276709847893733139611795012576185",
+ "credits": "500"
+}

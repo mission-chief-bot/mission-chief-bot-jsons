@@ -1,0 +1,12 @@
+{
+ "missionId": "499",
+ "missionName": "12 Lapset heittelevät lumipalloja ihmisten ja talojen päälle",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  }
+ ],
+ "version": "49747427136331885719739048554910181851",
+ "credits": "550"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "539",
+ "missionName": "Iceskater slipped",
+ "requirements": [
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "262920261297892153355469959460029190185",
+ "credits": "100"
+}

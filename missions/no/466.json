@@ -1,0 +1,12 @@
+{
+ "missionId": "466",
+ "missionName": "Snøballkamp pågår",
+ "requirements": [
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  }
+ ],
+ "version": "166201280518408577526657855502066480927",
+ "credits": "550"
+}

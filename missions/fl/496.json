@@ -1,0 +1,16 @@
+{
+ "missionId": "496",
+ "missionName": "401 Leirituli sytyttää puuvajan tuleen",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "1"
+  }
+ ],
+ "version": "250784346148243852875199713156115114189",
+ "credits": "500"
+}

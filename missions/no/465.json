@@ -1,0 +1,12 @@
+{
+ "missionId": "465",
+ "missionName": "Skøyteløper skled",
+ "requirements": [
+  {
+   "requirement": "maks pasienter",
+   "qty": "1"
+  }
+ ],
+ "version": "288525922684115802981273231509767439686",
+ "credits": "100"
+}

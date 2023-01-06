@@ -1,0 +1,12 @@
+{
+ "missionId": "576",
+ "missionName": "Lotta a palle di neve in corso",
+ "requirements": [
+  {
+   "requirement": "pattuglie",
+   "qty": "1"
+  }
+ ],
+ "version": "2573700333986594555701741427362230263",
+ "credits": "550"
+}

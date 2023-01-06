@@ -1,0 +1,16 @@
+{
+ "missionId": "573",
+ "missionName": "Un falò incendia la legnaia",
+ "requirements": [
+  {
+   "requirement": "aps/abp",
+   "qty": "2"
+  },
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "version": "248464275326007853872722333266182969928",
+ "credits": "500"
+}

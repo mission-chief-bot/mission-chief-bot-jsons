@@ -1,0 +1,16 @@
+{
+ "missionId": "517",
+ "missionName": "Bagarre sur un lac gelé",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "version": "257163648669473028562058607540697576721",
+ "credits": "650"
+}

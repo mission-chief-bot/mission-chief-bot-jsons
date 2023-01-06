@@ -1,0 +1,12 @@
+{
+ "missionId": "575",
+ "missionName": "Iceskater scivolato",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "version": "125582322469911137968316160432638980472",
+ "credits": "100"
+}

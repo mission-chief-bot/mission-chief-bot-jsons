@@ -1,0 +1,16 @@
+{
+ "missionId": "497",
+ "missionName": "12 Rähinä jäätyneellä järvellä",
+ "requirements": [
+  {
+   "requirement": "poliisiautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "2"
+  }
+ ],
+ "version": "220353665130641238451136961775552857634",
+ "credits": "650"
+}

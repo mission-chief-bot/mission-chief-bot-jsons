@@ -1,0 +1,12 @@
+{
+ "missionId": "434",
+ "missionName": "Una hoguera prende fuego a una leñera",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  }
+ ],
+ "version": "98710865984435128572494893240704099682",
+ "credits": "500"
+}

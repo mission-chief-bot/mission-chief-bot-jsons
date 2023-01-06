@@ -1,0 +1,12 @@
+{
+ "missionId": "519",
+ "missionName": "Bataille de boules de neige en cours",
+ "requirements": [
+  {
+   "requirement": "voitures de police es",
+   "qty": "1"
+  }
+ ],
+ "version": "267318521484474731634205186279699203224",
+ "credits": "550"
+}
