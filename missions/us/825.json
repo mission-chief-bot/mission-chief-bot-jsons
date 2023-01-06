@@ -1,0 +1,12 @@
+{
+ "missionId": "825",
+ "missionName": "Kids throwing snowballs on people and houses",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "version": "244967315791077823613276262414920808404",
+ "credits": "550"
+}

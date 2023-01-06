@@ -1,0 +1,16 @@
+{
+ "missionId": "618",
+ "missionName": "Bójka na zamarzniętym jeziorze",
+ "requirements": [
+  {
+   "requirement": "radiowozy",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "2"
+  }
+ ],
+ "version": "105563639193817571778840559603099617685",
+ "credits": "650"
+}

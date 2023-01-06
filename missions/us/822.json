@@ -1,0 +1,16 @@
+{
+ "missionId": "822",
+ "missionName": "Campfire sets woodshed on fire",
+ "requirements": [
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "7103762263886774248517927922101934336",
+ "credits": "500"
+}
