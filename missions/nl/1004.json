@@ -1,0 +1,12 @@
+{
+ "missionId": "1004",
+ "missionName": "Vechtpartij op bevroren meer",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "version": "290941152342434652461360779298765301995",
+ "credits": "500"
+}

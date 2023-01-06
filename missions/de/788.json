@@ -1,0 +1,16 @@
+{
+ "missionId": "788",
+ "missionName": "Schlägerei auf zugefrorenem See",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "1"
+  },
+  {
+   "requirement": "maximale patientenanzahl",
+   "qty": "2"
+  }
+ ],
+ "version": "104872505713494326475627285338498017757",
+ "credits": "650"
+}

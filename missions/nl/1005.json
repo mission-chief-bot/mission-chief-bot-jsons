@@ -1,0 +1,12 @@
+{
+ "missionId": "1005",
+ "missionName": "Schaatser uitgegleden",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "146958608516820896471377816456506072611",
+ "credits": "100"
+}

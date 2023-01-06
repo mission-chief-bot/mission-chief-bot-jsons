@@ -1,0 +1,12 @@
+{
+ "missionId": "1006",
+ "missionName": "Sneeuwbalgevecht aan de gang",
+ "requirements": [
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "1"
+  }
+ ],
+ "version": "72601854951742928839404469154522546400",
+ "credits": "500"
+}
