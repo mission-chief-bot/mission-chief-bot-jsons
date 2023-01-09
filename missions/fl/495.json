@@ -1,0 +1,32 @@
+{
+ "missionId": "495",
+ "missionName": "601 Tuhopolttoyritys",
+ "requirements": [
+  {
+   "requirement": "rikostutkintayksiköt",
+   "qty": "1"
+  },
+  {
+   "requirement": "paloautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "säiliöautot",
+   "qty": "1"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "3"
+  },
+  {
+   "requirement": "tutkintayksiköt",
+   "qty": "1"
+  }
+ ],
+ "version": "233399134621489355910984797329198564430",
+ "credits": "1250"
+}
