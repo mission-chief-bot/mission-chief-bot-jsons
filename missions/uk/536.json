@@ -1,0 +1,12 @@
+{
+ "missionId": "536",
+ "missionName": "Suspect observations",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "1"
+  }
+ ],
+ "version": "235463900288694751036918239498067154369",
+ "credits": "4000"
+}
