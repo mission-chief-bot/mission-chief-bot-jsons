@@ -1,0 +1,24 @@
+{
+ "missionId": "616",
+ "missionName": "Próba podpalenia",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "1"
+  },
+  {
+   "requirement": "cysterny z wodą",
+   "qty": "1"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "3"
+  }
+ ],
+ "version": "312360264637378864365886472220440306421",
+ "credits": "1250"
+}

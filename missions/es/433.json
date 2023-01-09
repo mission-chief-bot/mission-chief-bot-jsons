@@ -1,0 +1,28 @@
+{
+ "missionId": "433",
+ "missionName": "Intento de incendio",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "2"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "1"
+  },
+  {
+   "requirement": "camiones cisterna",
+   "qty": "1"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "3"
+  },
+  {
+   "requirement": "n.º máximo de presos",
+   "qty": "2"
+  }
+ ],
+ "version": "70177762922909441999757372291479597037",
+ "credits": "1250"
+}

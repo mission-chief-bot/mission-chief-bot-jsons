@@ -1,0 +1,24 @@
+{
+ "missionId": "462",
+ "missionName": "Brannstiftelsesforsøk",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "3"
+  }
+ ],
+ "version": "131520477539447239840470462121990532509",
+ "credits": "1250"
+}

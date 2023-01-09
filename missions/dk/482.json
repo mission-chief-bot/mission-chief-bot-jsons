@@ -1,0 +1,24 @@
+{
+ "missionId": "482",
+ "missionName": "Forsøg på brandstiftelse",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede vandtankvogne",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "3"
+  }
+ ],
+ "version": "107242897864632507667254551427996185502",
+ "credits": "1250"
+}
