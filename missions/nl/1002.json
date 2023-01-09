@@ -1,0 +1,52 @@
+{
+ "missionId": "1002",
+ "missionName": "Blokkade door boze menigte",
+ "requirements": [
+  {
+   "requirement": "bereden brigade (paarden)",
+   "qty": "3"
+  },
+  {
+   "requirement": "hondenbrigade uitbreidingen",
+   "qty": "1"
+  },
+  {
+   "requirement": "noodhulpeenheden",
+   "qty": "20"
+  },
+  {
+   "requirement": "hondengeleider",
+   "qty": "4"
+  },
+  {
+   "requirement": "bereden brigade (paarden)",
+   "qty": "10"
+  },
+  {
+   "requirement": "db-av",
+   "qty": "2"
+  },
+  {
+   "requirement": "me flexbussen",
+   "qty": "6"
+  },
+  {
+   "requirement": "me commandovoertuigen",
+   "qty": "1"
+  },
+  {
+   "requirement": "aanhoudingseenheden",
+   "qty": "1"
+  },
+  {
+   "requirement": "officiers van dienst politie",
+   "qty": "1"
+  },
+  {
+   "requirement": "politie helikopters",
+   "qty": "1"
+  }
+ ],
+ "version": "71554363452196235186937038446879934562",
+ "credits": "14530"
+}
