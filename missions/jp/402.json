@@ -1,0 +1,20 @@
+{
+ "missionId": "402",
+ "missionName": "放火未遂",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "2"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "1"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "3"
+  }
+ ],
+ "version": "181592261016630786288160752269963182734",
+ "credits": "1250"
+}
