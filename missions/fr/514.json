@@ -1,0 +1,68 @@
+{
+ "missionId": "514",
+ "missionName": "Incendie dans centrale nucléaire",
+ "requirements": [
+  {
+   "requirement": "extensions de soutien à incendie s",
+   "qty": "3"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "10"
+  },
+  {
+   "requirement": "moyen elévateur aérien",
+   "qty": "4"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "8"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "2"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "8"
+  },
+  {
+   "requirement": "véhicules risques technologiques",
+   "qty": "4"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "2"
+  },
+  {
+   "requirement": "assistance respiratoire e",
+   "qty": "2"
+  },
+  {
+   "requirement": "soutien aérien fag",
+   "qty": "1"
+  },
+  {
+   "requirement": "directeur des secours médicaux",
+   "qty": "1"
+  },
+  {
+   "requirement": "fmogp s",
+   "qty": "2"
+  },
+  {
+   "requirement": "camions dévidoirs s",
+   "qty": "2"
+  },
+  {
+   "requirement": "motopompes s",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "12"
+  }
+ ],
+ "version": "1568494913180989334064918903532916644",
+ "credits": "35000"
+}

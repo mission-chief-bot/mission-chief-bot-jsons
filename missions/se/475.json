@@ -1,0 +1,24 @@
+{
+ "missionId": "475",
+ "missionName": "Försök till mordbrand",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "2"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
+  },
+  {
+   "requirement": "tankbilar",
+   "qty": "1"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "3"
+  }
+ ],
+ "version": "279032169992096960574543378121430866089",
+ "credits": "1250"
+}

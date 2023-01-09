@@ -1,0 +1,28 @@
+{
+ "missionId": "489",
+ "missionName": "Požár stodoly",
+ "requirements": [
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "8"
+  },
+  {
+   "requirement": "automobilové žebříky",
+   "qty": "1"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "1"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "da",
+   "qty": "2"
+  }
+ ],
+ "version": "340204626267682429129513058997252629072",
+ "credits": "6500"
+}
