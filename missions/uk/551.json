@@ -1,0 +1,16 @@
+{
+ "missionId": "551",
+ "missionName": "Medical Evacuation from Moored Vessel",
+ "requirements": [
+  {
+   "requirement": "crvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "203093227206588099556093367412107501832",
+ "credits": "3000"
+}

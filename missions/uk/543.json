@@ -1,0 +1,16 @@
+{
+ "missionId": "543",
+ "missionName": "Investigate Flare",
+ "requirements": [
+  {
+   "requirement": "ilbs",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "version": "244202109944115581673334868134192562359",
+ "credits": "3500"
+}

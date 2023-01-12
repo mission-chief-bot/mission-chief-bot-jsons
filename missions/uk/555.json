@@ -1,0 +1,16 @@
+{
+ "missionId": "555",
+ "missionName": "Persons Cut off by Tide",
+ "requirements": [
+  {
+   "requirement": "crvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "version": "214698987078464131595044643588912159927",
+ "credits": "4000"
+}

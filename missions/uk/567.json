@@ -1,0 +1,52 @@
+{
+ "missionId": "567",
+ "missionName": "Mud Rescue MAJOR",
+ "requirements": [
+  {
+   "requirement": "mud decontamination extensions",
+   "qty": "4"
+  },
+  {
+   "requirement": "hovercraft extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "60x Mud Rescue Operator"
+  },
+  {
+   "requirement": "mud decontamination units",
+   "qty": "4"
+  },
+  {
+   "requirement": "coastguard mud rescue units",
+   "qty": "2"
+  },
+  {
+   "requirement": "hovercrafts (trailer)",
+   "qty": "1"
+  },
+  {
+   "requirement": "support units",
+   "qty": "1"
+  },
+  {
+   "requirement": "coastguard commanders",
+   "qty": "1"
+  },
+  {
+   "requirement": "inland rescue boat (trailer)",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "30x Mud Rescue Operator"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "30"
+  }
+ ],
+ "version": "125000031552516363760185672025785056634",
+ "credits": "18000"
+}

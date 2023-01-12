@@ -1,0 +1,36 @@
+{
+ "missionId": "564/a",
+ "missionName": "Vehicle trapped in flood water",
+ "requirements": [
+  {
+   "requirement": "technical rescue extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "flood rescue extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "fire engines",
+   "qty": "2"
+  },
+  {
+   "requirement": "fire officers",
+   "qty": "1"
+  },
+  {
+   "requirement": "inland rescue boat (trailer)",
+   "qty": "1"
+  },
+  {
+   "requirement": "flood rescue units",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "4"
+  }
+ ],
+ "version": "196324353190063333372867623061071643403",
+ "credits": "3500"
+}

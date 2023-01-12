@@ -1,0 +1,12 @@
+{
+ "missionId": "557",
+ "missionName": "Public Engagement",
+ "requirements": [
+  {
+   "requirement": "crvs",
+   "qty": "1"
+  }
+ ],
+ "version": "52241106994442910660510221950406546303",
+ "credits": "6000"
+}

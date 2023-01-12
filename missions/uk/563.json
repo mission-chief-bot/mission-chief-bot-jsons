@@ -1,0 +1,20 @@
+{
+ "missionId": "563",
+ "missionName": "Medical Emergency on beach",
+ "requirements": [
+  {
+   "requirement": "4x4 vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "crvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "93417902975030316839340798845543989917",
+ "credits": "2500"
+}

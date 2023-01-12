@@ -1,0 +1,20 @@
+{
+ "missionId": "562",
+ "missionName": "Swimmer in distress",
+ "requirements": [
+  {
+   "requirement": "4x4 vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "crvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "329367848980436229553922995851409748978",
+ "credits": "1500"
+}

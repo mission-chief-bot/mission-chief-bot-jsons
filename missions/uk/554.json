@@ -1,0 +1,16 @@
+{
+ "missionId": "554",
+ "missionName": "Investigate Washed Up Boat",
+ "requirements": [
+  {
+   "requirement": "crvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "version": "233622646247515877312199305078049076756",
+ "credits": "2000"
+}

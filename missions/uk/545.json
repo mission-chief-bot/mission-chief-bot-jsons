@@ -1,0 +1,32 @@
+{
+ "missionId": "545",
+ "missionName": "Mud Rescue",
+ "requirements": [
+  {
+   "requirement": "mud decontamination extensions",
+   "qty": "2"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "30x Mud Rescue Operator"
+  },
+  {
+   "requirement": "coastguard mud rescue units",
+   "qty": "2"
+  },
+  {
+   "requirement": "mud decontamination units",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "15x Mud Rescue Operator"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "version": "95841872457583483497669165673312998150",
+ "credits": "6000"
+}

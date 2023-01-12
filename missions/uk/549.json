@@ -1,0 +1,32 @@
+{
+ "missionId": "549",
+ "missionName": "Fallen From Cliff, Winch Required",
+ "requirements": [
+  {
+   "requirement": "helicopter hangars",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "20x Rope Rescue Operator"
+  },
+  {
+   "requirement": "coastguard rope rescue units",
+   "qty": "2"
+  },
+  {
+   "requirement": "coastguard rescue helicopters",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "10x Rope Rescue Operator"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "265288155926461063696719295154797418140",
+ "credits": "8000"
+}

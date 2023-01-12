@@ -1,0 +1,36 @@
+{
+ "missionId": "566",
+ "missionName": "Rescue Boat Assist Coastguard Mud Rescue",
+ "requirements": [
+  {
+   "requirement": "mud decontamination extensions",
+   "qty": "2"
+  },
+  {
+   "requirement": "personnel available",
+   "qty": "30x Mud Rescue Operator"
+  },
+  {
+   "requirement": "mud decontamination units",
+   "qty": "2"
+  },
+  {
+   "requirement": "coastguard mud rescue units",
+   "qty": "1"
+  },
+  {
+   "requirement": "inland rescue boat (trailer)",
+   "qty": "1"
+  },
+  {
+   "requirement": "personnel",
+   "qty": "15x Mud Rescue Operator"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "3"
+  }
+ ],
+ "version": "287666595938263705021974068655219526998",
+ "credits": "8000"
+}

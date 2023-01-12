@@ -1,0 +1,16 @@
+{
+ "missionId": "559",
+ "missionName": "Man Remote Radio Site - Prolonged Outage",
+ "requirements": [
+  {
+   "requirement": "crvs",
+   "qty": "1"
+  },
+  {
+   "requirement": "support units",
+   "qty": "1"
+  }
+ ],
+ "version": "274802970108680971606084880066778480516",
+ "credits": "40000"
+}
