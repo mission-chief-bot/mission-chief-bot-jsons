@@ -1,0 +1,12 @@
+{
+ "missionId": "541",
+ "missionName": "Moderate House Flooding",
+ "requirements": [
+  {
+   "requirement": "ses storm trailer",
+   "qty": "1"
+  }
+ ],
+ "version": "214997600872459184414686630773330437150",
+ "credits": "1600"
+}
