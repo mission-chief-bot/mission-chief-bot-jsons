@@ -1,0 +1,16 @@
+{
+ "missionId": "487",
+ "missionName": "Smuggling via båt",
+ "requirements": [
+  {
+   "requirement": "nødvendigt personale til rådighed",
+   "qty": "6x Maritim Politi"
+  },
+  {
+   "requirement": "nødvendigt personale",
+   "qty": "2x Maritim Politi"
+  }
+ ],
+ "version": "224634938646974753480244182301237559812",
+ "credits": "1200"
+}
