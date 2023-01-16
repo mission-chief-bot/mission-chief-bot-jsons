@@ -1,0 +1,12 @@
+{
+ "missionId": "438",
+ "missionName": "Incendio en una fábrica de papel",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "4"
+  }
+ ],
+ "version": "177069184012803652537403748971238921544",
+ "credits": "780"
+}

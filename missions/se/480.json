@@ -1,0 +1,12 @@
+{
+ "missionId": "480",
+ "missionName": "Smuggling via båt",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "331382221318601310122726456223969125032",
+ "credits": "1200"
+}

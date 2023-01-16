@@ -1,0 +1,12 @@
+{
+ "missionId": "577",
+ "missionName": "Contrabbando via mare",
+ "requirements": [
+  {
+   "requirement": "ambulance",
+   "qty": 1
+  }
+ ],
+ "version": "66523876693377312865238221641499792697",
+ "credits": "1200"
+}
