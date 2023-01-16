@@ -1,0 +1,12 @@
+{
+ "missionId": "398",
+ "missionName": "제지 공장에서 화재",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "4"
+  }
+ ],
+ "version": "38370662004779180320198362525558609927",
+ "credits": "780"
+}
