@@ -1,0 +1,12 @@
+{
+ "missionId": "500",
+ "missionName": "551 Kiireellinen ovenavaus",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "1"
+  }
+ ],
+ "version": "303853238864982344110792269776368760873",
+ "credits": "500"
+}
