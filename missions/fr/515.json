@@ -1,0 +1,64 @@
+{
+ "missionId": "515",
+ "missionName": "Émeute après l'arrestation d'un individu",
+ "requirements": [
+  {
+   "requirement": "compagnies de crs s",
+   "qty": "5"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "3"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "3"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "15"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "soutien aérien fag",
+   "qty": "1"
+  },
+  {
+   "requirement": "vr",
+   "qty": "28"
+  },
+  {
+   "requirement": "vct",
+   "qty": "1"
+  },
+  {
+   "requirement": "ram",
+   "qty": "1"
+  },
+  {
+   "requirement": "vat",
+   "qty": "1"
+  },
+  {
+   "requirement": "vtp",
+   "qty": "1"
+  },
+  {
+   "requirement": "barre-pont",
+   "qty": "1"
+  },
+  {
+   "requirement": "ele",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "10"
+  }
+ ],
+ "version": "309801546004854974692969610062678723107",
+ "credits": "18000"
+}
