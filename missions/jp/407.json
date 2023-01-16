@@ -1,0 +1,12 @@
+{
+ "missionId": "407",
+ "missionName": "製紙工場の火災",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "4"
+  }
+ ],
+ "version": "30620958507994873369793114039281848972",
+ "credits": "780"
+}
