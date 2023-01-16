@@ -1,0 +1,28 @@
+{
+ "missionId": "563/a",
+ "missionName": "Swimmer in distress",
+ "requirements": [
+  {
+   "requirement": "beach lifeguard extensions",
+   "qty": "1"
+  },
+  {
+   "requirement": "4x4 vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "crvs",
+   "qty": "2"
+  },
+  {
+   "requirement": "rescue watercraft (trailers)",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "209703906348354323111441133276551545317",
+ "credits": "2000"
+}
