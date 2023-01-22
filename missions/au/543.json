@@ -1,0 +1,16 @@
+{
+ "missionId": "543",
+ "missionName": "Drunk Patron",
+ "requirements": [
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "1"
+  }
+ ],
+ "version": "283019188284642599981644871458244075354",
+ "credits": "300"
+}
