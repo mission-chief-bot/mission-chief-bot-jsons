@@ -1,0 +1,24 @@
+{
+ "missionId": "501",
+ "missionName": "402 Tulipalo grillikatoksessa",
+ "requirements": [
+  {
+   "requirement": "paloautot",
+   "qty": "6"
+  },
+  {
+   "requirement": "johtoautot",
+   "qty": "2"
+  },
+  {
+   "requirement": "poliisiautot",
+   "qty": "4"
+  },
+  {
+   "requirement": "potilaita enint.",
+   "qty": "6"
+  }
+ ],
+ "version": "177114838506587277673577001927781042747",
+ "credits": "6250"
+}
