@@ -1,0 +1,28 @@
+{
+ "missionId": "495",
+ "missionName": "Oheň v grilovací jámě",
+ "requirements": [
+  {
+   "requirement": "výjezdové stanoviště zzs",
+   "qty": "5"
+  },
+  {
+   "requirement": "cisternové automobilové stříkačky",
+   "qty": "6"
+  },
+  {
+   "requirement": "velitelské automobily",
+   "qty": "2"
+  },
+  {
+   "requirement": "policejní automobily",
+   "qty": "4"
+  },
+  {
+   "requirement": "maximum pacientů",
+   "qty": "6"
+  }
+ ],
+ "version": "86835493882254323982174212467342803412",
+ "credits": "6250"
+}

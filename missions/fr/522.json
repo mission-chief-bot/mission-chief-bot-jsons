@@ -1,0 +1,48 @@
+{
+ "missionId": "522",
+ "missionName": "Incendie de casse automobile",
+ "requirements": [
+  {
+   "requirement": "extensions de soutien à incendie s",
+   "qty": "2"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "5"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "5"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "2"
+  },
+  {
+   "requirement": "ccf",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "6"
+  },
+  {
+   "requirement": "véhicules risques technologiques",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "fmogp s",
+   "qty": "2"
+  },
+  {
+   "requirement": "camions dévidoirs s",
+   "qty": "2"
+  }
+ ],
+ "version": "312923552142441175927398714034455025933",
+ "credits": "10000"
+}

@@ -1,0 +1,24 @@
+{
+ "missionId": "488",
+ "missionName": "Ild i en grillplads",
+ "requirements": [
+  {
+   "requirement": "påkrævede brandbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede indsatsleder brand-køretøj",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "4"
+  }
+ ],
+ "version": "31613679559108994691899017356184587538",
+ "credits": "6250"
+}

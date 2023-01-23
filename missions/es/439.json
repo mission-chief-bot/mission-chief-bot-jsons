@@ -1,0 +1,20 @@
+{
+ "missionId": "439",
+ "missionName": "Fuego en un asador",
+ "requirements": [
+  {
+   "requirement": "camiones de bomberos",
+   "qty": "6"
+  },
+  {
+   "requirement": "unidades de mando y comunicaciones",
+   "qty": "2"
+  },
+  {
+   "requirement": "coches patrulla",
+   "qty": "4"
+  }
+ ],
+ "version": "237817708137702761423694761594152841300",
+ "credits": "6250"
+}

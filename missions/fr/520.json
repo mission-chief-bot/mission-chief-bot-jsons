@@ -1,0 +1,52 @@
+{
+ "missionId": "520",
+ "missionName": "Accident de train TMD",
+ "requirements": [
+  {
+   "requirement": "extensions de soutien à incendie s",
+   "qty": "1"
+  },
+  {
+   "requirement": "fourgons d’incendie",
+   "qty": "3"
+  },
+  {
+   "requirement": "chefs de groupe ou vlhr",
+   "qty": "3"
+  },
+  {
+   "requirement": "camions-citernes",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicule de secours routier",
+   "qty": "1"
+  },
+  {
+   "requirement": "voitures de police es",
+   "qty": "3"
+  },
+  {
+   "requirement": "véhicules risques technologiques",
+   "qty": "1"
+  },
+  {
+   "requirement": "véhicules poste de commandement",
+   "qty": "1"
+  },
+  {
+   "requirement": "fmogp s",
+   "qty": "1"
+  },
+  {
+   "requirement": "camions dévidoirs s",
+   "qty": "1"
+  },
+  {
+   "requirement": "max. patients",
+   "qty": "2"
+  }
+ ],
+ "version": "303519236150859742986433870337698892145",
+ "credits": "7500"
+}

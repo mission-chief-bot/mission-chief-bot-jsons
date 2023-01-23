@@ -1,0 +1,24 @@
+{
+ "missionId": "481",
+ "missionName": "Eld i en grillgrop",
+ "requirements": [
+  {
+   "requirement": "släckbilar",
+   "qty": "6"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "2"
+  },
+  {
+   "requirement": "polisbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "mest patienter",
+   "qty": "6"
+  }
+ ],
+ "version": "214265860043373005593404139089507324203",
+ "credits": "6250"
+}

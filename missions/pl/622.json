@@ -1,0 +1,24 @@
+{
+ "missionId": "622",
+ "missionName": "Ogień w grillu",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "6"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "2"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "4"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "6"
+  }
+ ],
+ "version": "26272460736064066550847785612558920536",
+ "credits": "6250"
+}

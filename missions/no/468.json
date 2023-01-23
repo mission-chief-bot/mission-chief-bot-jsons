@@ -1,0 +1,24 @@
+{
+ "missionId": "468",
+ "missionName": "Fyr i en grillgrop",
+ "requirements": [
+  {
+   "requirement": "brannbiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "innsatsledere fra brann",
+   "qty": "1"
+  },
+  {
+   "requirement": "politibiler",
+   "qty": "1"
+  },
+  {
+   "requirement": "maks pasienter",
+   "qty": "4"
+  }
+ ],
+ "version": "116681561450998691697282392527504893497",
+ "credits": "6250"
+}

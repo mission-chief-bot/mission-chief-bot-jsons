@@ -1,0 +1,12 @@
+{
+ "missionId": "578",
+ "missionName": "Bagnante Colpito da Imbarcazione",
+ "requirements": [
+  {
+   "requirement": "max pazienti",
+   "qty": "1"
+  }
+ ],
+ "version": "46635693900638520933700597238761482902",
+ "credits": "1200"
+}
