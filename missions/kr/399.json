@@ -1,0 +1,24 @@
+{
+ "missionId": "399",
+ "missionName": "바베큐 구덩이에서 불",
+ "requirements": [
+  {
+   "requirement": "소방차",
+   "qty": "6"
+  },
+  {
+   "requirement": "소방대장 차량",
+   "qty": "2"
+  },
+  {
+   "requirement": "경찰차",
+   "qty": "4"
+  },
+  {
+   "requirement": "최대 환자",
+   "qty": "6"
+  }
+ ],
+ "version": "228435990302599730073957274642339910319",
+ "credits": "6250"
+}
