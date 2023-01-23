@@ -1,0 +1,24 @@
+{
+ "missionId": "408",
+ "missionName": "バーベキューピットの火",
+ "requirements": [
+  {
+   "requirement": "消防車",
+   "qty": "6"
+  },
+  {
+   "requirement": "消防隊長車両",
+   "qty": "2"
+  },
+  {
+   "requirement": "警察車両",
+   "qty": "4"
+  },
+  {
+   "requirement": "最大患者",
+   "qty": "6"
+  }
+ ],
+ "version": "2209793293824922490479682857622940840",
+ "credits": "6250"
+}
