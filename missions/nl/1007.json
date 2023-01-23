@@ -1,0 +1,12 @@
+{
+ "missionId": "1007",
+ "missionName": "Persoon bekneld tussen fietsspaken",
+ "requirements": [
+  {
+   "requirement": "hulpverleningsvoertuigen",
+   "qty": "1"
+  }
+ ],
+ "version": "27759266062539524556972012505573328667",
+ "credits": "740"
+}
